@@ -1,0 +1,17 @@
+**/__pycache__
+.idea
+.ipynb_checkpoints
+unzipped
+unzipped/*
+output_old
+output_old/*
+data_split/language_vs_datasize.txt
+data_split/language_vs_featsamples.txt
+data_split/language_vs_labelsize.txt
+data_split/preprocess.py
+*.pyc
+embeddings
+embeddings/*
+saved_embeddings
+saved_embeddings/*
+

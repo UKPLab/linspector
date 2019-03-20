@@ -1,0 +1,107 @@
+ady	Adyghe
+sqi	Albanian
+ara	Arabic
+hye	Armenian
+ast	Asturian
+aze	Azerbaijani
+bak	Bashkir
+eus	Basque
+bel	Belarusian
+ben	Bengali
+bre	Breton
+bul	Bulgarian
+cat	Catalan
+ckb	Central Kurdish
+xcl	Classical Armenian
+syc	Classical Syriac
+cor	Cornish
+crh	Crimean Tatar
+ces	Czech
+dan	Danish
+nld	Dutch
+eng	English
+est	Estonian
+fao	Faroese
+fin	Finnish
+fra	French
+fur	Friulian
+gal	Galician
+kat	Georgian
+deu	German
+got	Gothic
+kal	Greenlandic
+hai	Haida
+heb	Hebrew
+hin	Hindi
+hun	Hungarian
+isl	Icelandic
+izh	Ingrian
+gle	Irish
+ita	Italian
+kbd	Kabardian
+kan	Kannada
+krl	Karelian
+csb	Kashubian
+kaz	Kazakh
+kjh	Khakas
+klr	Khaling
+lld	Ladin
+lat	Latin
+lav	Latvian
+lit	Lithuanian
+liv	Livonian
+nds	Low German
+dsb	Lower Sorbian
+mkd	Macedonian
+mlt	Maltese
+glv	Manx
+arn	Mapudungun
+frm	Middle French
+gmh	Middle High German
+gml	Middle Low German
+ell	Modern Greek
+mwf	Murrinhpatha
+nav	Navajo
+nap	Neapolitan
+xno	Norman
+frr	North Frisian
+kmr	Northern Kurdish
+sme	Northern Sami
+nob	Norwegian Bokmål
+nno	Norwegian Nynorsk
+oci	Occitan
+chu	Old Church Slavonic
+ang	Old English
+fro	Old French
+sga	Old Irish
+osx	Old Saxon
+pus	Pashto
+fas	Persian
+pol	Polish
+por	Portuguese
+que	Quechua
+ron	Romanian
+rus	Russian
+san	Sanskrit
+gla	Scottish Gaelic
+hbs	Serbo Croatian
+slk	Slovak
+slv	Slovenian
+spa	Spanish
+swc	Swahili
+swe	Swedish
+tgk	Tajik
+tat	Tatar
+tel	Telugu
+bod	Tibetan
+tur	Turkish
+tuk	Turkmen
+ukr	Ukrainian
+urd	Urdu
+uzb	Uzbek
+vec	Venetian
+vot	Votic
+cym	Welsh
+fry	West Frisian
+yid	Yiddish
+zul	Zulu

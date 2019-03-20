@@ -1,0 +1,248 @@
+Aktionsart	Accomplishment	accmp
+Aktionsart	Achievement	ach
+Aktionsart	Activity	acty
+Aktionsart	Atelic	atel
+Aktionsart	Durative	dur
+Aktionsart	Dynamic	dyn
+Aktionsart	Punctual	pct
+Aktionsart	Semelfactive	semel
+Aktionsart	Stative	stat
+Aktionsart	Telic	tel
+Animacy	Animate	anim
+Animacy	Human	hum
+Animacy	Inanimate	inan
+Animacy	Non-human	nhum
+Argument Marking	3.sg Object (from feature template)	argac3s
+Aspect	Habitual	hab
+Aspect	Imperfective	ipfv
+Aspect	Iterative	iter
+Aspect	Perfective	pfv
+Aspect	Perfect	prf
+Aspect	Progressive	prog
+Aspect	Prospective	prosp
+Case	Ablative	abl
+Case	Absolutive	abs
+Case	Accusative	acc
+Case	Allative	all
+Case	Near, in front of	ante
+Case	Approximative	apprx
+Case	Next to	apud
+Case	At	at
+Case	Aversive	avr
+Case	Benefactive	ben
+Case	Essive-modal	byway
+Case	Near	circ
+Case	Comitative	com
+Case	Comparative	compv
+Case	Dative	dat
+Case	Equative	eqtv
+Case	Ergative	erg
+Case	Essive	ess
+Case	Formal	frml
+Case	Genitive	gen
+Case	In	in
+Case	Instrumental	ins
+Case	Locative	loc
+Case	Among	inter
+Case	Nominative	nom
+Case	Nominative, S-only	noms
+Case	On	on
+Case	On (horizontal)	onhr
+Case	On (vertical)	onvr
+Case	Behind	post
+Case	Privative	priv
+Case	Prolative/translative	prol
+Case	Proprietive	propr
+Case	Proximate	prox
+Case	Purposive	prp
+Case	Partitive	prt
+Case	Relative	rel
+Case	Distal	rem
+Case	Under	sub
+Case	Terminative	term
+Case	Translative	trans
+Case	Versative	vers
+Case	Vocative	voc
+Comparison	Absolute	ab
+Comparison	Comparative	cmpr
+Comparison	Equative	eqt
+Comparison	Relative	rl
+Comparison	Superlative	sprl
+Definiteness	Definite	def
+Definiteness	Indefinite	indf
+Definiteness	Non-Specific	nspec
+Definiteness	Specific	spec
+Deixis	Above	abv
+Deixis	Below	bel
+Deixis	Even	even
+Deixis	Medial	med
+Deixis	No Reference Point, Distal	noref
+Deixis	Invisible	nvis
+Deixis	Phoric, situated in discourse	phor
+Deixis	Proximate	prox
+Deixis	First Person Reference Point	ref1
+Deixis	Second Person Reference Point	ref2
+Deixis	Remote	remt
+Deixis	Visible	vis
+Evidentiality	Assumed	assum
+Evidentiality	Auditory	aud
+Evidentiality	Direct	drct
+Evidentiality	Firsthand	fh
+Evidentiality	Hearsay	hrsy
+Evidentiality	Inferred	infer
+Evidentiality	Non-firsthand	nfh
+Evidentiality	Non-visual sensory	nvsen
+Evidentiality	Quotative	quot
+Evidentiality	Reported	rprt
+Evidentiality	Sensory	sen
+Finiteness	Finite	fin
+Finiteness	Nonfinite	nfin
+Gender	Bantu Noun Classes	bantu1-23
+Gender	Feminine	fem
+Gender	Masculine	masc
+Gender	Nakh-Daghestanian Noun Classes	nakh1-8
+Gender	Neuter	neut
+Information Structure	Focus	foc
+Information Structure	Topic	top
+Interrogativity	Declarative	decl
+Interrogativity	Interrogative	int
+Language-Specific Features	varies by language	lgspec1
+Language-Specific Features	varies by language	lgspec2
+Mood	Admirative	adm
+Mood	Australian Non-Purposive	aunprp
+Mood	Australian Purposive	auprp
+Mood	Conditional	cond
+Mood	Debitive	deb
+Mood	Deductive	ded
+Mood	Imperative-Jussive	imp
+Mood	Indicative	ind
+Mood	Intentive	inten
+Mood	Irrealis	irr
+Mood	Likely	lkly
+Mood	Obligative	oblig
+Mood	Optative-Desiderative	opt
+Mood	Permissive	perm
+Mood	Potential	pot
+Mood	General Purposive	purp
+Mood	Realis	real
+Mood	Subjunctive	sbjv
+Mood	Simulative	sim
+Number	Dual	du
+Number	Greater paucal	gpauc
+Number	Greater plural	grpl
+Number	Inverse	invn
+Number	Paucal	pauc
+Number	Plural	pl
+Number	Singular	sg
+Number	Trial	tri
+Part of Speech	Adjective	adj
+Part of Speech	Adposition	adp
+Part of Speech	Adverb	adv
+Part of Speech	Article	art
+Part of Speech	Auxiliary	aux
+Part of Speech	Classifier	clf
+Part of Speech	Complementizer	comp
+Part of Speech	Conjunction	conj
+Part of Speech	Determiner	det
+Part of Speech	Interjection	intj
+Part of Speech	Noun	n
+Part of Speech	Numeral	num
+Part of Speech	Particle	part
+Part of Speech	Pronoun	pro
+Part of Speech	Proper Name	propn
+Part of Speech	Verb	v
+Part of Speech	Converb	v.cvb
+Part of Speech	Masdar	v.msdr
+Part of Speech	Participle	v.ptcp
+Person	Zero person	0
+Person	First person	1
+Person	Second person	2
+Person	Third person	3
+Person	Fourth person	4
+Person	Exclusive	excl
+Person	Inclusive	incl
+Person	Obviative	obv
+Person	Proximate	prx
+Polarity	Positive	pos
+Polarity	Negative	neg
+Politeness	Avoidance style	avoid
+Politeness	Colloquial	col
+Politeness	Formal, Referent Elevating	elev
+Politeness	Formal register	foreg
+Politeness	Formal	form
+Politeness	High status	high
+Politeness	Formal, Speaker Humbling	humb
+Politeness	Informal	infm
+Politeness	Literary	lit
+Politeness	Low status	low
+Politeness	Polite	pol
+Politeness	High status, elevated	stelev
+Politeness	High status, supreme	stsupr
+Possession	Alienable possession	aln
+Possession	Inalienable possession	naln
+Possession	Possession by 1.du	pss1d
+Possession	Possession by 1.du.excl	pss1de
+Possession	Possession by 1.du.incl	pss1di
+Possession	Possession by 1.pl	pss1p
+Possession	Possession by 1.pl.excl	pss1pe
+Possession	Possession by 1.pl.incl	pss1pi
+Possession	Possession by 1.sg	pss1s
+Possession	Possession by 2.du	pss2d
+Possession	Possession by 2.du.fem	pss2df
+Possession	Possession by 2.du.masc	pss2dm
+Possession	Possession by 2.pl	pss2p
+Possession	Possession by 2.pl.fem	pss2pf
+Possession	Possession by 2.pl.masc	pss2pm
+Possession	Possession by 2.sg	pss2s
+Possession	Possession by 2.sg.fem	pss2sf
+Possession	Possession by 2.sg.form	pss2sform
+Possession	Possession by 2.sg.infm	pss2sinfm
+Possession	Possession by 2.sg.masc	pss2sm
+Possession	Possession by 3.du	pss3d
+Possession	Possession by 3.du.fem	pss3df
+Possession	Possession by 3.du.masc	pss3dm
+Possession	Possession by 3.pl	pss3p
+Possession	Possession by 3.pl.fem	pss3pf
+Possession	Possession by 3.pl.masc	pss3pm
+Possession	Possession by 3.sg	pss3s
+Possession	Possession by 3.sg.fem	pss3sf
+Possession	Possession by 3.sg.masc	pss3sm
+Possession	Possessed	pssd
+Switch-Reference	SR among NPs in any argument position	cn_r_mn
+Switch-Reference	DS	ds
+Switch-Reference	DS Adverbial	dsadv
+Switch-Reference	Logophoric	log
+Switch-Reference	Open Reference	or
+Switch-Reference	Sequential Multiclausal Aspect	seqma
+Switch-Reference	Simultaneous Multiclausal Aspect	simma
+Switch-Reference	SS	ss
+Switch-Reference	SS Adverbial	ssadv
+Tense	Within 1 day	1day
+Tense	Future	fut
+Tense	Hodiernal	hod
+Tense	Immediate	immed
+Tense	Present	prs
+Tense	Past	pst
+Tense	Recent	rct
+Tense	Remote	rmt
+Valency	Applicative	appl
+Valency	Causative	caus
+Valency	Ditransitive	ditr
+Valency	Impersonal	imprs
+Valency	Intransitive	intr
+Valency	Reciprocal	recp
+Valency	Reflexive	refl
+Valency	Transitive	tr
+Voice	Accompanier Focus	acfoc
+Voice	Active	act
+Voice	Agent Focus	agfoc
+Voice	Antipassive	antip
+Voice	Beneficiary Focus	bfoc
+Voice	Conveyed Focus	cfoc
+Voice	Direct	dir
+Voice	Instrument Focus	ifoc
+Voice	Inverse	inv
+Voice	Location Focus	lfoc
+Voice	Middle	mid
+Voice	Passive	pass
+Voice	Patient Focus	pfoc
