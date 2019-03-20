@@ -1,16 +1,16 @@
 data_util:
-----------
+=========
 This package contains readers/writers and preprocessors for the data used in our extrinsic and intrinsic experiments.
 
 Unimorph and Sigmorphon utility: 
-===============================
+-------------------------------
 * `reader.load_ds(ds)` - loads **dataset** _ds_. See dataset names in _global_var.py_
     * A **dataset** is a collection of dictionaries {"form":..., "lemma":..., "msd":...} grouped by language
     * MSD is the Unimorph morphological code. It can be converted to feature-value representation by calling `schema.UnimorphSchema.decode_msd(msd)`
 
 
 Word embedding utility:
-=======================
+----------------------
 **Requirements:**
 * fastText - to install, follow the instructions for 'Building fastText for Python' from https://github.com/facebookresearch/fastText
 * Gensim - version 3.7 or later
