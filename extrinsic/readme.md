@@ -17,5 +17,5 @@ For SRL, clone [this repo](https://github.com/gozdesahin/Subword_Semantic_Role_L
 
 
 * All json configuration files are provided under the `config/%TASKNAME` except from SRL.
-* To train and evaluate the models with AllenNLP, simply change the file paths in `run_%TASKNAME.py` file, then train with: `allennlp train config/%TASKNAME.jsonnet -s out -f`
+* To train and evaluate the models with AllenNLP, simply change the file paths in `run_%TASKNAME.py` file, then run the file
  
