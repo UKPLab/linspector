@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import pickle
 from data_util.schema import *
 from data_util.reader import *
@@ -6,7 +7,7 @@ import random
 import argparse
 import numpy
 
-from data_split.prewordvectors import *
+from data_split.util import *
 missing_feats = ['Possession']
 
 ######################
@@ -152,7 +153,7 @@ def check_vals_except(i_feats, j_feats, exc_feat):
 def check_vals_incl(i_feats, j_feats, inc_feat):
     for feat in i_feats:
         # for Turkish
-        #if feat in [inc_feat, 'Part of Speech', 'Mood', 'Interrogativity']:
+        # if feat in [inc_feat, 'Part of Speech', 'Mood', 'Interrogativity']:
         # for Finnish (Person fails)
         # if feat in [inc_feat, 'Part of Speech', 'Mood']:
         # for Spanish (Gender, Polarity fails), spanish gender is always fem,pst etc...
@@ -555,10 +556,7 @@ def split_for_same_feature(lang, test_lst, savedir, vocab, threshold=10000):
 
 def main(args):
 
-    # All languages that we will generate test for
-    # codes are from fasttext pretrained embedding website
-
-    other_langs = {'portuguese': 'pt',
+    langs = {'portuguese': 'pt',
                     'french': 'fr',
                     'serbo-croatian': 'sh',
                     'polish': 'pl',
@@ -577,10 +575,8 @@ def main(args):
                     'hungarian': 'hu',
                     'italian': 'it',
                     'romanian':'ro',
-                    'ukranian': 'uk'
-                   }
-
-    focus_langs = {'german': 'de',
+                    'ukranian': 'uk',
+                    'german': 'de',
                     'finnish': 'fi',
                     'russian': 'ru',
                     'turkish': 'tr',
@@ -589,7 +585,6 @@ def main(args):
 
     # Language specific vocabulary sizes
     # wiki vocabulary sizes: de: 2275234, es: 985668, fi: 730484, tr: 416052, ru: 1888424
-    focus_langs_vocab = {'german': 750000, 'finnish':500000, 'russian': 750000, 'turkish':500000, 'spanish': 500000}
 
     langs_vocab = {'german': 750000, 'finnish':500000, 'russian': 750000, 'turkish':500000, 'spanish': 500000,
                          'portuguese':500000, 'french':750000, 'serbo-croatian':500000, 'polish':750000, 'czech':500000,
@@ -603,8 +598,8 @@ def main(args):
     lang_vs_test = reverse_dict_list(test_vs_lang)
 
     for lang in lang_vs_test:
-        if lang in other_langs:
-            embfile = os.path.join('..', "embeddings", "wiki." + other_langs[lang] + ".vec")
+        if lang in langs:
+            embfile = os.path.join('..', "embeddings", "wiki." + langs[lang] + ".vec")
             print("Reading vocabulary for lang "+lang)
             vocab = load_dict(embfile, maxvoc=langs_vocab[lang])
             print("Preparing odd feature test for " + lang)
@@ -617,7 +612,6 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     # Prepare feature tests
     parser.add_argument('--keepratio', type=float, default=0.2)
-    parser.add_argument('--savedir', type=str, default='./other_lang_morph_tests')
-
+    parser.add_argument('--savedir', type=str, default='./probing_tests')
     args = parser.parse_args()
     main(args)
