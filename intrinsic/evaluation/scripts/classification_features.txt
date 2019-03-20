@@ -1,0 +1,45 @@
+Case_M	finnish	14	At+Essive,Allative+In,Formal,Translative,Ablative+At,Ablative+In,Genitive,Allative+At,Essive+In,Instrumental,None,Privative,Comitative,Partitive
+Case_M	german	4	Nominative,None,Genitive,Dative
+Case_M	russian	7	Nominative,Accusative,Essive,Dative,Genitive,None,Instrumental
+Case_M	turkish	7	Ablative,Locative,Accusative,Nominative,Dative,Genitive,None
+Gender_M	russian	4	Neuter,None,Masculine,Feminine
+Gender_M	spanish	3	None,Masculine,Feminine
+Mood_M	finnish	5	Indicative,Conditional,Potential,Imperative-Jussive,None
+Mood_M	german	4	Indicative,None,Subjunctive,Imperative-Jussive
+Mood_M	spanish	5	Indicative,Conditional,Imperative-Jussive,Subjunctive,None
+Number_M	finnish	3	Singular,None,Plural
+Number_M	german	3	Singular,None,Plural
+Number_M	russian	3	Plural,None,Singular
+Number_M	spanish	3	Singular,None,Plural
+POS	finnish	4	Noun,Verb,Participle,Adjective
+POS	german	3	Verb,Participle,Noun
+POS	russian	5	Participle,Converb,Noun,Verb,Adjective
+POS	spanish	3	Verb,Participle,Converb
+POS	turkish	3	Verb,Adjective,Noun
+Person_M	finnish	7	Third person Plural,Second person Singular,First person Plural,Second person Plural,Third person Singular,None,First person Singular
+Person_M	german	5	Second person Singular,Second person Plural,Third person Singular,None,First person Singular
+Person_M	russian	7	None,Third person Plural,Second person Singular,Second person Plural,Third person Singular,First person Plural,First person Singular
+Person_M	spanish	7	Third person Plural,Second person Singular,First person Plural,Second person Plural,Third person Singular,None,First person Singular
+Person_M	turkish	7	Third person Plural,Second person Singular,First person Plural,Second person Plural,Third person Singular,None,First person Singular
+Polarity_M	turkish	3	Positive,None,Negative
+Possession_M	turkish	6	Possession by 2.sg,Possession by 3.pl,Possession by 1.pl,Possession by 3.sg,Possession by 2.pl,None
+Pseudo	german	2	0,1
+Pseudo	spanish	2	0,1
+Pseudo	turkish	2	0,1
+TagCount	finnish	4	3,5,7,2
+TagCount	german	4	3,4,2,5
+TagCount	russian	4	3,4,5,2
+TagCount	spanish	4	4,6,2,5
+TagCount	turkish	5	6,7,3,4,8
+Tense_M	finnish	3	None,Past,Present
+Tense_M	german	3	None,Present,Past
+Tense_M	russian	4	None,Future,Present,Past
+Tense_M	spanish	4	None,Future,Past,Present
+Tense_M	turkish	4	None,Future,Present,Past
+Voice_M	finnish	3	Active,None,Passive
+Voice_M	russian	3	Active,None,Passive
+CharacterBin	finnish	6	6,5,3,4,1,2
+CharacterBin	turkish	6	6,5,3,4,1,2
+CharacterBin	german	6	6,5,3,4,1,2
+CharacterBin	spanish	5	5,3,4,1,2
+CharacterBin	russian	6	6,5,3,4,1,2

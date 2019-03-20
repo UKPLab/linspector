@@ -1,0 +1,2000 @@
+gönlün	Possession by 2.sg
+yıldırımı	Possession by 3.sg
+örs	None
+tekrarınızda	Possession by 2.pl
+meleğimi	Possession by 3.pl
+dileklerin	Possession by 2.sg
+cesetleri	None
+parçalanmasına	Possession by 3.sg
+müdürün	Possession by 2.sg
+kirazlarımızdan	Possession by 1.pl
+alyanlarıma	Possession by 3.pl
+tipografin	Possession by 2.sg
+bıçakların	Possession by 2.sg
+dizisini	Possession by 3.sg
+seviyorsunuz	None
+oyuncaklara	None
+bildirirler	None
+penisilinlerin	Possession by 2.sg
+huzurlarınızın	Possession by 2.pl
+bıyığı	Possession by 3.sg
+yarışması	Possession by 3.sg
+şaha	None
+derleyicisi	Possession by 3.sg
+ölümlerin	Possession by 2.sg
+kozanda	Possession by 2.sg
+yoğurtçularız	None
+çorabın	Possession by 2.sg
+ikizi	Possession by 3.sg
+merdivenlerin	Possession by 2.sg
+ayılarınıza	Possession by 2.pl
+magmalarınızdan	Possession by 2.pl
+kesiyordu	None
+isin	Possession by 2.sg
+şuurun	Possession by 2.sg
+rakamlarınıza	Possession by 2.pl
+ahtapotu	Possession by 3.sg
+gömleklerimizde	Possession by 1.pl
+kalplerimiz	Possession by 1.pl
+mucizemden	Possession by 3.pl
+hayırseverin	Possession by 2.sg
+doğruculuklarınızdan	Possession by 2.pl
+gereksinimlerin	Possession by 2.sg
+tanışıyordu	None
+kocasından	Possession by 3.sg
+kravatı	Possession by 3.sg
+alanın	Possession by 2.sg
+şehveti	Possession by 3.sg
+bilmezsiniz	None
+yörenin	Possession by 2.sg
+bugünüm	Possession by 3.pl
+günlüklere	None
+birleşti	None
+fikriniz	Possession by 2.pl
+altın	Possession by 2.sg
+hastalıkların	Possession by 2.sg
+krakerlerimize	Possession by 1.pl
+kakacağım	None
+iblis	None
+sanatların	Possession by 2.sg
+parçacıklara	None
+ecelin	Possession by 2.sg
+malların	Possession by 2.sg
+süpürge	None
+kansızlıklarımı	Possession by 3.pl
+defteri	Possession by 3.sg
+sahnesinde	Possession by 3.sg
+içgüdüsünü	Possession by 3.sg
+uğratacak	None
+sezondan	None
+çarşılarımız	Possession by 1.pl
+mancınıkların	Possession by 2.sg
+düklerimizde	Possession by 1.pl
+listenin	Possession by 2.sg
+sunulardın	None
+vücudu	None
+embriyonu	Possession by 2.sg
+işlevde	None
+giderimi	Possession by 3.pl
+travmaların	Possession by 2.sg
+balıkçılarımızı	Possession by 1.pl
+boşalacak	None
+kirpiği	None
+eğlenceydiler	None
+hikâye	None
+keşi	Possession by 3.sg
+eşyaydım	None
+unun	Possession by 2.sg
+gecesinde	Possession by 3.sg
+listesinde	Possession by 3.sg
+sevgililerin	Possession by 2.sg
+nöronların	Possession by 2.sg
+fırçanın	Possession by 2.sg
+gençliğimin	Possession by 3.pl
+kolanı	Possession by 2.sg
+kalfası	Possession by 3.sg
+mezarlığımın	Possession by 3.pl
+gözlem	None
+verisi	Possession by 3.sg
+yanıta	None
+otobüsü	Possession by 3.sg
+tarafımı	Possession by 3.pl
+çapaya	None
+tarafıma	Possession by 3.pl
+bamyayız	None
+dersi	Possession by 3.sg
+davranışçılığın	Possession by 2.sg
+taraflarım	Possession by 3.pl
+dövmesini	Possession by 3.sg
+tarihçisinin	Possession by 3.sg
+önerinizi	Possession by 2.pl
+hatalarım	Possession by 3.pl
+yufkaların	Possession by 2.sg
+gitmeme	Possession by 3.pl
+eğlenmiyordu	None
+özneler	None
+tayfa	None
+yazmamın	Possession by 3.pl
+filmlerin	Possession by 2.sg
+muzu	Possession by 3.sg
+entrikalar	None
+filmi	Possession by 3.sg
+şovdan	None
+demedi	None
+uyarın	Possession by 2.sg
+irkenekte	None
+başkanımız	Possession by 1.pl
+perisini	Possession by 3.sg
+şüphemiz	Possession by 1.pl
+sahibim	Possession by 3.pl
+ısılarımın	Possession by 3.pl
+böğürtleninizden	Possession by 2.pl
+gezer	None
+yüzmesini	Possession by 3.sg
+sporcusu	Possession by 3.sg
+acıma	Possession by 3.pl
+kuralım	Possession by 3.pl
+geçersin	None
+müzede	None
+ölümüm	Possession by 3.pl
+tercümelerin	None
+sakalı	Possession by 3.sg
+cephesinde	Possession by 3.sg
+temizlerim	None
+üreticisi	Possession by 3.sg
+sözleşmesinin	Possession by 3.sg
+taslakların	Possession by 2.sg
+gülünçleşeceğim	None
+evrenin	Possession by 2.sg
+demlerler	None
+parçalanmasından	Possession by 3.sg
+düğünlerimizde	Possession by 1.pl
+ayının	Possession by 2.sg
+vikipedistim	Possession by 3.pl
+parçalanmasını	Possession by 3.sg
+milyarderlerimi	Possession by 3.pl
+müracaatlarımda	Possession by 3.pl
+elmandan	Possession by 2.sg
+rüyası	Possession by 3.sg
+hareketliliğin	Possession by 2.sg
+cemaati	Possession by 3.sg
+ölmezler	None
+sorusunu	Possession by 3.sg
+koruma	Possession by 3.pl
+bankanın	Possession by 2.sg
+sinagogların	Possession by 2.sg
+müezzinin	Possession by 2.sg
+önü	Possession by 3.sg
+leyleğin	Possession by 2.sg
+piyanosunun	Possession by 3.sg
+arıyoruz	None
+ışınım	Possession by 3.pl
+kistler	None
+yorumun	Possession by 2.sg
+oya	None
+kargalar	None
+erimenin	Possession by 2.sg
+benzeyecek	None
+müzeleri	None
+eklemelisiniz	None
+teorisinden	Possession by 3.sg
+takısı	Possession by 3.sg
+efeymiş	None
+sözleşmesine	Possession by 3.sg
+vikipedistlerimiz	Possession by 1.pl
+geçmesinden	Possession by 3.sg
+kıydınız	None
+uygulamama	Possession by 3.pl
+patenlerimde	Possession by 3.pl
+boşalmaya	None
+sokağın	Possession by 2.sg
+fakirleştirmeyeceğim	None
+elçinin	Possession by 2.sg
+başvurusundan	Possession by 3.sg
+geçmesine	Possession by 3.sg
+heyecandan	None
+optimizasyonlarımız	Possession by 1.pl
+otizmlere	None
+geçiniyordu	None
+ömrü	Possession by 3.sg
+dudağı	Possession by 3.sg
+vaziyette	None
+haberlerin	Possession by 2.sg
+kimliğimizi	Possession by 1.pl
+çekice	None
+kaderimi	Possession by 3.pl
+sarımsaktan	None
+maşamızın	Possession by 1.pl
+fırçasını	Possession by 3.sg
+yalanların	Possession by 2.sg
+sönmüyorduk	None
+aramaz	None
+gübrende	Possession by 2.sg
+zamanımızı	Possession by 1.pl
+balıklar	None
+toteme	None
+nükleotitlerin	None
+hahamların	Possession by 2.sg
+kütüğün	Possession by 2.sg
+deneyimlerimiz	Possession by 1.pl
+okulda	None
+şüphede	None
+röportajı	Possession by 3.sg
+piyanoyu	None
+fikrimizden	Possession by 1.pl
+çiğdemin	None
+parçası	Possession by 3.sg
+başvuruma	Possession by 3.pl
+homoseksüeller	None
+vapuru	Possession by 3.sg
+mucizesini	Possession by 3.sg
+güvensizliğinizden	Possession by 2.pl
+kaynaşıyordun	None
+kalırız	None
+çalgısının	Possession by 3.sg
+medreseden	None
+üçlüsünden	Possession by 3.sg
+yapmasında	Possession by 3.sg
+doktorların	Possession by 2.sg
+molekülün	Possession by 2.sg
+masumiyetler	None
+akreplerimde	Possession by 3.pl
+devinimi	Possession by 3.sg
+sagası	Possession by 3.sg
+dizisi	Possession by 3.sg
+jiletlerim	Possession by 3.pl
+basımdan	Possession by 3.pl
+erkecelimizden	Possession by 1.pl
+kuyusunun	Possession by 3.sg
+aslım	Possession by 3.pl
+evliliklerin	Possession by 2.sg
+kırığın	Possession by 2.sg
+kılavuzu	Possession by 3.sg
+muhallebinin	None
+savunmayacaklar	None
+elmasların	Possession by 2.sg
+ninnilerin	Possession by 2.sg
+tayfanın	Possession by 2.sg
+yazmanız	Possession by 2.pl
+kurutacağım	None
+halkımızın	Possession by 1.pl
+albatroslarımın	Possession by 3.pl
+dağılmalarımızdan	Possession by 1.pl
+paradokstan	None
+yardımlarınız	Possession by 2.pl
+telofazımıza	Possession by 1.pl
+ahtapot	None
+kristallerin	None
+gölgelerin	Possession by 2.sg
+konduk	None
+çamurun	Possession by 2.sg
+atomu	Possession by 3.sg
+korunması	Possession by 3.sg
+işlevlerin	Possession by 2.sg
+gaganın	None
+kirazın	Possession by 2.sg
+lokantasının	Possession by 3.sg
+fikirlerimizden	Possession by 1.pl
+listesinden	Possession by 3.sg
+içgüdülerime	Possession by 3.pl
+aşkım	Possession by 3.pl
+idaresi	Possession by 3.sg
+karakteri	Possession by 3.sg
+kumalarımız	Possession by 1.pl
+öldürüyorlardı	None
+önümüzde	Possession by 1.pl
+grubumuza	Possession by 1.pl
+telefonlarımızdan	Possession by 1.pl
+semerlerimiz	Possession by 1.pl
+sınırlarımızı	Possession by 1.pl
+kibir	None
+sunuyorlar	None
+belimizde	Possession by 1.pl
+depresyondan	None
+hocamın	Possession by 3.pl
+yumuşakçası	Possession by 3.sg
+kalkmayacak	None
+dövüşü	Possession by 3.sg
+dalgaların	Possession by 2.sg
+sızmıyor	None
+silindirin	Possession by 2.sg
+samuru	Possession by 3.sg
+biçimin	Possession by 2.sg
+topçusunun	Possession by 3.sg
+yetkim	Possession by 3.pl
+memelerimizin	Possession by 1.pl
+sağın	Possession by 2.sg
+makaranın	Possession by 2.sg
+işlemcisini	Possession by 3.sg
+orangutanın	Possession by 2.sg
+dilberlere	None
+kardeşlerimiz	Possession by 1.pl
+vermedin	None
+güreşçilere	None
+sürprize	None
+çatlaklarda	None
+kalır	None
+çarşıların	Possession by 2.sg
+eklerimden	Possession by 3.pl
+önemliliklere	None
+göğsümde	Possession by 3.pl
+geldiler	None
+fahişenin	Possession by 2.sg
+fikirlerimiz	Possession by 1.pl
+gençliklerimize	Possession by 1.pl
+ışını	Possession by 3.sg
+yüksüğüme	Possession by 3.pl
+belediyesine	Possession by 3.sg
+şahıslarda	None
+wikinin	Possession by 2.sg
+serverlerde	None
+üzümlerin	Possession by 2.sg
+hareketsizliği	Possession by 3.sg
+güdüm	None
+ablam	Possession by 3.pl
+dilberi	Possession by 3.sg
+geçmiyordu	None
+sanırsınız	None
+kolonu	Possession by 3.sg
+tütünde	Possession by 2.sg
+maçların	Possession by 2.sg
+öbeğin	Possession by 2.sg
+uyarıların	Possession by 2.sg
+sebeplerin	Possession by 2.sg
+tiyatroların	Possession by 2.sg
+iletiyorum	None
+kışkırtıyoruz	None
+penisi	Possession by 3.sg
+düşünüyordu	None
+şatonun	Possession by 2.sg
+istisnasını	Possession by 3.sg
+tozların	Possession by 2.sg
+ilkesi	Possession by 3.sg
+kenarlar	None
+tepkimesini	Possession by 3.sg
+soğanın	Possession by 2.sg
+mühendisler	None
+öğrendim	None
+devirlerden	None
+öpücüklerinize	Possession by 2.pl
+kameralarım	Possession by 3.pl
+trenin	Possession by 2.sg
+sağduyusunu	Possession by 3.sg
+bahtsız	None
+karantinasının	Possession by 3.sg
+cezeryesinden	Possession by 3.sg
+sundum	None
+kazanın	Possession by 2.sg
+zavarınızda	Possession by 2.pl
+mıknatıstan	None
+zigguratı	Possession by 3.sg
+mikroorganizmaların	Possession by 2.sg
+işlememiz	Possession by 1.pl
+keşkekler	None
+ilerisine	Possession by 3.sg
+ekimden	Possession by 3.pl
+şelalelerin	Possession by 2.sg
+mihraplarımda	Possession by 3.pl
+halkımın	Possession by 3.pl
+eldivenin	Possession by 2.sg
+tohumu	Possession by 3.sg
+bayı	Possession by 3.sg
+kapısını	Possession by 3.sg
+mesuliyet	None
+listenize	Possession by 2.pl
+aletlerin	Possession by 2.sg
+sunucular	None
+dersimde	Possession by 3.pl
+tütünden	Possession by 2.sg
+maktamızın	Possession by 1.pl
+dalmaz	None
+romanı	Possession by 3.sg
+ulamı	Possession by 3.sg
+pusulanın	Possession by 2.sg
+yangını	Possession by 3.sg
+orfozlarınızın	Possession by 2.pl
+oyumuzu	Possession by 1.pl
+tarihçisine	Possession by 3.sg
+kumandanın	Possession by 2.sg
+izleyicisini	Possession by 3.sg
+kaşesinin	Possession by 3.sg
+yolculuğumuzdan	Possession by 1.pl
+bitmemi	Possession by 3.pl
+âlimin	Possession by 2.sg
+kaçıyorduk	None
+bekliyorduk	None
+yetiştiriyor	None
+makinanın	Possession by 2.sg
+yitmeyecekler	None
+savaşı	Possession by 3.sg
+paşaların	Possession by 2.sg
+verilerinizi	Possession by 2.pl
+örümceklerin	Possession by 2.sg
+yörede	None
+enstrümanı	Possession by 3.sg
+listemizde	Possession by 1.pl
+katarımda	Possession by 3.pl
+sekmesinde	Possession by 3.sg
+deseni	Possession by 3.sg
+peronumuz	Possession by 1.pl
+askerlerin	Possession by 2.sg
+savaşıma	Possession by 3.pl
+Musevilerin	Possession by 2.sg
+şatosunda	Possession by 3.sg
+içgüdüsü	Possession by 3.sg
+yuvarlaacaksınız	None
+jenerasyonu	Possession by 3.sg
+haritasından	Possession by 3.sg
+kandı	None
+aletlerinizden	Possession by 2.pl
+çadır	None
+avizesi	Possession by 3.sg
+dışkının	Possession by 2.sg
+âmâsına	Possession by 3.sg
+tanrımızın	Possession by 1.pl
+soğurmuyorlar	None
+derecek	None
+zurnanın	Possession by 2.sg
+sinekliğim	Possession by 3.pl
+fizikçiyi	None
+gitarım	Possession by 3.pl
+parçasında	Possession by 3.sg
+miyolojiyi	None
+tanda	None
+öyküsünü	Possession by 3.sg
+cücelerime	Possession by 3.pl
+belleğin	Possession by 2.sg
+teorem	None
+yaralanmasını	Possession by 3.sg
+tenisçinin	Possession by 2.sg
+dervişlerden	None
+penisin	Possession by 2.sg
+karıştırmayacağız	None
+destanların	Possession by 2.sg
+korda	None
+taksinin	Possession by 2.sg
+öpücük	None
+seçiciler	None
+vapura	None
+lastiği	Possession by 3.sg
+polinomunuz	Possession by 2.pl
+kolajlara	None
+eğlencesinin	Possession by 3.sg
+filimde	Possession by 3.pl
+uykunun	None
+interfazlarımdan	Possession by 3.pl
+bitimi	Possession by 3.sg
+piyanomun	Possession by 3.pl
+odakların	Possession by 2.sg
+yazmamıza	Possession by 1.pl
+akrabalara	None
+çıkarıyordu	None
+tavanımda	Possession by 3.pl
+baltamdan	Possession by 3.pl
+kesesini	Possession by 3.sg
+kılların	Possession by 2.sg
+meleğim	Possession by 3.pl
+parçaların	Possession by 2.sg
+basımı	Possession by 3.pl
+deldi	None
+çizgisinin	Possession by 3.sg
+alanınız	Possession by 2.pl
+sayfanızın	Possession by 2.pl
+hançerler	None
+kolejlerim	Possession by 3.pl
+uzaylılar	None
+kontesin	None
+sezonların	Possession by 2.sg
+sistemlere	None
+sunağı	Possession by 3.sg
+öküzlerin	Possession by 2.sg
+ölürüm	None
+çiftliğimde	Possession by 3.pl
+fokun	Possession by 2.sg
+geçiniyor	None
+ulusunuz	Possession by 2.pl
+birleşmesine	Possession by 3.sg
+baharatımızdan	Possession by 1.pl
+ekranı	Possession by 3.sg
+senaryolarda	None
+tekfuru	Possession by 3.sg
+fitilin	Possession by 2.sg
+hecenin	Possession by 2.sg
+istemcilersin	None
+kinematiklere	None
+sivilceni	Possession by 2.sg
+nenenin	Possession by 2.sg
+istiyorlardı	None
+başvurusu	Possession by 3.sg
+ayrılmadan	None
+yasasından	Possession by 3.sg
+kaldırımımızı	Possession by 1.pl
+Yahudisinin	Possession by 3.sg
+atomların	Possession by 2.sg
+çizgilerin	Possession by 2.sg
+evrimi	Possession by 3.sg
+yeterliği	Possession by 3.sg
+yanar	None
+tırtıl	None
+yuvasını	Possession by 3.sg
+coşkumuzdan	Possession by 1.pl
+bardağı	Possession by 3.sg
+vademizin	Possession by 1.pl
+piskoposların	Possession by 2.sg
+Musevilerden	None
+kestirmesini	Possession by 3.sg
+çeliği	Possession by 3.sg
+dinlenmesi	Possession by 3.sg
+dergisinin	Possession by 3.sg
+giydim	None
+filmlerimde	Possession by 3.pl
+kağıtlarımızın	Possession by 1.pl
+parmağı	Possession by 3.sg
+derine	Possession by 2.sg
+yeniliği	Possession by 3.sg
+eniştesi	Possession by 3.sg
+akrobatım	Possession by 3.pl
+odağın	Possession by 2.sg
+savaşçılarımız	Possession by 1.pl
+bakirenin	Possession by 2.sg
+sakinim	Possession by 3.pl
+şişlik	None
+makinası	Possession by 3.sg
+benzerler	None
+kıymeti	Possession by 3.sg
+ikizin	Possession by 2.sg
+aktrisimizi	Possession by 1.pl
+prensibin	Possession by 2.sg
+peder	None
+tecrübelerin	Possession by 2.sg
+koltukların	None
+hesaba	None
+sağrınız	Possession by 2.pl
+sorumluluğumuzda	Possession by 1.pl
+sonbaharın	Possession by 2.sg
+yoğuruyorlar	None
+duyusunu	Possession by 3.sg
+noktası	Possession by 3.sg
+umuyorlar	None
+seçmemiz	Possession by 1.pl
+tabanların	Possession by 2.sg
+yontarım	None
+bürümeyeceğim	None
+koyun	Possession by 2.sg
+cebi	Possession by 3.sg
+motelin	Possession by 2.sg
+itim	Possession by 3.pl
+kocaların	Possession by 2.sg
+ülkemizden	Possession by 1.pl
+katı	Possession by 3.sg
+büküldü	None
+tanrın	Possession by 2.sg
+çökeleğinizden	Possession by 2.pl
+kilimlerimizi	Possession by 1.pl
+gizlendi	None
+saçlarıma	Possession by 3.pl
+ulusun	Possession by 2.sg
+bazaltı	Possession by 3.sg
+söğütlerin	Possession by 2.sg
+kolonyamızdan	Possession by 1.pl
+gazelin	Possession by 2.sg
+ücretsizliğime	Possession by 3.pl
+kuruyorum	None
+erimesinden	Possession by 3.sg
+derecesinde	Possession by 3.sg
+omurgalarınıza	Possession by 2.pl
+kraliçeliği	Possession by 3.sg
+menünüzden	Possession by 2.pl
+aktörün	Possession by 2.sg
+menüsü	Possession by 3.sg
+çıkmadım	None
+yumurtalıklarımı	Possession by 3.pl
+gitmenin	Possession by 2.sg
+yağışı	Possession by 3.sg
+mevzusunda	Possession by 3.sg
+devingenliklerinizden	Possession by 2.pl
+takacak	None
+otostopçunun	Possession by 2.sg
+cebe	None
+yöre	None
+yelkenlerdin	None
+bayılmasına	Possession by 3.sg
+önerinizin	Possession by 2.pl
+fikrimden	Possession by 3.pl
+nedenlerime	Possession by 3.pl
+fenere	None
+mükemmelliğe	None
+korktuk	None
+bitirdi	None
+kıllarımıza	Possession by 1.pl
+karız	None
+idarelerin	Possession by 2.sg
+sağduyunun	Possession by 2.sg
+yasam	Possession by 3.pl
+sezer	None
+mucizenin	Possession by 2.sg
+çalışmanın	Possession by 2.sg
+kürkü	Possession by 3.sg
+sıçanı	Possession by 3.sg
+sindirimi	Possession by 3.sg
+sivrisineğimi	Possession by 3.pl
+maçı	Possession by 3.sg
+filmden	None
+koşulmadın	None
+sorularınıza	Possession by 2.pl
+adalemize	Possession by 1.pl
+ilişkin	Possession by 2.sg
+akrabanız	Possession by 2.pl
+firavunun	Possession by 2.sg
+kokularımı	Possession by 3.pl
+köftenin	Possession by 2.sg
+gruplarınızı	Possession by 2.pl
+kaçağı	Possession by 3.sg
+asmadı	None
+ayrılmıyor	None
+çalışmalarınızı	Possession by 2.pl
+şemsiyesi	Possession by 3.sg
+görüşümün	Possession by 3.pl
+paylaştılar	None
+kirazı	Possession by 3.sg
+kuvvetlerdi	None
+lehçesinde	Possession by 3.sg
+gelinciğime	Possession by 3.pl
+beldesinden	Possession by 3.sg
+kodlar	None
+deyimlerin	Possession by 2.sg
+kulüpte	None
+oyunculardan	None
+sakladım	None
+ölülerin	Possession by 2.sg
+uyur	None
+platformdan	None
+referanslarda	None
+kocamın	Possession by 3.pl
+konusunda	Possession by 3.sg
+ustalardık	None
+isyanım	Possession by 3.pl
+takının	Possession by 2.sg
+mutluluğun	Possession by 2.sg
+papazların	Possession by 2.sg
+konumdan	Possession by 3.pl
+filozofların	Possession by 2.sg
+hocamızın	Possession by 1.pl
+bakmalarınız	Possession by 2.pl
+yaratın	Possession by 2.sg
+davranışım	Possession by 3.pl
+geylerin	Possession by 2.sg
+düklerin	Possession by 2.sg
+fikrimin	Possession by 3.pl
+destana	None
+ongenin	None
+üçlüsünde	Possession by 3.sg
+şimal	None
+sıralamaların	Possession by 2.sg
+sülüsümüze	Possession by 1.pl
+bardakta	None
+olayımın	Possession by 3.pl
+basketbolcusu	Possession by 3.sg
+şivelerinizde	Possession by 2.pl
+borcumuz	Possession by 1.pl
+hazcılıklarda	None
+müracaatı	Possession by 3.sg
+arzunun	Possession by 2.sg
+zeytinden	None
+radyosuna	Possession by 3.sg
+kapısının	Possession by 3.sg
+finalden	None
+yıkamazsın	None
+askerlerimiz	Possession by 1.pl
+siğillerimde	Possession by 3.pl
+savaşın	Possession by 2.sg
+şarkıcılarıma	Possession by 3.pl
+virgülü	Possession by 3.sg
+hamızlarımızın	Possession by 1.pl
+daldık	None
+memesinden	Possession by 3.sg
+tepkimesine	Possession by 3.sg
+iletkenlerde	None
+ejderhadan	None
+türümün	Possession by 3.pl
+kaşı	Possession by 3.sg
+sayfamızın	Possession by 1.pl
+gönlümün	Possession by 3.pl
+kılıç	None
+odası	Possession by 3.sg
+eziyetin	Possession by 2.sg
+öğrenmem	None
+neşeyi	None
+gölgesinden	Possession by 3.sg
+ölüden	None
+kamçısının	Possession by 3.sg
+akrabasının	Possession by 3.sg
+bastırmasından	Possession by 3.sg
+tiyatrosunu	Possession by 3.sg
+kaplanların	Possession by 2.sg
+eğlencelerin	Possession by 2.sg
+memleketin	Possession by 2.sg
+bileceğiz	None
+maça	None
+çıktım	Possession by 3.pl
+rüzgârı	Possession by 3.sg
+derim	Possession by 3.pl
+yıldızım	Possession by 3.pl
+uyarım	Possession by 3.pl
+börülcesi	Possession by 3.sg
+kaydı	Possession by 3.sg
+katillerin	Possession by 2.sg
+ağıdınızın	Possession by 2.pl
+ekin	Possession by 2.sg
+görüşlerin	Possession by 2.sg
+cenaze	None
+hastalandı	None
+pompalardan	None
+pirinçten	None
+çobanlarınızda	Possession by 2.pl
+kebabı	Possession by 3.sg
+çadırın	Possession by 2.sg
+başvurusunu	Possession by 3.sg
+sayfalarınız	Possession by 2.pl
+eğlenmedin	None
+dublör	None
+hastalıklarımız	Possession by 1.pl
+soğurmuyoruz	None
+öküzlerimize	Possession by 1.pl
+parıltılar	None
+yaptırıyoruz	None
+yapmanıza	Possession by 2.pl
+buzulu	Possession by 3.sg
+tutulmasından	Possession by 3.sg
+amcasının	Possession by 3.sg
+topluluğumuza	Possession by 1.pl
+plaklardan	None
+sınırların	Possession by 2.sg
+yöremizden	Possession by 1.pl
+verisinin	Possession by 3.sg
+şikâyetlerin	Possession by 2.sg
+örüntünün	None
+papatyalarınızın	Possession by 2.pl
+derginin	Possession by 2.sg
+güzelliklerden	None
+ısısını	Possession by 3.sg
+çavuşun	Possession by 2.sg
+tekrarın	Possession by 2.sg
+bilgilerimi	Possession by 3.pl
+yolların	Possession by 2.sg
+gemin	Possession by 2.sg
+kullanıcımız	Possession by 1.pl
+tekilandan	Possession by 2.sg
+yazmama	Possession by 3.pl
+abacılarımızın	Possession by 1.pl
+şirket	None
+yetersizliğin	Possession by 2.sg
+gecen	Possession by 2.sg
+kuklalara	None
+dinamitin	Possession by 2.sg
+adalelerimin	Possession by 3.pl
+müzikal	None
+siste	None
+içeceği	Possession by 3.sg
+konunuz	Possession by 2.pl
+eğitimin	Possession by 2.sg
+kırığı	Possession by 3.sg
+alanımda	Possession by 3.pl
+kardeşlik	None
+karantinamızda	Possession by 1.pl
+frene	None
+kullanacaksın	None
+şikâyeti	Possession by 3.sg
+kurdun	None
+coşkusu	Possession by 3.sg
+sonucu	Possession by 3.sg
+koşucunun	Possession by 2.sg
+yakutlarda	None
+eniştesinin	Possession by 3.sg
+üzgünsün	None
+tabanımın	Possession by 3.pl
+mektupların	Possession by 2.sg
+sevgilisini	Possession by 3.sg
+termometrenin	Possession by 2.sg
+süspansuarınıza	Possession by 2.pl
+yufkanın	Possession by 2.sg
+dileğin	Possession by 2.sg
+kapıdan	None
+gollerin	Possession by 2.sg
+hududunuza	Possession by 2.pl
+yüzmesi	Possession by 3.sg
+tecrübelerime	Possession by 3.pl
+yazması	Possession by 3.sg
+katamaranımın	Possession by 3.pl
+temsilcisinden	Possession by 3.sg
+içgüdülerin	Possession by 2.sg
+başvurunuz	Possession by 2.pl
+kolaylığın	Possession by 2.sg
+kazama	Possession by 3.pl
+sürekliliğin	Possession by 2.sg
+sisteminize	Possession by 2.pl
+zamanımda	Possession by 3.pl
+alanıma	Possession by 3.pl
+izledik	None
+birliğin	Possession by 2.sg
+şivelerinizden	Possession by 2.pl
+dörtgeni	None
+mayolarım	Possession by 3.pl
+jelatinden	None
+yetkilerim	Possession by 3.pl
+pipimizi	Possession by 1.pl
+dişlerimi	Possession by 3.pl
+derecesinin	Possession by 3.sg
+sorundan	Possession by 2.sg
+dakikanın	Possession by 2.sg
+uydusuna	Possession by 3.sg
+kromozomlara	None
+ofislerimiz	Possession by 1.pl
+kelebeğin	Possession by 2.sg
+dışlarım	Possession by 3.pl
+gelinciğin	Possession by 2.sg
+silgiydiniz	None
+teknolojide	None
+ormanlarda	None
+yarasının	Possession by 3.sg
+vazonun	Possession by 2.sg
+odunda	None
+nöronun	Possession by 2.sg
+papalardın	None
+işkenceciliklerim	Possession by 3.pl
+zeytini	Possession by 3.sg
+evliliğin	Possession by 2.sg
+gazetesi	Possession by 3.sg
+faresini	Possession by 3.sg
+muşmula	None
+dudakların	Possession by 2.sg
+döneminizden	Possession by 2.pl
+çözeltide	None
+buse	None
+bacandan	Possession by 2.sg
+yönetime	None
+cevabıma	Possession by 3.pl
+mahzenlerimize	Possession by 1.pl
+sekmesini	Possession by 3.sg
+eziyetler	None
+kimliğim	Possession by 3.pl
+bitiriyordu	None
+yanardağlarda	None
+mobilyası	Possession by 3.sg
+zafere	None
+alnı	Possession by 3.sg
+teorilerin	Possession by 2.sg
+yaratımdan	Possession by 3.pl
+puanınıza	Possession by 2.pl
+figüranların	Possession by 2.sg
+teşkilatların	Possession by 2.sg
+vahasına	Possession by 3.sg
+fenerin	None
+finişlerinizden	Possession by 2.pl
+vücutları	None
+yayıncılık	None
+yazmıyorlar	None
+algoritmanın	Possession by 2.sg
+gelinin	Possession by 2.sg
+mısırlarımızın	Possession by 1.pl
+ortağım	Possession by 3.pl
+dükkânı	Possession by 3.sg
+müselleslerimize	Possession by 1.pl
+kilisenin	Possession by 2.sg
+götürüyorlardı	None
+camilerin	Possession by 2.sg
+evlendim	None
+örsün	Possession by 2.sg
+zavarımı	Possession by 3.pl
+sarhoşluğun	None
+topluluğun	Possession by 2.sg
+leyleğinizde	Possession by 2.pl
+disleksisi	Possession by 3.sg
+sıralamasının	Possession by 3.sg
+avcıymışsınız	None
+önleriniz	Possession by 2.pl
+seçmenizi	Possession by 2.pl
+kalın	None
+kovboylar	None
+simyada	None
+uçtular	None
+fikirlerimi	Possession by 3.pl
+bataryasının	Possession by 3.sg
+mesafenin	None
+fizikçilerimize	Possession by 1.pl
+gazetelere	None
+lazerlerin	None
+zurnanıza	Possession by 2.pl
+homurdanmanın	Possession by 2.sg
+avukatımız	Possession by 1.pl
+tandırın	Possession by 2.sg
+giysilersiniz	None
+iskenderlerin	Possession by 2.sg
+yetenekliler	None
+alemde	None
+alanlarımız	Possession by 1.pl
+pede	None
+tutkusunu	Possession by 3.sg
+aşçısı	Possession by 3.sg
+yolcularımıza	Possession by 1.pl
+istisnaların	Possession by 2.sg
+geyiğin	Possession by 2.sg
+fakültelerin	Possession by 2.sg
+yığmıyor	None
+yörüngeler	None
+der	None
+şampiyonlukların	Possession by 2.sg
+lezzetin	Possession by 2.sg
+kapısına	Possession by 3.sg
+göstereceğiz	None
+derece	None
+kullarınıza	Possession by 2.pl
+düşmüyor	None
+üreticilerin	Possession by 2.sg
+koydular	None
+şerbetçiliklerimin	Possession by 3.pl
+topluluğumuzda	Possession by 1.pl
+mayosunu	Possession by 3.sg
+kılavuzların	Possession by 2.sg
+dağıtımı	Possession by 3.sg
+derisinden	Possession by 3.sg
+savaşımda	Possession by 3.pl
+kurumu	Possession by 3.sg
+kızdım	None
+embriyosu	Possession by 3.sg
+cephesinden	Possession by 3.sg
+işçilerdir	None
+radyoların	Possession by 2.sg
+belediyelerinizi	Possession by 2.pl
+kaçmayacak	None
+uydundan	Possession by 2.sg
+binmezsiniz	None
+ilimler	None
+perin	Possession by 2.sg
+solucanların	Possession by 2.sg
+baltasını	Possession by 3.sg
+fahişesi	Possession by 3.sg
+madenlere	None
+çalışmama	Possession by 3.pl
+kardeşlerimizin	Possession by 1.pl
+hanımımı	Possession by 3.pl
+sahifesi	Possession by 3.sg
+parçalanıyordu	None
+nihayete	None
+tohumların	Possession by 2.sg
+savunmuyorum	None
+sabahların	Possession by 2.sg
+aşçıların	Possession by 2.sg
+alanların	Possession by 2.sg
+vitrini	Possession by 3.sg
+barıştan	None
+sayfası	Possession by 3.sg
+dinozorların	Possession by 2.sg
+parçalandım	None
+sporcusunu	Possession by 3.sg
+mezarlıkların	Possession by 2.sg
+omuzların	Possession by 2.sg
+soğurmadı	None
+taşacak	None
+kayıkları	None
+bitkisinin	Possession by 3.sg
+ilmin	Possession by 2.sg
+hikâyeleri	None
+duymadım	None
+mantıktan	None
+şeyimi	Possession by 3.pl
+kullanıcını	Possession by 2.sg
+onguncularımızdan	Possession by 1.pl
+kalbin	Possession by 2.sg
+masallara	None
+karneymişler	None
+modası	Possession by 3.sg
+mihraplarınıza	Possession by 2.pl
+karanfilin	Possession by 2.sg
+harçlığınızdan	Possession by 2.pl
+kutlamada	None
+aynalarımda	Possession by 3.pl
+sahibi	Possession by 3.sg
+politikalara	None
+sahnesini	Possession by 3.sg
+dikkatinize	Possession by 2.pl
+ortamlarımdan	Possession by 3.pl
+koleji	Possession by 3.sg
+kireçten	None
+vilayetten	None
+kıyıya	None
+çalışıyorduk	None
+yapımcıyı	None
+güçlüğüm	Possession by 3.pl
+şampiyonun	Possession by 2.sg
+yaymadınız	None
+ehemmiyet	None
+camimde	Possession by 3.pl
+kulağın	Possession by 2.sg
+belediyesi	Possession by 3.sg
+tandır	None
+dergisini	Possession by 3.sg
+ayinden	None
+ilimlerin	Possession by 2.sg
+görüntüyü	None
+mısra	None
+perisi	Possession by 3.sg
+önerilerim	Possession by 3.pl
+fikirleriniz	Possession by 2.pl
+önerilerimi	Possession by 3.pl
+bahçıvanın	Possession by 2.sg
+doğusu	Possession by 3.sg
+kilisesi	Possession by 3.sg
+dağıtımdan	None
+ararlar	None
+penisilinin	Possession by 2.sg
+seçici	None
+hemşirelere	None
+dolaplarda	None
+değişkenlerin	Possession by 2.sg
+cesede	None
+çileklerde	None
+sapanı	Possession by 3.sg
+arkadaşlığın	Possession by 2.sg
+karpuzu	Possession by 3.sg
+mekiği	Possession by 3.sg
+modellerin	Possession by 2.sg
+çileği	Possession by 3.sg
+plakların	Possession by 2.sg
+yavrusunun	Possession by 3.sg
+yörüngesini	Possession by 3.sg
+yakınız	None
+kalmıyor	None
+bağımlılıkların	Possession by 2.sg
+pehlivandık	None
+tanesi	Possession by 3.sg
+uçağa	None
+emniyetlere	None
+mayan	Possession by 2.sg
+önler	None
+yapmanızı	Possession by 2.pl
+kullanıcının	Possession by 2.sg
+belin	Possession by 2.sg
+türün	Possession by 2.sg
+çil	None
+saksafonu	Possession by 3.sg
+otonu	Possession by 2.sg
+damatlarımızın	Possession by 1.pl
+yakalar	None
+yongaların	Possession by 2.sg
+mayasında	Possession by 3.sg
+kahramanımız	Possession by 1.pl
+falı	Possession by 3.sg
+övgülerde	None
+dikdörtgeni	Possession by 3.sg
+filin	Possession by 2.sg
+yarımadada	None
+mistiğinizin	Possession by 2.pl
+papatyası	Possession by 3.sg
+kümbetin	Possession by 2.sg
+kızgın	None
+evrimlerimizi	Possession by 1.pl
+ürkmedim	None
+mermileriz	None
+adımdan	Possession by 3.pl
+şakamızdan	Possession by 1.pl
+dilberlerimde	Possession by 3.pl
+içgüdülere	None
+listen	Possession by 2.sg
+karnelerdin	None
+maktalarda	None
+öğrenecek	None
+bilgilerimiz	Possession by 1.pl
+konunda	Possession by 2.sg
+dişlisi	Possession by 3.sg
+lügat	None
+güdümi	Possession by 3.sg
+işlevin	Possession by 2.sg
+bülbülü	Possession by 3.sg
+güçlüklerin	Possession by 2.sg
+karanfiller	None
+yeterliliği	Possession by 3.sg
+çandan	None
+vefatı	Possession by 3.sg
+makarasının	Possession by 3.sg
+hastalıklar	None
+kamerasının	Possession by 3.sg
+dönüş	None
+teorisinin	Possession by 3.sg
+fakültesi	Possession by 3.sg
+tatlarda	None
+ilişkilerimiz	Possession by 1.pl
+beldelerimizin	Possession by 1.pl
+köylüsüne	Possession by 3.sg
+başlangıcımızdan	Possession by 1.pl
+diyordum	None
+şarkıcılığı	None
+çavuşların	Possession by 2.sg
+radarı	Possession by 3.sg
+durumunuz	Possession by 2.pl
+sayfanın	Possession by 2.sg
+içyüzü	Possession by 3.sg
+lenslerden	None
+vekili	Possession by 3.sg
+bedevinizi	Possession by 2.pl
+sürüngenlerimizi	Possession by 1.pl
+güzellikten	None
+garson	None
+prensibi	Possession by 3.sg
+krizler	None
+caminin	Possession by 2.sg
+boşalmasına	Possession by 3.sg
+sayfasını	Possession by 3.sg
+baharattan	None
+üreticisine	Possession by 3.sg
+tensöre	None
+çadırların	Possession by 2.sg
+ramazanın	Possession by 2.sg
+askerim	Possession by 3.pl
+üzülüyor	None
+karanfillerin	Possession by 2.sg
+keşkeğin	Possession by 2.sg
+saksocuyu	None
+fırtınasının	Possession by 3.sg
+kirpilerin	Possession by 2.sg
+teorilere	None
+arpa	None
+sıfatı	Possession by 3.sg
+anketlerin	Possession by 2.sg
+çökertilerinizin	Possession by 2.pl
+manalarınızı	Possession by 2.pl
+tanımayacak	None
+enstrümanıma	Possession by 3.pl
+katilimi	Possession by 3.pl
+yardımseverliği	Possession by 3.sg
+öneriniz	Possession by 2.pl
+volkanların	Possession by 2.sg
+lokmalar	None
+olayların	Possession by 2.sg
+maskaramızı	Possession by 1.pl
+tekliflere	None
+peskütanınızı	Possession by 2.pl
+evladım	Possession by 3.pl
+azırlar	None
+kuzgunlar	None
+çarşafın	Possession by 2.sg
+gelmedi	None
+durumunuzu	Possession by 2.pl
+sinagoglara	None
+döker	None
+nalı	Possession by 3.sg
+cümleleriniz	Possession by 2.pl
+yapımcının	None
+odama	Possession by 3.pl
+balıkçısı	Possession by 3.sg
+ofisi	Possession by 3.sg
+battaniyesi	Possession by 3.sg
+konseyin	Possession by 2.sg
+hindinizi	Possession by 2.pl
+tanen	Possession by 2.sg
+üzümlerimi	Possession by 3.pl
+davrandılar	None
+makarnası	Possession by 3.sg
+ayakkabısı	Possession by 3.sg
+konumda	Possession by 3.pl
+tercümeyi	None
+tiyatrolardan	None
+kutusunun	Possession by 3.sg
+akrabasını	Possession by 3.sg
+ecemi	Possession by 3.pl
+duymanın	Possession by 2.sg
+ilçe	None
+öykülerin	Possession by 2.sg
+çevirimi	Possession by 3.sg
+amcanın	Possession by 2.sg
+sorusunun	Possession by 3.sg
+incilerin	Possession by 2.sg
+integrali	Possession by 3.sg
+çalışmaların	Possession by 2.sg
+konunun	Possession by 2.sg
+saklar	None
+ölçüldü	None
+gürzlerimizden	Possession by 1.pl
+bitkisi	Possession by 3.sg
+modele	None
+öğretilerde	None
+konuğun	None
+örtüsü	Possession by 3.sg
+deyimlerde	None
+şehrim	Possession by 3.pl
+sepetin	Possession by 2.sg
+makarna	None
+koşucular	None
+kaplumbağanın	Possession by 2.sg
+yağlardan	None
+yengecin	Possession by 2.sg
+önbilgilerinizde	Possession by 2.pl
+kaşların	Possession by 2.sg
+altım	Possession by 3.pl
+işlemelerin	Possession by 2.sg
+aşkların	Possession by 2.sg
+idarenin	Possession by 2.sg
+sultanı	Possession by 3.sg
+erkekliği	Possession by 3.sg
+girdaplar	None
+kalenin	Possession by 2.sg
+yalanı	Possession by 3.sg
+tutuşturur	None
+dinozorunuzun	Possession by 2.pl
+hecesi	Possession by 3.sg
+şokların	None
+klatratımın	Possession by 3.pl
+saymıyoruz	None
+müşterilere	None
+savaşçısı	Possession by 3.sg
+çizerler	None
+çıkarıyorsunuz	None
+yarasından	Possession by 3.sg
+tensörler	None
+dumanı	Possession by 3.sg
+sayfasından	Possession by 3.sg
+örümceğin	Possession by 2.sg
+ustanın	Possession by 2.sg
+cevaptan	None
+topolojisine	Possession by 3.sg
+kaseti	Possession by 3.sg
+dövmenin	Possession by 2.sg
+finallerin	Possession by 2.sg
+yardımcılığı	Possession by 3.sg
+anarşilere	None
+heyetin	Possession by 2.sg
+köpürtürler	None
+alnımın	Possession by 3.pl
+lokantası	Possession by 3.sg
+örslerimden	Possession by 3.pl
+yalıtım	None
+oyuncusu	Possession by 3.sg
+yöremize	Possession by 1.pl
+deposundan	Possession by 3.sg
+silindirlerde	None
+akrabası	Possession by 3.sg
+ördeğimizde	Possession by 1.pl
+batı	None
+sistemimizden	Possession by 1.pl
+koylarımızın	Possession by 1.pl
+takvimlere	None
+dalgalandı	None
+sıfatların	Possession by 2.sg
+kitabesini	Possession by 3.sg
+yetkinizin	Possession by 2.pl
+duyularımız	Possession by 1.pl
+adınızdan	Possession by 2.pl
+buzullara	None
+aletsiniz	None
+dalağımızda	Possession by 1.pl
+klorofile	None
+bastırmana	Possession by 2.sg
+yaratımı	Possession by 3.pl
+tekrarlarımız	Possession by 1.pl
+torunlarımız	Possession by 1.pl
+yatağınızın	Possession by 2.pl
+buzullardan	None
+anüsün	Possession by 2.sg
+tensörlerin	Possession by 2.sg
+kuralımız	Possession by 1.pl
+yasağın	Possession by 2.sg
+topolojinin	Possession by 2.sg
+ayısını	Possession by 3.sg
+kapsamın	Possession by 2.sg
+çoğulun	Possession by 2.sg
+öce	None
+göstermedi	None
+yaratmasından	Possession by 3.sg
+patronu	Possession by 3.sg
+boşalmasının	Possession by 3.sg
+makarnanın	Possession by 2.sg
+dizini	Possession by 2.sg
+verimsizleştirmiyordu	None
+kelebeğim	Possession by 3.pl
+ikizinizden	Possession by 2.pl
+manasına	Possession by 3.sg
+gelinlerimize	Possession by 1.pl
+katılıyorsunuz	None
+hatasına	Possession by 3.sg
+bamyanın	Possession by 2.sg
+duvarın	Possession by 2.sg
+doğa	None
+evliliklerde	None
+animasyonun	Possession by 2.sg
+üçlünün	Possession by 2.sg
+kuvvetlerin	Possession by 2.sg
+ceylanım	Possession by 3.pl
+acısı	Possession by 3.sg
+şalvarın	Possession by 2.sg
+araçlara	None
+fabrikanın	None
+mısırlarınız	Possession by 2.pl
+dalıyordum	None
+peçetelerimizde	Possession by 1.pl
+kumandasında	Possession by 3.sg
+vidanın	Possession by 2.sg
+özürlerinizden	Possession by 2.pl
+şehirlerimizde	Possession by 1.pl
+önerileriniz	Possession by 2.pl
+önemlerinizden	Possession by 2.pl
+heyecanlandırtıyordum	None
+gitmemize	Possession by 1.pl
+plağın	Possession by 2.sg
+okulumuzun	Possession by 1.pl
+baltanın	Possession by 2.sg
+kelebeklerinizin	Possession by 2.pl
+tepkimeden	None
+yaseminler	None
+bankasından	Possession by 3.sg
+öldürdünüz	None
+kullanımlara	None
+tarafta	None
+kalbi	Possession by 3.sg
+adalesinde	Possession by 3.sg
+rehine	None
+maskesinin	Possession by 3.sg
+yaralanmaların	Possession by 2.sg
+kalplerin	Possession by 2.sg
+bohçalarımızı	Possession by 1.pl
+donatımı	Possession by 3.sg
+öğretmenlerden	None
+vidası	Possession by 3.sg
+mahzenin	Possession by 2.sg
+görüntünün	Possession by 2.sg
+belleği	Possession by 3.sg
+uzağım	Possession by 3.pl
+tavernasında	Possession by 3.sg
+kitabelerin	Possession by 2.sg
+huzuru	Possession by 3.sg
+jölemde	Possession by 3.pl
+doğurdu	None
+konserin	Possession by 2.sg
+midyesi	Possession by 3.sg
+sayımların	Possession by 2.sg
+köylümüz	Possession by 1.pl
+referansın	Possession by 2.sg
+dizinin	Possession by 2.sg
+kolaylığı	Possession by 3.sg
+eğitmezsin	None
+işlemedim	None
+eteklerin	Possession by 2.sg
+teklifimde	Possession by 3.pl
+güneşleri	None
+hikâyelerde	None
+halkımızı	Possession by 1.pl
+görmüyor	None
+vitrine	None
+platformu	Possession by 3.sg
+pehlivanın	Possession by 2.sg
+teşhiri	Possession by 3.sg
+yontuyordunuz	None
+külü	Possession by 3.sg
+şelalede	None
+deneyimize	Possession by 1.pl
+arpalarınızdan	Possession by 2.pl
+oyun	Possession by 2.sg
+sağlarmış	None
+huzurum	Possession by 3.pl
+meşesi	Possession by 3.sg
+kameran	Possession by 2.sg
+yaralarım	Possession by 3.pl
+günüm	Possession by 3.pl
+beldesinde	Possession by 3.sg
+haritaların	Possession by 2.sg
+çarşısına	Possession by 3.sg
+şamisene	None
+ipeği	Possession by 3.sg
+eceni	Possession by 2.sg
+imambayıldılarınızı	Possession by 2.pl
+travması	Possession by 3.sg
+eriyiklerinizi	Possession by 2.pl
+finişime	Possession by 3.pl
+modeli	Possession by 3.sg
+iğnesinin	Possession by 3.sg
+çökeltinin	Possession by 2.sg
+masasından	Possession by 3.sg
+kutsallıkların	None
+itlerimin	Possession by 3.pl
+çalışmalarımızı	Possession by 1.pl
+iyileştirdin	None
+birleşmesinden	Possession by 3.sg
+çirkinlik	None
+tiyatrolarımı	Possession by 3.pl
+çetesi	Possession by 3.sg
+çeten	Possession by 2.sg
+bilgilerinize	Possession by 2.pl
+fikirlerimin	Possession by 3.pl
+kullandık	None
+kaynıyorum	None
+levreği	Possession by 3.sg
+lunaparkın	Possession by 2.sg
+sanatımızın	Possession by 1.pl
+kazmasını	Possession by 3.sg
+edebiyatımızda	Possession by 1.pl
+vahasında	Possession by 3.sg
+geyşaydılar	None
+bireyin	None
+incirlerin	Possession by 2.sg
+uzaklara	None
+demez	None
+yalıyordun	None
+silindirlerden	None
+kırışıklığımız	Possession by 1.pl
+hecelerde	None
+gösterilerin	Possession by 2.sg
+gecenin	Possession by 2.sg
+küllerin	Possession by 2.sg
+Tiranlıymışım	None
+menüye	None
+bileşikler	None
+pusulalarımızdan	Possession by 1.pl
+sülüsümüz	Possession by 1.pl
+hatırımız	Possession by 1.pl
+kullanmanı	Possession by 2.sg
+papanın	Possession by 2.sg
+animasyonu	Possession by 3.sg
+lezzetlerin	Possession by 2.sg
+ağlaşamıyorsun	None
+içgüdü	None
+buzullardı	None
+iskelet	None
+yaprakta	None
+basınlarımızdan	Possession by 1.pl
+amacım	Possession by 3.pl
+yıldızlarımızın	Possession by 1.pl
+zamanımızın	Possession by 1.pl
+standı	Possession by 3.sg
+davranışlarınızı	Possession by 2.pl
+önünüze	Possession by 2.pl
+köylüsünün	Possession by 3.sg
+pelikanlara	None
+önde	None
+uçlardan	None
+pusulasında	Possession by 3.sg
+intiharların	Possession by 2.sg
+yetkimi	Possession by 3.pl
+milyarder	None
+örtmezler	None
+tavuklara	None
+huzurlarımızda	Possession by 1.pl
+biralara	None
+geçmeniz	Possession by 2.pl
+ateşime	Possession by 3.pl
+kıyısı	Possession by 3.sg
+görüşlerimin	Possession by 3.pl
+pastırmaydınız	None
+kürke	None
+klitorisi	Possession by 3.sg
+zağarlardı	None
+omuzun	Possession by 2.sg
+ışıkların	Possession by 2.sg
+ulamlarda	None
+yağışlarınızdan	Possession by 2.pl
+karınlarımızın	Possession by 1.pl
+döneriz	None
+güvercinlermişiz	None
+öğrencinin	Possession by 2.sg
+taklidin	Possession by 2.sg
+popomuz	Possession by 1.pl
+yorgunluğa	None
+şamarlamadık	None
+geçmesini	Possession by 3.sg
+peçetelerden	None
+kazanı	Possession by 2.sg
+kloroplastların	Possession by 2.sg
+çalışmalarınızın	Possession by 2.pl
+güvenliliklerim	Possession by 3.pl
+sunucuna	Possession by 2.sg
+amacı	Possession by 3.sg
+sunusunu	Possession by 3.sg
+kapaktan	None
+adınızı	Possession by 2.pl
+jaguarı	None
+baslarımda	Possession by 3.pl
+bağırsaklarda	None
+votkasının	Possession by 3.sg
+beklemeden	None
+politikayı	None
+tutkusuna	Possession by 3.sg
+başarılı	None
+senaryolar	None
+sivrisineklerin	Possession by 2.sg
+işlemcisine	Possession by 3.sg
+devingenliklere	None
+günahın	Possession by 2.sg
+grubu	Possession by 3.sg
+yetkinizi	Possession by 2.pl
+heyet	None
+dinozoru	Possession by 3.sg
+tiyatromuz	Possession by 1.pl
+süspansuarlardan	None
+bağım	Possession by 3.pl
+hazcılığımıza	Possession by 1.pl
+fonksiyonlar	None
+parçanın	Possession by 2.sg
+koruyucuların	Possession by 2.sg
+müşterisinin	Possession by 3.sg
+ülkemin	Possession by 3.pl
+tariflerin	Possession by 2.sg
+fizikçinin	Possession by 2.sg
+leşi	Possession by 3.sg
+tasarrufu	Possession by 3.sg
+eğlencenin	Possession by 2.sg
+iribaştan	None
+öğreniyorlar	None
+nefretimizde	Possession by 1.pl
+kılavuz	None
+tuvaletlerin	None
+çarpın	Possession by 2.sg
+kantini	Possession by 3.sg
+oyuncusundan	Possession by 3.sg
+prezervatifi	Possession by 3.sg
+kardeşim	Possession by 3.pl
+görüşün	Possession by 2.sg
+çöllerin	Possession by 2.sg
+işletimin	Possession by 2.sg
+geyime	Possession by 3.pl
+elçisinin	Possession by 3.sg
+sanırım	None
+çipi	Possession by 3.sg
+odam	Possession by 3.pl
+bilgin	Possession by 2.sg
+noktalardır	None
+finali	Possession by 3.sg
+medresesinden	Possession by 3.sg
+tecrübesini	Possession by 3.sg
+başrahipden	None
+unum	Possession by 3.pl
+yoğurtçularımı	Possession by 3.pl
+velet	None
+tiyatrosuna	Possession by 3.sg
+ışınların	Possession by 2.sg
+efesi	Possession by 3.sg
+birlikteliğin	Possession by 2.sg
+boksumdan	Possession by 3.pl
+derin	Possession by 2.sg
+gülüşünüz	Possession by 2.pl
+seçilmez	None
+cezeryemizin	Possession by 1.pl
+akrabasına	Possession by 3.sg
+defterimden	Possession by 3.pl
+çırağa	None
+hacım	Possession by 3.pl
+misafirim	Possession by 3.pl
+kaynıyor	None
+yayımcılığı	Possession by 3.sg
+aldım	None
+yolculuklarımızın	Possession by 1.pl
+âmânızı	Possession by 2.pl
+öğretim	Possession by 3.pl
+yakınım	Possession by 3.pl
+böreği	Possession by 3.sg
+fikrimiz	Possession by 1.pl
+kulun	Possession by 2.sg
+satılıyorsunuz	None
+karakterden	None
+sosisi	Possession by 3.sg
+sürücüsü	Possession by 3.sg
+indirimimize	Possession by 1.pl
+rotoru	Possession by 3.sg
+kazanacak	None
+kolikamı	Possession by 3.pl
+pancarın	Possession by 2.sg
+odamız	Possession by 1.pl
+çapmışsınız	None
+gökdelenler	None
+hanımların	Possession by 2.sg
+yanıtım	Possession by 3.pl
+fırtınalarda	None
+almadık	None
+odasından	Possession by 3.sg
+edatlar	None
+değiştiririz	None
+kedicikleriniz	Possession by 2.pl
+cevabı	Possession by 3.sg
+süslerin	Possession by 2.sg
+kapısı	Possession by 3.sg
+aletlerimin	Possession by 3.pl
+sabahı	Possession by 3.sg
+şüphelerimi	Possession by 3.pl
+ahududu	None
+yolundurtacaksın	None
+kozan	Possession by 2.sg
+papatyaların	Possession by 2.sg
+vaktimiz	Possession by 1.pl
+özürlerimi	Possession by 3.pl
+tümörlerde	None
+soğur	None
+tekrarımızı	Possession by 1.pl
+lordların	Possession by 2.sg
+teoremi	Possession by 3.sg
+samurlarımıza	Possession by 1.pl
+enfeksiyondan	None
+saçlarımı	Possession by 3.pl
+protestoların	Possession by 2.sg
+haçı	Possession by 3.sg
+bedevilersin	None
+yanıtınız	Possession by 2.pl
+böbreklerin	Possession by 2.sg
+vazolarsın	None
+kategorisinin	Possession by 3.sg
+yapıştı	None
+gönlüme	Possession by 3.pl
+korkmuyoruz	None
+çetesinde	Possession by 3.sg
+fahişelerin	Possession by 2.sg
+hatalarımdan	Possession by 3.pl
+sekmeyi	None
+yoğurdun	Possession by 2.sg
+fikrinizi	Possession by 2.pl
+armudu	None
+şelalesine	Possession by 3.sg
+Aşkabatlılarınızdan	Possession by 2.pl
+cevherlerden	None
+içeceğin	Possession by 2.sg
+kutusuna	Possession by 3.sg
+parçalanması	Possession by 3.sg
+kimliklerimde	Possession by 3.pl
+severler	None
+okulların	Possession by 2.sg
+dinletisinde	Possession by 3.sg
+bölümümüz	Possession by 1.pl
+özetin	Possession by 2.sg
+virgülden	None
+memleketimden	Possession by 3.pl
+ustasının	Possession by 3.sg
+sunucuların	Possession by 2.sg
+umuyordu	None
+oyuncularımız	Possession by 1.pl
+yüzeylere	None
+çıttan	None
+diskoteğe	None
+tanrısından	Possession by 3.sg
+islerin	Possession by 2.sg
+duylarımızdan	Possession by 1.pl
+gençliğin	Possession by 2.sg
+sattı	None
+aşiretlerinizi	Possession by 2.pl
+tüylerin	Possession by 2.sg
+bitirdik	None
+deneyimlerimizden	Possession by 1.pl
+burktu	None
+cadının	None
+onardı	None
+vaftiz	None
+volkanın	Possession by 2.sg
+yıpratmazsın	None
+yumurtanın	Possession by 2.sg
+mısradan	None
+lezyonların	Possession by 2.sg
+isterler	None
+pehlivanların	Possession by 2.sg
+kalmayacağım	None
+mutluluğu	Possession by 3.sg
+dullarım	Possession by 3.pl
+ayırmaz	None
+Duşanbelisini	Possession by 3.sg
+kâğıdın	Possession by 2.sg
+kazaların	Possession by 2.sg
+tarifinizi	Possession by 2.pl
+aşkın	Possession by 2.sg
+popondan	Possession by 2.sg
+iskenderin	Possession by 2.sg
+nedenim	Possession by 3.pl
+içlik	None
+aktöre	None
+tadımı	Possession by 3.pl
+yaprağın	Possession by 2.sg
+jokeyimde	Possession by 3.pl
+demeyeceğim	None
+vaktimin	Possession by 3.pl
+mantığın	Possession by 2.sg
+askerimizi	Possession by 1.pl
+merminin	Possession by 2.sg
+yengeçlerin	Possession by 2.sg
+açtık	None
+dadanmayacaklar	None
+bulguru	Possession by 3.sg
+izolasyondan	None
+sunumu	Possession by 3.pl
+üzümün	Possession by 2.sg
+tuşlardan	None
+işlemcimde	Possession by 3.pl
+sonbaharlarınız	Possession by 2.pl
+sürüne	Possession by 2.sg
+tarafların	Possession by 2.sg
+konumu	Possession by 3.pl
+yolcunun	Possession by 2.sg
+değişkenlersiniz	None
+enişteyi	None
+afiyetlerimizden	Possession by 1.pl
+sistemimizi	Possession by 1.pl
+modasında	Possession by 3.sg
+tacizi	None
+surede	None
+birleşmesinin	Possession by 3.sg
+dizdiler	None
+tutulmasına	Possession by 3.sg
+taksim	Possession by 3.pl
+evrime	None
+ehemmiyeti	Possession by 3.sg
+sonun	Possession by 2.sg
+lastiğimizin	Possession by 1.pl
+element	None
+dülgeri	None
+pilavın	Possession by 2.sg
+desende	None
+yedeğimizi	Possession by 1.pl
+enstrümantallerinize	Possession by 2.pl
+eğriyi	None
+taşımam	None
+alnım	Possession by 3.pl
+yörüngesine	Possession by 3.sg
+mutluluğa	None
+süzmeyeceğim	None
+dağılmasından	Possession by 3.sg
+bombasına	Possession by 3.sg
+cenazesinden	Possession by 3.sg
+bölgelerin	Possession by 2.sg
+donması	Possession by 3.sg
+konusundan	Possession by 3.sg
+topolojilerinizde	Possession by 2.pl
+katmayacak	None
+ekonomisti	None
+fırçayı	None
+karnı	Possession by 3.sg
+şarkıcısını	Possession by 3.sg
+arzuların	Possession by 2.sg
+ömrümden	Possession by 3.pl
+katımızdan	Possession by 1.pl
+hatalardan	None
+sokağı	Possession by 3.sg
+lahanası	Possession by 3.sg
+savaşlarda	None
+seçicisi	Possession by 3.sg
+fotoğrafçıydılar	None
+uzunlukların	Possession by 2.sg
+leblebinin	Possession by 2.sg
+tangalarınıza	Possession by 2.pl
+papası	Possession by 3.sg
+yaptırırlar	None
+öyküsünde	Possession by 3.sg
+kocasına	Possession by 3.sg
+tarafımdan	Possession by 3.pl
+uyardılar	None
+sahip	None
+evreni	Possession by 3.sg
+akbabalara	None
+termometrelerimiz	Possession by 1.pl
+inanıyordum	None
+senaryosunun	Possession by 3.sg
+çalacak	None
+öldürmez	None
+dönüşüme	Possession by 3.pl
+şövalyelere	None
+sınırımızı	Possession by 1.pl
+cümlemin	Possession by 3.pl
+şüphelerin	Possession by 2.sg
+önünüzde	Possession by 2.pl
+sagalarda	None
+karıncaların	Possession by 2.sg
+kimyacılar	None
+çalışmalarımın	Possession by 3.pl
+kader	None
+erdemliymişim	None
+bileşiklerin	Possession by 2.sg
+bitmesinin	Possession by 3.sg
+yöresine	Possession by 3.sg
+satışlarıma	Possession by 3.pl
+asitte	None
+klavyesi	Possession by 3.sg
+merkezlerin	None
+bahçelerin	Possession by 2.sg
+akvaryumu	Possession by 3.sg
+söyleşimi	Possession by 3.pl
+mısralarımızı	Possession by 1.pl
+darılmayacaksınız	None
+bisküvisi	Possession by 3.sg
+şampiyonluğun	Possession by 2.sg
+boğazların	Possession by 2.sg
+tutkudan	None
+hatanın	Possession by 2.sg
+bilgilere	None
+savaşım	Possession by 3.pl
+gösterisine	Possession by 3.sg
+bekletmedik	None
+kullanıcılarımız	Possession by 1.pl
+taykonotlarız	None
+sosu	Possession by 3.sg
+şelalesinin	Possession by 3.sg
+dizisinde	Possession by 3.sg
+kalkan	None
+sahnelere	None
+aşımı	Possession by 3.pl
+enflasyon	None
+şahısı	Possession by 3.sg
+şizofrenide	None
+işlemesine	Possession by 3.sg
+yağmasına	Possession by 3.sg
+defterin	Possession by 2.sg
+şikâyetin	Possession by 2.sg
+güveni	Possession by 3.sg
+sözcüsünün	Possession by 3.sg
+derinin	Possession by 2.sg
+bezmiyorduk	None
+izlencesi	Possession by 3.sg
+ateşim	Possession by 3.pl
+hançere	None
+önemsizliklerimizde	Possession by 1.pl
+saatte	None
+sinematografımın	Possession by 3.pl
+yüzeyi	Possession by 3.sg
+girdabın	Possession by 2.sg
+makinayı	None
+sporcu	None
+doğurmuyor	None
+ağlamaya	None
+teoremin	Possession by 2.sg
+perdelerden	None
+dalgıcımdan	Possession by 3.pl
+karakolun	Possession by 2.sg
+şarkıcım	Possession by 3.pl
+yakana	Possession by 2.sg
+tecrübelerimizin	Possession by 1.pl
+eziyetçilerden	None
+algoritmasına	Possession by 3.sg
+anlatıyorlar	None
+radyosunda	Possession by 3.sg
+eşiğin	Possession by 2.sg
+küvetin	Possession by 2.sg
+seveceksiniz	None
+öğrencilerinize	Possession by 2.pl
+büze	None
+aseksüellerin	Possession by 2.sg
+cevaplarımı	Possession by 3.pl
+seçmesinde	Possession by 3.sg
+eğitimden	None
+yakanda	Possession by 2.sg
+paşaydılar	None
+cephesinin	Possession by 3.sg
+silindiri	Possession by 3.sg
+malı	Possession by 3.sg
+devin	Possession by 2.sg
+kumandasını	Possession by 3.sg
+baykuşu	Possession by 3.sg
+şarapçıydım	None
+futbolcuların	Possession by 2.sg
+kâğıtlarımızı	Possession by 1.pl
+önerilerinize	Possession by 2.pl
+dönersin	None
+manivelanın	Possession by 2.sg
+ehemmiyetsizliğinize	Possession by 2.pl
+ikizim	Possession by 3.pl
+zahmet	None
+uçurtmam	Possession by 3.pl
+tabancalarda	None
+müstahdemlermiş	None
+şarkım	Possession by 3.pl
+başvurum	Possession by 3.pl
+kabalığı	Possession by 3.sg
+üyeymişler	None
+memen	Possession by 2.sg
+gazetelerimizi	Possession by 1.pl
+şaşırmadılar	None
+bazımıza	Possession by 1.pl
+flaşı	Possession by 3.sg
+nişanlısının	Possession by 3.sg
+takımda	Possession by 3.pl
+yanıtlarımın	Possession by 3.pl
+birayı	None
+heyecanın	Possession by 2.sg
+Türkçeleştirmiyordun	None
+sisi	Possession by 3.sg
+deneyimimden	Possession by 3.pl
+kâinatın	Possession by 2.sg
+iyeliği	Possession by 3.sg
+monoloğu	Possession by 3.sg
+imamların	Possession by 2.sg
+mermisinden	Possession by 3.sg
+karların	Possession by 2.sg
+öznesinin	Possession by 3.sg
+palyaçonun	Possession by 2.sg
+sesçilersiniz	None
+tavuğun	Possession by 2.sg
+örter	None
+çıktın	Possession by 2.sg
+beklemedik	None
+düğünümün	Possession by 3.pl
+yeterliliklerin	Possession by 2.sg
+kararlarınız	Possession by 2.pl
+tohumun	Possession by 2.sg
+mikroorganizmada	None
+müstahdemim	Possession by 3.pl
+balkanlarımızın	Possession by 1.pl
+bürokrasinin	None
+minaresi	Possession by 3.sg
+kanatın	None
+evlada	None
+dünürü	Possession by 3.sg
+kiliseni	Possession by 2.sg
+üreticinin	Possession by 2.sg
+mikroişlemci	None
+kullanımımız	Possession by 1.pl
+davranışlar	None
+borç	None
+gözler	None
+gösterimden	Possession by 3.pl
+mısralarda	None
+gazetesini	Possession by 3.sg
+yardımcınız	Possession by 2.pl
+haritası	Possession by 3.sg
+oyunuzun	Possession by 2.pl
+teorinizden	Possession by 2.pl
+tercihlerden	None
+vadesine	Possession by 3.sg
+kapılarda	None
+savaşlara	None
+hasreti	Possession by 3.sg
+kusmamdan	Possession by 3.pl
+şivelerin	Possession by 2.sg
+zigguratlar	None
+tahtın	Possession by 2.sg
+balığın	Possession by 2.sg
+pozisyonu	Possession by 3.sg
+incirler	None
+ilişkilerden	None
+sayfalandırmalarınızı	Possession by 2.pl
+eksenin	Possession by 2.sg
+fotoğrafın	Possession by 2.sg
+yetkin	Possession by 2.sg
+misafirin	Possession by 2.sg
+görüşümüzü	Possession by 1.pl
+ısırıkta	None
+tabiyetlerinizde	Possession by 2.pl
+vurmadın	None
+alınlarınızı	Possession by 2.pl
+eğlenmiyordum	None
+nöronu	Possession by 3.sg
+akciğeri	Possession by 3.sg
+sınırın	Possession by 2.sg
+paşasını	Possession by 3.sg
+puanın	Possession by 2.sg
+böbreklerinizden	Possession by 2.pl
+ışınımı	Possession by 3.pl
+cevabın	Possession by 2.sg
+gelmesi	Possession by 3.sg
+tutacağım	None
+sonların	Possession by 2.sg
+düşerim	None
+ilkesine	Possession by 3.sg
+durumu	Possession by 3.sg
+bitkisinde	Possession by 3.sg
+oylarıma	Possession by 3.pl
+tekrarı	Possession by 3.sg
+heykelciği	Possession by 3.sg
+başrahipmiş	None
+kuruma	None
+itilmezsiniz	None
+ıspanaktan	None
+incirlerimizin	Possession by 1.pl
+ropdöşambırlardan	None
+bel	None
+seccadesi	Possession by 3.sg
+saldırmadı	None
+göstermiyorum	None
+susacak	None
+ziyaretlerin	Possession by 2.sg
+röpörtajumuz	Possession by 1.pl
+ulumuyor	None
+nilüferlerinizi	Possession by 2.pl
+gübresinin	Possession by 3.sg
+yeleğin	Possession by 2.sg
+sözcüğün	Possession by 2.sg
+tutulmanın	Possession by 2.sg
+biralarda	None
+ejderhanı	Possession by 2.sg
+rehberin	Possession by 2.sg
+yasaktı	None
+aygırı	Possession by 3.sg
+güzü	None
+şimşeği	None

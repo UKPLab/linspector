@@ -1,6 +1,6 @@
 This package contains the necessary files to create the probing tests. You need to unzip the `unimorph.zip` file under `../unzipped` directory, and download the word frequency lists for the languages you are interested in. We use [fastText vector files trained on wiki](https://fasttext.cc/docs/en/pretrained-vectors.html), since the words are ordered with frequency. Save the vector files under `../embeddings`.  
 
-We already created the files for you under `../probing_datasets`. In case you want to generate with different settings or for different languages:
+We already created the files for you under `../intrinsic/data`. In case you want to generate with different settings or for different languages:
 
 **Available Functions:**
 
