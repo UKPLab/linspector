@@ -1,6 +1,6 @@
 LINSPECTOR
 ===========
-
+![text](https://i.ibb.co/tb0psXM/Copy-of-Inspector-Gadget.png)
 Language Inspector (LINSPECTOR) is an effort to interpret the **multilingual** black box NLP models. With this work, we release an easy-to-use framework to help researchers,_especially the ones that are interested in world languages_, understand their word representations better. 
 
 * We have created and released 15 probing tasks for 24 languages. 
