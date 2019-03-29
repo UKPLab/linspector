@@ -18,6 +18,11 @@ def _split(data, train, dev, test):
 	ds = {"train": data[:chunk*train], "dev": data[chunk*train:chunk*(train+dev)], "test": data[chunk*(train+dev):]}
 	return ds
 
+def _downsample(data, percent):
+	random.shuffle(data)
+	cut = math.ceil(len(data)/100)*percent
+	return data[:cut]
+
 # Finnish: word \t NER tag \t another NER tag?...
 def convert_finnish(srcn, tgtn):
 	with open(srcn) as src:
@@ -27,7 +32,8 @@ def convert_finnish(srcn, tgtn):
 				if not line.startswith("<"):
 					if line:
 						word, tag, _ = line.split("\t")
-						tgt.write(" ".join([word, "X", "X", tag]))
+						if word!="":
+							tgt.write(" ".join([word, "X", "B-X", tag]))
 					tgt.write("\n")
 
 # German: token_id \t word \t NER \t ?
@@ -39,7 +45,8 @@ def convert_german(srcn, tgtn):
 					if not line.startswith("#"):
 						if line:
 							tid, word, tag, _ = line.split("\t")
-							tgt.write(" ".join([word, "X", "X", tag]))
+							if word!="":
+								tgt.write(" ".join([word, "X", "B-X", tag]))
 						tgt.write("\n")
 
 # Russian: word \t NER \t another_NER
@@ -60,13 +67,15 @@ def convert_russian(srcn, tgt_folder):
 			if len(sentence)>0:
 				data += [_tuples_to_seq(sentence)]
 				sentence = []
-	
+
+	data = _downsample(data, 8)
 	ds = _split(data, 60, 20, 20)
 	for dset, data in ds.items():
 		with open(os.path.join(tgt_folder, f"{dset}.txt"), "w") as f:
 			for sentence in data:
 				for w, t in _seq_to_tuples(sentence):
-					f.write(" ".join([w, "X", "X", t])+"\n")
+					if w!="":
+						f.write(" ".join([w, "X", "B-X", t])+"\n")
 				f.write("\n")
 
 # Spanish CoNLL-2002: word NER
@@ -77,7 +86,8 @@ def convert_spanish(srcn, tgtn):
 				line = line.strip()
 				if line:
 					word, tag = line.split(" ")
-					tgt.write(" ".join([word, "X", "X", tag]))
+					if word!="":
+						tgt.write(" ".join([word, "X", "B-X", tag]))
 				tgt.write("\n")
 
 
@@ -86,20 +96,22 @@ def convert_turkish(srcf, tgt_folder):
 	data = []
 	for line in open(srcf):
 		data += [line.strip()]
+	data = _downsample(data, 5)
 	ds = _split(data, 60, 20, 20)
 	for dset, sentences in ds.items():
 		with open(os.path.join(tgt_folder, f"{dset}.txt"), "w") as f:
 			for sentence in sentences:
 				domain, tags, words = sentence.split("\t")
 				for t, w in zip(tags.split(" "), words.split(" ")):
-					f.write(" ".join([w, "X", "X", t])+"\n")
+					if w!="":
+						f.write(" ".join([w, "X", "B-X", t])+"\n")
 				f.write("\n")
 
 
 
 
 if __name__ == "__main__":
-	out_dir = "converted"
+	out_dir = "_out"
 	shutil.rmtree(out_dir)
 	os.mkdir(out_dir)
 	out_lang_dir = {lang: os.path.join(out_dir, lang) for lang in ["de", "es", "fi", "ru", "tr"]}
