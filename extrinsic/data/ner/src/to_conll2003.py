@@ -99,7 +99,7 @@ def convert_turkish(srcf, tgt_folder):
 
 
 if __name__ == "__main__":
-	out_dir = "converted"
+	out_dir = "_out"
 	shutil.rmtree(out_dir)
 	os.mkdir(out_dir)
 	out_lang_dir = {lang: os.path.join(out_dir, lang) for lang in ["de", "es", "fi", "ru", "tr"]}
