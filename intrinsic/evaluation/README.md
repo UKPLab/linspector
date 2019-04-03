@@ -73,7 +73,7 @@ allennlp predict model_dir/model.tar.gz test_file_path \
 
 For your convenience, we have prepared a script to automatically train models for a number of languages, embeddings, and features. You can run the following command in your terminal:
 ```bash
-python scripts/prepare_scripts.py --data_dir probing_data_dir --embedding_dir your_embedding_dir --embedding_types word2vec,bpe --mode classification
+python scripts/prepare_scripts.py --data_dir probing_data_dir --embedding_dir your_embedding_dir --embedding_types w2v,bpe --mode classification
 ```
 
 Here, `probing_data_dir` is the path to the intrinsic data directory. `your_embedding_dir` should have the structure of `embeddings_dir/language_id/embedding_type/final_embeds.vec`. Embedding types include word2vec, bpe, fasttext, elmo, and muse (all lowercased, separated by a comma). Mode options are `classification` or `contrastive` (for paired word test). These four parameters are required to run the script. Other optional parameters can be seen in the `prepare_scripts.py` file. 
