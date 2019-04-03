@@ -12,18 +12,18 @@ serialization_dir = "ner_out"
 shutil.rmtree(serialization_dir, ignore_errors=True)
 
 path_prefix_by_lang = {"de": "data/ner/de/", 
-			#"es": "data/ner/es/",
-			#"fi": "data/ner/fi/",
+			"es": "data/ner/es/",
+			"fi": "data/ner/fi/",
 			"ru": "data/ner/ru/",
 			"tr": "data/ner/tr/"}
 
-embeddings = ['w2v']#, 'bpe', 'fasttext', 'elmo','muse_supervised']
+embeddings = ['w2v', 'bpe', 'fasttext', 'elmo','muse_supervised']
 base_embed_path = "../../embeddings" # adjust path
 for lang in path_prefix_by_lang:
 	for embed in embeddings:
 		embed_path = os.path.join(base_embed_path, lang, embed, "final_embeds.vec")
 		lang_specific_config = {}
-		lang_specific_config["train_data_path"] = path_prefix_by_lang[lang]+"dev.txt"
+		lang_specific_config["train_data_path"] = path_prefix_by_lang[lang]+"train.txt"
 		lang_specific_config["validation_data_path"] = path_prefix_by_lang[lang]+"dev.txt"
 		lang_specific_config["test_data_path"] = path_prefix_by_lang[lang]+"test.txt"
 
