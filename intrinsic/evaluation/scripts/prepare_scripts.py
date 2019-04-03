@@ -4,7 +4,7 @@
 # @Last Modified by:   claravania
 # @Last Modified time: 2019-04-01 16:03:48
 
-import os
+import os, sys
 import argparse
 
 from collections import defaultdict
@@ -127,6 +127,7 @@ def generate_scripts(args):
 
 				embedding_file = os.path.join(embedding_dir, langId[lang], emb_type, 'final_embeds.vec')
 				if not os.path.isfile(embedding_file):
+					print(embedding_file)
 					sys.stderr("Embedding is not available for ", lang, ". This language will be skipped.")
 					continue
 				with open(json_template) as f:
