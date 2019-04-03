@@ -1,5 +1,3 @@
-// Configuration for a named entity recognization model based on:
-//   Peters, Matthew E. et al. “Deep contextualized word representations.” NAACL-HLT (2018).
 {
   "dataset_reader": {
     "type": "conll2003",
@@ -10,10 +8,6 @@
         "type": "single_id",
         "lowercase_tokens": true
       },
-      //"token_characters": {
-      //  "type": "characters",
-      //  "min_padding_length": 3
-      //}
     }
   },
   "train_data_path": "[TRAIN]",
@@ -32,21 +26,8 @@
             "type": "embedding",
             "embedding_dim": 300,
             "pretrained_file": "[VECTORS]",
-            "trainable": true
+            "trainable": false
         },
-        //"token_characters": {
-        //    "type": "character_encoding",
-        //    "embedding": {
-        //        "embedding_dim": 16
-        //    },
-        //    "encoder": {
-        //        "type": "cnn",
-        //        "embedding_dim": 16,
-        //        "num_filters": 128,
-        //        "ngram_filter_sizes": [3],
-        //        "conv_layer_activation": "relu"
-        //    }
-        //  }
        },
     },
     "encoder": {
@@ -59,8 +40,9 @@
     },
   },
   "iterator": {
-    "type": "basic",
-    "batch_size": 64
+    "type": "bucket",
+    "sorting_keys": [["tokens", "num_tokens"]],
+    "batch_size": 32,
   },
   "trainer": {
     "optimizer": {
@@ -69,9 +51,11 @@
     },
     "validation_metric": "+f1-measure-overall",
     "num_serialized_models_to_keep": 3,
-    "num_epochs": 75,
+    "num_epochs": 20,
     "grad_norm": 5.0,
-    "patience": 25,
+    "patience": 10,
     "cuda_device": -1
-  }
+  },
+  "evaluate_on_test": true
 }
+
