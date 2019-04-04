@@ -5,21 +5,20 @@ import os
 
 from allennlp.commands import main
 
-basic_config = "pos.jsonnet"
+basic_config = "config/ud_pos/pos.jsonnet"
 
 serialization_dir = "pos_out"
 
 shutil.rmtree(serialization_dir, ignore_errors=True)
 
-path_prefix_by_lang = {"de": "../data/ud_pos/de/de_gsd-ud-", 
-						"es": "../data/ud_pos/es/es_ancora-ud-",
-						"fi": "../data/ud_pos/fi/fi_tdt-ud-",
-						"ru": "../data/ud_pos/ru/ru_syntagrus-ud-",
-						"tr": "../data/ud_pos/tr/tr_imst-ud-"}
+path_prefix_by_lang = {"de": "data/ud_pos/de/de_gsd-ud-", 
+						"es": "data/ud_pos/es/es_ancora-ud-",
+						"fi": "data/ud_pos/fi/fi_tdt-ud-",
+						"ru": "data/ud_pos/ru/ru_syntagrus-ud-",
+						"tr": "data/ud_pos/tr/tr_imst-ud-"}
 
-#embeddings_by_lang = {lang: f"/home/kuznetsov/Projects/subword/w2v_sbw/clean_vec/{lang}-vectors.vec" for lang in path_prefix_by_lang}
-embeddings = ['bpe', 'fasttext', 'elmo','muse_supervised']
-base_embed_path = "/home/sahin/Workspace/embeddings"
+embeddings = ["w2v", 'bpe', 'fasttext', 'elmo','muse_supervised']
+base_embed_path = "../../embeddings"
 for lang in path_prefix_by_lang:
 	for embed in embeddings:
 		#out = os.path.join(serialization_dir, lang, embed)
