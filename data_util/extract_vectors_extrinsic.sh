@@ -1,163 +1,40 @@
 #!/usr/bin/env bash
-
 FOLDER=../embeddings
 WORDFOLDER=../words/extrinsic
 OUTFOLDER=../saved_embeddings/extrinsic
-slang="es"
-
-
-for id in {1..2}
-do
-   echo "Extracting ELMO for "$slang" for part: "$id
-   python3 extract_vectors.py \
+languages=("es" "de" "fi" "ru" "tr")
+for id in {1..2}; do
+  for langId in "${languages[@]}"; do
+    echo "Extracting ELMO for $langId for part: $id"
+    python3 extract_vectors.py \
     --w2vtype "elmo" \
-    --lang $slang \
-    --embedding "$FOLDER/elmo/$slang" \
+    --lang $langId \
+    --embedding "$FOLDER/elmo/$langId" \
     --part $id \
-    --infile "$WORDFOLDER/$slang/splitted_es_$id.txt" \
+    --infile "$WORDFOLDER/$langId/splitted_$langId_$id.txt" \
     --savedir $OUTFOLDER
-done
-
-for id in {1..2}
-do
-	echo "Extracting original fasttext for "$slang
-	python3 extract_vectors.py \
-	--w2vtype "fasttext" \
-	--lang $slang \
-	--embedding "$FOLDER/fasttext/wiki.$slang/wiki.$slang" \
-	--part $id \
-	--infile "$WORDFOLDER/$slang/splitted_es_$id.txt" \
-	--savedir $OUTFOLDER
-done
-
-for id in {1..2}
-do
-	echo "Extracting muse supervised for "$slang
-	python3 extract_vectors.py \
-	--w2vtype "muse_supervised" \
-	--lang $slang \
-	--embedding "$FOLDER/muse_supervised/wiki.multi.$slang/wiki.multi.$slang" \
-	--part $id \
-	--infile "$WORDFOLDER/$slang/splitted_es_$id.txt" \
-	--savedir $OUTFOLDER
-done
-
-slang="fi"
-echo "Finnish"
-
-for id in {1..3}
-do
-   echo "Extracting ELMO for "$slang" for part: "$id
-   python3 extract_vectors.py \
-    --w2vtype "elmo" \
-    --lang $slang \
-    --embedding "$FOLDER/elmo/$slang" \
+    echo "Extracting BPE for $langId for part: $id"
+    python3 extract_vectors.py \
+    --w2vtype "bpe" \
+    --lang $langId \
     --part $id \
-    --infile "$WORDFOLDER/$slang/splitted_fi_$id.txt" \
+    --infile "$WORDFOLDER/$langId/splitted_$langId_$id.txt" \
     --savedir $OUTFOLDER
-done
-
-for id in {1..3}
-do
-	echo "Extracting original fasttext for "$slang
-	python3 extract_vectors.py \
-	--w2vtype "fasttext" \
-	--lang $slang \
-	--embedding "$FOLDER/fasttext/wiki.$slang/wiki.$slang" \
-	--part $id \
-	--infile "$WORDFOLDER/$slang/splitted_fi_$id.txt" \
-	--savedir $OUTFOLDER
-done
-
-for id in {1..3}
-do
-	echo "Extracting muse supervised for "$slang
-	python3 extract_vectors.py \
-	--w2vtype "muse_supervised" \
-	--lang $slang \
-	--embedding "$FOLDER/muse_supervised/wiki.multi.$slang/wiki.multi.$slang" \
-	--part $id \
-	--infile "$WORDFOLDER/$slang/splitted_fi_$id.txt" \
-	--savedir $OUTFOLDER
-done
-
-echo "Russian"
-slang="ru"
-
-
-for id in {1..6}
-do
-   echo "Extracting ELMO for "$slang" for part: "$id
-   python3 extract_vectors.py \
-    --w2vtype "elmo" \
-    --lang $slang \
-    --embedding "$FOLDER/elmo/$slang" \
-    --part $id \
-    --infile "$WORDFOLDER/$slang/splitted_ru_$id.txt" \
-    --savedir $OUTFOLDER
-done
-
-for id in {1..6}
-do
-	echo "Extracting original fasttext for "$slang
-	python3 extract_vectors.py \
-	--w2vtype "fasttext" \
-	--lang $slang \
-	--embedding "$FOLDER/fasttext/wiki.$slang/wiki.$slang" \
-	--part $id \
-	--infile "$WORDFOLDER/$slang/splitted_ru_$id.txt" \
-	--savedir $OUTFOLDER
-done
-
-for id in {1..6}
-do
-	echo "Extracting muse supervised for "$slang
-	python3 extract_vectors.py \
-	--w2vtype "muse_supervised" \
-	--lang $slang \
-	--embedding "$FOLDER/muse_supervised/wiki.multi.$slang/wiki.multi.$slang" \
-	--part $id \
-	--infile "$WORDFOLDER/$slang/splitted_ru_$id.txt" \
-	--savedir $OUTFOLDER
-done
-
-
-echo "Turkish"
-slang="tr"
-
-
-for id in {1..10}
-do
-   echo "Extracting ELMO for "$slang" for part: "$id
-   python3 extract_vectors.py \
-    --w2vtype "elmo" \
-    --lang $slang \
-    --embedding "$FOLDER/elmo/$slang" \
-    --part $id \
-    --infile "$WORDFOLDER/$slang/splitted_tr_$id.txt" \
-    --savedir $OUTFOLDER
-done
-
-for id in {1..10}
-do
-	echo "Extracting original fasttext for "$slang
-	python3 extract_vectors.py \
-	--w2vtype "fasttext" \
-	--lang $slang \
-	--embedding "$FOLDER/fasttext/wiki.$slang/wiki.$slang" \
-	--part $id \
-	--infile "$WORDFOLDER/$slang/splitted_tr_$id.txt" \
-	--savedir $OUTFOLDER
-done
-
-for id in {1..10}
-do
-	echo "Extracting muse supervised for "$slang
-	python3 extract_vectors.py \
-	--w2vtype "muse_supervised" \
-	--lang $slang \
-	--embedding "$FOLDER/muse_supervised/wiki.multi.$slang/wiki.multi.$slang" \
-	--part $id \
-	--infile "$WORDFOLDER/$slang/splitted_tr_$id.txt" \
-	--savedir $OUTFOLDER
+    echo "Extracting original fasttext for $langId for part: $id"
+    python3 extract_vectors.py \
+   	--w2vtype "fasttext" \
+   	--lang $langId \
+   	--embedding "$FOLDER/fasttext/wiki.$langId/wiki.$langId" \
+   	--part $id \
+   	--infile "$WORDFOLDER/$langId/splitted_$langId_$id.txt" \
+   	--savedir $OUTFOLDER
+    echo "Extracting muse supervised for $langId for part: $id"
+  	python3 extract_vectors.py \
+  	--w2vtype "muse_supervised" \
+  	--lang $langId \
+  	--embedding "$FOLDER/muse_supervised/wiki.multi.$langId/wiki.multi.$langId" \
+  	--part $id \
+  	--infile "$WORDFOLDER/$langId/splitted_$langId_$id.txt" \
+  	--savedir $OUTFOLDER
+  done
 done
