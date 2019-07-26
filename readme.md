@@ -1,5 +1,7 @@
 LINSPECTOR
 ===========
+```This repository contains experimental software and is published for the sole purpose of giving additional background details on the respective publication. ```
+
 Language Inspector (LINSPECTOR) is an effort to interpret the **multilingual** black box NLP models. With this work, we release an easy-to-use framework to help researchers,_especially the ones that are interested in world languages_, understand their word representations better. 
 
 * We have created and released 15 probing tasks for 24 languages. 
