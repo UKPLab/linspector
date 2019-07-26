@@ -4,4 +4,5 @@ Ubiquitous Knowledge Processing (UKP) Lab
 Technische Universität Darmstadt
 -------------------------------------------------------------------------------
 
-Third party legal information
+The code of the project is provided under Apache 2.0 license (see LICENSE.TXT).
+The licensing for derivative datasets is specified in the respective folders.
