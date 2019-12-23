@@ -1,0 +1,2000 @@
+- Proszę ?	1	Imperfective
+- Szukasz kobiety na tę noc ?	1	Imperfective
+Nie przewidywały , że na własnej piersi wyhodują sobie takiego gada .	7	Perfective
+- Postaram się .	1	Perfective
+Wycieczka musiała zmienić trasę marszu i zgubiła się .	2	Perfective
+Od sierpnia strzelił Pan dla Borussii 12 goli .	2	Perfective
+Nikogo nie odnaleziono .	2	Perfective
+I niech porównuje !	2	Imperfective
+– no wiesz .	2	Imperfective
+W wyniku nieadiabatycznego ochładzania najniższych warstw troposfery powstają , ogólnie biorąc , najniższe chmury warstwowe .	3	Imperfective
+Chcesz mi w głowie przewrócić ?	0	Imperfective
+Martwił em się także relacjami z rodziną .	0	Imperfective
+Nie zdołał eś do dna wyrwać tej maleńkiej drobiny , zachowanej w czeluści mego serca .	10	Perfective
+Twierdzili , że nie oddali córki do szpitala , bo nie mogli by jej odwiedzać .	4	Perfective
+Chcemy odwiedzić kolegów .	0	Imperfective
+Później nie mogła zasnąć i przez to dzień wydłużał się niepomiernie .	8	Imperfective
+Zdjęła m już z siebie wszystko .	0	Perfective
+Baszmaczkina sam niegdyś postawił em w dzienniku obok kopisty Bartleby z noweli Melville'a .	4	Imperfective
+I stało się .	1	Perfective
+Nie wiedziała .	1	Imperfective
+Do podlewania sadzonek wyśmienicie nadają się filtrowane ścieki .	1	Imperfective
+Nic nie wypada na zewnątrz .	2	Imperfective
+Pokochał em włoską dziewczynę .	0	Perfective
+A towarzyszą temu okrzyki i gesty wyrażające pogardę , wrogość , zawziętość .	1	Imperfective
+Jeśli resort zaakceptuje programy , będzie je finansować .	7	Imperfective
+Mam nadzieję , że Was zainteresuje .	0	Imperfective
+Podniosł em słuchawkę .	0	Perfective
+Lubił pracować w polu .	0	Imperfective
+W wielkim domu znajdziesz dwie malowane brody .	3	Perfective
+Drżyj w rozpaczy !	0	Imperfective
+- Nie wiecie , dla kogo walczyli ście ?	7	Imperfective
+Rozpoczyna się teraz emocjonujący wyścig ze zbliżającą się burzą .	0	Imperfective
+- Chyba nie sięgną .	3	Perfective
+W klasyfikacji drużynowej zwyciężyli komentatorzy sportowi Eurosportu .	3	Perfective
+A zresztą nie mam czasu na czytanie .	3	Imperfective
+Oto ja , sponiewierana i przeklęta Żydówka , błagam was o litość .	3	Perfective
+Popatrzyli śmy z Ludwikiem na siebie , zaskoczeni , bez słowa .	0	Perfective
+Przenosi obojętne spojrzenie na stronę z nekrologami , którą Gabriela przygważdża do stołu kościstym palcem .	0	Imperfective
+Jest z niej zadowolony , uważa , że farba mogła by być bardziej czarna .	10	Imperfective
+Oni myśleli , że była m nówka i Miszka mnie rozdziewiczył .	5	Imperfective
+- Czy Pana zdaniem istnieje coś takiego jak przyjaźń polityczna ?	4	Imperfective
+Odpalił to makro , nawet nie wychodząc z trybu edycji .	6	Imperfective
+Że istnieje Europa !	1	Imperfective
+Chciała m go objąć , ale mnie odsunął .	3	Perfective
+Począł myśleć gorączkowo .	0	Perfective
+Artyleria rosyjska także zamilkła .	3	Perfective
+Kobieta z rozciętą głową i wstrząśnieniem mózgu trafiła do szpitala .	2	Perfective
+Traper idzie na rufę , bo tam mniej kołysze .	8	Imperfective
+Na Siemiradzkiego wybrzydzali krytycy , ale publiczność uwielbiała jego obrazy .	2	Imperfective
+Musi w jakikolwiek sposób dowieść swej wiarygodności .	4	Perfective
+Został obezwładniony przez policjantów .	1	Perfective
+Wydało mi się , że to mi przywróci równowagę .	7	Perfective
+Nigdy nie ośmielił by m się powiedzieć jej prosto w oczy , że jest chora .	2	Perfective
+- Oto głoszę Twoje Królestwo .	2	Imperfective
+Nocami przychodziły do mojego łóżka , kochały mnie .	6	Imperfective
+Dziękujemy panu , panie komisarzu .	0	Imperfective
+Z szuflady stolika wyjął scyzoryk .	3	Perfective
+Dlaczego miał by tego nie zrobić ?	1	Imperfective
+Musimy to zobaczyć .	0	Imperfective
+Rozpaczliwie próbował em coś wyjaśnić , nie licząc na sukces .	4	Perfective
+Nitka naprawdę tańczyła z igiełką ?	2	Imperfective
+- Do Krakowa jechać nie mogę , bo tajemnica wydała by się przedwcześnie .	3	Imperfective
+Udało mi się przemycić tę książkę do kraju .	3	Perfective
+Nawet nie chce się takich słów komentować .	2	Imperfective
+Potem otworzył jakąś książkę i mruczał .	5	Imperfective
+- Wiem , kogo cytujesz !	4	Imperfective
+- Jeżeli mu się nie znudzi , może być świetnym patologiem . . .	7	Imperfective
+Mam zataić , że się wzruszył em ?	6	Imperfective
+- A kto powie ?	3	Perfective
+Zaprószono ogień i wybuchł poważny pożar na górnych piętrach .	3	Perfective
+W pewnej chwili podeszła do niej dziewczynka z cienkimi warkoczykami .	3	Perfective
+o czym ja marzyła m od dawna .	3	Imperfective
+Większość państw Dwunastki zgodziła się , ale Francja i Hiszpania postawiły weto .	10	Perfective
+Zróbmy powtórkę . . .	0	Perfective
+Obydwie strony mogą na tym skorzystać .	2	Imperfective
+Czasem ta rzeczywistość była bardzo barwna .	3	Imperfective
+Ci oczywiście nie zrobili mu najmniejszej krzywdy , gdyż gość był szmalowny .	10	Imperfective
+Jakimowski zdębiał .	1	Perfective
+Sam je również ściągnął em .	4	Imperfective
+Słuch po nim zaginął .	3	Perfective
+Zatrzymano wtedy 63 osoby .	0	Perfective
+– Będzie pan rozmawiał z doktorem Kazniczem .	1	Imperfective
+Niektóre sprawy trafiły nawet do kolegium .	2	Perfective
+W historii szuka tylko starych bredni , które już zna .	9	Imperfective
+Bądź wyczulony na poczucie godności .	0	Imperfective
+Wtedy i Ewa zdrzemnęła się , przytulona do Joli .	6	Perfective
+Czy senator rzuci rękawicę wszechwładnemu przewodniczącemu ?	2	Perfective
+Sami zgłaszali się do wszystkich naszych działań .	1	Imperfective
+Chart nie raczył nawet mnie obwąchać .	2	Imperfective
+- Nic nie zeznaję .	3	Imperfective
+Czy pan poseł Chmielewski chce zadać pytanie ?	4	Imperfective
+- A przyszedł em o czwartej .	3	Imperfective
+- Szef prosił nas o pomoc .	2	Imperfective
+Rząd kongijski oświadczył oficjalnie o złożeniu skargi .	2	Perfective
+Teraz Bóg jeden raczy wiedzieć .	4	Imperfective
+- Tak jest , panie generale .	2	Imperfective
+Szlachcic obrócił się gwałtownie .	1	Perfective
+Andrzej Lepper miał zamówić wiersze podczas swoich urodzin .	3	Perfective
+Płeć piękna zwycięża !	2	Imperfective
+- Widziała m kiedyś . . .	2	Imperfective
+Władać !	0	Imperfective
+- Jeżeli mu się nie znudzi , może być świetnym patologiem . . .	8	Imperfective
+Podróżujący pierwszą klasą będą odtąd mogli wypoczywać podczas lotu na rozkładanych podwójnych siedzeniach .	3	Imperfective
+W pewnej chwili otworzył em oczy , wyrwany z gorączkowej drzemki jakimś ruchem .	3	Perfective
+Czy Milon zdecyduje się na powrót ?	2	Perfective
+I nie pomagało bujać go , jeszcze gorzej się darł .	3	Imperfective
+- Lud jest nasz !	2	Imperfective
+Uśmiechnęła się do Hehego .	0	Perfective
+I przeczytaj coś o Simone de Beauvoir .	1	Perfective
+Zachęcany , aby również w czasie Wielkiego Tygodnia zrezygnować z oglądania telewizji .	8	Perfective
+Pozwalają mu wyjść , rozmawia z policją i tupacamaros , by mogły wyjść kobiety .	2	Perfective
+Też były szorstkie .	1	Imperfective
+Wódz Samoobrony ma być umoczony w molestowanie seksualne .	3	Imperfective
+Internet pozwala komunikować się poprzez rozliczne kanały rozmów w czasie rzeczywistym .	2	Imperfective
+Na komendzie zmienił zdanie .	2	Perfective
+– Po co go tu przysłali ?	5	Perfective
+Szympansy uprawiają politykę .	1	Imperfective
+Ale nie wiedział em , że aż tak rajcują cię krótkie spódniczki .	3	Imperfective
+Woreczek zagrzechotał cicho .	1	Perfective
+Osiągniesz korzyść prestiżową i finansową .	0	Perfective
+Nie wiem , dlaczego ją tak powitano .	6	Perfective
+I brał .	1	Imperfective
+Mówi monotonnie , bez składniowych harców , przeskoków , dygresji .	0	Imperfective
+Będziemy to miejsce polecać naszym dzieciom .	3	Imperfective
+Obniża cenę do połowy , chociaż cena zależy też od stanu podręcznika .	7	Imperfective
+Rzeka tworzy granicę państwa .	1	Imperfective
+Wystarczy chwila nieuwagi , a dziecko może zrobić coś niebezpiecznego dla siebie .	0	Perfective
+- Tego nie wiem .	3	Imperfective
+Usiadła na fotelu , zakładając nogę na nogę , miała spódniczkę przed kolana .	0	Perfective
+– tabletek nie wzięła m ze sobą .	4	Imperfective
+I to jest piękne .	2	Imperfective
+Składamy serdeczne podziękowania wszystkim tym , dzięki którym powstała nasza placówka .	0	Imperfective
+Ignacy nie opowiadał o swej rodzinie .	2	Imperfective
+Kupione w południe , nie wyjrzały jeszcze ze swej bibułki .	0	Perfective
+Również fotel obok niej pozostał pusty .	4	Perfective
+Kobieta prawidłowo , po pasach , przechodziła przez jezdnię .	6	Imperfective
+W naszym przedziale walały się nawet dwa piękne wolne miejsca siedzące .	3	Imperfective
+Zrób kolację .	0	Perfective
+Wszyscy się roześmieli .	2	Perfective
+Do zdarzenia doszło w sobotę wieczorem .	2	Perfective
+Na czwarte miejsce finiszowała Diana Star .	3	Imperfective
+Dlaczego złoty wczoraj tak nagle osłabł ?	5	Perfective
+- Nie zauważył em nic takiego .	2	Perfective
+Przytuliła m go .	1	Imperfective
+Marzec przyniósł 6 zagranicznych delegacji .	1	Perfective
+Nie przeszkadza im to uczestniczyć we mszy świętej .	1	Imperfective
+Miała liczne obrażenia głowy .	0	Imperfective
+Felek jakiś niepewny siedzi na linach i przeciera oczy .	7	Imperfective
+Raisa wybiegła przed dom i stanęła obok ojca .	5	Perfective
+Przymknęła m oczy .	1	Imperfective
+– Karoliny też już nie ma .	5	Imperfective
+Pędzę do pokojówki z tą hiobową wieścią .	0	Imperfective
+Od zbłąkanych misjonarzy uchroń nas , Panie .	3	Perfective
+Czekał na nią i trochę się bał , zupełnie niepotrzebnie .	6	Imperfective
+Papierosy bez polskiej akcyzy miały trafić do Niemiec .	4	Imperfective
+Proszę nam powiedzieć , co to jest autyzm ?	0	Imperfective
+Prosimy naszych czytelników i internautów o włączenie się do akcji .	6	Perfective
+Co zrobili śmy komu ? . . .	2	Imperfective
+Do zbrodni przyznał się 22-letni mieszkaniec tego miasta .	2	Perfective
+– Wprowadzały coś ciekawego .	1	Imperfective
+Całą sobą obrażać zasady , które wyznaje prosty tutejszy lud .	2	Imperfective
+Gilowska ich nie widziała .	3	Imperfective
+Mam zataić , że się wzruszył em ?	0	Imperfective
+Trzeba żyć .	1	Imperfective
+Świadkowie twierdzą , że pieszy rzucił się pod koła rozmyślnie .	5	Perfective
+Zapowiada się kolejna bezsenna noc .	0	Imperfective
+Jedną napisał Trocki w 1920 r.	1	Perfective
+Opowiadali oni , że kierowca nie zatrzymał się na wezwanie .	6	Perfective
+W kłamstwie czy w prawdzie , nie znam nic lepszego niż życie .	7	Imperfective
+Nie rozumie pani ?	1	Imperfective
+Trwa zimna wojna na rynku lodów .	0	Imperfective
+Powodem są skandale finansowe w wielkich amerykańskich korporacjach .	1	Imperfective
+Słońce ożywiło ludzi nie ożywiając jeszcze natury .	1	Perfective
+“ Jest już za późno , nie jest za późno ” .	1	Imperfective
+Wszystko błyszczy , kręci się , tańczy .	6	Imperfective
+I ta wierność zostaje nagrodzona .	4	Perfective
+Podczas poprzedniej wojny dowodził własnym batalionem i , jak zapewniał , miał jeńców na tuziny .	11	Imperfective
+I można dalej wymieniać .	3	Imperfective
+I jeśli podejrzany takiego dokumentu nie wskaże , trudno będzie go odnaleźć .	11	Perfective
+Geje robią wokół siebie szum , żeby tylko się wypromować .	1	Imperfective
+Przepiorę coś w ręku .	0	Perfective
+Szukał em na gwałt następcy .	0	Imperfective
+Tak bardzo pani schudła , że poznać trudno .	6	Perfective
+Może masz telefon do niej ?	1	Imperfective
+I to takie szczęście , że wreszcie wrócił eś , że żyjesz .	8	Imperfective
+Tu przydzielono legię włoską .	1	Perfective
+Przysiadł na oparciu fotela , objął mnie ramieniem .	0	Perfective
+Parafianie wysłali skargę do biskupa koszalińskiego Kazimierza Nycza .	1	Perfective
+Odpowiedział em grymasem .	1	Imperfective
+Bo to pasuje .	2	Imperfective
+Odwróciła się i zaczęła szybko iść w moją stronę .	0	Perfective
+Dziewczyna wysupłała zza dekoltu banknoty dziesięciomarkowe .	1	Perfective
+Smutno będzie porzucić starą budę .	1	Imperfective
+Firstwood zapalił trzeciego papierosa , ustanawiając go ostatnim i ostatecznym przedłużeniem czekania .	1	Perfective
+Podpisał em .	0	Perfective
+Ciężkie straty ponoszą Amerykanie również w Wietnamie południowym .	2	Imperfective
+W czwartek rano na terenie stoczni utonął 60-letni pracownik Gdańskiej Stoczni Remontowej .	6	Perfective
+Fakt , z pozoru wygrywający w starciu z literaturą , mimo wszystko potrzebował literatury .	4	Imperfective
+Udawał em , że drzemię .	1	Imperfective
+Poprzednio pracodawca mógł z tym zwlekać nawet 15 lat .	2	Imperfective
+chciała by ś ?	0	Imperfective
+Okazało się , że 22-latek jest żołnierzem służby czynnej .	5	Imperfective
+Dwunastościan foremny miał symbolizować ład kosmiczny .	2	Imperfective
+I na chwilę zapomnieli o sporach .	3	Perfective
+Wazopresyna jest szybko unieczynniana przez peptydy osocza .	1	Imperfective
+Był to ostatni ze zgłoszonych mówców .	0	Imperfective
+A potem będę składać apelację .	3	Imperfective
+Dużo zrobił przez ten rok .	1	Perfective
+Umiera w swoim ogrodzie .	0	Imperfective
+W jednym z kurhanów znaleziono srebrny pieniądz cesarza rzymskiego Commodusa .	4	Perfective
+Sytuacja jest nietypowa , nawet jak na warunki amerykańskie .	1	Imperfective
+Nie wiem , nigdy nie czytał em ich z zainteresowaniem .	1	Imperfective
+Nadal będzie dodatnia temperatura , na wybrzeżu około 5 stopni .	1	Imperfective
+I umie przewidzieć ceny ?	2	Perfective
+– Chciał tylko wiedzieć , czy pan tu mieszka .	3	Imperfective
+W takich warunkach niczego dobrego nie napiszę .	6	Perfective
+Zresztą nazwa ta nigdy nie funkcjonowała na terenach górskich .	5	Imperfective
+Zamawiam śledzia i zupę borowikową i na chwilę mi przechodzi .	0	Imperfective
+Część z nich wyjechała z nagrodami .	3	Perfective
+- Uprzedził em cię .	2	Imperfective
+To są fakty historyczne .	1	Imperfective
+- Daj żyć , dziewczyno , tego nie mówię .	2	Imperfective
+Prawa ręka Andrzeja Leppera i absolwentka moskiewskiej psychologii została wicemarszałkiem Sejmu .	8	Perfective
+Jak czuła się Krystyna , schodząc tu co rano na śniadanie ?	1	Imperfective
+Znowu poprawiła m torbę na ramieniu i westchnęła m .	1	Perfective
+- Nie wiem , tak sobie pomyślała m . . .	7	Imperfective
+Popatrz , jak inni poruszają ustami .	4	Imperfective
+Z tego też powodu cieszył em się , że prawica odbija teraz TVP .	10	Imperfective
+Czytał em , że to dobry kryminał , poza tym lubię Ginę Gershon .	0	Imperfective
+Powiedz , jeśli wiesz !	3	Imperfective
+- Czy świadomie wybrała pani rzeźbę , przecież to taki niekobiecy zawód ?	3	Perfective
+Dwa ostrzeżenia mogą skutkować natychmiastowym zamknięciem gazety lub stacji .	3	Imperfective
+Teraz drogą przejeżdżają samochody nocą i dniem .	2	Imperfective
+Ale opinia jest tutaj zawsze bardzo ostrożna .	2	Imperfective
+Mateusz walczy o życie w sosnowieckim szpitalu , jego stan jest ciężki .	10	Imperfective
+Unikali patrzenia sobie w oczy , przełykając metaliczny smak śmierci .	1	Imperfective
+Wysyłamy panu gratis lodowy dom . "	0	Imperfective
+Uzdrowienie to jest procesem .	2	Imperfective
+Młodzi zamieszkali na ul . Chrobrcgo .	1	Perfective
+Jeśli pogoda dopisze , będziemy wykonywać te prace bez przerwy .	4	Imperfective
+Państwo nie zasięgnęli opinii Biura Legislacyjnego !	2	Perfective
+Zatelefonowała do Alony i poprosiła , aby przyniosła do szpitala zieloną teczkę .	0	Perfective
+Ból rósł .	1	Imperfective
+Co tracisz , co zyskujesz ?	1	Imperfective
+Nie mogł em tego słuchać .	4	Imperfective
+Niech państwo płaci !	2	Imperfective
+Który milioner żył by w takim syfie ?	2	Imperfective
+Jędrusia przysiadła na brzegu .	1	Perfective
+Po prostu mam pecha !	2	Imperfective
+Nie ukrywamy , że trzeba będzie wielu ludzi aresztować .	5	Imperfective
+- Musiał em być przy tobie .	1	Imperfective
+Wreszcie miał em spokój z tą naszą drużyną .	2	Imperfective
+- Tutaj nie było by tak fajnie .	3	Imperfective
+Po raz drugi w tak krótkim czasie nie potrafiła m siebie rozpoznać .	11	Perfective
+- Nietypowe , to znaczy bez pieniędzy ?	4	Imperfective
+– Może coś rozpozna .	3	Perfective
+Żywi nie powinni w ten sposób igrać z potężniejszymi mocami .	2	Imperfective
+- Czy nie zabrakło woli politycznej do osądzenia komunistycznych zbrodniarzy ?	7	Perfective
+Wciąż nawiązywał em nowe znajomości .	2	Imperfective
+Zarzuca się im niedopełnienie obowiązków służbowych .	0	Imperfective
+- Niech go pan nie słucha .	5	Imperfective
+Stwierdzam , że Sejm wniosek przyjął .	5	Perfective
+Zginął od jednego strzału w głowę .	0	Perfective
+- Pojedziecie z nami , zabawicie się .	5	Perfective
+A diabeł siedział w panu .	2	Imperfective
+Mogą jedynie domagać się wynagrodzeń po wydaniu orzeczenia .	0	Imperfective
+Schmidt skinął na towarzysza .	1	Perfective
+Uważał , że jego własne zadanie jest zbyt łatwe .	0	Imperfective
+Sam wiem , że nieraz różnie bywało .	1	Imperfective
+Wokalista ucisza muzyków .	1	Imperfective
+– Chyba pan na tym nie poprzestanie ?	6	Perfective
+Rybnik błyskawicznie złożył trzy projekty i pieniądze te otrzymał .	2	Perfective
+Z relacji świadków wynika , że 60-latek nagle upadł .	3	Imperfective
+- Chyba widzisz .	2	Imperfective
+- Pani poseł , czas minął .	5	Perfective
+Szosa zwężała się i wydłużała , drzewa uciekały .	7	Imperfective
+Dochodzą niepokojące sygnały dotyczące prywatyzacji stoczni .	3	Imperfective
+Oparła m się plecami o jej pień i opanowało mnie dziwne uczucie .	1	Imperfective
+Chcą zaoszczędzić połowę z tej kwoty .	0	Imperfective
+- Nie chce mi się rozmawiać .	2	Imperfective
+Znam twoją odpowiedź .	0	Imperfective
+Wciąż traktowała mnie z góry .	1	Imperfective
+- Komisja wnosi o odrzucenie tej poprawki .	4	Perfective
+Szopka przeniosła się do sądu .	1	Perfective
+– żeby zabić zapach czosnku ?	2	Perfective
+Podzielcie się z nami swoimi smutkami i radościami .	0	Perfective
+Wszystko razem urzekało .	2	Imperfective
+Dziewczynka trafiła do szpitala , jej życiu nie zagraża niebezpieczeństwo .	8	Imperfective
+Młodzi zostali sami .	1	Perfective
+Chciał by m w to wierzyć .	2	Imperfective
+- Stwierdzam , że poprawka dziewiąta została przyjęta .	7	Perfective
+Sprawność podczas akcji i umiejętności ratowników oceniali sędziowie .	6	Imperfective
+To pewnie porwana Angielka , cieszyły się polskie media .	5	Imperfective
+Elizabeth cofnęła się , może lepiej , żeby jej tu nikt nie widział .	12	Imperfective
+Ale tylko dla nas jest to kryterium , intuicyjnie przynajmniej , w miarę jasne .	4	Imperfective
+W końcu wszystko znika we mgle .	3	Imperfective
+Przecież miasto nie jest atrakcyjne turystycznie ?	3	Imperfective
+Drzewo wydusza z siebie soki , pracuje .	1	Imperfective
+Jeszcze dozwolono ci wybrać . . .	1	Perfective
+Imprezę zakończy oczywiście zabawa taneczna , która trwać będzie do późnej nocy .	1	Perfective
+Generał za swoje publikowane w prasie artykuły nie przyjmuje honorariów .	3	Imperfective
+Wypowiedział wojnę wielu bardzo różnym środowiskom .	0	Perfective
+Wstali śmy .	0	Perfective
+Kłaniając się przepraszająco , opuścili śmy z panem Adamkiem zakład pogrzebowy .	0	Imperfective
+Narażenie rozgrzanego psa na przeciągi grozi poważnymi komplikacjami ze zdrowiem .	1	Perfective
+– nie wszystkie są zawężone równocześnie .	4	Perfective
+– dużo wypiła ś ?	3	Imperfective
+- Każdy z liderów partyjnych musi rozliczać się wobec swojego zaplecza politycznego .	5	Imperfective
+Na północy pokrywa śnieżna sięga pół metra .	4	Imperfective
+W zamian kuria proboszczem tego kościoła uczyniła jego starszego brata , ks . Zdzisława Struzika .	6	Perfective
+Miło móc zdać się na los .	2	Perfective
+Czy takie stanowisko jest uzasadnione ?	3	Imperfective
+Szereg takich poleceń składał by się na całą procedurę , którą urządzenie było by sterowane .	3	Imperfective
+TOPR-owcy ostrzegają przed bardzo trudnymi warunkami panującymi na szlakach .	6	Imperfective
+Wyrwał rękę i pomyślał , że powinien natychmiast wyjść .	3	Perfective
+Nie miała m wtedy żadnych doświadczeń seksualnych .	1	Imperfective
+Trudno mu nawet wytłumaczyć , skąd się biorą .	3	Perfective
+Darowizny przekazane na jej rzecz podlegają odpisowi podatkowemu .	1	Perfective
+Człowiek wpakuje się w jakąś historię .	1	Perfective
+Tamci odchodzą , pozostaje sam .	3	Imperfective
+Rekonstrukcja z pewnością będzie przebiegała na podstawie jakichś dokumentów , przekazów ?	4	Imperfective
+- Tak pomyślała .	2	Perfective
+Ach , od dawna to m już czuł !	5	Imperfective
+Złapali śmy się w przedpokoju i zaczęli śmy szarpać .	7	Imperfective
+Drugim ważnym wydarzeniem był run na giełdę firm poszukujących kapitału .	8	Imperfective
+Wódz Samoobrony ma być umoczony w molestowanie seksualne .	2	Imperfective
+– ale proszę cię .	2	Imperfective
+Osłabienie państwowości spowodowało pogorszenie sytuacji finansowej papiestwa .	0	Perfective
+- Szczęka mi opada .	3	Imperfective
+Browar żywiecki , książęcy , ma ponad sto lat .	5	Imperfective
+Przewiduje się , że w roku bieżącym szkoły ponadgimnazjalne w powiecie ostrzeszowskim ukończy 975 absolwentów .	0	Imperfective
+Na kapitał zagraniczny otwiera się też sektor bankowy i ubezpieczeniowy .	3	Imperfective
+Coś się między nimi zawiązywało .	4	Imperfective
+Wszystkie pokoje wyposażone w szafy wnękowe są już gotowe .	2	Perfective
+- PGNiG dogadał się z urzędnikiem nie patrząc na odbiorców .	2	Perfective
+Dyrektor szpitala nie staje po żadnej stronie i nie podejmuje żadnej decyzji .	9	Imperfective
+Zarządca komisaryczny przestał pełnić ją dopiero po ostatnich wyborach samorządowych .	3	Imperfective
+W naszej firmie wszystko układa się w pozytywny ciąg następstw .	4	Imperfective
+- Możemy przypomnieć , co ma do tego wola polityczna .	5	Imperfective
+– Co tu się dzieje ?	4	Imperfective
+- Łatwiej dojdziemy z nim do porozumienia .	2	Perfective
+Terrorem wymuszają też uległość ludności oraz władz przybrzeżnych wsi i osad .	1	Imperfective
+- Ale czy ma on rzeczywisty wymiar ?	3	Imperfective
+Wg legendy nazwa pochodzi od krzewu czeremchy .	3	Imperfective
+Ale Kostek już był spóźniony .	3	Imperfective
+Jak długo to trwało ?	3	Imperfective
+Czy znam kogoś podobnego ?	1	Imperfective
+- Czy pani musi obejrzeć każdą sztukę ?	3	Imperfective
+Ostatnim punktem ćwiczeń było gaszenie pożaru .	4	Imperfective
+Między moje nie kłaść !	3	Imperfective
+Na Dużym Skrzycznem w Szczyrku leży 60 cm śniegu .	5	Imperfective
+Marek skinął głową .	1	Perfective
+Ten w nowym składzie działał bowiem zaledwie około miesiąca .	4	Imperfective
+Grupa powstała we wczesnych latach 80 .	1	Perfective
+Czy pamiętała jakiś wiersz ?	1	Imperfective
+Proszę wyjść !	1	Perfective
+Wspinał ktoś się kiedyś ?	0	Imperfective
+Zachęcany , aby również w czasie Wielkiego Tygodnia zrezygnować z oglądania telewizji .	0	Imperfective
+Nie stwierdzono żadnych urazów kostnych " .	1	Perfective
+Gdy zahamowała tuż obok , chłopak otworzył bagażnik .	1	Perfective
+Dwa tygodnie temu prezydent podpisał znowelizowaną ustawę .	5	Perfective
+Szli śmy do Harstad .	0	Imperfective
+Wieczorek uderzył i znów głowę przekrzywił .	5	Perfective
+- Stwierdzam , że Sejm wniosek o odrzucenie projektu ustawy odrzucił .	7	Perfective
+Dowiedzieli śmy się , że Biernacki oglądał już swój przyszły gabinet .	0	Perfective
+Z tych samych powodów mile widziane są również małżeństwa .	6	Imperfective
+Wziął go , włożył między szczęki .	0	Perfective
+W Wojewódzkim Szpitalu Zespolonym odbyła się pierwsza w Poznaniu udana operacja przeszczepienia rogówki .	4	Perfective
+Azaliż wątpili ście w to ?	2	Imperfective
+Najpierw myślał em , że mówi do mnie .	5	Imperfective
+Kołdra i ściągnięte z materaca prześcieradło dziwaczną draperią zwisało z łóżka .	2	Perfective
+- Proszę ?	1	Imperfective
+Czarne mają znaczną przewagę , a Biały Hetman jest atakowany .	8	Imperfective
+Publiczność przyjęła ją entuzjastycznie , ale krytycy nazwali królową kiczu .	7	Perfective
+Na trasie przejazdu stały tłumy oklaskując samochody , które wiozły maleństwa i ich rodzinę .	9	Imperfective
+Z obu stron drogi zaczęto strzelać do nich z granatników i broni maszynowej .	4	Perfective
+Jeszcze przez kilka minut starali się uporać z doznaną porażką i dramatyczną decyzją Beatki .	4	Imperfective
+Zabierają jedynie najważniejsze akta i dokumenty .	0	Imperfective
+tera będziesz pił ?	1	Imperfective
+Miło móc zdać się na los .	1	Imperfective
+Już bez nadziei rozglądał em się , gdy wtem zobaczył em w lunecie czarny punkt .	9	Perfective
+Całość w formie tekstowej zostanie opublikowana po autoryzacji .	4	Perfective
+O to się zaczepił em .	3	Perfective
+Ludzie odeszli i zwrócili się w stronę Wiktora .	1	Perfective
+Nie napisał mi Pan , dlaczego się Pan przenosi do Warszawy .	1	Perfective
+Ale nie pokazał em tego .	3	Imperfective
+Ani złotówka nie trafia do stoczniowców .	3	Imperfective
+Za dawno przywykł do posłuchu .	2	Perfective
+Jednak nieuczciwie było by nie wspomnieć o dobrych stronach filmu .	5	Perfective
+Współcześnie staje się on coraz bardziej potrzebny .	1	Imperfective
+Obiecał em je podrzucić do miasteczka .	3	Perfective
+Naprawdę zbliżam się do śmierci .	1	Imperfective
+Nie przeżył tego dnia .	1	Perfective
+Wszystkie urządzenia działają sprawnie .	2	Imperfective
+Geday wymyślił depilator , cudeńko .	1	Perfective
+Lampa gaśnie .	1	Imperfective
+- Nie mam ochoty wpaść przez was .	2	Imperfective
+I wróżą dobrą pogodę do inwestowania w akcje .	1	Imperfective
+Dyrektoriat ten funkcjonował zgodnie , dopóki istniała równowaga sił w rządzie .	6	Imperfective
+W następnym oknie będzie można samodzielnie skonfigurować menu bootmanagera .	3	Imperfective
+Dobrze jest odparować nadmiar wody z ogórków , aby potrawa nie była zbyt wodnista .	11	Imperfective
+Po mszy zgromadzeni przejdą do Szpitala Miejskiego .	2	Perfective
+- Masz !	1	Imperfective
+Drzwi zamknęły się .	1	Perfective
+Publiczność z akademii szła na zawczasu przygotowane miejsca .	6	Perfective
+Nie pamiętam .	1	Imperfective
+- Powróćmy do reformy podatkowej .	1	Perfective
+Wypraszam sobie takie porównania .	0	Imperfective
+Nawet sportowcy włączyli się do naszego programu .	2	Perfective
+Wieczorem przyjechała Grażyna Celińska z dziećmi i razem zjedli śmy kolację .	9	Imperfective
+Teraz chodzi o to , by nie sprawiła zawodu .	1	Imperfective
+Po zajęciu miejscowości Krzyżacy zmasakrowali miejscową ludność .	1	Perfective
+- Podpisał em !	1	Perfective
+- Słuchaj , ty pewnie wyższą akademię talmudyczną w Mirze ukończył eś ?	10	Perfective
+Komisarz urzędował w godzinach przedpołudniowych .	1	Imperfective
+Chciał by m także , aby Wysoki Sejm został poinformowany o wynikach kontroli .	9	Perfective
+W Laskach w liturgii uczestniczyło się przez cały dzień i modliło się wszędzie .	4	Imperfective
+Zawsze była m grzeczną dziewczynką , nigdy nie było ze mną żadnych kłopotów .	1	Imperfective
+- Nie chcą , by m ich utrzymywał .	5	Imperfective
+Jak długo to trwało ?	3	Imperfective
+Sąd nie uwzględnił również wniosku prokuratury o tymczasowym aresztowaniu marynarza .	2	Perfective
+- Nie mają wymagań .	2	Imperfective
+Nie przemierza go kondukt , nie biją dzwony .	1	Imperfective
+Nie zdążył tego zdjęcia obejrzeć , ale myślę , że by mu się spodobało .	1	Perfective
+IRA nie pozwoli ?	2	Perfective
+Jadwiga Chylińska i Bogdan Chylińscy poszli wydoić krowy .	5	Perfective
+Rolnik , szukając schronienia , błyskawicznie wskoczył na dwukółkę .	2	Imperfective
+- Ukradł eś ?	1	Perfective
+O tym , czy odejdzie , zadecyduje premier .	4	Perfective
+- Dopóki rząd i koalicja nie podejmą decyzji , dopóty każdy może wypowiadać swoje zdanie .	12	Imperfective
+Kobiety muszą zakrywać włosy , ramiona , nogi .	1	Imperfective
+Ofiary następnej deportacji to rodziny represjonowanych .	5	Imperfective
+Daktyle sparzyć , drobno pokroić i dodać z pozostałym masłem do kuskusu .	4	Perfective
+Nic z tego nie wyszło .	4	Perfective
+– a książkę chyba z pięć albo sześć razy czytał em . .	10	Imperfective
+Czasem okazuje się , że reklama choć efektowna nie działa .	1	Imperfective
+Yennefer opuściła głowę , spojrzała między swoje uda , nad którymi przemykały złote rybki .	1	Perfective
+- Wiem od Kasi , że jest podejrzany o zabójstwo Wojtka .	1	Imperfective
+Bilet kosztuje 4 zł .	1	Imperfective
+Niestety , podobnie jest w krajach Unii Europejskiej .	3	Imperfective
+Choć dziecko złożyło na policji zeznania , sprawców nie zatrzymano .	9	Perfective
+Nie jestem na wycieczce !	1	Imperfective
+Poszedł żuraw obrażony .	0	Perfective
+Spostrzegł em , że ma ładne piersi i krągłe , dziewczęce ramiona .	0	Perfective
+Przygotowania trwały krótko .	1	Imperfective
+Ten rysunek też jest dziwny .	3	Imperfective
+Nie może nadziwić się mojej lekkomyślności .	2	Perfective
+Sytuacja nie zmieniła się za pontyfikatu Jana Pawła II .	2	Perfective
+Dokument ten uważa się wówczas za objęty treścią wpisu .	6	Perfective
+Teraz trochę popuściła m .	3	Imperfective
+Postanowił em nie wstępować nawet do ojca .	1	Imperfective
+Zatrzymał em się .	0	Perfective
+W zeszłym tygodniu wyprowadzili się .	3	Perfective
+Przechodzimy do głosowania .	0	Imperfective
+- Nie gadaj dużo , tylko bierz za sznur .	2	Imperfective
+Do Lądka Zdroju wysłano specjalną komisję .	3	Perfective
+- Czegoś podobnego jeszcze nie przeżył em .	6	Imperfective
+Hans obróci głowę w stronę Polaka .	1	Perfective
+Siedzieli śmy w nowej , modnej knajpie .	1	Imperfective
+Opowiadał niezwykle ciekawie , a tematów mu nie brakło .	0	Imperfective
+Będziemy cierpliwie oczekiwać odpowiedzi .	2	Imperfective
+Czyżby nie doliczyli się ?	2	Perfective
+Po pewnym czasie pojawiła się też mniejsza grupa , zmierzająca w odwrotną stronę .	9	Imperfective
+Słysząc o zamiłowaniach mieszkańca Marklowic i jego zdolnościach , nie uwierzyli śmy .	10	Perfective
+Miliarder przeważał .	1	Imperfective
+Wiele lat spędził em za granicą .	3	Imperfective
+Marta opuściła mury Kliniki przedwcześnie , na własną prośbę .	1	Perfective
+Po czym stanął , zawrócił i wyszedł .	6	Perfective
+Weźmy Siedlce .	0	Perfective
+– trzecia musi być już na czas stały . .	2	Imperfective
+Stała oparta o balustradę i patrzyła na wodę .	5	Imperfective
+Wyborcom oświadczono , że będą musieli przyjść nieco później .	6	Perfective
+wszystkich pozwalniali . .	1	Perfective
+obudzili śmy . .	1	Imperfective
+Przygotowania trwały krótko .	1	Imperfective
+- Jak pan to zrobił ?	4	Perfective
+Brygada ma w trzy dni usunąć wszystkie usterki .	1	Imperfective
+Omawiana książka jeszcze raz to potwierdza .	5	Imperfective
+I podobno wcale ich nie dogonili .	5	Perfective
+Chodzi o przedsiębiorstwo z tradycjami , założone jeszcze przez ojca pana Piotra .	6	Perfective
+A wy nie zdążyli ście !	4	Imperfective
+Wszyscy będą do rana .	1	Imperfective
+Teraz powinny działać poprawnie .	2	Imperfective
+- Wygląda na to , że piłka nożna seniorów w Występie przestanie istnieć .	1	Imperfective
+Patrzyła na mnie i śmiała się dalej .	4	Imperfective
+Księga Jonasza nie zawiera żadnych proroctw , wyroczni i nauk proroka .	3	Imperfective
+- Tylko ja o tym wiem , a ty jeszcze nie wiesz .	5	Imperfective
+Skąd Ci to przyszło do głowy ?	3	Perfective
+Ja też sobie tak czytam posty i nie widzę takiej manii .	8	Imperfective
+Co powoduje , że poszczególne osoby biorą udział w aktach przemocy ?	6	Imperfective
+Samotność cię nudzi i dość łatwo popadasz w czarne myśli .	2	Imperfective
+Miał jakąś niezłą tanią vectrę .	0	Imperfective
+Czego jeszcze należy się bać ?	2	Imperfective
+Gdy wróciła , usiadła obok niego na tapczanie .	1	Perfective
+Przedstawiciele spółdzielni tłumaczyli , że na lokatorskiej tablicy ogłoszeń informowali o kolejnych wizytach kominiarza .	2	Imperfective
+I nigdy więcej niczego na ten temat nie usłyszeli śmy .	8	Perfective
+Pierwsza przyszła do grobu Chrystusa i dlatego została patronką pielgrzymów do Ziemi Świętej .	7	Perfective
+Z snu budzi mnie huśtawka .	2	Imperfective
+Klęknął em .	0	Perfective
+Tezy są skonfiskowane , ale to są rzeczy wiadome .	2	Perfective
+- Wyznaczyli nas na działon przeciwpancerny .	1	Perfective
+Myślisz , że ktoś na coś czeka , a on już uciekł . . .	11	Perfective
+Odsuwa miskę po chwili .	0	Imperfective
+Powinna ona również być akredytowana , gwarantowana .	0	Imperfective
+Tu jest strefa przygraniczna , sami rozumiecie .	1	Imperfective
+musztarda szybko wysycha .	2	Imperfective
+Regina z ciekawością słuchała czytającego z kartki Bornsteina .	3	Imperfective
+- Chciała m ci pokazać coś dziwnego w lesie .	4	Perfective
+- Dużo o tym pisał Antoni Słonimski , mój stryj .	4	Imperfective
+Stała pusta , niszczała , groziła zawaleniem .	6	Perfective
+Ale myślisz tu teraz o sobie .	1	Imperfective
+- Macie 15 minut . ?	1	Imperfective
+Kłopotom zaradziła Gawlikowa .	1	Perfective
+- Wolfgang przestawił swoje krzesełko w cień .	2	Perfective
+Skutki awarii mają być usunięte jeszcze dzisiaj .	4	Perfective
+Z iego kontusza potem Marszałkowa sobie uszyła serdako-suknię .	6	Perfective
+Ojciec nie uczył już w polskiej szkole .	2	Imperfective
+- Podglądał em jego wczoraj wieczorem .	1	Imperfective
+Pod koniec gotowania dodajemy sos sojowy i na kilka minut pozostawiamy pod przykryciem .	2	Imperfective
+Osobiście nigdy nie żałował em , iż został em historykiem .	8	Imperfective
+Sprawa była efektowna , ale pachniała meliniarstwem na kilometr .	5	Imperfective
+Zawieźli ją do Akademii .	0	Perfective
+- No zrobił em .	2	Perfective
+Mają powiadomić .	0	Imperfective
+Dwa lata temu powstało koło w Ostrowcu Świętokrzyskim .	3	Perfective
+W najbliższym czasie rynek prawdopodobnie ochłonie i dojdzie do korekty .	5	Perfective
+Przyleciał rejsowym samolotem .	0	Perfective
+Zapłaciła ponad 1300 dolarów , na szczęście za oceanem znalazła pracę .	0	Perfective
+Świat Rydzyka nie wziął się z samych zwidów .	3	Perfective
+Zauważono też nagminne zaniżanie zarobków pracowników za dni urlopowe lub chorobowe .	0	Perfective
+W lesie trzymaj psa na długiej smyczy , nie puszczaj go samopas .	2	Imperfective
+– Nigdy w życiu nie widziała m morza .	5	Imperfective
+Przystępujemy do głosowania .	0	Imperfective
+Wyznaczeni posłowie zajęli miejsca .	2	Perfective
+Kolega Jamrozik został zaproszony na pogrzeb .	3	Perfective
+Postawił em samochód na podziemnym parkingu pod hotelem i wszedł em do windy .	1	Imperfective
+Informacje i dokumenty , którymi dysponujemy , wskazują jednak , że poseł kłamie .	7	Imperfective
+Czy to znaczy , że Odessa podda się zukrainizowaniu ?	6	Perfective
+Na ul . Żeromskiego i Odrodzenia ustawione zostaną w tym roku nowe lampy .	7	Perfective
+Powierzchnię morza pruły statki , oczekujące pojawienia się ostatniego członu rakiety .	6	Perfective
+Zza kulis wychodzi aktorka grająca Magdalenkę .	4	Imperfective
+Kos aż gwizdnął z uciechy .	2	Perfective
+Budżet państwa sfinansuje połowę odsetek od kredytów hipotecznych .	2	Perfective
+W okolicy Goleniowa śmiertelnie potrącony został dzisiaj rowerzysta .	4	Perfective
+W sumie będzie mierzył około 800 metrów .	2	Imperfective
+Wisła w Toruniu przekroczyła stan alarmowy o 80 cm , a wody wciąż przybywa .	13	Imperfective
+Ten list matki i fotografię wykradła m jej uciekając z tobą .	8	Imperfective
+Kto jest przeciwny ?	1	Imperfective
+Frajerów kroić !	1	Imperfective
+Czy oni bali się takich rzeczy ?	2	Imperfective
+Pozostał w cieniu .	0	Perfective
+Przytul się mocno I podnieś głowę Patrząc w ich oczy Moim spokojem .	4	Perfective
+Kupił ją .	0	Perfective
+W wspomnianych zestawach nie figurują te nazwiska .	4	Imperfective
+Dwa pozostałe budynki mają być gotowe we wrześniu .	3	Imperfective
+Siedzieli w zmroku .	0	Imperfective
+Poczuła swą kobiecość i było z tym cudownie .	4	Imperfective
+Katarzyna Zdanowska z łódzkiej drogówki zapewnia , że policja będzie karać kierowców łamiących przepisy .	9	Imperfective
+Podczas pogrzebów nie biją dzwony .	3	Imperfective
+Jelcyn nie wykorzystał swej władzy dla prawdziwego zreformowania gospodarki .	2	Perfective
+Potem , gdy próbowali je sprzedać w Szanghaju , zostali zauważeni przez policję .	5	Perfective
+Narrator zaczyna w końcu rozumieć , że to jest telefon do niego .	1	Imperfective
+Do sali zjechali śmy godnie , windę znarowioną już naprawili .	9	Perfective
+Skoczę i przyniosę .	0	Perfective
+Mimo to może nie zobaczyć już syna , bo dziadkowie uprowadzili go na Ukrainę .	4	Perfective
+To są babskie histerie .	1	Imperfective
+Wszystkie trasy są przygotowane przez ratraki , a wyciągi czekają na narciarzy .	9	Imperfective
+wiadomo , że niewielu osobom się to podoba . . .	7	Imperfective
+Giną więc wozy , których właściciele nie ubezpieczają ze względu na wysokie stawki .	0	Imperfective
+Przeżył em już rzeczy znacznie gorsze .	0	Perfective
+Chłopak zawahał się .	1	Perfective
+" Planowo postępuje dalsze ograniczanie arsenałów atomowych " . . .	2	Imperfective
+Na reklamowanie Heyah nie ma szans .	4	Imperfective
+Odprowadzę ciebie .	0	Perfective
+– I uśmiechnął się do mnie szeroko .	2	Perfective
+- Pozostałe punkty zostały zatwierdzone .	4	Perfective
+Miał dwóch Norwegów przy boku .	0	Imperfective
+Teraz dopiero dostrzegł em , że jest zmęczona .	6	Imperfective
+No proszę cię , bo naprawdę robi się z tego skandal .	6	Imperfective
+Odprawiła nawet TVN , która chciała podpisać umowę na wyłączność w informowaniu o seksaferze .	5	Imperfective
+Złodzieje kradną drogi sprzęt , który potem sprzedają w cenie złomu .	1	Imperfective
+W numerze wydanym przez Movex rzuca się w oczy kilkustronicowy wstępniak .	5	Imperfective
+Małgośce zdarzyło się to pierwszy raz w życiu i natychmiast się jej spodobało .	12	Perfective
+W Polsce przedwrześniowej mieli śmy jedynie 600 zelektryfikowanych wsi .	7	Perfective
+Chciał ją objąć , ale przytrzymywała go wyciągniętą ręką .	5	Imperfective
+Do tajemniczego włamania doszło wczoraj w nocy w okolicach rzeszowskiego dworca kolejowego .	3	Perfective
+Załadował na wóz wynajętych gazeciarzy i rozwiózł po mieście , każąc rozdawać list przechodniom .	0	Perfective
+Echo zadzwoniło we wnętrzu złomobusu .	1	Perfective
+- A nie zapomnij wypisać mnie z czytelni , abonament zapłacony do dwudziestego .	4	Perfective
+Zgadzając się co do celu , uważamy , że metoda jego osiągnięcia nie jest dobra .	0	Imperfective
+Usiedli na zwalonej kłodzie .	2	Perfective
+Kreml zaprzeczył , by Jelcyna dotknęła wczoraj taka właśnie dolegliwość .	5	Perfective
+Sam go przecież sprowokował em , przywołał em .	4	Imperfective
+Wtedy nie wytrzymał em .	2	Perfective
+Wolę umrzeć .	0	Imperfective
+" W dzieciństwie była m często dołowana " .	6	Imperfective
+pozwoliła m .	0	Perfective
+Często empatyczny kontakt pozwala nam przezwyciężyć wielki , psychiczny ból .	3	Imperfective
+Zatrzymano siedem osób .	0	Perfective
+Sugerowała , że przed egzaminem można było kupić testy .	0	Imperfective
+To on sprawia , że czuję się kochaną i szanowaną kobietą .	2	Imperfective
+Warto próbować nowych sposobów reagowania na trudne sytuacje .	1	Imperfective
+Prawdopodobnie mają słabsze technologie .	1	Imperfective
+Nadział em je na haczyk i zarzucił em .	0	Perfective
+I nie ma pan nic do ukrycia .	2	Imperfective
+A może , gdyby m się przemógł , potłumił by m jej zaklęcia ?	4	Imperfective
+Dzisiaj Filipowe sadzawki zarastają zielskiem .	3	Imperfective
+Wiem , że jest to bardzo nieładne , ale jednak powiem .	3	Imperfective
+Widzisz , że nikogo nie ma .	0	Imperfective
+- Matce wyrwał by m serce .	4	Imperfective
+Tak się nie stało .	3	Perfective
+Menda jesteś i naprawdę już mię wkurzasz .	6	Imperfective
+Nie mogła m się wcześniej wyrwać .	5	Perfective
+Czekaj , on mógł mieć coś wspólnego z napadem na mnie ?	0	Imperfective
+Samoloty USA startowały z baz w Wietnamie południowym i lotniskowców Siódmej Floty .	2	Imperfective
+Zaczyna mnie na dobre wkurzać .	4	Imperfective
+Uratujcie wierzącego chrześcijanina Walerego Marczenkę !	0	Perfective
+Jest to dla mnie wielkie wyróżnienie .	0	Imperfective
+W egzekucjach przeprowadzonych w Miednoje , Charkowie i Katyniu zabito 15 tys . polskich oficerów .	2	Perfective
+Nie ukrywamy , że trzeba będzie wielu ludzi aresztować .	1	Imperfective
+Postępowanie prowadzi KPP Ciechanów .	1	Imperfective
+- Zakonnica zamknęła księgę i przestała się interesować Jakubem .	2	Perfective
+Powoduje wysokie bezrobocie i sprawia , że państwo zadłuża się na bardzo wysoki procent .	4	Imperfective
+I chcę , aby świat cały począł służyć Jezusowi .	7	Imperfective
+- Powtarzam i wykonuję .	1	Imperfective
+W Niemczech płaci sie rolnikom za nieuprawianie ziemi .	2	Imperfective
+Siadam .	0	Imperfective
+Spała niespokojnie , często rzucała się na łóżku , zdarzało jej się nawet krzyczeć .	13	Imperfective
+Zgadzając się co do celu , uważamy , że metoda jego osiągnięcia nie jest dobra .	11	Perfective
+- Nie wiem , tak sobie pomyślała m . . .	6	Perfective
+Lech przynajmniej przeskoczył przez płot .	2	Perfective
+Niezależnie od przedstawionych wyników , kontrolę przeprowadzą jeszcze policjanci z Komendy Wojewódzkiej Policji w Katowicach .	2	Perfective
+Ogromne znaczenie ma leczenie farmakologiczne .	2	Imperfective
+– Masz takie męskie dłonie , January .	1	Imperfective
+Borys Conrad , syn znakomitego pisarza Józefa Conrada - Korzeniowskiego przybył do Warszawy .	10	Perfective
+Leżała na wersalce z nosem wtulonym we włochatą poduszeczkę .	5	Perfective
+Po kwadransie poproszono go na górę .	2	Perfective
+Ten wszechstronny , nowoczesny obiekt jest wyposażony w profesjonalny sprzęt pożarniczy .	5	Imperfective
+Pozostali ministranci postanowili dalej pełnić służbę ministrancką .	4	Imperfective
+Życie przechodzi przez nie ostatecznie zwycięsko .	1	Imperfective
+Masz jakieś podstawy ku temu , żeby tak przypuszczać ?	8	Imperfective
+- W niczym się nie orientuję .	5	Imperfective
+Świat ma naturę hierarchiczną .	1	Imperfective
+Usiadł , nie podając ręki .	3	Imperfective
+Mężczyzna zniknął jednak w kolejce i przestała o nim myśleć .	6	Perfective
+Basia nie dostała dziś nic na targu .	2	Perfective
+Ile razy ścigali się na rowerach .	2	Imperfective
+Jakim dzieckiem jest Angelika ?	2	Imperfective
+Apfelbaum szedł przed siebie , nie zwracając na niego uwagi .	6	Imperfective
+Wyciąga ręce .	0	Imperfective
+Taki jest głos ludu .	1	Imperfective
+– o ja nie myślała m o takim . .	5	Imperfective
+Potem sama zabiła .	2	Perfective
+W przyległej sali grała orkiestra .	3	Imperfective
+To samo dotyczy leczenia , służba zdrowia praktycznie przestała istnieć .	9	Imperfective
+Ściskała .	0	Imperfective
+Zasadzka była starannie przygotowana .	1	Imperfective
+Czym w końcu różnią się tak naprawdę republikanie od demokratów ?	3	Imperfective
+- Wczoraj się mył em .	4	Imperfective
+Miała za sobą ciężki dzień .	0	Imperfective
+Henryk stanął przy budce z wodą sodową .	1	Perfective
+Projekty jej swetrów były szybko kopiowane i Barbara odniosła w tamtych latach duży sukces .	5	Imperfective
+A może da się go jeszcze uprościć ?	6	Perfective
+Żeby umiał sprostać zadaniom typowo męskim .	1	Imperfective
+jest pytanie .	0	Imperfective
+- Już kończę .	2	Imperfective
+Opublikowana została także instrukcja , jak porywacze mają się zachować przed samobójczym zamachem .	0	Perfective
+Uciszcie się !	0	Perfective
+Co to , u diabła , jest , zastanawiał się Szacki , przepisując notatkę .	6	Imperfective
+Jak stawiać granice dzieciom z FAS ?	1	Imperfective
+Sobota również nie przyniosła rozstrzygnięć .	3	Perfective
+Wszędzie fruwają papiery i pierze .	1	Imperfective
+Podpułkownik Krabel zarządził strzelanie na garnizonowej strzelnicy .	3	Imperfective
+Witam !	0	Imperfective
+Starsza kobieta , ubrana w czarny przeciwdeszczowy płaszcz z kapturem , niosła czerwone emaliowane wiadro .	11	Imperfective
+- Jego oczy patrzą chytrze .	3	Imperfective
+Mundek zasiadł jak zwykle przy pianinie , Czesiek kiwał się przy kontrabasie .	8	Imperfective
+Przeniosła m pełen podziwu wzrok na Magdę .	1	Imperfective
+Zaprotestować zdążyła tylko jedna .	1	Perfective
+Ogień strawił pięć stodół i dwie obory .	1	Perfective
+Czekał em na to .	0	Imperfective
+Dowiedziała m się , że mój rozmówca z powodu swojego wzrostu pracował na budowie .	0	Perfective
+Może ma pan jakieś inne życzenie ?	1	Imperfective
+Powinna m kupić ze dwie pary .	1	Imperfective
+Przygotowała m się do tego bardzo solidnie .	0	Perfective
+Tego dnia nie tylko Żanna miała swoje święto .	5	Imperfective
+Muszę jechać do domu .	1	Imperfective
+Kazimierz Barcikowski aż poderwał się z miejsca .	3	Perfective
+Specjalnie podesłał eś mi Celińskiego .	2	Imperfective
+Wasielewski wyprowadził wóz z parkingu i włączył się do ruchu .	6	Perfective
+Elizabeth wysiadła , taksówkarz wystawił jej bagaże i odjechał .	8	Perfective
+Rzecznik praw obywatelskich poprosił o wyjaśnienia Ministerstwo Zdrowia .	3	Perfective
+- Raport o stanie państwa nie został ogłoszony przed Wigilią na osobisty wniosek premiera .	6	Perfective
+Ma liczne rany tłuczone , poważny uraz głowy .	0	Imperfective
+Podzwaniała wpółzgnieciona puszka po piwie .	0	Imperfective
+Miał tyle rozsądku , że nieraz potrafił porównać siebie z ojcem i uniknąć jego gwałtowności .	7	Perfective
+Usmażone mięso odstawić w ciepłe miejsce .	2	Perfective
+Przede mną stał Wiktor .	2	Imperfective
+Prawdopodobnie w pewnym momencie postanowił się wykąpać i z nieznanych przyczyn utonął .	6	Perfective
+Co pan proponuje ?	2	Imperfective
+Wspominają wspólne biesiadowanie .	2	Imperfective
+Atrakcją dworca są także prostytutki .	2	Imperfective
+Siedzieli śmy w nowej , modnej knajpie .	1	Imperfective
+Starym kawalerem zostanie i następcy zabraknie , tradycja garncarska w rodzinie Kraszewskich zaginie . . .	5	Perfective
+Do przystanku tramwajowego kroczyli śmy obok siebie bez słowa .	4	Imperfective
+A dzisiaj nie można nic poza aspiryną zażyć bez wiedzy sportowego lekarza .	7	Perfective
+- Nasi żarłoczni przyjaciele ciągle są w amoku . . .	5	Imperfective
+Nie udało się im rozwinąć transparentów .	1	Perfective
+Tęsknota ogarniała chłopców .	1	Imperfective
+Sprawą zajęła się policja .	1	Perfective
+Dziękuję !	0	Imperfective
+Dobrze spisała się młodzież w Sterdyni , Ceranowie , Skrzeszynie , Czerwonce i Wężach .	1	Perfective
+- Nie znam nowego dyrektora , jeszcze nie miał em okazji z nim rozmawiać .	9	Imperfective
+Stach objął ją ramieniem i poprowadził z wolna .	1	Perfective
+Od dłuższego czasu napadają na Palestyńczyków , a na ich domach wypisują obraźliwe hasła .	3	Imperfective
+- Poszł em , nie doszł em , przyszł em i został em .	9	Imperfective
+Handluje z powodzeniem .	0	Imperfective
+Widział by ś mnie tylko na monitorze .	0	Imperfective
+- Przez ostatnie miesiące zasuwała m na pełnych obrotach .	5	Imperfective
+Przy tej okazji stwierdził em , że drżą mi ręce .	3	Perfective
+ty próbowała ś to mleko dla dzieci ?	2	Imperfective
+Kafka nie dożył holocaustu , ale opisał mechanizm myślenia prowadzący do niego .	9	Imperfective
+- Nie boję się .	2	Imperfective
+- Zakrzyknęła .	1	Perfective
+Wczoraj minister finansów i pięciu innych szefów resortów zrezygnowali ze swoich stanowisk .	8	Perfective
+Co mówią lekarze ?	1	Imperfective
+Mały Marcel lubi oglądać kościoły .	3	Imperfective
+Posłowie zastanawiali się , jak zapewnić bezpieczeństwo ludziom walczącym z przestępczymi gangami .	8	Imperfective
+W dwunastu wypadkach kandydatury wojewodów miały być uzgodnione .	6	Imperfective
+Klub przeniósł się do osiedlowych garaży pod blokami .	1	Perfective
+Stało się coś ?	0	Perfective
+Woli produkować .	0	Imperfective
+Oznacza to , że zgadzają się one na taką praktykę .	0	Imperfective
+Marek skinął głową .	1	Perfective
+- Ja pana ojcu wręczała m kwiaty !	5	Imperfective
+- Zawsze chciał em być artystą .	4	Imperfective
+- Nie uznaję .	2	Imperfective
+Zresztą , to już zaczyna przypominać jakiś nałóg .	4	Imperfective
+Ale byli śmy o parę klas lepsi i wygrali śmy zdecydowanie .	2	Imperfective
+Coś zachrzęściło na poduszce , ale poruszył się .	1	Perfective
+Podczas niemieckiej okupacji spotykali śmy się , należąc do podziemnej literackiej Warszawy .	4	Imperfective
+Żaden uczony nie dokonuje wynalazków po to , by wyrządzić człowiekowi krzywdę .	9	Perfective
+Zaśmiał się .	0	Perfective
+Nie jestem w stanie przewidzieć jakiejkolwiek sensownej daty .	4	Perfective
+Siedzę dziś cały dzień w domu i obiad jemy w domu .	8	Imperfective
+Robotnicy tylko wtedy poprą reformę , jeśli będą mieli jakieś zabezpieczenie .	8	Imperfective
+Największe zainteresowanie budzi jednak specjalne seminarium poświęcone ustaleniu budowy ludzkiego DNA .	2	Imperfective
+Chodzili między regałami i włożyli do koszyka aparat fotograficzny .	4	Perfective
+Ten , porwawszy swój kord , pobiegł za nim .	6	Perfective
+Oznacza to , że odbierze każde przychodzące wywołanie .	7	Perfective
+- Pchnij te drzwi !	1	Perfective
+O tej porze morenos raczej śpią .	5	Imperfective
+W salach pakunkowych stukano młotkami , pan Dąbrowski kłócił się z panią Zosią .	3	Imperfective
+- Pojebało cię ? !	1	Perfective
+Roszczenia , jak się zakłada , były by załatwiane w trybie administracyjnym .	6	Imperfective
+Urzędnicy zapewniają , że wszystko jest w porządku .	5	Imperfective
+Powtarzał to tak głośno , że na całej ulicy było go słychać .	9	Imperfective
+Jednak do dziś ta sugestia pozostaje wysoce spekulatywna .	5	Imperfective
+Na stole , obok niego , stała cukierniczka .	6	Imperfective
+Wyprostowała plecy .	0	Perfective
+– no nie żartuj . .	3	Imperfective
+Wieś rozsiadła się opodal traktu wiodącego prosto do Koszalina .	5	Imperfective
+W tym tygodniu ktoś życzliwy wskaże Ci sposobność , z której warto skorzystać .	5	Perfective
+MNIEJ MYŚLĘ STRUKTURAMI , BARDZIEJ CHCĘ DOJŚĆ DO KONKRETNEJ WYPOWIEDZI .	6	Perfective
+Przed Sądem Okręgowym w Koszalinie zeznała tak wczoraj pielęgniarka z karetki .	5	Perfective
+Liczyli zdobyte łupy , oglądali własne i nieprzyjacielskie straty .	4	Imperfective
+Czy pan poseł Chmielewski chce zadać pytanie ?	5	Perfective
+Rano przed wyjściem z domu włączył em telefon , ale nie zdążył już zadzwonić .	2	Perfective
+Zauważył Sielecki .	0	Perfective
+To był wielki dzień w życiu Genowefy Wiśniowskiej .	1	Imperfective
+Ostatnio tyle razy wyobrażała m sobie , że się do niego zbliżam .	4	Imperfective
+Wyciąga do niej ręce .	0	Imperfective
+W pięciu sklepach nic nie znaleziono , przeszukiwania pozostałych trwają .	5	Perfective
+Pani nauczycielka kazała zawiadomić o tym rodziców .	3	Perfective
+W końcu poddał mu się zupełnie .	2	Perfective
+- Czekam na pana przy wyjściu .	1	Imperfective
+Mały Marcel lubi oglądać kościoły .	3	Imperfective
+– mi już starczy tych zdjęć .	3	Perfective
+W obecnym arbitrażu Polska , jeśli nawet wygra , nie zyskuje niczego .	10	Imperfective
+Rozczytywał em się w Słowackim i w myślach nazywał em ją Ellenai .	8	Imperfective
+Wiele spraw do tego czasu powinno się już wyjaśnić .	5	Imperfective
+Na rozwieszonej chustce do nosa ujrzał em film .	5	Perfective
+- Zabrali nam Młodego .	1	Perfective
+Dziękuję .	0	Imperfective
+Nie pamiętam szczegółów , ale coś podobnego już zaszło .	8	Perfective
+Czas biegł nieubłaganie .	1	Imperfective
+Roman klęczał na posadzce i szukał pieniędzy , które mu podczas inkasowania wypadły z ręki .	12	Perfective
+Godzinami opowiadał o swoim życiu , ale ona nie miała czasu słuchać .	11	Imperfective
+Wystarczyło zrobić jeszcze krok , może dwa .	1	Perfective
+Od niego dowiem się najlepiej .	2	Perfective
+Zaznaczam , że pytanie nie jest wyłącznie retoryczne .	0	Imperfective
+Choć dziecko złożyło na policji zeznania , sprawców nie zatrzymano .	2	Perfective
+Wilk zastanowił się chwilę , po czym z lekkim drżeniem w sercu zadał najważniejsze pytanie .	12	Perfective
+Czasem tu się kuca .	3	Imperfective
+Będziesz miał wtedy dwa kroki .	0	Imperfective
+Nie jestem razem z nim .	1	Imperfective
+Całowała go drobnymi , szybkimi pocałunkami .	0	Imperfective
+To się okaże niebawem .	2	Perfective
+Nie ma żadnych ograniczeń .	1	Imperfective
+O Wilczyńskiej mówili ludzie .	2	Imperfective
+Cudem przedarli śmy się przez środek armii nieprzyjaciela .	1	Perfective
+Przez chwilę stał osłupiały .	2	Imperfective
+Niech chociaż pan Vens wróci .	4	Perfective
+- Pozostałe punkty zostały zatwierdzone .	3	Perfective
+- Widzę , że pan niezbyt się przejął tą zbrodnią .	1	Imperfective
+Siłą Ameryki jest jej armia .	2	Imperfective
+Pozbył się balastu , nim ten balast odebrała mu zamieć historii .	7	Perfective
+Uderzał rękami w głowę , drapał twarz .	5	Imperfective
+A może , gdyby m się przemógł , potłumił by m jej zaklęcia ?	8	Perfective
+Nie był stary .	1	Imperfective
+Przewidywany obecnie termin rozpoczęcia inwestycji to marzec 2009 roku .	3	Perfective
+Nie wystarczy już sam preparat o działaniu nawilżającym .	7	Imperfective
+Niezależnie od przedstawionych wyników , kontrolę przeprowadzą jeszcze policjanci z Komendy Wojewódzkiej Policji w Katowicach .	6	Perfective
+Wpadnę tam za jakiś czas , by zobaczyć , jak się sprawujesz .	0	Perfective
+- Jeszcze nie zdążyła m .	3	Perfective
+Majątki robią .	1	Imperfective
+Dwaj szwagrowie postanowili kupić swojej teściowej złote kolczyki .	2	Perfective
+Wiem , co zrobię !	0	Imperfective
+- Zdaje się , że oni zamierzają urządzić komedię sądową .	1	Imperfective
+Nosił czarny wąsik , jakby się ubrudził .	0	Imperfective
+– ale jest jeden zajączek .	2	Imperfective
+Wyobraź sobie człowieka znajdującego się na ogromnej górze .	3	Imperfective
+Jej facet jest zmęczony pracą , pomidorówką oraz żoną .	3	Perfective
+Musi uwierzyć , że pisane jej jest życie tylko z tobą .	1	Perfective
+Cebulę obrać , pokroić w krążki .	1	Perfective
+Zapytany przez nas radiotelegrafista zdradził treść oddanej depeszy .	6	Perfective
+– W HSW SA trwa obecnie wielkie liczenie .	7	Imperfective
+Dziś zostanie rozegrana ostatnia kolejka ekstraklasy .	2	Perfective
+Rzeczywiście , dodzwonić się do dyrektora było szalenie trudno .	2	Perfective
+W przeciwnym wypadku należy je rozrzedzić wodą .	3	Imperfective
+Kto wstrzymał się od głosu ?	1	Perfective
+Omawiana książka jeszcze raz to potwierdza .	5	Imperfective
+Sięgnął em dłonią do jej policzka .	1	Imperfective
+Nie dogadał by się z ministrem Szmajdzińskim .	1	Perfective
+W poniedziałek naczelnik Jerzy Żemełko był na urlopie .	5	Imperfective
+– Dlaczego nie złożył pan doniesienia na sprawców o czynną napaść ?	3	Perfective
+– Twój czas minął .	3	Perfective
+Ta rzuciła słuchawką .	1	Perfective
+Cieknie już od tygodnia , a ty nic z tym nie robisz .	11	Imperfective
+Nic nie słyszał .	2	Imperfective
+Ogolić jaja na skina ?	0	Perfective
+Aby mieć z czego żyć , zatrudniła się w firmie swoich przyjaciół .	1	Imperfective
+Michał zaczął zmagać się z niewyraźnym pismem Marka .	2	Imperfective
+Mężczyźni zakomunikowali , że przychodzą z bardzo korzystną ofertą .	4	Imperfective
+Z jego przepalonego i odsłaniającego rusztowanie kręgów gardła wydobył się syk .	4	Imperfective
+Podniosła m się .	0	Perfective
+Po wizycie papieża płyty mają zostać zwrócone powiatowi kartuskiemu .	4	Imperfective
+Zwycięzcy gratulujemy !	1	Imperfective
+Inaczej mogą zostać pobite .	3	Perfective
+Ze stara wyciekał olej i płyn chłodzący , a przyczepa miała zdemontowany hamulec awaryjny .	11	Perfective
+- Skąd go znasz ? !	3	Imperfective
+Tymczasem komandor zatrzaśnięty w samochodzie wydzwaniał z telefonu komórkowego do znajomych .	2	Perfective
+Posłuchajcie , prześmiewa się z naszej drogi , chichocze .	8	Imperfective
+- Wiesz , że nie chciała m ci zrobić przykrości .	5	Imperfective
+Ojciec zagaił wiec .	1	Perfective
+– bo się spytała m .	4	Imperfective
+Pobył em tu i wstydzę się odezwać .	0	Perfective
+Niestety , z tym jest najgorzej i najlepsze koncepcje mogą nie zostać zrealizowane .	11	Perfective
+Złapał rękami za poręcze .	0	Perfective
+Zresztą słońce też kawał czasu temu wyszło z okresu świetności .	6	Perfective
+Reagował jak ideowy socjalista .	0	Imperfective
+W kraju mamy budżetowanie na każdy rok osobno .	3	Imperfective
+Jest wesolutki , chętny do spędzania czasu przy kolacji .	0	Imperfective
+Usiedli śmy , zamówili śmy do picia napoje chłodzące .	8	Imperfective
+Wszystko płynie .	1	Imperfective
+– nie wiem o żadnym .	2	Imperfective
+Wśród tradycjonalistów muzułmańskich z państw Półwyspu Arabskiego wywołało ono szok .	7	Perfective
+Jak wielu moich rówieśników inaczej swoje życie planował , a inaczej się potoczyło .	12	Perfective
+Chciał em , żeby skomentował , coś odpowiedział .	7	Perfective
+Bandzior wynajmował posła do niszczenia konkurencji .	1	Imperfective
+Przecież on może wrócić .	3	Perfective
+Turkowska mleczarnia od dłuższego czasu ma problemy finansowe .	5	Imperfective
+To były fajne czasy .	1	Imperfective
+Niełatwo było im też kontaktować się ze sobą .	1	Imperfective
+Płacił em za to i zarabiał em na tym .	1	Imperfective
+Nie mogę powiedzieć , że byli uprzejmi , ale nie byli niegrzeczni .	2	Perfective
+Nigdy nie zostanie rusałką ta , która pokalała swój wianek .	2	Perfective
+Miało płonąć mieszkanie na dziewiątym piętrze jednego z bloków .	0	Imperfective
+Widziała m , jak cichaczem wrócił eś .	0	Imperfective
+Po raz kolejny wystąpił pan niezgodnie z regulaminem .	3	Perfective
+Dotychczas obowiązek donoszenia WKU o studentach , którzy przerwali naukę , spoczywał na uczelniach .	8	Perfective
+Jeśli weźmiemy pod uwagę sprawność i wydajność akumulatorów wanadowych , projekt wydaje się zupełnie realny .	11	Imperfective
+Idę płakać nad moim losem .	0	Imperfective
+Wychowała m tam 10 specjalistów chirurgii dziecięcej .	0	Perfective
+Uprzątnięto stragany , deszcz zmył kamienną posadzkę .	4	Perfective
+Przeciętny Polak musiał by na nią pracować sto lat .	2	Imperfective
+Zaprosiła go na studniówkę .	0	Perfective
+Odnotowano ponadto kilkanaście zachorowań .	0	Perfective
+Znów muszę gonić po browar dla tej moczymordy .	1	Imperfective
+- Żeby Polak zrozumiał , musi zacząć się bać .	3	Perfective
+Zamkniętych zostało kilka autostrad .	0	Perfective
+Henkel na preferencyjnych warunkach KGaA zaoferuje swoim pracownikom akcje spółki .	5	Perfective
+– Przystupa się zaczerwieniła .	3	Perfective
+- Będziemy grali , mam taką nadzieję .	2	Imperfective
+Zrobił em szybko dwa przysiady i skierował em się do łazienki .	0	Perfective
+Biodra powinny być odchylone do tyłu .	1	Imperfective
+Kiedy Krystyna wracała z miasta , zastawała ją na czatach przy drzwiach .	6	Imperfective
+Skoro tylko się to okazało moż1iwe , natychmiast napisał em .	4	Perfective
+– powinno wystarczyć . .	1	Imperfective
+jechali śmy .	0	Imperfective
+Poruszył em się na łóżku , które odpowiedziało sprężyście .	0	Perfective
+Wystarczy chwila nieuwagi , a dziecko może zrobić coś niebezpiecznego dla siebie .	7	Perfective
+Kochamy Polskę , lecz fakty składające się na polską rzeczywistość działają nam na nerwy .	0	Imperfective
+Trochę nie rozumiem .	2	Imperfective
+Z pierwszych informacji wynika , że młody człowiek chciał zjechać po poręczy i stracił równowagę .	13	Perfective
+A ten głupi Rzymianin powiedział , że go tam odeśle . . .	9	Perfective
+Nikt wcześniej nie wyszedł do protestujących pielęgniarek .	5	Imperfective
+Za dobrze opowiada bajki .	2	Imperfective
+Siedzę dziś cały dzień w domu i obiad jemy w domu .	0	Imperfective
+Czasem okazuje się , że reklama choć efektowna nie działa .	1	Imperfective
+Dyrektor Helski sięgnął do kieszeni .	2	Perfective
+Oryginalne lampy zdobyto z zasobów niemieckich przeznaczonych dla Wehrmachtu .	6	Perfective
+Ewakuowano 200 gości hotelowych .	0	Perfective
+Pozostaje wreszcie problem walorów dydaktycznych książki .	0	Imperfective
+Związki zawodowe reprezentują przecież grupy obywateli i są zobligowane do dbania o ich interesy .	10	Imperfective
+Ostatnio któryś z proboszczów przegrał samochód .	4	Perfective
+Papierosy bez polskiej akcyzy miały trafić do Niemiec .	5	Perfective
+Uniemożliwiła mu to bardzo ofensywna postawa Raftera .	0	Perfective
+Po zdobyciu drugiego gola kielczanie kontrolowali przebieg gry .	1	Perfective
+Polska historiografia powoli wybija się na normalność .	3	Imperfective
+W pośpiechu wybiegają w deszcz .	2	Imperfective
+- Sami nie macie !	3	Imperfective
+- W Janowie to była dziecinada .	4	Imperfective
+Komputery są bezlitosne .	1	Imperfective
+Oni myśleli , że była m nówka i Miszka mnie rozdziewiczył .	4	Imperfective
+Przesadził em tu z ofensywnym tonem .	0	Perfective
+Do tej pory dostał 91 esemesów .	3	Perfective
+Mamy wysokie standardy .	0	Imperfective
+Dom jest nieocieplony .	2	Perfective
+JAJKO SIĘ NIE TŁUCZE !	3	Imperfective
+Idę .	0	Imperfective
+Złapali ją na tym .	0	Perfective
+Posmarujesz , pojedziesz !	2	Perfective
+Zbroimy się !	0	Imperfective
+Tam , gdzie byli prześladowani przez muzułmanów , musiał wystarczyć chaczkar .	3	Imperfective
+Wcześniej pracował w przemyśle chemicznym .	1	Imperfective
+Bo jest tylko czas na zarabianie pieniędzy i klepanie biedy .	5	Imperfective
+– i gdzie pracuje teraz ?	3	Imperfective
+Floyd spowodował dotychczas śmierć co najmniej 10 osób .	1	Perfective
+We znaki dały się też niewyczyszczone przed zimą przewody kominowe .	2	Perfective
+Wstępne wyniki dochodzenia będą znane w styczniu przyszłego roku .	4	Imperfective
+Decyzja zapadła , mimo że szefowie tajnych służb ostrzegli , iż Palestyńczycy wyjdą na ulice .	8	Perfective
+Nie dajmy się przyjaciołom !	1	Perfective
+Nie idzie pan za daleko ?	1	Imperfective
+- Wszyscy wiedzieli , że u niego można załatwić papiery .	8	Perfective
+Bo jest byłym gliną ?	1	Imperfective
+Celnikom wyjaśniła , że muszlę kupiła w Acapulco za 20 dolarów .	1	Perfective
+Nikt nie domyśla się , co tkwi w środku .	2	Imperfective
+Powiedział nawet coś do telefonu .	0	Perfective
+Rzeczywiście prace organizacyjne nieco się opóźniły , ale już wkrótce biuro zacznie działać pełną parą .	5	Perfective
+Po latach dowie się , że zostali rozstrzelani jeszcze przed jego aresztowaniem .	7	Perfective
+W parę dni później pojawił się przysłany przez matkę Wituś .	4	Perfective
+Zbliżali się do niej groźnie .	0	Imperfective
+- Czy równie powszechne obecnie torebki plastykowe także mogą trafić do spalarni śmieci ?	9	Perfective
+W 10 sklepach sprzedawcy odmówili , żądając okazania dokumentów , w jednym przypadku alkohol sprzedano .	4	Perfective
+Samochód był w pełni ubezpieczony w Hestii .	1	Imperfective
+Z nowym rokiem weszło w życie nowe prawo dewizowe .	3	Perfective
+- Kiedyś z prezydentem Aleksandrem Kwaśniewskim leciał em do Wilna .	6	Imperfective
+- Franosz telefonował , że już są .	2	Imperfective
+– Chce pan napisać o tym artykuł ?	1	Imperfective
+Powyższą koncepcję w latach późniejszych rozwinął zespół meteorologów norweskich .	5	Perfective
+Patrzył w niego w zachwyceniu , a potem przestał widzieć cokolwiek , bo zemdlał .	8	Perfective
+On musiał zrozumieć mój wzrok .	1	Imperfective
+Pistol poprawiał krawat , a Fanga wręczał kluczyki .	1	Imperfective
+W poprzednim numerze informowali śmy o związkach zawodowych w naszym mieście .	3	Imperfective
+Jakże platońsko brzmi w tym kontekście teoria Jernego !	2	Imperfective
+I czuję się zagubiony .	1	Imperfective
+Elektrownie gazowe mają dać tyle prądu , ile daje elektrownia wodna w Asuanie .	8	Imperfective
+O dziewictwie już dawno zapomniała .	4	Perfective
+Mamy też nowych graczy .	0	Imperfective
+kto ich wspiera ?	2	Imperfective
+Utworzył em to hasło , ponieważ nikt wcześniej go nie utworzył .	10	Perfective
+Mamy na dzisiaj spokój .	0	Imperfective
+Trzecioligowcy strzelili kontaktowego gola , ale w ostatnim kwadransie dwie bramki dla Lecha wypracował Remień .	13	Perfective
+Rozbiegli się Kaszubi , pod przymusem do tej walki pędzeni .	0	Perfective
+Płacę za twój bilet , idziemy .	0	Imperfective
+Na razie żeglarze z całego świata odpoczywają i bawią się w Talinie .	8	Imperfective
+Przechodzimy do głosowania .	2	Imperfective
+Ostatnie odkrycie tylko to potwierdza .	4	Imperfective
+No proszę cię , bo naprawdę robi się z tego skandal .	1	Imperfective
+- Proszę sobie wyobrazić , jak się teraz czuję . . .	1	Imperfective
+Poprawkę 45 . już rozpatrzyli śmy .	4	Perfective
+- Ledwo się na nogach trzymasz !	5	Imperfective
+Jesteś impulsywna , bardzo żywo na wszystko reagujesz .	7	Imperfective
+Podstawą wykonania badania jest otrzymanie indywidualnego zaproszenia z Centrum .	4	Perfective
+Ta grupa w części pewnie będzie się składać z dawnego elektoratu SLD .	5	Imperfective
+I umie przewidzieć ceny ?	1	Imperfective
+- Czekaj , muszę to naprawdę zmyć , bo się jeszcze raz wyrzygam .	6	Perfective
+- Zobaczymy , czy RS AWS będzie już mógł samodzielnie działać .	8	Imperfective
+Listę tę prezydent Stanów Zjednoczonych przekazał w poniedziałek innym państwom .	5	Perfective
+A leki kosztują .	2	Imperfective
+W nocy obudził się po godzince i opadła go bezsilność .	2	Perfective
+Dachom trójkątnym , łagodnym i płaskim powierzam moje stopy lunatyka .	6	Imperfective
+Po obu stronach muszą kisnąć jakieś mokradła , co oddychają mgłami .	9	Imperfective
+Ma charakter precyzujący .	2	Imperfective
+Na dole jest moja prywatna plaża .	2	Imperfective
+To pleban kawęczyński jechał dwukonnym wózkiem do miasta .	3	Imperfective
+Policja przesłuchuje świadków , zbiera informacje , zabezpiecza ślady .	1	Imperfective
+A Jan Rokita bardzo panu zaszkodził ?	5	Perfective
+Zawsze też były kwiaty , Ludmiła mu wstawiała . . .	7	Imperfective
+– bo się spytała m .	4	Imperfective
+Do czwartku droga ma być przejezdna .	4	Imperfective
+Sumę wpisz w zaznaczone miejsca .	3	Perfective
+Ten okrzyk otrzeźwił go .	2	Perfective
+Tymczasem w Słupsku cały czas służby pozostają w pogotowiu .	6	Imperfective
+- Kto z państwa jest za przyjęciem uchwały ?	6	Perfective
+Ono posiada wartość .	1	Imperfective
+Muzycy nie robią przerw między utworami .	2	Imperfective
+- Zabili ją , bo przerwała głodówkę .	5	Perfective
+Chciała m , żeby ś o tym wiedziała .	7	Imperfective
+Projekt nie wykracza poza gminy .	2	Imperfective
+miał tutaj do nas przyjechać . .	0	Imperfective
+Kościół nie zobowiązuje katolików do tego , aby wierzyli w cuda .	8	Imperfective
+W krem wcisnąć osączone i pokrojone ananasy .	5	Perfective
+I zjechawszy na kolana gorzko zapłakał zapominając , że patrzą na niego ludzie .	1	Perfective
+A PKS również ma swoje przepisy , kierowca musi po pewnej ilości godzin odpocząć .	8	Imperfective
+– Będę gdzieś około jedenastej tym razem .	1	Imperfective
+- Sama była ?	2	Imperfective
+Gospodyni miała dużo książek , spytał em , czy mogę poczytać .	6	Imperfective
+- Mamy tu więcej stanowisk strzeleckich .	1	Imperfective
+To coś bardzo ważnego , chciała m jeszcze wrócić do tego tematu .	8	Perfective
+Chyba naprawdę była całkiem w porządku !	2	Imperfective
+- Postanowił em się urżnąć .	1	Perfective
+- A to jest , niestety , śmiertelna choroba .	3	Imperfective
+Dzieciak długo spał .	2	Imperfective
+Gdyby nie było przemocy , porozumienie zostało by już dawno zawarte .	6	Perfective
+Miała m kiedyś przyjaciółkę we Francji .	0	Imperfective
+RPO podjął się zbadania sprawy .	3	Perfective
+- Nie mam czasu chodzić do doktora , ani mi się śni !	2	Imperfective
+Wymarł 75 milionów lat temu .	0	Perfective
+Rozszerzone źrenice skierował na moją twarz , ale pod nimi była pustka .	0	Perfective
+- Uciekaj .	1	Imperfective
+Henryk dźwignął się z ławki .	1	Perfective
+Mnich uniósł oczy .	1	Perfective
+Nie zauważyła ś ?	1	Perfective
+Posiedzenie trwało .	1	Imperfective
+Ţe przyszła . . .	1	Perfective
+Inne warszawskie osiedlą również próbują powołać rady mieszkańców .	5	Perfective
+Produkcja idzie 7 dni w tygodniu .	1	Imperfective
+Podołamy .	0	Perfective
+Wcześniej objął władzę w wyniku zamachu stanu .	1	Perfective
+Wyznaczone zostaną również miejsca parkingowe .	0	Perfective
+Dzisiaj widzę wszystko !	1	Imperfective
+Nie pisze tego , aby ci dokopać .	1	Imperfective
+- I ja go kocham .	4	Imperfective
+Joniec i Miksa spojrzeli po sobie , obcierając oczy .	3	Perfective
+Każdy z synów założył rodzinę .	3	Perfective
+Robi wrażenie wyluzowanego .	2	Perfective
+dajmy się odnieść jeszcze tylko panu ministrowi Szejnfeldowi .	0	Perfective
+Otworzyła oczy i uśmiechnęła się .	0	Perfective
+Nie zatamujesz krwi fałszywym bandażem .	1	Perfective
+Krupowicz otworzył usta , błędnym wzrokiem wparł się w wiceministra .	6	Perfective
+Heniek postawił na stole telewizor .	1	Perfective
+- Zbądź obawy , ojcze .	1	Perfective
+Zaczęło się to już wczoraj po południu , po przyjściu Edyty .	0	Perfective
+Wcześniej nie zauważyła m , że z tego palanta wycieka palantyna .	3	Imperfective
+Nadążacie , Towarzysze ?	0	Imperfective
+Odpowiedzi takie zaliczała m do poprawnych mimo zaistniałej pomyłki .	2	Imperfective
+Po prostu nie ma pieniędzy .	3	Imperfective
+Wybierzmy tych , którym chcemy pomóc .	5	Perfective
+Przeprowadza się Departament jakiegoś Ministerstwa .	0	Imperfective
+W najbliższym czasie rynek prawdopodobnie ochłonie i dojdzie do korekty .	7	Perfective
+Zaczynam odczuwać tęsknotę za utworami o głębszej treści i większym sensie .	1	Imperfective
+Witold , słyszysz ?	2	Imperfective
+Nieleczona choroba przerodziła się w złośliwego chłoniaka .	2	Perfective
+Obu szwedzkim dyplomatom zarzucono też działalność wykraczającą poza ich oficjalny status .	3	Perfective
+Wyrok nie zapadł , bo w trakcie procesu sąsiad zmarł .	2	Perfective
+Ukląkł em przy Mateuszu i szybko wcisnął em mu woreczek do ręki .	0	Perfective
+Dziecko niespodziewanie wsiadło do czekającej na piętrze windy .	2	Perfective
+Ich celem było po prostu zlikwidowanie wszystkich dziur .	2	Imperfective
+Paliła swoje mentolowe , wydmuchiwała dym , jakby mnie odpychała .	0	Imperfective
+Dwaj kierowcy , którzy akurat trafili na uroczystość otwarcia , dostali upominki od prezydenta miasta .	8	Perfective
+Minęła nas ze świeczką .	0	Perfective
+Chwycił walizkę i pędem dopadł drzwi wyjściowych .	0	Perfective
+Jaki istnieje .	1	Imperfective
+- Poprawka piąta została przyjęta .	4	Perfective
+Widział em wyraźnie drobne krople , wolno toczące się po twarzy .	0	Imperfective
+Młodzi ludzie przy pomocy tortu chcieli zaprotestować przeciwko reformom rządu Jerzego Buzka .	6	Perfective
+Z naszych informacji wynika , że szpital proszowicki nie znajdzie się w tej sieci .	3	Imperfective
+- Jedziemy do Paryża .	1	Imperfective
+Przed sądem stawiło się tylko 18 świadków .	2	Perfective
+Kluczem do wszystkiego jest odpowiedni budżet klubu .	3	Imperfective
+Na tych przejazdach woda była płytka , ale dno piaszczyste nie groziło uszkodzeniem łodzi .	12	Perfective
+Nie znoszę bezczynności .	1	Imperfective
+- Robić dalej to samo .	1	Imperfective
+Przede wszystkim , bądź dla niej dobry , wyrozumiały , łagodny .	3	Imperfective
+– Wiem , czego ci trzeba .	1	Imperfective
+Matka kilkakrotnie dziennie karmi małe .	3	Imperfective
+W załzawionym świecie jeden diabeł posiadał kontury ostre i wyraźne .	5	Perfective
+S-check wykrywa zdradę do dwóch tygodni od momentu jej popełnienia .	9	Perfective
+- Czy chce otrzymać azyl w Danii ?	2	Imperfective
+Z czasem odkrywa miłość .	2	Imperfective
+- Do głosowania nad uchwałą Senatu przystąpimy jutro rano .	6	Perfective
+Przecież przegrali ście , nie macie już nikogo !	5	Imperfective
+Przecież nie umarła , kiedy my żyjemy .	6	Imperfective
+Krew spryskała bok mierzynka .	1	Perfective
+Dziękuję .	0	Imperfective
+Ale góry się nie poddawały .	4	Imperfective
+Paryża pół ze złości się skręcało !	5	Imperfective
+W Paryżu zaczyna się wyczekiwanie .	2	Imperfective
+Później samochód poświęcili biskupi uczestniczący w uroczystościach .	2	Perfective
+Wyniki podali śmy wczoraj .	1	Perfective
+Wiktor sięgnął do torby , wyjął manierkę .	1	Perfective
+Sprawa została upubliczniona na ostatniej miejskiej sesji .	2	Perfective
+Zresztą to chyba nie uciska .	4	Imperfective
+Francuski akcent stanowi niewątpliwie muzyka .	2	Imperfective
+Do sali zjechali śmy godnie , windę znarowioną już naprawili .	3	Imperfective
+Odwrotnie nie przekazuje się żadnych wiadomości .	2	Imperfective
+Pani nauczycielka kazała zawiadomić o tym rodziców .	2	Perfective
+tak będzie lepiej ?	1	Imperfective
+Natomiast zdumiewa mnie to , że nigdy nie mogę tu liczyć na wzajemność .	1	Imperfective
+Stracił em równowagę .	0	Perfective
+Bez słowa wyminął mnie i zatrzymał się przed dzieckiem .	5	Perfective
+Tereska mrugnęła do mnie porozumiewawczo i opuściła głowę , jak każda strofowana uczennica .	6	Perfective
+Kto jest przeciwny ?	1	Imperfective
+Zrobiła swoje .	0	Perfective
+Oddając zużyte elektrolity , które tam będą regenerowane , napełnimy zbiorniki nowymi roztworami .	0	Imperfective
+Zakończył się drugi rozdział krótkiej historii fullerenów .	0	Perfective
+Po dobranocce najmłodsze idą spać .	4	Imperfective
+Francuz jest jak ślimak .	1	Imperfective
+Kochamy Polskę , lecz fakty składające się na polską rzeczywistość działają nam na nerwy .	10	Imperfective
+I był tu właściwie na razie niepotrzebny .	1	Imperfective
+Pracowicie wyodrębnił pojęcia takie jak ból , smutek , rozpacz , cierpienie , żal .	1	Perfective
+Jemu się spowiadamy z drobnych grzeszków .	2	Imperfective
+Marcin miał przynieść zapałki .	2	Perfective
+Przechodzień , który pomógł bitemu policjantowi , już dostaje pogróżki .	3	Perfective
+Ja ci już nie odpowiadam .	4	Imperfective
+Muszę przyjąć twoją decyzję .	0	Imperfective
+- Nie sądzę , by tu były ghule .	6	Imperfective
+Siebert machnął ręką i chrabąszcz przestał burczeć , ponieważ miał go w garści .	5	Perfective
+Już bez nadziei rozglądał em się , gdy wtem zobaczył em w lunecie czarny punkt .	10	Imperfective
+Zostaną one przekazane do Archiwum Akt Nowych w Warszawie .	0	Perfective
+Jest także wspólnota terytorialna , kulturowa i polityczna .	0	Imperfective
+Idź już , dziecko , idź .	5	Imperfective
+Goldman zrobił pauzę .	1	Perfective
+Mimo pomocy lekarzy umiera .	3	Imperfective
+- A co ma być ?	3	Imperfective
+- Biegał po domu , obszukiwał szafy .	5	Imperfective
+Wyznaczone zostaną również miejsca parkingowe .	1	Perfective
+Czasem przychodzi rysować . "	1	Imperfective
+Nikomu nic się nie stało .	4	Perfective
+W czasach uczelnianego wyścigu szczurów i masowego bezrobocia pełni często rolę bezpłatnej terapii .	8	Imperfective
+Bałamucić słowem i myślą .	0	Imperfective
+Nawet ptaki przestały śpiewać .	2	Perfective
+„ Bawi się ze mną .	1	Imperfective
+Nikt niczego nie wybiera , coś wybiera za nas .	3	Imperfective
+Okazuje się , że zaproszona grupa baletowa prawdopodobnie będzie musiała zrezygnować z udziału w festiwalu .	4	Perfective
+Jest spokój , a więc możemy być zadowoleni .	5	Imperfective
+Przecież Jezus uzdrawiał ?	2	Imperfective
+Następnie zrównał się ze mną i tak szli śmy w milczeniu .	1	Perfective
+Następnie zbiegł po jakichś schodach ; zbiegał długo .	6	Imperfective
+Okradli ich z zegarków i łańcuszków .	0	Perfective
+Tymczasem byk już był przy nim .	3	Imperfective
+Gdy Dominika przyjechała po matkę , Babel dożywał swych dni .	7	Imperfective
+Mieszkała m w Dobrziszu .	0	Imperfective
+- Trzeba będzie zmienić interes .	3	Perfective
+Doznał poważnych obrażeń ciała i przebywa w szpitalu .	0	Perfective
+Może nauczysz się wreszcie , jak się takie rzeczy załatwia .	9	Imperfective
+Tymczasem konflikt izraelsko - palestyński wydaje się zaostrzać .	7	Imperfective
+Jaki amok ją czeka , jaki mrok ją ogarnie ?	8	Perfective
+czyli osiągnęła ś sukces .	1	Perfective
+Co - to wiedzą Aleksander Kwaśniewski i Krzysztof Janik .	3	Imperfective
+Zdarzenie miało miejsce 20 kwietnia tego roku .	1	Imperfective
+- Mój ojciec pracuje w BRH , biurze radcy handlowego .	3	Imperfective
+Trzeba to sobie wyraźnie powiedzieć .	4	Perfective
+Jeśli jednak obietnica ta się potwierdzi , śmieci zasypią nas dopiero w przyszłym roku .	8	Perfective
+Co by się stało , gdyby m nie uciekł z Wilna ?	3	Perfective
+– a nie było wakacji ?	3	Imperfective
+– Była bardzo prześladowana .	3	Imperfective
+Złem jest jego uprawianie .	1	Imperfective
+Potem obserwował już , jak się zbliżali .	1	Imperfective
+W opisywanej już szczegółowo scenie przy stole każda mówi w innym języku . . .	1	Imperfective
+Sporządzono listę przedmiotów , które zrabowali z mieszkania brutalni przestępcy .	0	Perfective
+W Polsce borówka rośnie na 100 hektarach .	3	Imperfective
+Oj , jak to się nazywa ?	5	Imperfective
+Spluwę włożę do buzi , nacisnę spust .	1	Perfective
+A najlepiej lubię w supermarketach oglądać bajki .	2	Imperfective
+może se cofasz licznik .	2	Imperfective
+Przybysze z najnowszej fali na ogół stronią od polonijnych organizacji społecznych .	6	Imperfective
+Jeżeli człowiek silnie reaguje na różne zjawiska , może być tak odbierany .	8	Imperfective
+- Dlaczego zamknęła ś oczy ?	3	Imperfective
+Przestali bić , kiedy znieruchomiał .	1	Imperfective
+Idź .	0	Imperfective
+Właścicielką bagażu była Polka , która wróciła do kraju z USA .	6	Perfective
+Nie znaczy to , że rezygnuję ze sportu .	1	Imperfective
+Zakaz nic nie mówi o tasakach lub półmetrowych nożach kuchennych . . .	3	Imperfective
+Nie ma nic lepszego niż zdrowy , spokojny sen .	1	Imperfective
+Chciał by być teraz w namiocie , oddzielony od wszystkiego .	7	Perfective
+Regis będzie wiedział , co należy zrobić .	6	Perfective
+Koniec jego był bardzo smutny .	2	Imperfective
+- Czy ja zawsze muszę dostać najtrudniejszą robotę ?	5	Perfective
+Powiedział też , że interwencja jeszcze nie grozi .	0	Perfective
+Chciał ją spytać o wiele rzeczy .	0	Imperfective
+Jeśli się potłuką , młodą parę czeka życie dostatnie i bezproblemowe .	2	Perfective
+Dach przypomina fale morskie , które często zdobią japońskie drzeworyty .	7	Imperfective
+Potem zaproponowano urządzić koniowi pogrzeb . . .	1	Perfective
+Dziecko się zrobiło nerwowe po tych przejściach .	2	Perfective
+- Poszł em , nie doszł em , przyszł em i został em .	2	Imperfective
+Zapalił pierwsze dzisiaj cygaro .	0	Perfective
+Nadział em je na haczyk i zarzucił em .	1	Imperfective
+Niech zakazują !	1	Imperfective
+Panuje ciasnota umysłowa i ludzie nie są w stanie przełknąć niektórych rzeczy .	9	Perfective
+Często empatyczny kontakt pozwala nam przezwyciężyć wielki , psychiczny ból .	5	Perfective
+– bo on tak się zwraca do kolegów i koleżanek . .	5	Imperfective
+Patesi stanął przy królu .	1	Perfective
+Mam nadzieję , że za Dziurowiczem pójdą następni .	6	Perfective
+Ostatnio policja paryska postanowiła usprawnić karanie mandatami .	3	Perfective
+Opieka naprzemienna jest konsekwencją sprzeciwu ojców , którzy poczuli się skrzywdzeni orzeczeniami sądów .	2	Imperfective
+Był ostro atakowany przez endecję .	2	Imperfective
+W dobrych warunkach mnożą się bardzo szybko .	3	Imperfective
+- Nauczył em się jej na pamięć .	2	Imperfective
+Chciał em znowu zapytać , dlaczego nie idziemy prosto do domu .	1	Imperfective
+Po zakończeniu prac zapomniano o ponownym ich umieszczeniu .	3	Perfective
+Musimy dotrwać .	1	Perfective
+Potem , gdy próbowali je sprzedać w Szanghaju , zostali zauważeni przez policję .	10	Perfective
+W Tczewie w Radzie Miejskiej zasiada 23 radnych .	5	Imperfective
+Pozostała część artylerii z reguły prowadziła ogień z zakrytych stanowisk ogniowych .	5	Imperfective
+- Z wiekiem człowiek zwalnia i rozgląda się wokół .	4	Imperfective
+- Lubimy zaglądać do takich dużych centrów .	2	Imperfective
+Nie najgorzej nas tu na początek podejmują .	6	Imperfective
+I jak człowiek zrozumiał , zamerdał ogonem i powlókł się do budy .	8	Perfective
+Ale trzeba na niego zapracować , zwłaszcza przed stresującym dniem .	4	Perfective
+Już na pierwszy rzut oka widać było , że jest to człowiek załamany psychicznie .	9	Imperfective
+Na deklarowane stanowisko wyraźnie wpływa staż pracy sędziego .	4	Imperfective
+- Co mnie interesuje ?	3	Imperfective
+Wiślacy zgnietli niemiecką drużynę siłą ofensywy .	1	Perfective
+Ludzie siedzą w domach przy świecach .	1	Imperfective
+- A ja mówię panu profesorowi , że nie pójdę .	9	Perfective
+Zawieźli ją do Akademii .	0	Perfective
+Do gabinetu weszła panna Wunsch i położyła na biurku Trentscha niebieski skoroszyt .	2	Perfective
+W następnym oknie będzie można samodzielnie skonfigurować menu bootmanagera .	3	Imperfective
+Zamaskowany bandyta wszedł do banku , w obu rękach trzymał pistolety .	2	Perfective
+Rykiert wahał się przez moment , potem odwrócił się i zaczął uciekać .	11	Imperfective
+Dostaję klucz i biegnę do swojego pokoju .	3	Imperfective
+Nazywa się Topp .	0	Imperfective
+- Nie znasz jej .	2	Imperfective
+A zresztą , pewnie i tak zmarnowało by te pieniądze .	7	Imperfective
+Bo możesz mnie zabić .	1	Imperfective
+Informuję , że zgłosili się posłowie w celu wygłoszenia oświadczeń poselskich .	0	Imperfective
+- Ale widzę , że tu , w Bibliotece , ksiądz nad czymś pracuje .	2	Imperfective
+Długo oczekiwana wiosna przyjdzie do nas już jutro !	1	Imperfective
+Prawdopodobnie zapuścił się dalej .	1	Perfective
+PKP zaprasza .	1	Imperfective
+Sektor dla publiczności może pomieścić 300 kibiców .	3	Imperfective
+Czy mogę być normalny , skoro przez lata był em aktorem w policyjnym pornosie ?	2	Imperfective
+– fotografia nie jest twoją mocną stroną .	3	Imperfective
+Nie muszę używać trybu przypuszczającego .	1	Imperfective
+I wróżą dobrą pogodę do inwestowania w akcje .	5	Imperfective
+Okupując wejście , czekały , co się wydarzy .	0	Imperfective
+Potem polski papież został by w Watykanie kanonizowany .	7	Perfective
+Tata musiał pojechać do domu .	2	Perfective
+- Dzień dobry pani , podobno dzisiaj spadł pocisk na tamten dom ?	7	Perfective
+Dziś wyjątkowo przegrał em .	3	Imperfective
+Tak przynajmniej wynika z zachowanych dokumentów i relacji .	4	Perfective
+Tego nie wiemy na pewno , mimo że zacytowane wyżej zdanie stało się znakiem rozpoznawczym .	2	Imperfective
+Ale to nie tylko zadanie związku , bo kolosalne znaczenie ma też jakość hal .	10	Imperfective
+Nie wyglądają na Żydów .	1	Imperfective
+Ważniejszy od niego jest parametr Name , który pozwala na nadanie nazwy danemu formularzowi .	3	Imperfective
+Sześciokrotnie wygrywał zawody pucharu świata .	1	Imperfective
+- Reforma na pewno nie zostanie zaniechana .	6	Perfective
+- Ale ty w Boga nie wierzysz .	6	Imperfective
+Pani M . odmówiła nam rozmowy .	3	Perfective
+Linia Jana kończy się na świętym Stanisławie Kostce .	2	Imperfective
+Ulubieniec publiczności doskonale wywiązał się z tego zadania .	3	Perfective
+Podrywał cię Domogarow ?	0	Imperfective
+Nie wie , czy dziewczyna wróci do szkoły .	1	Imperfective
+Jeśli gracze nie zmienią swojej decyzji , sytuacja naszego trzecioligowca stanie się jeszcze bardziej dramatyczna .	3	Perfective
+Wiele się zmieniło .	2	Perfective
+Jankowski rozstawił szklanki na stoliku .	1	Perfective
+Czy mogła by m obejrzeć ten drugi ?	4	Perfective
+Tamten obruszył się .	1	Perfective
+Zabrać go ?	0	Perfective
+Gdyby było dłuższe , nie przebrnął by m .	7	Imperfective
+Przecież uciekli śmy .	2	Imperfective
+I obowiązywał .	1	Imperfective
+Czy jeszcze ktoś chciał by się zapisać do zadania pytania ?	6	Perfective
+Należało to robić dokładnie , inaczej paczki spadały przy wjeżdżaniu do windy .	0	Imperfective
+- Jak mam nie wierzyć w swoich zawodników ?	2	Imperfective
+Kobieta może zrobić coś świetnie .	1	Imperfective
+Potrzebujemy rady i szczerej rozmowy .	0	Imperfective
+To chyba w ogóle nie miało nic wspólnego z odwagą .	5	Imperfective
+- Stwierdzam , że Sejm wobec nieuzyskania bezwzględnej większości głosów poprawki Senatu przyjął .	6	Perfective
+Pozbył się balastu , nim ten balast odebrała mu zamieć historii .	7	Perfective
+Rannymi cywilami zaopiekowali się najpierw amerykańscy sanitariusze z personelu naziemnego .	2	Perfective
+Zaczną czerpać wodę .	0	Perfective
+– a tam ma dodatki wiejskie .	3	Imperfective
+Od tego czasu pani Wanda ma zawroty głowy , drżenie ręki .	5	Imperfective
+Wyraźnie za Basajewem nie przepadał .	4	Imperfective
+SLD nie jest już postrzegany jako partia lewicowa .	2	Imperfective
+Wirował nad domami i zaczęło go trząść .	6	Imperfective
+Rzeczywiście można szlagier znienawidzić .	3	Perfective
+– Co ci się śni ?	4	Imperfective
+Oznacza to odejście od negocjacyjnego kształtowania wysokości płacy minimalnej .	2	Perfective
+Żołnierze okopali się tam i celnymi strzałami odpierali atakujących .	8	Imperfective
+Dymek w tym czasie ekspanderem przymocował otwartą klapę .	6	Perfective
+Przyjechał em tu na własny koszt .	1	Imperfective
+Zimą , przylatując na popas do Polski , zadowala się pozostałymi na krzakach jagodami .	8	Imperfective
+Przypominam jeszcze , że za parę minut przejedzie dwóch rowerzystów .	0	Imperfective
+W ten sposób mieli oni zakończyć dwuletnie studia podnoszące kwalifikacje zawodowe .	3	Imperfective
+- Czego stękasz ?	2	Imperfective
+Odurzyć się tym piwem nie można .	0	Perfective
+Równie dobrze mógł by m być chyba biologiem , geometrą .	4	Imperfective
+Po dziesięciu latach wraca do Petersburga i do przerwanej pracy pisarskiej .	3	Imperfective
+O tym wyniku napisały nawet światowe agencje prasowe .	3	Perfective
+Pan lepiej wie , z kim się pan umówił przy Wolnicy .	2	Imperfective
+Dlatego właśnie przed laty do Monako przenosili się masowo szwedzcy tenisiści .	6	Imperfective
+Ale on już nie mógł powstrzymać się od mówienia .	4	Imperfective
+Załogi z niepokojem śledzą ciche chmury nadchodzące z południa .	6	Imperfective
+Program muzyczny prowadzi Kamil Durczok .	2	Imperfective
+Słyszał em , że nieźle dostał eś po dupie . . .	6	Imperfective
+Całe starostwo spiskie od 1591 do 1745 roku należało do Lubomirskich .	8	Imperfective
+Popołudniowa pora nie przyniosła ochłody .	3	Perfective
+Od dziś dnia cały 18-ty arrondissement jest zamknięty od 6-ej po południu .	6	Imperfective
+" Józefie , chodź , to inny przedział . . . "	3	Imperfective
+Bywa , że dzieci ulegają nam , podporządkowują się naszej woli .	7	Imperfective
+W koszuli nocnej , boso podeszła do okna i odsunęła firankę .	5	Perfective
+Pani Anna jest w ciąży .	2	Imperfective
+Lżejsze podpórki chwytał po dwie i prawie biegnąc rzucał je na platformę .	2	Imperfective
+Dokonała cudu bajkowej przemiany .	0	Perfective
+Biuro krytykuje również projekty podatkowe rządu , podkreślając , że wywołają one dalszą zwyżkę cen .	7	Imperfective
+– nic nie zrobisz .	3	Perfective
+Istnieją też miasta , dla których nigdy nie ustaje karnawał .	0	Imperfective
+Nie wiedziała , jak długo Francuzka stała w progu .	6	Imperfective
+Kompromitowali nie tylko siebie , ale i Polskę .	0	Imperfective
+- Pójdziesz za to siedzieć , wiesz ?	4	Imperfective
+W stoisku PDT największe powodzenie mają fartuszki dziewczęce i chłopięce .	5	Imperfective
+Polacy pokonali 28 zespołów z całego świata i po raz pierwszy zdobyli puchar .	11	Perfective
+- Poza tym Jan Paweł II nie został jeszcze ogłoszony świętym .	9	Perfective
+Już niedługo będziemy się razem bawić .	2	Imperfective
+Kobiety , które spotkali śmy na polach cykorii pod Templewem , są spółdzielczyniami z Piesek .	3	Perfective
+Wtem jakby uśmiechnął się do nas spod przymkniętych powiek .	7	Perfective
+Podzielam ten pogląd .	0	Imperfective
+Jewhen drzemał na krześle przy drzwiach .	1	Imperfective
+Wyzwanie rzuci mu senator Jacek Bachalski .	1	Perfective
+Do 1995 roku francuscy przedsiębiorcy mogli legalnie dotować partie polityczne .	7	Imperfective
+Nie będą rozmawiać .	1	Imperfective
+Związki zawodowe reprezentują przecież grupy obywateli i są zobligowane do dbania o ich interesy .	8	Perfective
+Eugeniusz Kijewski jest dobrym trenerem ?	2	Imperfective
+Zajmował się innymi sprawami , raczej oddalonymi od zainteresowań pisarskich .	6	Perfective
+Ciastoń odpowiada teraz sam , bo Płatek jest chory .	1	Imperfective
+Wiatr zmienia kierunek , aby im towarzyszyć i chwytać ich słowa .	1	Imperfective
+Stwierdzono , że stosunkowo wysokie zarobki mają pielęgniarki bloku operacyjnego .	0	Perfective
+– To są bzdury !	2	Imperfective
+Groszek spojrzał na nią nieprzytomnie .	1	Perfective
+Milczącemu urodziła się córka .	1	Perfective
+Paweł wyjechał niespodziewanie wczoraj i zapomniał mi coś zostawić .	8	Perfective
+Ale Krzysztof chciał się dowiedzieć więcej .	2	Imperfective
+Teraz rząd stawia na bezpieczeństwo .	2	Imperfective
+Słucham i uszom nie dowierzam .	0	Imperfective
+Kiedy obaj byli już na skraju pola , Kaźmierz odetchnął głęboko .	9	Perfective
+Wpatrywał się w niebo , ciągle jeszcze francuskie .	0	Imperfective
+Zatrudnia 1100 dziennikarzy i 2000 współpracowników .	0	Imperfective
+Pani minister mogła by również poinformować posłów , jak przebiegają prace nad standaryzacją wydatków budżetowych .	9	Imperfective
+Wypłynęli śmy z Baški .	0	Perfective
+Po awanturze z rodziną K . wygrzebano przeciwko niemu stare sprawy .	6	Perfective
+Wcześniej nie zauważyła m , że z tego palanta wycieka palantyna .	3	Imperfective
+- A obywatelka skąd o tym wie ?	6	Imperfective
+Teraz wystarczy na dwa razy więcej .	1	Perfective
+Minął luty , nadszedł marzec .	0	Perfective
+Czuł się słaby i nędzny .	0	Imperfective
+Pacjenci nie muszą się obawiać .	4	Imperfective
+Teraz włodarze klubu mają zamiar iść jeszcze dalej .	3	Imperfective
+Nieudanie tym razem skakał o tyczce Ukrainiec Siergiej Bubka .	3	Imperfective
+Dźwignął się z trudem , ociężale i ruszył do następnego pokosu .	7	Perfective
+Dlatego umówił em się z nim w restauracji i zawiadomił em policję .	10	Imperfective
+Star Trek jest serialem legendarnym , ale do Polski dotarł dopiero kilka lat temu .	2	Imperfective
+Arek jest w głębi serca monogamistą .	1	Imperfective
+Bogoria miał czas wyłożyć swoją koncepcję .	3	Perfective
+Jednocześnie polecił zająć się milicjantem prowadzącym śledztwo .	2	Perfective
+Rezygnują ze swego zawodu i idą do Chrystusa .	0	Imperfective
+Na dłuższą metę okazało się to wszakże rzeczą niemożliwą .	3	Perfective
+Wrzucony do grobu , nie mógł stanąć nad grobem .	0	Perfective
+- Mógł by ś obrać ?	4	Perfective
+Prosimy naszych czytelników i internautów o włączenie się do akcji .	0	Imperfective
+Teraz będziesz miał spokój .	2	Imperfective
+Wtedy , na wieży Eiffla , zaczął em nie lubić Paryża .	9	Imperfective
+Musicie go przyprowadzić .	0	Imperfective
+- Masz się o niego nie martwić , słyszał eś ?	6	Imperfective
+Po obu stronach muszą kisnąć jakieś mokradła , co oddychają mgłami .	3	Imperfective
+- Za wcześnie pytać naszych ludzi , ale planeta wygląda mi na starą .	3	Imperfective
+Sam je również ściągnął em .	3	Perfective
+Spojrzeli śmy na siebie i przez moment wytrzymał em jej wzrok .	8	Imperfective
+Miał tam przyjaciela .	0	Imperfective
+Wszystko zależy od chwili , dnia , może nastroju .	1	Imperfective
+Miał ochotę mocno przytulić .	3	Perfective
+Czy powinna m mieć drugie dziecko ?	1	Imperfective
+Ale wiewiórka , piorąc bieliznę , wyławiała lady i następował szczęśliwy koniec .	3	Imperfective
+Czy tamci mogli oczekiwać takiego kataklizmu ?	3	Imperfective
+Ale może wrócę .	2	Perfective
+- Jakie są Pańskim zdaniem cechy dobrego dyplomaty ?	2	Imperfective
+Uwierzy !	0	Perfective
+Gdzie jest szkoła , jak wyglądają zajęcia ?	5	Imperfective
+- Jest w pałacu .	1	Imperfective
+Wyborcy zdecydowali , że powinni zasiąść w Sejmie .	1	Perfective
+Katarzyna Zdanowska z łódzkiej drogówki zapewnia , że policja będzie karać kierowców łamiących przepisy .	10	Imperfective
+Jednak za pomocą ciała eterycznego nigdy nie uda Ci się całkowicie przenieść poprzez przestrzeń .	7	Perfective
+Z pożaru uratowała się czternastoletnia Stefania Nowaczuk .	2	Perfective
+Są legalnie działające firmy zajmujące się przeróbkami .	2	Imperfective
+Podała mi lusterko .	0	Perfective
+Wszystko wskazuje na to , że było to samobójstwo .	1	Imperfective
+- Ciągle siedzę .	2	Imperfective
+Wszyscy się roześmieli , także Zaborski , jakoś mu nawet złość minęła .	2	Perfective
+Trudno było otworzyć drzwi .	1	Imperfective
+Podobnie było w Czaplinku i Złocieńcu .	1	Imperfective
+Badania genetyczne bakterii będą przeprowadzone w Narodowym Instytucie Zdrowia .	4	Perfective
+Wszystko było przysypane żółtoszarym pyłem .	2	Perfective
+Skóra wokół poczerwieniała , a w kącikach ust pojawił się grymas skrywanego bólu .	11	Imperfective
+Czeka go polityczna śmierć ?	0	Imperfective
+Łódź zakołysała się gwałtownie .	1	Perfective
+Należy pamiętać o zachowaniu krzywizny kręgosłupa .	0	Imperfective
+" Możesz przeprosić .	2	Perfective
+Zamontowanie immobilizera to wydatek około kilkuset złotych .	0	Perfective
+Przychodzimy , aby szczątek ostatni od zagłady uchronić .	0	Imperfective
+Nie orientował się też , że popełnia przestępstwo dewizowe .	1	Imperfective
+Jestem emerytem .	0	Imperfective
+Inaczej zobaczyć świat !	1	Perfective
+Gorsza rzecz nie mogła mnie w życiu spotkać .	3	Imperfective
+- Pamięć funkcjonuje .	2	Imperfective
+– Musiał by m być szalony , żeby ci powiedzieć .	4	Imperfective
+Każdy z nich trzymał w ręku długi , płaski klucz .	3	Imperfective
+Trochę mnie zatkało i zastanowiło , czy on czasami nie jest aktualny obecnie ?	4	Perfective
+Nie drgnął em .	1	Perfective
+Nie poradzili by sobie z tym .	1	Perfective
+Zmarł w klinice onkologicznej w Warszawie .	0	Perfective
+Można mówić o politycznym fenomenie .	1	Imperfective
+U siebie pozwolił zainstalować to modne urządzenie jedynie w kuchni i w wozowni .	3	Perfective
+Obniża cenę do połowy , chociaż cena zależy też od stanu podręcznika .	0	Imperfective
+- Szanując czas Wysokiej Izby , w razie pytań będę do dyspozycji .	9	Imperfective
+– Dzwonił jakiś Kluba , pytał się , czy wiesz , że Zając nie żyje .	1	Imperfective
+Przecież w każdej chwili może tam dojść do pożaru !	6	Perfective
+- Chcieli by śmy , żeby było u nas jakieś fajne miejsce .	1	Imperfective
+Nie były nigdy wydawane , przechowywali śmy je w archiwum rodzinnym .	6	Imperfective
+- Nie rozumiem , jak mnie wygrywała ś ?	7	Imperfective
+Rema 1000 , norweska sieć osiedlowych sklepów , została założona w 1979 r .	9	Perfective
+Nie sprzyja to oczywiście bezusterkowemu oddawaniu obiektów .	1	Imperfective
+Zgodził em się ostatecznie na kolej .	1	Imperfective
+Nie przerywaj panu chorążemu .	1	Imperfective
+Odwracam głowę , nie chcę patrzeć .	4	Imperfective
+Teraz niefrasobliwa matka może odpowiedzieć za narażenie dzieci na niebezpieczeństwo .	3	Imperfective
+Tam kierowca forda , wymijając volkswagena golfa , uderzył w niego .	8	Perfective
+Dorota ma żółtą skórę i ostre łokcie .	1	Imperfective
+Z pewnością im się to udało .	5	Perfective
+Losem tej matki i jej dziecka zainteresowały się nawet władze USA .	6	Perfective
+Sklep przepisano na panią Alę i wszystko było cacy .	1	Perfective
+Czy monde jest jeszcze urażony ?	4	Perfective
+Nadchodzi zima .	0	Imperfective
+Gdyby Wałęsa miał takie prawo , też by z niego skorzystał .	10	Perfective
+wy macie łirpula lodówkę ?	1	Imperfective
+Wierzchołki drzew kołysały się coraz mocniej .	2	Imperfective
+Kiwnął em na barmana , żeby zapłacić .	1	Imperfective
+To pytanie nie daje spokoju .	3	Imperfective
+Wsparł go Wierchowicz .	0	Perfective
+Przygnębiający był ten stan bierności , marazmu , kiśnięcia .	8	Imperfective
+- Bo ście moje kury w sąsieku zamknęli .	7	Perfective
+Warto próbować nowych sposobów reagowania na trudne sytuacje .	4	Imperfective
+Ale Dzidzia mordowała mnie wczoraj o Olka . . .	2	Imperfective
+Chciał za to remontować ciężarówkę .	3	Imperfective
+Po czym ogłoszono , że olimpiadę zawiesza się do odwołania .	2	Perfective
+Pani Młoda wystąpiła w białej , włoskiej kreacji .	2	Perfective
+Zapowiedzieli śmy w poprzednim wydaniu gazety , że postaramy się opisać technikę pozyskiwania mleka .	10	Perfective
+Irenka także nie śpi .	3	Imperfective
+Rozbieżność faktów była znaczna , więc rzetelność dziennikarska zobowiązywała nas do wyjaśnienia tych nieścisłości .	2	Imperfective
+- Wiem , że wiesz , ale chciała m nawiązać rozmowę .	4	Imperfective
+Dziękuję za uwagę .	0	Imperfective
+23--letni rolnik jechał ciągnikiem z rozdrabniarką do gałęzi .	2	Imperfective
+Ponownie musiał użyć ręcznika .	1	Imperfective
+Wzburzony ojciec zawiadomił policję , ale z chciwą pedagog i tak się umówił .	2	Perfective
+Zapowiedzieli śmy w poprzednim wydaniu gazety , że postaramy się opisać technikę pozyskiwania mleka .	8	Perfective
+To chyba była , może najbanalniej w świecie , zwyczajna nuda .	2	Imperfective
+- Widział kto , żeby seks stanął komu przy ludziach !	1	Imperfective
+Wtacza się pociąg .	0	Imperfective
+W Świebodzinie na śmietniku znaleziono torbę z fałszywymi banknotami wartości miliarda złotych .	4	Perfective
+Zajmuje się tym przede wszystkim Instytut Goethego , powstały w roku 1932 .	0	Imperfective
+Ludzi to drażni , złości .	2	Imperfective
+- Muzyka nagrywana jest w Stanach . . .	3	Imperfective
+Rzeczywiście Stopina rozwieszała w ogrodzie bieliznę .	2	Imperfective
+Mógł się zmieścić w złożonych dłoniach .	0	Imperfective
+Pyta , czy długo będziemy czekać .	4	Imperfective
+Nie odkładając pocisku , sięgnął em do kabury .	5	Imperfective
+Z połączonych dłoni zrobili koło .	3	Perfective
+Ale poczuł em go .	1	Perfective
+Pomyślano również o indywidualnych turnusach .	0	Perfective
+Tomasza korciło , żeby wyrządzać jej przykrości i wystawiać ją na próby .	8	Imperfective
+Zapowiada się kolejna porażka kadrowa SLD .	0	Imperfective
+Jeden z uczestników rusza w las , licząc kroki .	7	Imperfective
+Bo nie przemija miłość do słów wypowiadających prawdę stałą , wieczną .	6	Imperfective
+Pędzimąż mi wytłumaczył wszystko i cicho odszedł em .	2	Perfective
+– wtedy hamulce zapowietrzyły się . .	3	Perfective
+trochę pokrzepiających wiadomości pozwoli przetrwać najgorsze .	4	Perfective
+Mecz ten odbędzie się w ramach piątego rzutu pucharu Polski .	2	Perfective
+Znów zapada cisza .	1	Imperfective
+Do 1995 roku francuscy przedsiębiorcy mogli legalnie dotować partie polityczne .	5	Imperfective
+Niezadowolenie wyrazili również jej koledzy z SDP .	1	Perfective
+Okna bloków zdawały się umarłe .	2	Imperfective
+Rozrzucone papiery wynurzały się z mroku .	2	Imperfective
+Wyraźnie pokazują to sondaże .	1	Imperfective
+I stało się .	1	Perfective
+Sam pan prosił .	2	Imperfective
+Od tego to się zaczęło .	4	Perfective
+Bała m się , że już nic mi w życiu nie wyjdzie .	0	Imperfective
+On jest zakochany , na trąbie siedzi mrówka i wysyła serduszka .	6	Imperfective
+Nie wiem , jak udało mi się przeżyć .	4	Perfective
+Częściej chodzi do fryzjera .	1	Imperfective
+Sprawę znam z relacji mojej Irenki .	1	Imperfective
+Nad tymi poprawkami będziemy głosować łącznie .	3	Imperfective
+Na wyróżnienie trenera zasłużył także Mathias Sammer , który pełnił funkcję motoru napędowego reprezentacji .	3	Perfective
+– bo oni na wieś dzwonią . .	5	Imperfective
+Lewy policjant pożyczył od niego na paliwo .	2	Perfective
+Wiedziała m , moja droga siostro , że można na ciebie liczyć !	0	Imperfective
+Niedawno dostali śmy podwyżkę , dwieście złotych na miesiąc .	1	Perfective
+Jagienka jest młoda i nowoczesna , idzie do Iwony , by zrobić sobie pasemka .	6	Imperfective
+Zyskasz nieco , ale nie tak dużo jak się spodziewasz .	9	Imperfective
+Pokażemy mu .	0	Perfective
+Celowo wyrażał em także inne wątpliwości .	1	Imperfective
+Wtedy dziewczynka zdjęła spodnie i kurtkę , a także buty .	2	Perfective
+Czy kobiety biorą u was udział w ruchu związkowym ?	2	Imperfective
+- Na szczęście nie ma takiego prawa .	4	Imperfective
+Będą nas budzić ?	0	Imperfective
+Wymiana metra bariery energochłonnej , montowanej na mostach i wiaduktach , to wydatek kilkuset złotych .	5	Imperfective
+Teraz uczynimy to posługując się Boską Świadomością .	3	Imperfective
+– zawijamy na ciężkie czasy .	1	Imperfective
+Zuzanna uchyla się od mówienia o sobie .	1	Imperfective
+Według relacji pracowników ambasady próbowali oni podejść do budynku z dwóch przeciwnych stron .	4	Imperfective
+Rano poszedł em do naszej spółdzielni .	1	Perfective
+Pokwitowanie zostaje w rękach Marthy , reszta ląduje w koszu obok .	1	Imperfective
+Nie poznali charakteru pisma , takie wielkie litery . . .	1	Perfective
+- Mana poczuła , że znowu robi się jej trochę niedobrze .	2	Perfective
+Zaraz po lekcjach pierwszy wybiegał em z klasy i pędził em do domu .	5	Imperfective
+Stanisław N . nie jest jedynym szczecińskim nauczycielem , któremu zarzuca się łapówkarstwo .	10	Imperfective
+Nie pamiętam .	1	Imperfective
+Nasza sprawa jest czysta .	2	Imperfective
+Położona jest u wylotu rzeczki , która wpada do morza .	0	Perfective
+A ona nie doczeka się pochwały i może popadać w kolejne frustracje .	3	Perfective
+- Zbądź obawy , ojcze .	1	Perfective
+Mamy pomysły , których panu nie zdradzę .	0	Imperfective
+- Stwierdzam , że Sejm wobec nieuzyskania bezwzględnej większości głosów poprawkę Senatu przyjął .	6	Perfective
+Wiem .	0	Imperfective
+Otwieram debatę .	0	Imperfective
+Wśród poszkodowanych jest 20 uczniów i 16 dorosłych .	2	Imperfective
+– Nie chcę tego czytać .	2	Imperfective
+Ledwie sformowany rząd ustąpił protestującej grupie zawodowej .	1	Perfective
+Pomaga w sprzątaniu i wszelkich kłopotach zdrowotnych .	0	Imperfective
+– że pani miała czas .	3	Imperfective
+Miała wydatki .	0	Imperfective
+Nie należy bać się Boga , ponieważ wtedy nie będziemy w stanie Go miłować .	9	Imperfective
+- Wiem .	1	Imperfective
+Oznacza to , że ok . 290 spośród 1150 osób może spodziewać się zwolnienia .	10	Imperfective
+- Zdał em maturę , jestem studentem AWF w Katowicach . . .	1	Perfective
+Dziewczyna obracająca się kusząco na parkiecie wydała mu się wyjątkowo wyjątkowa .	6	Perfective
+Zaprzeczył , ale ziarno niepokoju zostało zasiane .	6	Perfective
+Potem polski papież został by w Watykanie kanonizowany .	4	Imperfective
+Skąd ja znam ten tekst ?	2	Imperfective
+Jak tak zrobił em .	3	Imperfective
+- W 1997 r. rozwiodł em się .	5	Imperfective
+Piotr nie powiedział mi wszystkiego .	2	Perfective
+Niedawno dostali śmy podwyżkę , dwieście złotych na miesiąc .	2	Imperfective
+W większości jest on przeznaczany na budowę plastrów .	2	Imperfective
+To by się nie udało .	1	Imperfective
+Była pusta .	0	Imperfective
+- Poprawka uzyskała akceptację .	2	Perfective
+Za dwa dni miał em gotową pieczątkę .	3	Imperfective
+Z Michalskim było gorzej , ale to osobny temat .	2	Imperfective
+- No , nie jesteś wszechwiedzący ?	4	Imperfective
+Wczoraj po raz kolejny na olsztyńskiej starówce zabrzmiały szanty .	7	Perfective
+Wpadnę tam za jakiś czas , by zobaczyć , jak się sprawujesz .	7	Perfective
+Nadal będą funkcjonować w mediach dzięki swemu wiecznie odrębnemu zdaniu .	2	Imperfective
+Wtedy wlecze się taka choroba przez lata i nie można jej wyleczyć .	1	Imperfective
+W pięciu sklepach nic nie znaleziono , przeszukiwania pozostałych trwają .	9	Imperfective
+I weź się trochę za czytanie .	5	Imperfective
+Najczęstsze przyczyny tragedii to według policji przecenianie własnych możliwości i nietrzeźwość .	6	Imperfective
+Orzeczenie separacji nie oznacza , że w przyszłości nie można wystąpić o rozwód .	10	Perfective
+Dramatem zakończyła się nocna kąpiel dwóch mieszkańców Białegostoku .	1	Perfective
+- Ja też brał em panią pod uwagę .	3	Imperfective
+Chciała m , żeby ś o tym wiedziała .	4	Imperfective
+Wierni poczuli się zawiedzieni .	3	Perfective
+Artyści z trzech akademii sztuk pięknych oglądali wczoraj budynki przy ulicy Zamkowej .	6	Imperfective
+Przeprowadził em rozmowy z nimi .	0	Perfective
+Bandyci zmienili więc prawdopodobnie rejon działania .	5	Imperfective
+Nie mogła m się wcześniej wyrwać .	2	Imperfective
+Wiślacy zgnietli niemiecką drużynę siłą ofensywy .	1	Perfective
+Wszystko zaczęło się od książek .	1	Perfective
+Pan de Berle stał przy oknie i patrzył na park .	7	Imperfective
+I musieli śmy robić przerwy , żeby studzić silnik .	1	Imperfective
+Według oficjalnej wersji radzieckiej Wallenberg zmarł w więzieniu na Łubiance .	5	Perfective
+Sornicy będą nosić tradycyjne kozackie mundury .	1	Imperfective
+Podniosła m się .	1	Imperfective
+Zrozumiał em wszystko .	1	Imperfective
+- Przyjechał em przed wojną , pracował em i pracuję u Francuzów . . .	2	Imperfective
+Wybór padł na fotogrametrię naziemną .	1	Perfective
+– Ojciec Benedykt służył tutaj ?	3	Imperfective
+Jak czuła się Krystyna , schodząc tu co rano na śniadanie ?	5	Imperfective
+Stach objął ją ramieniem i poprowadził z wolna .	5	Perfective
+- Dziękuję bardzo , Panie Marszałku .	1	Imperfective
+Ponieważ na pukanie nikt nie reagował , policjanci wyważyli drzwi .	8	Perfective
+Polacy na razie nie potrafią się do tego zabrać .	4	Imperfective
+Ale Krzysztof chciał się dowiedzieć więcej .	4	Perfective
+Dla Jerzego nie było to żadną pociechą , odwrócił się i szybko wyszedł z kawiarni .	12	Perfective
+W jego armii służyli teraz synowie śmiałków , którymi dowodził przed laty .	9	Imperfective
+Znalezisko wyniesiono na podwórko i powiadomiono policję .	5	Perfective
+- Będę czekał z niecierpliwością .	1	Imperfective
+Ciocia Ala wzięła mnie za rękę i prowadzi .	7	Imperfective
+- Dziękuję bardzo .	1	Imperfective
+Szczery zachwyt pomoże ci go zdobyć .	5	Perfective
+Do 1939 miasto leżało po niemieckiej stronie granicy .	3	Imperfective
+Budynek będzie miał elewację w tonacji pistacjowo - kremowej .	2	Imperfective
+Jego rozpoczęcie zaplanowano na godzinę 15 .	1	Perfective
+Powiodła m oczami dookoła i nagle zastygła m z przerażenia .	6	Perfective
+Okazało się , że wózek i wszystkie półmiski z rybami zabrano na trójkę do Teodora .	10	Perfective
+- ROZMAWIAM , ZAWIERAM ZNAJOMOŚCI .	1	Imperfective
+Musisz się zarejestrować !	0	Imperfective
+Chcieli powiadomić rodzinę o samobójczej śmierci mężczyzny .	1	Perfective
+Mają zapewnić przychylność świata .	1	Perfective
+Nie widzieli się miesiąc i musiał ponownie oswoić Gosię .	5	Imperfective
+Regulaminowe decyzje , po wnikliwej analizie protokołu z tego pojedynku , podejmie Wydział Dyscypliny BOZPN .	11	Perfective
+– Najpierw chciał by m sprawdzić jakość tego francuskiego łóżka .	4	Imperfective
+Miała wtedy osiemnaście lat .	0	Imperfective
+Zasypiam , ssąc chrupką skórkę przy migoczącym w telewizji Człowieku z żelaza .	6	Imperfective
+Coś jest dowodem czyjejś głupoty .	1	Imperfective
+Jesteś umarlak !	0	Imperfective
+Czy w prywatnym życiu spotkała pani swojego mistrza ?	4	Perfective
+Trzeba się spieszyć , bo lada moment pojawią się posłowie IV kadencji .	7	Perfective
+Już pije .	1	Imperfective
+Trzasnął drzwiami , aż się wapno z sufitu posypało .	0	Perfective
+Załatwił em trochę koksu .	0	Perfective
+Akcja zostanie wznowiona we wtorek rano .	1	Perfective
+Melodia płynąca ze skrzypiec jest smętna , żałosna .	4	Imperfective
+Teraz będę musiała być brutalna .	3	Imperfective
+Pokazują się też już pierwsze gołąbki .	0	Imperfective
+Proszę o głos szczególnie samych niepełnosprawnych .	0	Imperfective
+Po wyjściu gości zrobił em jej awanturę .	1	Perfective
+Wszystkie inne warunki miały być ustalone później , na konferencji pokojowej .	4	Imperfective
+Nieleczona choroba przerodziła się w złośliwego chłoniaka .	2	Perfective
+To nie są normalne dzieci .	2	Imperfective
+- Myślę wtedy , gdy ty o mnie myślisz .	1	Imperfective
+Powinna m urządzić podobnie mieszkanie .	2	Perfective
+– obraziła ś się .	2	Imperfective
+Jego pomysłem było powołanie Teatru Życia , czyli formy rehabilitacji przez sztukę .	3	Perfective
+Cimoszewicz popełnił błąd , zgadzając się kandydować .	1	Perfective
+Czy nie mógł by ś czegoś zrobić , żeby m wyglądała dobrze ?	4	Imperfective
+Mało brakowało , a miłość do zajączka Kamil przypłacił by życiem .	1	Imperfective
+Na Siemiradzkiego wybrzydzali krytycy , ale publiczność uwielbiała jego obrazy .	7	Imperfective
+Teatr bardzo ją przyciąga , chciała by jak najwięcej grać .	9	Imperfective
+Ludzie wyjechali w poszukiwaniu wygody .	3	Imperfective
+Ale Krzysztof chciał się dowiedzieć więcej .	4	Perfective
+– kiedy ta książka się ukazała ?	5	Perfective
+I koniecznie zabierz ze sobą jakąś książkę .	2	Perfective
+– twoja mina była najlepsza .	3	Imperfective
+Składa się na ń obecnie pięć pierwszych ksiąg Biblii .	0	Imperfective
+- Nie rozumiem , czego chcesz , Hebrajczyku ?	2	Imperfective
+Dziewczyna również się uśmiecha , ale widać , że myśli o czym innym .	9	Imperfective
+W tym roku zakres targów został rozszerzony o telekomunikację .	6	Perfective
+Mama postanowiła uciekać do ojca .	1	Perfective
+- Czy zdążył Pan zwiedzić Ateny ?	2	Perfective
+Wygrał em kolejny raz .	1	Imperfective
+Obserwuję dużo młodszych kolegów , którzy ze zdziwieniem patrzą , co ja tu jeszcze robię .	0	Imperfective
+Flacha tylko pokiwał głową .	2	Perfective
+Jej niewinny wygląd nie zmylił policjantów .	4	Perfective
+- Nie wiem .	2	Imperfective
+Światełko migotało przy zamkniętym kiosku .	3	Perfective
+A potem zgłoś się do księcia po nagrodę .	2	Perfective
+Przy czwartym zerwali obrady i ustawili się w kolejce , by podpisać listę obecności .	2	Perfective
+Myślał em , że jest bierny , że wypłynął na fali .	0	Imperfective
+Był naprawdę duży .	0	Imperfective
+– Nie rozumiesz , telefon dołączył em do magnetofonu i nagrywa mi , no .	2	Imperfective
+Kiedy pana nie widzę , zaczynam zapominać o różnych sprawach .	6	Imperfective
+Nie udało się .	1	Perfective
+Więc Irenka nie wie , gdzie mieszkam .	3	Imperfective
+- Dosyć się napatrzyła m .	4	Imperfective
+- Wolała by m usłyszeć obietnicę .	2	Imperfective
+Pan poseł Łopuszański , proszę .	4	Imperfective
+On przecież słyszy , choć słów nie rozumie .	7	Imperfective
+Przecież nie wyrzucę jej na śmietnik .	2	Perfective
+- Zobaczymy , czy RS AWS będzie już mógł samodzielnie działać .	6	Imperfective
+Dramatyczny przebieg mistrzostw zakończył się dla Szymona XIV miejscem w światowej klasyfikacji .	3	Perfective
+Kiedy pracowało się pani w TVP najlepiej ?	1	Imperfective
+Na wejście mieli śmy coś zagrać , dopiero potem przejść na miejsce dla orkiestry .	9	Perfective
+Głosowało 429 posłów .	0	Imperfective
+Lepiej poszło z robieniem brzuszków .	3	Imperfective
+Regis będzie wiedział , co należy zrobić .	1	Imperfective
+wchodzi po schodach i od parteru śpiewa . .	6	Imperfective
+Przymykali śmy oko na jego wybryki , ale zaczął przeginać .	9	Imperfective
+Po obejżeniu tych trzech filmów z niepokojem oglądam wiadomości .	1	Perfective
+Zwykły mieszkaniec kraju ma się leczyć ziołami , które zaleca tradycyjna medycyna koreańska .	3	Imperfective
+W przyszłym miesiącu powinien się rozpocząć remont mostu na ul . Przestrzennej .	5	Perfective
+Gmina ma go ogłosić ponownie .	1	Imperfective
+Rohan widział błyskanie świateł korytarza w jego szkłach .	1	Imperfective
+- Czekaj , ja wyjaśnię .	4	Perfective
+Zależy nam bardzo , aby Jarmark stał się ważny dla wszystkich mieszkańców .	0	Imperfective
+Faceci wyglądają na prawdziwych twardzieli .	1	Imperfective
+Los głównej postaci dotyka bowiem istoty amerykańskiej mitologii , nie jest jednak jej prostą akceptacją .	3	Imperfective
+Jeden z bandytów zginął na miejscu .	3	Perfective
+Wyrok , który zapadł , nie zadowolił chyba nikogo .	3	Perfective
+Siła oddziaływania na opinię publiczną nie zależy od liczebności .	6	Imperfective
+Dotąd byli apolityczni .	1	Imperfective
+Ponownie odczuł wyrzuty sumienia , nie było jednak czasu na rozmyślania .	1	Perfective
+Powiedz mi , dlaczego ją odesłał eś . . .	5	Perfective
+Jednocześnie zmienia się jego skład chemiczny i ubytek ciężaru właściwego .	1	Imperfective
+Cena wywoławcza czarnego watermana ze złotą stalówką wynosiła 300 zł .	7	Imperfective
+Jest to aminokwas poprawiający pamięć starzejącej się komórki .	0	Imperfective
+- Nie gniewaj się , pomyśl , zrobili śmy im taką przyjemność .	2	Imperfective
+Wszystko rozbija się o zachowanie ludzi i organizację .	1	Imperfective
+Spotykamy się od czasu do czasu .	0	Imperfective
+Pili śmy wtedy koniak z literatek .	1	Imperfective
+- Człowiek jest omylny , ale dusza jest nieomylna .	2	Imperfective
+Czuł em , że patrzy , choć miał em zamknięte oczy .	7	Imperfective
+- Weźmiesz mu szczyptę , jeżeli usnął .	6	Perfective
+Siusiam pod siebie . . .	0	Imperfective
+Ma broń .	0	Imperfective
+Mówi , że dobrze się na nich bawi .	7	Imperfective
+Nie miał ochoty dalej rozmawiać .	4	Imperfective
+- Rozbierajcie się i chodźcie do środka .	1	Imperfective
+Wyskoczyli z niej mężczyźni i rzucili się na Ilię .	0	Perfective
+Tygrys był odwrócony i wyglądało , że nie widzi podchodzącego ostrożnie człowieka .	4	Imperfective
+- Nauczasz prawdziwie . . .	1	Imperfective
+TOPR-owcy ostrzegają przed bardzo trudnymi warunkami panującymi na szlakach .	1	Imperfective
+Wszyscy spojrzeli na mnie .	1	Perfective
+Kontrolując wyniki rywali , nie podejmując zbytniego ryzyka , wygrali śmy jeszcze cztery mecze .	5	Imperfective
+Nie zatrzymuję cię .	1	Imperfective
+- Dziękuję panu ministrowi .	1	Imperfective
+Szli chwilę w milczeniu i Helena spostrzegła , że kierują się w stronę plebanii .	9	Imperfective
+Powodem były jego publiczne wypowiedzi na temat ludzi upośledzonych fizycznie .	1	Imperfective
+Wypraszam sobie , żeby ś szydziła ze mnie .	5	Imperfective
+Usiadł w niej i zaprosił , by m zajęła obok niego miejsce .	8	Perfective
+Uparci i bezkompromisowi , jednych przerażali , innych zachwycali .	5	Imperfective
+Jak pani zareagowała ?	2	Perfective
+Stanęła w progu , ręce oparła na biodrach .	5	Perfective
+– Chce pani powiedzieć , że Pająkowski by sprawdził ?	3	Perfective
+Prawdopodobnie powiaty będą wykonywać zarówno zadania zlecone przez rząd , jak i zadania gmin .	6	Perfective
+Komisja Europejska zaproponowała uruchomienie funduszu kredytowego na restrukturyzację wschodnioeuropejskiego przemysłu stalowego .	2	Perfective
+Ludzie podchodzili do okien i wpatrywali się w niebo .	1	Imperfective
+Rozwijało się rzemiosło , górnictwo , handel .	0	Imperfective
+Wybaczamy mu .	0	Imperfective
+Joniec i Miksa spojrzeli po sobie , obcierając oczy .	7	Imperfective
+- Wiem , Jakub mi mówił .	5	Imperfective
+Wprowadza do horoskopu pierwiastek żeński .	0	Imperfective
+Jednak był poetą .	1	Imperfective
+Jak ta Mirta miała wszystko uporządkowane i przemyślane !	3	Imperfective
+Także Żydzi stanowią zamkniętą kastę .	2	Imperfective
+Z oburzenia Widmar nawet przystanął na środku chodnika .	4	Perfective
+Spaceruję sobie wzrokiem po ścianach , suficie , meblach i przedmiotach .	0	Imperfective
+Ale demon w intuicji podpowiada mi , żeby m był ostrożny .	9	Imperfective
+- Co ty tam masz ?	4	Imperfective
+W GROM-ie dostały by 3 .	2	Perfective
+Tak mu się niby zawsze zdawało .	5	Imperfective
+Któż z marynarzy w dawnych czasach mógł sobie na to pozwolić .	6	Imperfective
+Pochyla się nad strzelnicą .	0	Imperfective
+Ja przecież nie pytam , co ona robiła dwadzieścia lat temu .	3	Imperfective
+Wstali śmy i wyszli śmy .	1	Imperfective
+- Nie spodziewał em się tego po tobie , Teresko !	3	Imperfective
+Spytał tylko , czy nie mają czegoś do oclenia , kobiety zaprzeczyły .	11	Perfective
+Kwiaty otrzymali nauczyciele , którzy przed laty kształcili kolejarskich specjalistów .	7	Imperfective
+W piątek siedziała m naprzeciw księdza Koszałko i z satysfakcją notowała m jego kolejną przegraną .	11	Imperfective
+I znów poczuł eś się zwycięzcą !	2	Perfective
+Dlaczego jesteś przeciwko wszystkim ?	1	Imperfective
+Pod stołem bawił się granatem mały chłopiec , nazywany Osęką .	8	Imperfective
+Zobaczymy .	0	Perfective
+Wieczorny mrok gęstniał coraz bardziej w drobnym i dokuczliwym deszczu .	2	Imperfective
+Przyjechawszy do Paryża latem Sołomin odszukał ich adres .	5	Perfective
+Policja z uwagi na prowadzone wciąż czynności operacyjne nie ujawnia szczegółów dotyczących tej sprawy .	9	Imperfective
+Poruszał rytmicznie kolanami , unosząc lekko siedzącą na nich kobietę .	6	Imperfective
+To były też takie lata , że nie wypadało nie mieć pieniądza .	1	Imperfective
+że to jest pod sinusem .	2	Imperfective
+Przyjechali saperzy , zabrali granat i zdetonowali go w bezpiecznym miejscu .	0	Perfective
+Ważę trzy kilo , mam cztery włosy i fajnych rodziców .	4	Imperfective
+Tak naprawdę mam się z kimś spotkać .	6	Perfective
+Tam siedzi nasz umrzyk .	1	Imperfective
+Usiedli śmy , zamówili śmy do picia napoje chłodzące .	3	Perfective
+Niestety , wykonane opodal obwałowania niewiele dały .	6	Perfective
+Postulaty protestujących zarząd miasta uznał za bezzasadne .	1	Imperfective
+I nagle zrozumiała m !	3	Imperfective
+Kim pan będzie w rządzie ?	2	Imperfective
+Powiększona kuchnia stała się obszernym pomieszczeniem mieszczącym duży stół .	2	Perfective
+Powrócili do rozmowy o sztuce , malarz zaprosił cudzoziemca , aby obejrzał jego obrazy .	0	Perfective
+Sąd uwzględnił tę motywację i przychylił się do jego prośby .	1	Perfective
+– zajączka nie mieli śmy .	4	Imperfective
+Po południu kościelna procesja wyrusza w drogę po bajecznie kolorowym kwietnym dywanie .	4	Imperfective
+– On z dziewczyną mieszka ?	4	Imperfective
+Po policzku potoczyła się łza .	2	Perfective
+Jemu zarzucono nakłanianie do aborcji .	1	Perfective
+Nie omieszkam tego tematu poruszyć .	4	Perfective
+Nie wiem , co robić .	1	Imperfective
+– coś by m chrupnęła . .	3	Imperfective
+Dużo nie chce .	2	Imperfective
+Wewnętrzna była zamknięta . . .	1	Imperfective
+Mniejsze rosły jeszcze w doniczkach .	1	Imperfective
+Od 1 lutego wszystkie białoruskie partie i ugrupowania muszą ponownie złożyć wnioski o rejestrację .	10	Perfective
+Prezydent to zrobił , żeby Krajowa Rada nie była zbyt długo bez szefa .	2	Perfective
+Obcemu opłaca się kupić , a nam Polakom nie opłaca się tu żyć .	3	Perfective
+Zamierzał ją zawieść do inseminatora .	2	Perfective
+Wtedy też okaże się , czy komendanta Bieńkowskiego zastąpi Siewierski .	2	Perfective
+- Węszy też po całym banku .	1	Imperfective
+Ciągle nie możemy doczekać się takich czasów , kiedy rządy po prostu nie będą przeszkadzały .	14	Imperfective
+Przypominam , że rozpatrywana ustawa była rządowym projektem ustawy .	5	Imperfective
+Podziela pan ten pogląd ?	0	Imperfective
+- Ja wiem .	2	Imperfective
+Śniło mi się , że zapomniała m , jak wyglądasz .	5	Perfective
+Żeby coś takiego dzieciakowi zrobić .	4	Perfective
+nie lubię . .	1	Imperfective
+Ustalili ponadto , że w przestępczym autobiznesie działa ponad 1500 osób .	7	Imperfective
+– no ukradł mi ten zbój ruski . .	2	Perfective
+Za sobą mieli martwą rzekę , która leżała wśród piasków jak rozbity dzban .	2	Imperfective
+Do spa udają się osoby świadome , dla których dbanie o siebie to przyjemność .	2	Imperfective
+Pieniądze zbierało w całej Polsce prawie 70 tysięcy wolontariuszy .	1	Imperfective
+Poprosił em marszałka o wyznaczenie mediatora .	4	Perfective
+Prócz kapitana wszyscy członkowie załogi są Polakami .	5	Imperfective
+Gospodarz żachnął się .	1	Perfective
+- Gdyby m niszczył pieczywo , fiskus był by zadowolony .	2	Imperfective
+Po jego obu bokach zwisają nawleczone na sznur perły nazywane Paternoster .	4	Imperfective
+Teraz opowiem wam , jak został em królem .	5	Perfective
+Po spełnieniu toastu świeżo upieczeni małżonkowie rzucają za siebie kieliszki .	1	Perfective
+I czy muszą być potwierdzone korpusowo ?	2	Imperfective
+Zapory takie zazwyczaj mogą być zaminowane .	4	Imperfective
+Zamiera łono ziemi .	0	Imperfective
+- Będzie można tutaj poprosić pana o udostępnienie komisji . . .	4	Perfective
+Ona pragnęła się uczyć , ale to nie było jej dane .	1	Imperfective
+Tadzio patrzył na mnie i widział em , że mu było żal .	1	Imperfective
+Smutno będzie porzucić starą budę .	2	Perfective
+Po zdjęciu serwetki i położeniu jej na kolanach na małym talerzyku spożyjemy przekąskę .	11	Perfective
+Chcę wyremontować organy i kupić nowe ławki .	1	Perfective
+- Nasze działania są coraz skuteczniejsze .	3	Imperfective
+Uczył em .	1	Imperfective
+Zalecano inną taktykę .	0	Imperfective
+Niemcy znów rzucili wiązkę .	2	Perfective
+To jest ważny moment .	1	Imperfective
+Przygotowanie takiej paczki nie stanowi problemu finansowego dla wielu ludzi .	0	Perfective
+Oni będą zarabiać więcej , a prąd podrożeje .	7	Perfective
+- Nawet nie próbowała ukrywać , że tylko to jedno chodzi jej po głowie .	3	Imperfective
+Tańczono zapamiętale , wykrzykując i piosenką dogryzając sobie wzajemnie .	3	Imperfective
+Pestka nigdy dotąd nie pytała o takie rzeczy .	4	Imperfective
+Niby napisał Poskromienie złośnicy , ale co zrobić z Miarką za miarkę ?	7	Perfective
+- Czymś się gryzie .	3	Imperfective
+- Chciał by m zgłosić wniosek formalny .	4	Perfective
+Zaczęli śmy się dzielić opłatkiem .	1	Imperfective
+Owinięty w zwiewne szaty , zasiadał na schodach świątyń , medytując godzinami .	0	Perfective
+Nie masz czym jechać !	3	Imperfective
+- Zmarszczka przecięła czoło Tygellina .	2	Perfective
+Firstwood zapalił trzeciego papierosa , ustanawiając go ostatnim i ostatecznym przedłużeniem czekania .	5	Imperfective
+Przeprowadził em rozmowy z nimi .	1	Imperfective
+Mam pracę do czerwca , rozbieramy teraz czwarty piec .	0	Imperfective
+Niech pada !	1	Imperfective
+oni nie będą płacić . .	2	Imperfective
+Nie kochał , skoro zaufania nie miał .	6	Imperfective
+Projekt zakończył się uroczystym śniadaniem wielkanocnym .	1	Perfective
+Rada ma co najmniej trzy miesiące na zbieranie wniosków o koncesje .	1	Imperfective
+Gertruda nie miała pewnie licencji a zaczęła wykorzystywać komercyjnie .	7	Imperfective
+Patrzył na Petera ze smutkiem i zdumieniem zmieszanym z podziwem .	0	Imperfective
+Rysio spojrzał na ń uważnie .	1	Perfective
+Ziewając podali paszporty .	1	Perfective
+Czy pan minister Hausner chce uzupełnić swoją odpowiedź ?	5	Perfective
+Odręcznie napisany po arabsku list zaprezentowała katarska telewizja Al-Dżazira .	1	Perfective
+Wino białe pije się inaczej .	2	Imperfective
+- Niektóre wydatki były nieuzasadnione .	3	Imperfective
+Wywiercili dziury w ścianie .	0	Perfective
+Jest mowa i o plastikach w paski na kurtki dla pocztów sztandarowych .	0	Imperfective
+Lubił wiązać to .	0	Imperfective
+Na prośbę włodarzy niektórych gmin sprzątamy też kąpieliska jezior .	5	Imperfective
+Musiał eś użyć brzydkiego słowa ?	0	Imperfective
+Maruderów dziarsko pochlastał eś . . .	2	Perfective
+Mówić im ty ?	0	Imperfective
+Być lojalnym .	0	Imperfective
+Podobno czynimy to błędnie .	1	Imperfective
+Płonącą Warszawę widać było z dużej odległości .	0	Imperfective
+Dyna nie wydawał się obrażony .	4	Perfective
+Obrzęk w krtani może zagrażać życiu .	4	Imperfective
+Groźbą i prośbą starają się wymusić zeznanie .	3	Imperfective
+Na podwórzu czekał Ebersbach .	2	Imperfective
+Zenek prosił kolegów , żeby nic nie mówili mamie , gdyby go przysypało .	7	Imperfective
+Można , bo istnieją historyczne analogie .	3	Imperfective
+Wyobraź sobie , że znalazła m coś dziwacznego w kieszeni palta . . .	4	Perfective
+Od tego zależą losy SLD .	2	Imperfective
+Najpierw przyśnił się młynek do kawy .	1	Perfective
+Tomograf komputerowy pozwala znaleźć chorą tkankę .	2	Imperfective
+Ocknęła m się w jakimś pomieszczeniu , leżała m na kozetce .	7	Imperfective
+Dlatego postanowił em nie dociekać pobudek .	1	Perfective
+Wyciąga portfel .	0	Imperfective
+Podczas pogrzebów nie biją dzwony .	3	Imperfective
+Słuchaj ?	0	Imperfective
+Jest nam bardzo ciężko .	0	Imperfective
+Potem , gdy próbowali je sprzedać w Szanghaju , zostali zauważeni przez policję .	3	Imperfective
+nie widziała m tego .	1	Imperfective
+Uszkodzone zostały wówczas 932 zabytkowe drzewa .	1	Perfective
+Podejrzał em go ukradkiem i okazało się , że napisał em już ponad milion znaków .	9	Perfective
+Starem z przyczepą załadowaną piaskiem kierował kursant .	5	Imperfective
+Powiedział em , że uczą , uśmiechnął em się do Rogera i wychylił em kieliszek .	0	Perfective
+Nie wierzyła moim słowom .	1	Imperfective
+Czykier został ukarany za niesportowy tryb życia , zaś Gierejkiewicz stracił zaufanie szkoleniowca .	2	Perfective
+Robotnik spadł na leżący pod drabiną gruz .	3	Imperfective
+Wśród ludzi wybranych na najwyższe urzędy zjawiają się bandyci , gangsterzy , szpiedzy .	2	Perfective
+To wszystko wcale dużo nie kosztuje , jeśli nie będziesz przeliczać na złotówki .	5	Imperfective
+Teraz uczynimy to posługując się Boską Świadomością .	1	Perfective
+Ja nic o tym nie wiem .	5	Imperfective
+Ciągnął je ukryty wewnątrz drewnianego pudła muł .	2	Perfective
+I kłopoty przez to nasz car - batiuszka ma .	8	Imperfective
+– Słucham ?	1	Imperfective
+Zyta milknie , Blanka opowiada o kłopotach małżeńskich .	1	Imperfective
+Był to wyraźny przytyk .	0	Imperfective
+- Nie ma ludzi zdrowych , są tylko źle zdiagnozowani .	9	Perfective
+- Pożar grozi ludzkiemu życiu ; ofiarą płomieni najczęściej są dzieci .	2	Imperfective
+Chłopak milczał .	1	Imperfective
+Ludzie mówią o wojnie , nie warto się tak męczyć dla dzieci .	9	Imperfective
+Potem , gdy próbowali je sprzedać w Szanghaju , zostali zauważeni przez policję .	3	Imperfective
+Dymek w tym czasie ekspanderem przymocował otwartą klapę .	5	Perfective
+Potem szli na romantyczny spacer , przytulali się i całowali .	6	Imperfective
+Już wrosł em w to środowisko i uważam , że potrafię pogodzić swoje sprawy .	1	Perfective
+Natkę drobno posiekać .	2	Perfective
+- Minister Kulesza uważa , że nieprzeprowadzenie tej reformy spowoduje wyborczą porażkę .	6	Perfective
+Sprawa była efektowna , ale pachniała meliniarstwem na kilometr .	1	Imperfective
+Zbyszek bywa tu raczej rzadko , a stara Pawłowska pewnie faktycznie nie ma sił .	12	Imperfective
+Aby wywieźć je do Niemiec , nie używał wobec nich ani podstępu , ani przemocy .	1	Perfective
+Wstali śmy i wyszli śmy .	3	Perfective
+- Sąd obawiał się , że nie zdąży przesłuchać pana ministra .	8	Perfective
+– kto zaryzykował ?	2	Perfective
+Wybrał by ś życie matki czy świni przy tej operacji przeszczepu wątroby ?	1	Imperfective
+Luksusowego forda explorera nieznani sprawcy skradli wczoraj w Warszawie generałowi rosyjskiej milicji .	5	Perfective
+– Wiedzą o tym wszyscy w dziale przydzielania funduszy .	1	Imperfective
+Al Gore skoncentrował na jego zdolności dawania odporu tego typu taktyce .	6	Imperfective
+Biedny Drossos , sami analfabeci głosowali na niego …	5	Imperfective
+– Mock zapalił i rozsiadł się w fotelu .	2	Perfective
+wiem oczywiście .	0	Imperfective
+We wrocławskim zoo trzymamy je w kilku grupach .	3	Imperfective
+Ujął em jego olbrzymią , szorstką dłoń i usiłował em ją mocno ścisnąć .	9	Imperfective
+Urodził się w Warszawie i był jednoosobową instytucją kulturalną stolicy .	5	Imperfective
+Szczery zachwyt pomoże ci go zdobyć .	5	Perfective
+- On nigdy nie zjedzie chłopu z drogi , choćby był w próżni .	4	Perfective
+Później strzałami w powietrze sterroryzował kasjerkę i zmusił ją do wydania pieniędzy .	4	Perfective
+Małe szare oczka wpatrywały się we mnie drwiąco , wyraźnie triumfowała .	10	Imperfective
+Na pewno ściągnięte przez niego duszyczki nie płaciły składek .	7	Imperfective
+Pan też musi lubić książki ?	2	Imperfective
+To okres na zamykanie , kończenie różnych spraw .	5	Imperfective
+Dlatego nie ma powodów , by ich trzymać w areszcie .	7	Imperfective
+Spostrzegł , że opuściła głowę i zaciskała poruszające się nerwowo usta .	3	Perfective
+Jednocześnie podejmowane są próby dialogu mającego wyjaśnić , dlaczego muzułmanie poczuli się tak głęboko urażeni .	6	Perfective
+- Do tej pory nie starał em się niczego wyjaśniać .	6	Imperfective
+- Nie przypominała m jej sobie , poprosiła m , aby weszła do środka .	11	Perfective
+W Polsce lepiej nie pomagać biednym .	4	Imperfective
+Dziś umiemy już nawet tworzyć antybiotyki syntetyczne , nie występujące w przyrodzie .	1	Imperfective
+Tydzień temu na zebraniu mieszkańcy Jarosławska postanowili pozbyć się księdza .	7	Perfective
+Prawdopodobnie w pewnym momencie postanowił się wykąpać i z nieznanych przyczyn utonął .	4	Perfective
+Ostatnio tyle razy wyobrażała m sobie , że się do niego zbliżam .	11	Imperfective
+Bandyci pobili Rosjanina i wyrzucili z samochodu na Pradze .	4	Perfective
+- Ale czuł , że nie żartuje .	6	Imperfective
+Kiwnął em na barmana , żeby zapłacić .	6	Perfective
+Słuchaj , czy mogła by ś mi pożyczyć sto złotych ?	5	Imperfective
+Lubisz sensacje .	0	Imperfective
+Zbiornik został niemal całkowicie zniszczony .	1	Perfective
+A to może uratować od śmierci , bo początek choroby zostanie w porę wykryty .	3	Perfective
+Gotówkę niósł w neseserze .	1	Imperfective
+- Mógł by m wejść do Internetu ?	4	Perfective
+Szybko okazało się , że moje obawy były niepotrzebne .	7	Imperfective
+Wkrótce też natknęli się na mężczyzn ściągających skórę z zabitego kozła .	2	Perfective
+W końcu wszystko znika we mgle .	3	Imperfective
+Właśnie to zagęszczenie chyba spowodowało , że w krótkim czasie koszatniczki w Wiedniu wyginęły .	13	Perfective
+Proboszcz Fąfara uważa , że postąpił słusznie .	2	Imperfective
+Lolek za głowę się złapał , kiedy to usłyszał .	4	Perfective
+Moim zdaniem przesadzasz .	2	Imperfective
+Przewiduje on wynajęcie firm zewnętrznych , które zajmą się utrzymaniem sieci abonenckiej TP SA .	2	Perfective
+Otaczają one miasto od południa i zachodu .	0	Imperfective
+Zdecydował się wreszcie coś powiedzieć .	4	Perfective
+Platforma wciąż jest zbyt silna i musiała by być w miarę równoprawnym partnerem .	6	Imperfective
+Tak samo było i tym razem .	2	Imperfective
+Głęboko w to wierzę .	3	Imperfective
+Ale płód nie jest dzieckiem .	3	Imperfective
+– nie będę cię później znosić .	2	Imperfective
+- Jako człowiek próżny chętnie wracam do rzeczy przyjemnych .	5	Imperfective
+Z zaskoczeniem przeglądali śmy witrynę internetową Stołecznego Zakładu Energetycznego .	2	Imperfective
+- Czy różnice interesów w koalicji nie przeszkodzą w kontynuowaniu reform ?	7	Perfective
+Dzięki niej może wyrazić siebie .	2	Imperfective
+Te kapsle , podrzucane do góry , dudniły o butelkę .	7	Imperfective
+- To już powiedziała ś .	4	Imperfective
+Poradziła sobie wreszcie i sięgnęła po krzesło , lokując się tuż przy piecu .	8	Imperfective
+Mówiąc o czasie zwracamy uwagę na kilka spraw .	3	Imperfective
+Bardzo proszę . . .	1	Imperfective
+Policjanci znaleźli zabójcę we Wrocławiu .	1	Perfective
+To zaczyna źle wyglądać .	1	Imperfective
+( Kiedyś też miała m takie ambicje , zrezygnowała m . )	4	Imperfective
+Dlaczego nie potrafię tego rozegrać ?	4	Perfective
+- Będziemy udawali , że śpimy .	1	Imperfective
+Po długo obowiązującym zakazie , znowu do Japonii przybyli katoliccy misjonarze .	8	Perfective
+Przez chwilę milczeli .	2	Imperfective
+Jeżeli ciąża zagraża życiu matki , trzeba dokonać aborcji .	2	Imperfective
+Na to decyduję się teraz , dzisiaj .	2	Imperfective
+Wanna nie nasunęła mi żadnych skojarzeń , była normalną wanną .	7	Imperfective
+I tu nie może być zgody .	3	Imperfective
+Osobiście nigdy nie żałował em , iż został em historykiem .	4	Imperfective
+Później sie to zmieniło .	3	Perfective
+- A nas co to obchodzi ?	5	Imperfective
+– a nie macie starej kasety jakiejś ?	3	Imperfective
+Przeprowadził wówczas kilka niebłahych akcji , tu zrelacjonowanych z detalami . . .	7	Perfective
+Ale wstrząsające relacje wywołały debatę na temat stosowania przymusu przy kontroli urodzin .	7	Imperfective
+W 1905 roku Karl Braun zbudował detektor kryształkowy .	5	Perfective
+Dante miał wzrok utkwiony w jego usta .	3	Perfective
+W drugiej połowie krakowianie zaczęli grać lepiej .	4	Perfective
+Obaj skrupulatnie przepisywali rezultaty kolejnych odcinków specjalnych , by w pokojach hotelowych dokładnie je przeanalizować .	14	Perfective
+Od dwóch tygodni ze starszymi osobami rozmawiają psychologowie z Miejskiego Ośrodka Interwencji Kryzysowej .	6	Imperfective
+Weszli śmy do środka .	1	Imperfective
+Czuł em ciepło , oszołomienie .	0	Imperfective
+A wy nie zdążyli ście !	3	Perfective
+Przechodził obojętnie wobec piękna istnych pejzaży z kamienia .	0	Imperfective
+Myślę , że pamiętał czasy Cezara .	3	Imperfective
+Do budowy nowego gmina podchodziła kilkakrotnie .	4	Imperfective

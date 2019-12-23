@@ -16,24 +16,33 @@
     "text_field_embedder": {
       "token_embedders": {
         "tokens": {
-            "type": "embedding",
-            "embedding_dim": 300,
-            "pretrained_file": "pretrained_embedding_file",
-            "trainable": false
+          "type": "embedding",
+          "embedding_dim": 300,
+          "pretrained_file": "pretrained_embedding_file",
+          "trainable": false
         }
       }
     },
     "classifier_feedforward": {
       "input_dim": 300,
       "num_layers": 2,
-      "hidden_dims": [300, x],
-      "activations": ["relu", "linear"],
-      "dropout": [0.5, 0.0]
+      "hidden_dims": [
+        300,
+        x
+      ],
+      "activations": [
+        "relu",
+        "linear"
+      ],
+      "dropout": [
+        0.5,
+        0.0
+      ]
     }
   },
   "iterator": {
     "type": "basic",
-    "batch_size":16
+    "batch_size": 16
   },
   "trainer": {
     "num_epochs": 20,

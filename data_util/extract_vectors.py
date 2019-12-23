@@ -1,17 +1,10 @@
-import pickle
-import sys
-#sys.path.append('/home/sahin/Workspace/Projects/dataset_compilation/data_util')
-#sys.path.append('/home/sahin/Workspace/Projects/dataset_compilation/data_split')
-
-
-from elmoformanylangs import Embedder
-
 import argparse
-import numpy as np
 import os
 
-from gensim.models import FastText as fText
+import numpy as np
 from bpemb import BPEmb
+from elmoformanylangs import Embedder
+from gensim.models import FastText as fText
 
 
 #####################################################################
@@ -26,13 +19,15 @@ def chunks(l, n):
     # For item i in a range that is a length of l,
     for i in range(0, len(l), n):
         # Create an index range for l of n items:
-        yield l[i:i+n]
+        yield l[i:i + n]
+
 
 ### Util Functions ###
 def ensure_dir(file_path):
     directory = os.path.dirname(file_path)
     if not os.path.exists(directory):
         os.makedirs(directory)
+
 
 ### Loading Embedding Functions ###
 def loadfasttext(embfile):
@@ -84,11 +79,11 @@ def loadModel(infile, lang, w2vtype, vector_size):
     """
     if w2vtype in ['fasttext', 'muse_supervised', 'muse_unsupervised']:
         return loadfasttext(infile)
-    elif w2vtype=='bpe':
+    elif w2vtype == 'bpe':
         return loadBPE(lang, vector_size)
-    elif w2vtype=='elmo':
+    elif w2vtype == 'elmo':
         return loadElmo(infile)
-    elif w2vtype=='w2v':
+    elif w2vtype == 'w2v':
         return loadw2v(infile)
     else:
         print("Should be one of w2v|fasttext|bpe|elmo")
@@ -111,7 +106,7 @@ def word_by_word_retr(sent, model):
 
     # initialize batch_sent_emb with the first word's embedding
     batch_sent_emb = batch_word_embed
-    for i in range(1,len(sent)):
+    for i in range(1, len(sent)):
         word = sent[i]
         try:
             batch_word_embed = model[word]
@@ -119,6 +114,7 @@ def word_by_word_retr(sent, model):
             batch_word_embed = model[u'<UNK>']
         batch_sent_emb = np.vstack((batch_sent_emb, batch_word_embed))
     return batch_sent_emb
+
 
 def get_fasttext(model, words, batch_size):
     """
@@ -135,8 +131,8 @@ def get_fasttext(model, words, batch_size):
     except:
         batch_sent_embs = word_by_word_retr(sents[0], model)
 
-    for i in range(1,len(sents)):
-        #print(i)
+    for i in range(1, len(sents)):
+        # print(i)
         sent = sents[i]
         try:
             emb_for_sent = model[sent]
@@ -145,6 +141,7 @@ def get_fasttext(model, words, batch_size):
         batch_sent_embs = np.concatenate((batch_sent_embs, emb_for_sent))
 
     return batch_sent_embs
+
 
 def get_bpe(model, words):
     """
@@ -157,10 +154,10 @@ def get_bpe(model, words):
     # Make batches of words
     # check word by word
     first_word = words[0]
-    batch_word_embed = np.mean(model.embed(first_word),  axis=0)
+    batch_word_embed = np.mean(model.embed(first_word), axis=0)
     batch_sent_emb = batch_word_embed
 
-    for i in range(1,len(words)):
+    for i in range(1, len(words)):
         word = words[i]
         batch_word_embed = np.mean(model.embed(word), axis=0)
         batch_sent_emb = np.vstack((batch_sent_emb, batch_word_embed))
@@ -198,7 +195,7 @@ def get_w2v(model, words, batch_size):
     except:
         batch_sent_embs = word_by_word_retr(sents[0])
 
-    for i in range(1,len(sents)):
+    for i in range(1, len(sents)):
         sent = sents[i]
         try:
             emb_for_sent = model[sent]
@@ -218,11 +215,11 @@ def generateEmbeds(model, infile, outfile, w2vtype, batch_size):
 
     if w2vtype in ['fasttext', 'muse_supervised', 'muse_unsupervised']:
         nparray = get_fasttext(model, lines, batch_size)
-    elif w2vtype=='bpe':
+    elif w2vtype == 'bpe':
         nparray = get_bpe(model, lines)
-    elif w2vtype=='elmo':
+    elif w2vtype == 'elmo':
         nparray = get_elmo(model, lines, 1)
-    elif w2vtype=='w2v':
+    elif w2vtype == 'w2v':
         nparray = get_w2v(model, lines, batch_size)
     else:
         outlines = ''
@@ -232,9 +229,10 @@ def generateEmbeds(model, infile, outfile, w2vtype, batch_size):
     np.savetxt(outfile, nparray, delimiter=' ', fmt='%1.5f')  # X is an array
     return
 
+
 def main(args):
     model = loadModel(args.embedding, args.lang, args.w2vtype, args.vector_size)
-    outfile = os.path.join(args.savedir, args.lang,  args.w2vtype, "embeds_"+ str(args.part)+".vec")
+    outfile = os.path.join(args.savedir, args.lang, args.w2vtype, "embeds_" + str(args.part) + ".vec")
     generateEmbeds(model, args.infile, outfile, args.w2vtype, args.batch_size)
     return
 

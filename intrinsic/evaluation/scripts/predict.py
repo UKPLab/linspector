@@ -10,7 +10,6 @@ import os
 from allennlp.commands import main
 from collections import defaultdict
 
-
 embeddings = ['word2vec', 'muse', 'fasttext', 'elmo', 'bpe']
 # mode is either classification or contrastive
 mode = 'classification'
@@ -18,41 +17,37 @@ mode = 'classification'
 feature_set = "scripts/" + mode + "_features.txt"
 data_dir = "/afs/inf.ed.ac.uk/group/project/datacdt/s1459234/projects/subword_probers/dataset_compilation/final_tests"
 langId = {'finnish': 'fi',
-		  'russian': 'ru',
-		  'german': 'de',
-		  'spanish': 'es',
-		  'turkish': 'tr'}
-
+          'russian': 'ru',
+          'german': 'de',
+          'spanish': 'es',
+          'turkish': 'tr'}
 
 feat_dict = defaultdict(lambda: defaultdict(int))
 with open(feature_set) as f:
-	for line in f:
-		line = line.strip()
-		feature, lang, count, _ = line.split('\t')
-		feature = feature.replace(' ', '_')
-		feat_dict[feature][lang] = count
-
+    for line in f:
+        line = line.strip()
+        feature, lang, count, _ = line.split('\t')
+        feature = feature.replace(' ', '_')
+        feat_dict[feature][lang] = count
 
 for emb_types in embeddings:
-	for task in feat_dict.keys():
-		for lang in feat_dict[task]:
+    for task in feat_dict.keys():
+        for lang in feat_dict[task]:
+            model_dir = os.path.join("models", lang, emb_types, task, "model.tar.gz")
+            input_file = os.path.join(data_dir, task, lang, 'test.txt')
+            output_file = os.path.join('predictions', lang, emb_types, task + '.txt')
+            predictor = 'word-classifier'
+            package = 'classifiers'
 
-			model_dir = os.path.join("models", lang, emb_types, task, "model.tar.gz")
-			input_file = os.path.join(data_dir, task, lang, 'test.txt')
-			output_file = os.path.join('predictions', lang, emb_types, task + '.txt')
-			predictor = 'word-classifier'
-			package = 'classifiers'
+            sys.argv = [
+                "allennlp",  # command name, not used by main
+                "predict",
+                model_dir,
+                input_file,
+                "--use-dataset-reader",
+                "--predictor", predictor,
+                "--include-package", package,
+                "--output-file", output_file
+            ]
 
-			sys.argv = [
-			    "allennlp",  # command name, not used by main
-			    "predict",
-			    model_dir,
-			    input_file,
-			    "--use-dataset-reader",
-			    "--predictor", predictor,
-			    "--include-package", package,
-			    "--output-file", output_file
-			]
-
-			main()
-
+            main()

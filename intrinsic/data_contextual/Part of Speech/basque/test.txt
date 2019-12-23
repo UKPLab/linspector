@@ -1,0 +1,1000 @@
+Nik uste dut jendeak ez gaituela oraindino ezagutzen , eta ez dakiela gutaz ezer .	1	Noun
+Brivek lehen multzoan dihardu Liga Xapelgoan , eta bigarren postuan da 41 punturekin .	11	Numeral
+Zazpi egunez inkomunikatua eduki zuten eta torturak jasan zituela salatu zuen epailearen aurrean .	12	Adposition
+Magno Mocelin brasildarra , berriz , oso azkar errekuperatu da igandean Irunen izandako uzkurduratik eta atzo dagoeneko gainontzeko taldekideekin batera aritu zen .	2	Adjective
+Baina kide ez direnak badira bortxatzen , holakoen batasuna laster da eteten .	11	Verb
+Poliziek Mikel Zuluagaren neskalaguna ere jo zuten , han bildutako auzokideek salatu zutenez .	4	Conjunction
+Europa batuaren sorrera finkatu zuten bi estatuek eta proiektu horren garapenaren ardatza izan dira azken hamarkadetan .	2	Noun
+Goizeko eguzkiak bristadak jaurtitzen ditu horma eta zutabe gardenetan zehar .	6	Conjunction
+ZANU-PF alderdiaren buruzagia da Robert Mugabe Zimbaweko lehendakaria .	0	Proper Name
+Emaitza on bat eta ondorio onak ateratzea da gure helburua .	6	Verb
+Honek baditu hasieran esan bezala gutxienik bi erantzun neuropsikologiko .	8	Adjective
+Zorionak ematen dizkiet nire kide ohiei , eta guk aitzinera jarraitu beharko dugu Liga xapelgoan , finalera heltzeko " .	14	Proper Name
+Gainera , entrenatzailea ni zelairatzen ari da eta horrek ere konfiantza handiagoa ematen du " .	6	Verb
+Jugorlaviako presidenteak bere hitzaldian " Estatuarentzat egungoa sasoi zaila dela " , esan zien militarrei , eta haien lana askatasunaren alde eskatu .	18	Noun
+Gainera , Meñakako entrenatzaileak " markaketa berezirik ez " dela izango aurreratu zuen , " aurkariaren ezaugarriak ondo aztertu " dituztela esan ostean .	16	Noun
+Mandelsonek argitu zuenez , Constantinek hiru urte egingo ditu Ipar Irlandan , epe horretan egin behar baitira erreformak .	16	Verb
+Hurrengoan jakingo baita batzuetan bide legal eta demokratikoak ez direla aski arrazoia alde izan arren .	0	Noun
+Ziur naiz gauzak zail jarriko dizkigula .	0	Adjective
+Zoritxarrez , ostiralean kolpe txiki bat hartu zuen , eta ez da hasieratik zelairatuko .	10	Particle
+Gasteiztarrek aste ezohikoa izan dute Gaziantepsporren aurka jokatutako UEFAko partiduaren ondorioz eta Osasunaren aurkako partidua prestatzeko astirik ere ez dute izan ia .	1	Noun
+Hautagai errepublikanoak EEBBek munduan duten garrantzia sendotu eta hegemonia estatu batuarra iraultza teknologikoaren garai berrira moldatuko duela agindu du .	9	Noun
+Baina , azkenean , gomendioa ez du aintzat hartu , giza eskubideen aldeko taldeen iduriko presio politikoak jasan dituelako .	16	Adjective
+Horrelako aldaketak sortzen dituen egoera ugari beha ditzakezu gure inguruan .	4	Noun
+Baina ... ura hastiatzen ( gorrotatzen ) dut !	3	Verb
+Dozenaka taiwandarrek aireportuan jarraitzen zuten protestan , hilotzak laster identifikatzeko eskatzen .	3	Verb
+Ba , nahi niken sinets nazan , ez dinat batere senditzen , hau ez dun bestea bezain sineskorra .	0	Conjunction
+Atzo Joerg Haider burua elkarrizketatu zuen Poliziak , eta horrek handitu zuen eskandaluaren oihartzuna .	4	Verb
+ATZOKOAN estrainekoz Gamesa euskal enpresaren akzioak kotizatu zuten burtsan eta estreinaldi ona izan zuten .	0	Noun
+Ondorio positibo gutxi atera daitezke atzoko partidutik .	5	Adverb
+Baina hori gezurra da .	1	Determiner
+Alabaina , gaur hasten eta igandean bukatuko den Gailurretako Rallyan lehiakide zorrotzenekin topo egingo dute , proba hau baita txapelketako prestijiotsuena .	6	Participle
+Suedian eta Europako beste herrialde aurreratu batzuetan , mutikoak eta neskatoak eskolan bananduta hezitzeko saioak berreskuratu egin behar direlakoan daude pedagogo edo hezitzaile batzuk .	13	Verb
+MARTIN Fiz korrikalari arabarrak hurrengo urtea bere kirol jarduneko azkena izango dela iragarri zuen atzo Interneteko sportec.com helbidean .	3	Adjective
+Nik uste dut konturatu direla jonki gehienak heterosexualak direla .	7	Adjective
+Presoek zauriak jasan zituztela onartzen du , baina , ezin dela ziurtatu funtzionarioek eginak zirela .	11	Participle
+Emiliek inguruan izandako giroa ezagutu nahi zuen :	0	Proper Name
+Bi itzuliren faltan ( 12km ) Alvaroren aldea 1:48koa zen .	4	Noun
+Fizek Miguel Indurain txapeldunarekin alderatu zuen bere jarduna , eta bera erretiratzean lortutako garaipenei behar adina garrantzi emango zaiela esan zuen .	12	Verb
+Zuen gain izanen da marrazki dezaten .	2	Verb
+Europako Batasuneko kideen eta eskubideen agiriaren « printzipio demokratikoen aurkakoak » zirela nabarmendu zuen Chiracek .	8	Adjective
+Horregatik , oso leku ezkutuetan eraikitzen zituzten beren hilobiak , muino edo mendi baten barru-barruan , adibidez .	6	Verb
+Hautagaia bakarra bada irailaren 18an presidentea eta haren taldea izendatuko dituzte .	3	Noun
+Orduan zertarako prebentzio-neurriak hartu ?	0	Conjunction
+Bide luzea eta gogorra bete du Carmonak lehen mailara iritsi arte , baina ondo merezitako saria jaso du .	2	Conjunction
+Gaztea zirudien , baina bizian egin beharrekoak jadanik eginda bailituen mintzo zen .	11	Verb
+Urnietan San Juan transformazio-zentrora joango den lurrazpiko elektrizitate-lineari ( 13,2 KV , zirkuito bakuna ) baimena ematea eta egiteko proiektua onartzea .	7	Noun
+Beraiek irabazten dutena , aldiz , diru kopuru izugarria da , kaleko entrepresekin berebiziko kontratuak dituztelarik .	12	Noun
+Ustelkeriarekin amaitzeko eta herria " enpresa bat balitz bezala " gobernatzeko politika neoliberala ezarriko du .	8	Adverb
+Bestetik , Frantziako Ligako Kopan jardun du ia azaro osoan .	9	Adjective
+Urzaiz jokatu ezinda dagoenez errazagoa izango da minuturen bat jokatzeko aukera izatea .	1	Participle
+Horregatik , irabaztea komeni zaio , batez ere EuropakoKopa jokatu ahal izateko heldu den sasoian .	11	Verb
+Beraz , neskak eredu horretara egokitzen badira irakasleen onespena jasoko dute .	7	Noun
+EHEren idurikoz mugimendu euskaltzalearen eginkizuna horixe erdiestea da , " 20. urteurrena gogoratu beharrik ez izateko " .	10	Numeral
+Azkarrago , altuago , indartsuago Marion Jones atleta izan da Sydneyko Olinpiar Jokoetako izarra , bost urre lortzea ezinezkoa izan duen arren .	7	Noun
+Eta behin eta berriro ikusi dugu , pena handiarekin , tropel gupidagabeak nola irensten zuen bere ametsa .	5	Verb
+Christoph Daum Bayer Leverkuseneko entrenatzaile ohiak atzo Floridan ( EEBB ) eginiko adierazpenetan zera esan zuen :	14	Participle
+Osasunak , iragan igandean Sadarren Valentziaren aurka galdutako puntuak berreskuratzeko aukera ederra galdu zuen , beraz .	4	Proper Name
+Une hartan gogoa estatuaren inguruan hasi zitzaion mugitzen .	2	Noun
+Kontseiluak ez dituela ez delitu larrien egiletzat , ez terroristatzat jo ondorioztatu dute gaiari arreta handirik eskaini ez dioten egunkari frankofonoek .	8	Particle
+Euria eta txingorra jasan behar izan zituzten txirrindulariek , eta epaileek lasterketa neutralizatzea erabaki zuten ordu erdiz , 73. kilometroan .	16	Noun
+Partiduaren hasieran , baionesek beren gogo eta indar guziarekin , ongi eutsi zioten donostiarren jokoari .	12	Verb
+Aipatu epean zehar , HI-288/94-P08 espedientea , aztertua izan dadin guztion esku egongo da Bilboko Errekalde Zumarkaleko 30. zenbakiko 5. eta 6. solairuetan .	2	Adposition
+Orain , finalaren atarian , Eurokopako atezain onena bilakatu da Toldo , eta Italian heroi nazionala da .	16	Verb
+Atlantan eta Sydneyn , laugarren eta seigarren izatea , olinpiar diploma irabaziz , postu duinak dira .	10	Noun
+Orain arte jakinarazitako datuak itxaropentsuak eta positiboak dira alderdi politiko berriarentzat eta , horien arabera , botoak alderdi guztietatik jasoko ditu , .	18	Determiner
+Argazkian Arbaiungo arroila dugu .	0	Noun
+Vienaren kontrako zigorrek bere horretan diraute , eta horren ondorioz ezadotasunak sor litezke Hamalauen artean .	9	Noun
+Atsedenaldira bitartean aldeari eutsi zioten nafarrek , Garralda eta Richardsonen golei esker .	11	Adposition
+Horri erantzun zion DOSeko kide Zoran Djindjicek esanez beldurra diela herritarrei .	6	Proper Name
+- Kontua da iritsi direla .	4	Verb
+Horiek agian ez dira heroiak izango , baina ederki erakusten dute maratoia bizi iraupen proba bat dela .	0	Determiner
+Horrela laburbiltzen du Salazarrek Guiñazuren bilakaera Gasteizen .	0	Adverb
+Michael Schumacherrek istripua izan zuen Alemaniako Sari Nagusian , aurreneko bihurgunean Fisichellaren autoa jotzean .	9	Adjective
+Oraindik biziko balu bezala errepikatzen du :	5	Verb
+Actealgo hilketaz ezer ez dakiela esan zuen .	2	Pronoun
+Nola erakargarri egin , aldi berean , programa bat heriotza zigorraren alde dagoen batentzat eta Seattlekoan itxaropen argi izpia ikusi zuenarentzat ?	14	Conjunction
+Ildo berean , COAGek ere gaurko bileran erabakiko du protesta egutegia hilabete honetarako .	8	Verb
+Eskaera horiek , atzo kaleratu baziren ere , azaroaren 20an EBk onartu zuen adierazpen batean bilduta daude .	3	Adverb
+Egun erabateko interbentzionismoa nagusitu da beti ere " arrazoi humanitarioak " argudiatuta .	9	Adjective
+Halaber , beste hondamendi ekologiko bat izan daitekeen gertaera honek polemikak sortu ditu mundu politikoan , eta hainbat salaketa ere plazaratu dira .	20	Verb
+Alex Fernandez jokatzeko moduan izango da , eta Mateoren zalantza ez da gaur goiza arte argituko .	1	Proper Name
+Ikusi zein tenperaturatan hasten den irakiten .	2	Noun
+Goiz bazen ere , jendea sartu-atera zebilen .	4	Noun
+Euskadi taldeko zuzendaritzak dimisioa aurkeztu du .	1	Noun
+Bestetik , datak ez du atzerapenik , eta hartzera behartuta zaude .	0	Determiner
+Mandelsonek argitu zuenez , Constantinek hiru urte egingo ditu Ipar Irlandan , epe horretan egin behar baitira erreformak .	8	Verb
+Lagun talde bat korroan jarri eta eskuak elkartzen ziren , ondoren abesti hau kantatuz eskuak mugitzen ziren bata bestearekin joaz :	13	Participle
+Landare igokari edo herrestariak ugaltzeko erabiltzen da belaunketa ( ikus beheko irudia ) .	11	Noun
+Azken tantoa Rairen huts garbi batek erabaki zuen , eta garaipena Tirapu eta Errandoneari eman zien .	4	Adjective
+Abril kazetaria auzipetu du epaileak , erakunde armatua laguntzen saiatzeaz akusatuta .	10	Participle
+Hemendik aurrerako urratsak bereziki zaindu behar direla kontuan hartuta , berriro ere Madeleine Albright EEBBetako Estatu idazkaria Ekialde Erdira bidaltzea erabaki du Clintonek .	17	Noun
+Ekialdean , talde on asko daude , baina eraztuna irabazteko oso hautagai gutxi .	11	Noun
+Errusiaren aurka jokatu zuen finala eta 3-2 emaitzarekin nagusitu ziren kubatarrak .	4	Noun
+Eta gauza bat esango dizut emaitzei buruz .	4	Verb
+Urtemuga ospatzeko entitatearen Donostiako egoitza nagusian ekitaldi berezia egin zen eta bertan izan ziren Gipuzkoako hainbat erakundetako eta enpresa munduko ordezkariak .	0	Noun
+Esprintean Paolo Bossoni ( Cantina Tollo ) gaztea nagusitu zen ustekabean , Lombardi eta Freireri aurrea hartuta .	0	Noun
+Ez genuen horretan erreparatu eltzegorra jo genuen arte .	4	Noun
+" Miarritzek oso aitzin-multzo ona du , eta gibelean ere ondo dakite errugbian egiten .	11	Verb
+Kafe bat hartu nuen , kafea hotza zegoen .	6	Adjective
+Laugarren jardunaldiko norgehiagokan , Miarritzek ezin izan zuen etxetik kanpoko bigarren partidua irabazi , batez ere , Monteferrandek goitik behera dominatu zuelako bigarren zatian .	6	Verb
+Hori dela eta , Strasburgeko Auzitegira jo zuen defentsak azken erabakia hartzen ez den bitartean estradizioak eten nahian .	17	Adverb
+OHIKO estatistiketan lekurik ez duten arren , etxekoek bortxazhartzen dituzten emakumeen kopurua izugarria da .	10	Noun
+Zoritxarrez , Julian Retegik ezin izango du Gasteizen jokatu , joan den asteburuan Isaban min hartu ondotik .	6	Verb
+Alga usainaren ausentzia dastatu zuen airean , eta beste itsaso baten nostalgia .	11	Noun
+- Eta , ez duzue inortaz susmatzen ?	6	Verb
+Biolinaren doinu leunak eta kafe egin berriaren usainak biharamunaren zama arindu zioten , dutxarekin hasitako piztualdiari jarraipen egokia emanez .	16	Noun
+Atzealdean sendo egoten ikasi behar dugu .	1	Adjective
+Colin McRaek istripu ikusgarria izan du Korsikako Rallyan eta Panizzik lehen postuan jarraitzen du .	2	Noun
+Hala , hiruko batean EA-EAJk egon behar du .	6	Noun
+Bigarren luzean Astillerok aurrea hartu zion Santanderri , eta hiru segundoko aldearekin ekin zion hirugarren luzeari .	13	Verb
+Lehenengo multzoko ontziak helmugaratu ondoren , zenbaitzuk estropada erabakitzat eman zuten arren , Urdaibai ezustekoa emateko zorian izan zen .	16	Noun
+Eta arrantzaleen proiektua ere bada , Bermeotik zuzendua , Txo Press aldizkaria .	3	Conjunction
+Horren ondorioz , martxoaren 8ko 34/1983 Dekretuaren bidez sortutako ihardun-antolakidetegiak ihardunean hasi ziren eta babes zibilerako politika bereziaren garapenari ekin zitzaion .	18	Noun
+JOAN den astelehenean Folger ( Fougeres ) hirian atxilotutako hiru independentista bretainiarrak kargurik gabe aske utzi dituzte .	8	Participle
+Lehorra badago , sakabanatu eta zainak hautsi daitezke .	6	Verb
+Hori dela eta , Donibane-Ziburuko bandera azterketa garrantzitsua da Euskal Ligan sartzeko lehian ariko diren ontzientzat .	2	Conjunction
+Baina 155 kereila kriminal gehiago daude Txileko epaitegietan .	4	Determiner
+Toni Kukoc kroaziarrarekin ere sarritan ahalegindu da , baina ez du bere asmoa gauzatu .	2	Adjective
+Gu saiatu gara eurekin hitzegiten baina ez dugu inolako erantzunik jaso .	9	Noun
+Alderdi bakar baten izenik ere ez dakite .	4	Conjunction
+Baliteke Orio gainerakoen gainetik egotea .	1	Proper Name
+20 lagun hil dituzte mitin batean .	1	Noun
+Ondorioz , hostoak okertu , kiribildu eta erori eta puja bigunak makurtu egiten dira landarea ahuldu eta zapuztuz .	16	Conjunction
+Europan hazten hasteko ezaugarri guztiak dituela pentsatzen dut .	3	Noun
+Pilotako Euskal Selekzioko kideak gaur eta bihar Fadurako goi errendimenduko zentroan kontzentratuta egongo dira , Getxon ( Bizkaia ) .	9	Noun
+Atlantako Apelazio Auzitegiak ez du debekua kenduko datozen 14 egunetan , Miamiko senideei epe hori eman baitzien atzo apelazioa aurkezteko .	7	Verb
+Alegiaren arabera Sansonek jaurtikitako haitza da .	3	Verb
+Errioxarrak eta nafarrak 22-9 irabazi zuten 40 minutu iraun zuen partiduan ( 432 pilotakada ) .	9	Verb
+Valladoliden ere mila lagun inguru bildu ziren Intolerantziaren Kontrako deituta .	7	Noun
+Itzali izeneko operazio horren oinarri Piztu izeneko txosten bat izan zen , eta Garzonek ETArena zela esan zuen .	13	Proper Name
+- Zer nolako erosketak egin dituzue ?	2	Adjective
+Egun horretarako , hain zuzen , Estatu Batuetako estatu guztiek presidentea aukeratuko duten euren ordezkari nagusiak izendatuta behar dituzte izan .	12	Verb
+Baina holandarrek hutsegindako penaltietan ere ez dio bere buruari meriturik kendu nahi Italiako atezainak :	3	Noun
+Gobernuak esan duenez , herrialdeko eremu ugari daude uraren azpian eta datorren asteetan ere hala egongo dira .	4	Noun
+Ureztaketan etenaldi edo atsedenaldi bat behar duten landareak hidrolorontzian mantentzea nekosoagoa da .	4	Numeral
+Eta Mbomaren jaurtiketa Amayak desbideratu eta Aranzubiaren atean sartu zuelarik , berdinketaren bila joan ziren itsu .	2	Noun
+Lanuzteak ordu erdi iraunen du - 11:15etatik 11:45-etara - , eta Armada Etorbidean Gotorlekuaren Gotorlekuaren ondoan elkarretaratuko dira gidariak euren autoekin batera .	13	Noun
+Indar handiegia du ezker abertzalean nostalgia historiko horrek .	7	Determiner
+Hiribide nagusian barna abiatuta , hiri turistikoek neguan agertzen dutela beren benetako irudia pentsatu dut .	5	Noun
+Europako Batzordeak legatzaren arrantza kuota %74 murriztea proposatu du .	2	Noun
+Bigarren unitate honetan aldaketa fisiko garrantzitsuenak bakarrik aztertuko ditugu , gainontzekoak ondorengo ikasturteetan ikusteko aukera izango baituzu .	8	Verb
+Moia ikustera etorri zitzaigun .	3	Verb
+Giroan sufritzen jakin zuen hasieran , gero talde lana egin eta Garzelliri irabazten laguntzeko .	4	Noun
+Buruzagi ohiak taldea desegin zuen adiskidetze zibilerako legearen onurak jasotzeko .	2	Noun
+Antzekoa gertatuko zaie Madril eta Bartzelona taldeetako beste hainbat jokalariri .	4	Conjunction
+Behatz artean landarea mantendu lurraren kontra eta lorontzia irauli .	5	Adposition
+Inkesta baten arabera , EEBBetako bizilagunen ia erdiek ez zekiten Estatu Batuetako soldaduek noren alde jaurtitzen zituzten bonbak .	12	Noun
+100 eta 200 metroak irabazten dituen lehen atleta da gainera , Seulen Griffithek egin zuenetik .	0	Numeral
+Likud eskuin blokekoa da Katzav .	3	Verb
+Erakunde berri horretan eseriko dira Errusiako 89 errepublika eta autonomietako gobernadoreak eta bere egitekoa izango da presidentea bera aholkatzea .	10	Noun
+Hego Serbiako albaniarrak " baztertuak " dira .	4	Verb
+EBko estatuek ahalegin ekonomiko handia egin beharko dute 60.000 kidetako bake indarrak sortu eta , batez ere , mantentzeko .	13	Conjunction
+Talde txuri-urdina gaur Anoetan entrenatuko da , 10:30ean , ateak itxita .	9	Noun
+Etxea arakatu zuten , eta Guatemalako bideo pare bat eta Gernika Gogoratuz-en txosten bat eraman zituzten .	5	Proper Name
+Beharbada , lehendik bazekikeen karobiko hilotzarena .	3	Verb
+Uztailaren 2an ere atxilotu zuten , neskaren desagerpenaren biharamunean .	7	Noun
+Belfasten , Maeve House eta Broadway Tower begiratokiak botako dituzte .	4	Conjunction
+Esaterako , Urbil hipermerkatuaren aurkako helegite kontentzioso-administratiboa aurkeztu dute , proiektuaren kontra daudela salatzeko .	12	Verb
+Aitor Mendiluzek , hogei urteko andoaindar bertsolariak , irabazi zuen Gipuzkoako txapela .	5	Adjective
+Bertan Bilbora ekarriko duen Iberia konpainiako beste he-galdi bat hartuko du .	0	Adverb
+Baskoniakoek orain hamar urte Argentinara jo bazuten jokalari bila Euskal Herriak " ezer gutxi " ematen duelako da , Salazarren ustez .	8	Adposition
+Jaurerriak desagertzean eta probintzien arteko banaketa egin zenean , Trebiñoko konderria Burgosen menpera pasa zen ( 1832 ) .	3	Noun
+Bere hodi horixkak oso motzak dira eta hankako gune zabalean zehar hedatzen dira eta oso zaila da mamitik banatzea .	7	Noun
+Energia elektrikoa eta bero-energia honako formulaz erlazionatzen dira :	3	Noun
+Fosiletatik abiatuta posible da , eta xehetasun handiz , antzinako garaietan gure planetan bizitza nolakoa zen asmatzea .	11	Pronoun
+Bestalde , Maika Aristegiren denbora 7 minutu eta 33 segundokoa izan zen .	6	Noun
+Ez du Patxi Eugik alerik galdu lau eta erdiko Asperen final-laurdenetako ligaxkan .	5	Participle
+Gauzak ongi aitzinatuko balira , abuztuaren 15ean , taldekideekin entrenatzen hasi behar luke .	10	Verb
+Baina Bruselaren arabera , laguntza horiek ez dira orokorrak , esportatzen dituzten enpresentzat soilik baitira .	8	Adjective
+Epe honetan , behin betiko hitzarmen bat sinatu behar dute bi aldeek , horrela Oslon hasitako prozesua bukatzeko .	1	Determiner
+Zoritxarrez , ez zuen aukerarik ukan zelairatzeko , 92ko finalean bezala .	8	Numeral
+AZKENEAN lortu du Iñaki Azurmendi Arriarango beasaindarrak Gipuzkoako II. Mailako txapela janztea , azken urteotan aurreneko postuetan sailkatu izan baita .	1	Verb
+Haien argudio nagusia da zigortuen aurkako frogarik ez dagoela eta epai guztia aitorpenetan oinarritu dela .	3	Verb
+Hastapen eta helburuetako aldarrikapena da , izan ere , gizarte , talde edo gizakiak ongizate osora nekez iristen dira , herri aurreratuenetan ere .	13	Noun
+Unionistek , berriz , RUC izenari eutsi nahi diote , kosta ahala kosta .	6	Participle
+ELAk subiranotasunaren bideari eutsi dio , euskal gehiengo sindikala ardatz harturik .	10	Verb
+- Ordu zehatza poliziek jakingo dute , baina guk laurak aldera aurkitu genuen .	2	Adjective
+Ate arrunt baten forma dute ( orri bakar bateko atearena , ez bikoa ) , baina beheko erdiak sareta izaten du , eskuentzat helduleku paregabea .	18	Noun
+Baina , atzoko proposamenaren arabera , aurten joera aldatu egingo da .	10	Verb
+Moluketara heldu ziren maiatzean , jihad islamikoa ( gerra santua ) egiteko .	11	Verb
+Orduko Aretxabaletak ez zuen gaurkoak besteko zabalera , ondorioz herriko gazte gehienak elkarrekin jolasten zuten , lagun koadrila batean .	16	Noun
+Talde zurigorriak Liga hasiera ikaragarri zaila dauka , eta ona izango litzateke emaitzak alde batera utzi eta entrenatzailearenganako konfiantzari eustea .	9	Adjective
+Realak bukatu du denboraldi-aurrea .	3	Noun
+Afizionatuetan Saunier Duval taldean aritu zen Jon Azkune , eta Baneston Oscar Garcia .	11	Proper Name
+Gainera , Irakeko Gobernuak bere petrolio esportazioak eurotan kobratzea erabaki izana ere mesedegarri suertatu da Europako diruarentzat .	2	Proper Name
+Nahasturak metodo fisikoak erabiliz bana daitezkeen arren , ez da gauza bera gertatzen substantzia puruekin :	3	Verb
+Aznarrek bereari eutsiko dio legegintzaldia amaitu bitartean , PSOErekin edo gabe .	1	Noun
+Raimondi ( Liquigas ) , Eleuterio Anguita ( Jazztel - Costa de Almeria ) eta Rafael Casero ( Festina ) saiatu ziren aurrena .	5	Proper Name
+Azkenean , 29 segundoko aldeaz irabazi zion Azurmendik .	7	Proper Name
+Hurbiltzen hasi zirenean Kurt asaldatu egin zen azken hauetako bat Rollin komisarioa zela ikusi zuenean .	8	Determiner
+Norbait bizirik topatzeko itxaropenak oso urriak zirela azaldu zuten Indonesiako ofizialek .	5	Adjective
+Protagonismoa Colin MaCrae eskoziarrak eskuratu zuen , ez lortutako emaitzengatik , 10. tramo berezian izandako istripu ikusgarriarengatik baizik .	12	Noun
+Eta jendea lasaitu egiten da frogetan seropositibo gutxiago azaltzen direlako .	5	Noun
+NAZIOARTEKO Atletismo Federazioa Sidneyko Olinpiar Jokoetarako txartela lortu ez duten hainbat kirolariri gonbidapena ematea aztertzen ari da .	10	Determiner
+Aukerak ezin zaizkio ukatu , baina ez da Miguel Indurain .	5	Conjunction
+Gainera , italiarren kultura lehiakorra pixkanaka sartzen ari da Frantziako txapelketan , entrenatzaileak konturatu direlako kalitatea ez dela nahikoa txapeldun izateko .	8	Verb
+Jugoslaviako oposizioko buruzagiak kritikatu egin zituen Errusia eta EEBBak .	2	Noun
+Aldiz , hostoen edertasunagatik landatzen diren landareak ondo haziko dira eta ongarriketa oso erraza da , urari nahastea gehituz .	14	Verb
+Holandako Rijkaardek Hasselbaink aurrelaria ez du Eurokoparako deitu , kasu honetan jokalari on asko dituelako postu horretan jokatzeko .	14	Verb
+Hauteskundeak egiteko Federazioak onartu zituen datak ere " estuegiak " zirela argudiatu zuten lau pilotazaleek .	1	Verb
+Gainera , ez da aldendu , ez du Lizarra hautsi eta Udalbiltzari laguntza ematen segitzen du .	4	Verb
+Borondate ona egoteko , harremana ere ona egon behar duela .	9	Verb
+Honetaz gain , ikasleen testuez osatutako corpusa biltzen ari gara .	8	Verb
+Halako iragarkiak agertzen dira Nevadako egunkari-aldizkarietan .	4	Proper Name
+Vidakovic eta Mateoren lesioak bitarteko , Aitor Ocio eta Krutxaga dira hasieratik ariko diren hiru zentraletatik bi .	1	Conjunction
+Hiru urtez gerran egon ondoren , armistizioa abiatu zen urte hartan .	4	Adverb
+Indar gutxiko alderdi ultraeskuindarra da NPD , eta ez du ordezkaririk Ganbera Federalean edo lurraldekoetan .	9	Verb
+Garraiolarien greba ia erabatekoa izan da Hego Euskal Herrian .	8	Noun
+Egun osoan zehar eraso saio ugari izan zen , baina liderraren taldeak , Teguik , ongi kontrolatu zituen guztiak Aguilar de Codesera iritsi arte .	10	Noun
+Talde zurigorriak Liga hasiera ikaragarri zaila dauka , eta ona izango litzateke emaitzak alde batera utzi eta entrenatzailearenganako konfiantzari eustea .	13	Noun
+Urtemuga ospatzeko entitatearen Donostiako egoitza nagusian ekitaldi berezia egin zen eta bertan izan ziren Gipuzkoako hainbat erakundetako eta enpresa munduko ordezkariak .	15	Determiner
+AZKENEAN lortu du Iñaki Azurmendi Arriarango beasaindarrak Gipuzkoako II. Mailako txapela janztea , azken urteotan aurreneko postuetan sailkatu izan baita .	7	Proper Name
+" Gure erreakzioa orain artean esan dugunari eustea da :	7	Verb
+Zalgirisko jokalari ohiarekin , Gasteizko taldea osaturik dagoela dirudi .	0	Proper Name
+Nirvana budistarik ez du inork eraiki munduan , ezta utopia komunistarik .	3	Verb
+Short eta Anand ez dira sekula bere mailako lehiakideak izan , eta 1993an eta 1995ean erraz irabazi zien hauei Kasparovek .	6	Determiner
+Mesquitak 24 urte zituen , eta bihotzekoa eman zion jiu-jitsuko borrokaldi batean .	7	Participle
+Ahmet Necdet Sezer presidenteak , ostera , bitan bota zuen atzera dekretu hori , iritzi baitzion garrantzi horretako gai batek Legebiltzarraren oniritzia behar zuela .	14	Verb
+Gutxienez 29 lagun hil dira eta 200 zauritu , kohete lantegi batean izandako leherketan .	13	Noun
+Hakkinen baino sendoago ari da , argi eta garbi , eta hegazkin istripua izan zuenetik askoz hobeto dabil .	8	Adverb
+Ez duk egiazki jokatzeko gutiziarik holako batekin ?	0	Particle
+India eta Ugandan esaterako , bost gizonetatik bik onartzen dute bikotekidea bortxaz tratatu izana .	1	Conjunction
+Transistoreak , ebaketa-puntuan polarizatuak daudelako sarrerako seinalea 0,7 V baino txikiagoa den bitartean irteeran seinalerik ez da agertzen .	15	Particle
+- Hori da , Xucek bihar entzungo du .	4	Proper Name
+Datu garrantzitsua da hori , datozen egunotan irundarrek erronka handiak baitituzte , Ligan zein Europan .	1	Adjective
+Andreasentzat bidaia garrantzizkoa zen , zeren gero unibertsitate irakasle izan baitzitekeen .	2	Adjective
+Esan nahi da , aise samar topa gaitezkeela beren euskarritzako material bezala pintura , argazkia edo are eskultura ( baxuerliebean ) daukaten obrekin .	17	Noun
+" Horregatik , garrantzitsua izango da Viryn irabaztea eta Grenoble , Angers eta Caenen aurka emaitza onak lortzea , gorantz egiteko .	14	Adposition
+Alustiza eta Rai pixka bat esnatu ziren bukaerarako , baina ezin izan zuten 17tik haratago joan .	2	Proper Name
+Putiklub , diskoteka , taberna , Hotel haundi eta erosoak , dendak , kasinoa ... konfort gehiegi dakusat begi aurrean .	9	Adjective
+Nafarrek egindako eskaintzari ezezkoa eman dio jokalariak , eta Granollers taldearekin jokatuko du hurrengo denboraldian .	13	Adjective
+Lasterketatik landa , rallyeko autoak Mauleko pilota plazara joan ziren , han kokatua baitzen parke itxitua .	3	Noun
+LAU EDO BOST molotov koktel jaurti zituzten , herenegun gaueko 23:30ak inguruan , Angel Nuñezen etxearen kontra , Sopelan .	18	Proper Name
+Baina azkar moztu zuen osaba apaizak :	0	Conjunction
+Alta , gero , garaipenerako bidea erraza egin zitzaien garaileei , eta 10-19 irabazten jarri ziren .	14	Verb
+Kontua da dominak hain hurbil edukita , apur bat atsekabetuta geratu naizela .	9	Participle
+Eli printzesa ohezerudun ohe handi batean dago lo .	1	Noun
+Asegarce-Altik arazoak izan ditu bikoteak osatzeko , hiru pilotari min hartuta baititu :	0	Proper Name
+Egun eta epe motzera Unibertsitatean biziko den egoerak ez du animo handitarako biderik ematen .	2	Noun
+Nik uste dut askoz gehiago garela .	4	Determiner
+Madrilgo Kongresuak 46.624 milioiko kreditua onartuko du ETAren biktimentzat .	4	Noun
+Ipar amerikako tribua ; zeuzkaten aho-arazo handiengatik desagertu ziren .	0	Noun
+ELAk subiranotasunaren bideari eutsi dio , euskal gehiengo sindikala ardatz harturik .	4	Verb
+Honelako zatiren baten oihartzuna iruditzen zaigu Miranderena , adibidez :	3	Noun
+Inter Milanek jokalaria urtebeterako uztea litekeena da , lesionatu zenetik " etsita " baitabil Ronaldo .	13	Verb
+Halere , badute antza :	3	Noun
+Goiz honetan Mercedez berria garageatik ateratzean marratu dudalarik senditu dinat egun haundi baten mentura banuela .	6	Participle
+Atxilotuta nengoela esan zidaten , ETA-Ekin-eko kide nintzelako .	5	Proper Name
+Argi esan zuen " ondorioak larriak " izango direla " Jasser Arafat PAN Palestinako Aginte Nazionaleko lehendakariak bortizkeria eteten ez badu " .	17	Noun
+" Azken 15 urteotan jokalari on mordoa sortu da hemen .	7	Verb
+Hortik Islamabadera joan ziren Alberto Iñurrategi eta beste kideak , errepide askoz erosoagoan jada .	0	Adverb
+- Ideia bat daukat !	1	Noun
+oraingo lehia ez da herrialde txiki eta handien artekoa izango , estatu handien artekoa baizik .	6	Conjunction
+Eta hitz horiek geratuko dira :	1	Noun
+Greba luzatzen bada , Volkswagen bezalako multinazionalak arazoak izanen dituzte materialak lortzeko .	10	Noun
+" Abertzaleak zubiak eraikitzen aritu gara , eta haiek bonbak jarriz eta tiroak joz erantzuten digute .	5	Verb
+Cal Dooley parlamentario demokratak adierazi zuenez , botoak berriz kontatzeko agindua emango dutela espero dute Goreren alderdikoek .	16	Noun
+Espetxean oso preso arriskutsuak ginela esan ziguten eta , ondorioz , kanpoarekiko harreman guztiak interbenituak genituela .	4	Verb
+Alex Zulle liderrak gertutik zaindu zituen bi aurkari horiek , eta sasoiko dagoela frogatu .	0	Proper Name
+1990eko ekainean askatu zutenean , Mexikora ihes egin zuen babes bila , Euskal Herrian geldituz gero berriro atxilotu eta torturatuko zuten beldur .	15	Adverb
+Gobernuak , ordea , argi esan zuen ez zuela halakorik onartuko ; Likuden gobernua litzatekeela hori .	10	Verb
+Petur Mladenov hil da , Bulgariako azken presidente komunista .	1	Proper Name
+Bi taldeak gogotsu atera ziren .	4	Verb
+Europako Kontseiluetan herrialde handiek indar gehiago izango dute , eta zabaldu egingo dira aho batasuna ezinbestekoa ez den arloak .	9	Conjunction
+Miguel angel Lotinak baikor agertu nahi izan zuen atzo , igandean Mendizorrotzan denboraldiko bigarren porrota jasan zuten arren .	11	Proper Name
+Merkatuko aktiboenetakoa izan zen atzo ; laugarrena , alegia .	6	Numeral
+Ez dirudi Benficako bi urteak oso gustura iragan dituzunik .	4	Noun
+Ama-hizkuntza erdara izan dutenak Euskal Herriko biztanleen %78 direnez biztanleria osoaren ezaugarrietatik ez dira asko bereizten .	13	Verb
+Gorputz osoan ditu kolpeak eta ezin da bizikletan jarri uneotan .	1	Adjective
+Gure begiradak gurutzatu genituen , eta gauza arraro bat sentitu nuen nire gorputzaren barrenean .	6	Noun
+EAJk ez du zehaztu zein formula erabiliko duen EH Udalbiltzatik baztertzeko .	1	Particle
+Egunero entrenatu dira miarriztarrak astean zehar , eta herenegun oso gogor .	4	Noun
+518 ordezkari joango dira , euskal preso politiko bakoitzeko bana .	9	Numeral
+Erresistentzia kutxa grebetan afiliatuei soldataren ordezko bat ordaintzeko finantza tresna da .	7	Verb
+Bungalow bakoitzak sukaldea , egongela , logela ( 1 edo 2 ) , bainugela eta berogailua du .	9	Conjunction
+Ez zuten batak bestea ondo ulertzen .	2	Numeral
+Foxek bukaera eman dio PRI alderdiaren azken 71 urtetako agintaldiari .	0	Proper Name
+Halere , " hamabost lagunez osatutako peña ofizialak baino mugimendu kementsuagoa da Indar Gorri taldea " Diazen ustez .	7	Adjective
+Sail honetan azterlan eta ikerlanak aurki ditzakegu , maila teorikoan edo enpirikoan alderdi zehatzak edo orokorrak aztertzen dituztenak .	12	Noun
+Zerrenda hori talde bakar batera ere mugatu daiteke , gehiegi arriskatu gabe :	4	Numeral
+" - Buruz dakit Emiliek azken gutunean esandakoa :	3	Verb
+Istripua eragin zuten arrazoiei buruz azalpen diferenteak eman dituzte Chang Kai Shek aireportuko Babes Zibileko agintariek eta Singapore Airlines-ek .	4	Adposition
+Euskal gatazkari buruz mintzatu zen Ibarretxe Vatikanoko ordezkariarekin , eta baketzerako mahai bat osatzeko bere proposamena helarazi zion .	14	Determiner
+Peruko Armadako zenbait komandante altxamenduaren aldekoak dira Humalaren arabera .	0	Proper Name
+MARTIN Fiz korrikalari arabarrak hurrengo urtea bere kirol jarduneko azkena izango dela iragarri zuen atzo Interneteko sportec.com helbidean .	14	Adverb
+Haren ustez , ETAk borroka biolentoa egiten du , eta alderdi abertzaleek politikoa .	3	Proper Name
+Argi esan zuen " ondorioak larriak " izango direla " Jasser Arafat PAN Palestinako Aginte Nazionaleko lehendakariak bortizkeria eteten ez badu " .	0	Adverb
+Floridako 25 ordezkari nagusiak noren alde izango diren trenkatzeko gorabeherak milioika telebista ikusleren aurrean egiten jarraitzen dute .	13	Adposition
+Suduperen jarrera irekiagoa izan balitz egungo egoera ezberdina izan zitekeela adierazi zuen , eta egungo egoeraren erantzuleetako bat Sudupe bera dela erantsi zuen .	13	Conjunction
+Ondorioz , izualdi bat piztu zen jendeen artean eta lurrera eroritakoak zangopilatu egin zituzten .	7	Adposition
+Trine Hattestadek lortu du urrea xabalina jaurtiketan .	2	Verb
+UPN , PSN eta CDNk atzera bota dituzte beste alderdiek aurrekontuei aurkeztu osoko zuzenketak .	7	Verb
+Asteburu horretan zehar Donostian hainbat istilu izan ziren , herritarrentzat ondorio larriak ekarri zituztenak .	4	Determiner
+Eskuinkada jada ez du lehen bezain beldurgarria , baina urteekin asko ikasi du , eta orain ezkerra ere bikain erabiltzen du .	11	Verb
+Indar gutxiko alderdi ultraeskuindarra da NPD , eta ez du ordezkaririk Ganbera Federalean edo lurraldekoetan .	11	Noun
+Salbatu zirenak semeak argitaratu zizkion .	3	Verb
+Legeetan ezarrita dauden eskubideak , pertsona orori edo langile orori dagozkionak , aitortu edo errespetatu ezean , arraza-bereizkeria egiten da .	12	Verb
+Asiako eskualde batek ikertzaile pribatu asko eman ditu .	4	Adjective
+Parlamentuak " terrorismoaren biktimei " jasan duten minagatik eta sufrimenduagatik emandako domina " gatazkaren arazoa sinplifikatzea eta errealitateari bizkar ematea " dela deitoratu zuen .	18	Noun
+Denboraldi honetan lortutako heldutasuna datorren denboraldirako balio handikoa izango da , dudarik gabe .	1	Determiner
+etxera ezkontzen denean seme-alaba bat , etxe horretan egoera berezia sortzen da , bertan etxearen ustiapena emateko bi bikote biltzen baitziren .	3	Noun
+- Zer esan nahi duk , Xuc , hire gurasoak fidatzeko modukoak direla ?	9	Noun
+Beharbada , lehendik bazekikeen karobiko hilotzarena .	5	Noun
+Bidea egin zuen laukoteak , bost minutuko aldea lortu arte 83. kilometroan .	6	Noun
+Guzti honen nondik-norakoak argituak izan artean , aleman hedabideak zuhurtzia gabeko jokaera aztertzen egongo dira .	4	Participle
+Sos kopuru hau CDUri kenduko diote 2001. urtean eskuratuko den finantzaketa publiko zenbatekotik .	1	Noun
+19 lagun bahitu eta desagertu zituzten orduan , eta 54 lagun exekutatu .	6	Adverb
+Marokoko etxe gehienetako horma eta zoruak honen antzeko azulejoz apainduta egoten dira .	5	Noun
+Gainera , entrenatzaile hauek prestijio handia lortu dute , eta iritsi dute orain urte batzuk Europa Ekialdeko entrenatzaileek zuten ospea .	18	Verb
+Lapurdiko Itsasuko herrian animaliak , zaldiak izutzeko erabiltzen zuten eta bertako informatzaileak , Baigorrin otsoak " iziarazteko " eta urruntzeko eltzegorra jotzen zutela entzuna zeukan .	23	Verb
+" Presondegian euskal preso batek bere eskubideak aldarrikatzen dituelarik bretoi eta korsikarren elkartasuna jasotzen du .	6	Noun
+" Final-zortzirenetako kanporaketa gainditu genuen , eta orain maila bat goragoko erronka dugu , eta Tolosaren aurka .	8	Noun
+Ikus dezakezuenez , ez dira oso onak , baina hemen dihardugu , jo eta ke borrokan baldintza hauek hobetu asmoz .	1	Verb
+Horren ondorioz , martxoaren 8ko 34/1983 Dekretuaren bidez sortutako ihardun-antolakidetegiak ihardunean hasi ziren eta babes zibilerako politika bereziaren garapenari ekin zitzaion .	19	Participle
+IRAko disidenteei leporatu die Poliziak atentatua .	5	Noun
+Nire ustez bi taldeak antzekoak dira .	5	Verb
+Maratoia irabazi ostean , sekula lortu duzun garaipenik " onena " izan zela adierazi zenuen .	1	Verb
+Herenegun Heike Drechslerrek esnatu zuen ametsetatik , eta atzo Bahametako esprinterrek .	9	Proper Name
+1980an munduko junior txapelduna izan zen , Dortmunen ( Alemania ) , eta xakeko Olinpiar Jokoetan SESBko selekzioarekin aritu zen .	4	Participle
+EAJri " ETA eta haren biktimen arteko ekidistantzia " bilatzea egotzi zion .	0	Proper Name
+Emaitza on bat eta ondorio onak ateratzea da gure helburua .	3	Conjunction
+Gure taldean iritzi desberdinak daude .	1	Noun
+PSE-EEko Rodolfo Aresek positibotzat jo zuen EHko kide batzuek ETAren kontrako " jarrera nahiko argia " azaltzea .	16	Verb
+Taldea osatu duzue nola edo hala , baina azken orduan sartu dira Avril , Puleoto , Bernat-Salles eta Osborne .	3	Adverb
+Euskal gatazkari buruz mintzatu zen Ibarretxe Vatikanoko ordezkariarekin , eta baketzerako mahai bat osatzeko bere proposamena helarazi zion .	2	Adposition
+Hildakoak identifikatzeko arazoak ditu Poliziak , erreta eta desitxuratuta daudelako hegazkinak izan zuen leherketarengatik .	7	Conjunction
+Pailazoek guztien erdian jartzen dute Eli eta inguratu egiten dute babesteko .	7	Verb
+Eta pena ematen dit gainera , baleen etsairik amorratuenak geu izan garela jakiteak .	7	Adjective
+helburuak ez lortzea edo ametsak ez betetzea ez da trajedia .	0	Noun
+Soinutresna zaharren errepertorioaren eta soinu berri honen errekurtso handiagoaren elkartasun edo nahasketatik musika estilo berri eta berezkoa sortu zen euskal herri musika barruan .	18	Verb
+Aitor Mendiluzek , hogei urteko andoaindar bertsolariak , irabazi zuen Gipuzkoako txapela .	8	Verb
+- Beti dago non iritsia .	4	Verb
+SPSren ekimenak ezustean harrapatu ditu Nazio Batuetako arduradunak .	4	Verb
+Atlantako finalean erori zenetik El Guerroujek ez du aurkaririk izan 1.500 metroetan .	8	Noun
+PPrentzat beharrezkoa litzateke Sudupek egungo marko juridikoari , Konstituzioari eta Estatutuari leialtasuna eta errespetua azaltzea Manriquek esan zuenez .	12	Conjunction
+Atlantan postu hobea egin zenuen , baina atsekabetuago bukatu zenuen .	6	Conjunction
+" Urte osoan horrela egotea gustatuko litzaidake ; hau lortzeko denboraldi osoa eman dugu borrokan , eta hauxe da futbolak daukan gauzarik ederrena " .	13	Verb
+Bestetik , enpresako langileek atentatua " zentzugabekotzat " jo zuten , eta " elkarrizketa bidezko konponbide bat " eskatu zuten .	2	Noun
+Bapatean , ama hizketan hasten zitzaidala nabaritu nuen , ezinezkoa zen , erotzen hasia nintzen , harri bat hartu eta uretara bota nuen .	21	Verb
+Egia da emakumeen militantzia zailagoa izan daitekeela , lan jardunaldi bikoitzagatik .	6	Verb
+Xabier Etxanizek , lan horietako batean , " Igarkizunak " deitzen den liburuan , euskarazko igarkizunak eta beste hizkuntza batzuetakoak ere erakusten dizkigu .	10	Verb
+Erresistentzia kutxa grebetan afiliatuei soldataren ordezko bat ordaintzeko finantza tresna da .	1	Noun
+Floridako 25 ordezkari nagusiak noren alde izango diren trenkatzeko gorabeherak milioika telebista ikusleren aurrean egiten jarraitzen dute .	3	Adjective
+Zientzialariek azken urteetan legatzaren inguruan neurri zorrotzak eskatzen bazituzten ere politikariek azkenean biguindu egiten zituzten erabakiak .	13	Verb
+Londresen 1908an jokaturiko maratoian Pietri italiarra arrastaka iritsi zen estadiora , konortea erdi galduta .	8	Verb
+Eta ez zion partiduari Titinek guztiz ongi ekin .	4	Proper Name
+Bere hodi horixkak oso motzak dira eta hankako gune zabalean zehar hedatzen dira eta oso zaila da mamitik banatzea .	10	Adposition
+Giroan sufritzen jakin zuen hasieran , gero talde lana egin eta Garzelliri irabazten laguntzeko .	6	Adverb
+Sellamiak Marokoko arropa tradizionalak jazten ditu .	3	Adjective
+Antzekoa izan zuen haien hautagaiak , Bob Dolek , duela lau urte Ross Peroten Erreformaren alderdiarekin .	3	Determiner
+Hauteskundeak egiteko Federazioak onartu zituen datak ere " estuegiak " zirela argudiatu zuten lau pilotazaleek .	0	Noun
+Goren mailako lehiara ohituta dago , eta beti irabazi behar du ; ezin du galdu , hala gertatuz gero , hondamendia baita " .	10	Verb
+Ulertzeko modukoa zen , hainbeste lanen ondoren .	1	Noun
+- Ikuspegi akustiko-musikal batetik egindako gure organografia herrikoiari buruzko ikerketa :	4	Verb
+Sailkapen nagusian nahi bezain aurrean ez dira izaten inoiz , eta etapak irabaztea nekeza egiten zaie , arriskutsuak baitira eta motzean lotzen baitituzte .	15	Verb
+Luxor eta inguruko - ipar eta ekialdeko - basamortuaren mapa zen .	0	Proper Name
+Ez zait iruditzen agurra behar bezalakoa izan denik .	6	Participle
+" Arriskuaz " aritu zen Albertok Asier Arangurenekin , eta ETBko kazetariari " arriskuaren ertza oso estua " dela esan zion .	4	Verb
+International Herald Tribune egunkariak lehen orriko albiste nagusitzat jo du , eta lehen orriko argazki nagusia ere eman dio .	9	Verb
+Olanorenak , ordea , ez du tankera onik .	5	Verb
+" Osasuna oso talde sendoa da , izugarri diziplinatua eta atzean oso ondo aritzen dena .	5	Verb
+Gizonak argal egoten gara , gizentzen dira txerriak .	6	Verb
+Izaki bizidunen hondarrak ( markak , oinatzak , zatiak ... ) dituzten harri hauek fosilak dira .	15	Verb
+Abelek sarritan erabiltzen zuen , eta Ionek ere bai , batzuetan hori iruditzen zitzaion behintzat .	14	Conjunction
+Atlantan , zilarrezko domina lortu zuen 4x100etako taldean eta laugarren sartu zen 400etako banakako finalean .	14	Noun
+ALBERTO IÑURRATEGI lagun eta senidez inguratuta dago , azkenean .	8	Adverb
+Ilusioa , urratsak egiteko aukera eta konponbide politikoa lortzeko konpromezua nabarmentzen ari dira gizartean .	3	Verb
+Ziarretaren ustez , duela bi aste Getafek Teneriferen aurka jasoriko 0 eta 5ekoak ez du " garaipen erraz " bat ziurtatzen :	5	Noun
+Gorpu bat honela prestatua dagoenean , momia deitzen da .	2	Adverb
+Helburua , herritarrek herriko dendetan erostea zen , ez saltoki handietan .	6	Verb
+BURUZ BURUKO aurtengo txapelketan jokatu dituen bi partiduak irabazi ditu Rikardo Alberdi Alberdi I.a-k .	9	Verb
+Rositak eta senideek " mendiko tipulak " ateratzen dituzte jateko .	1	Conjunction
+Gure artean badaude pertsona onak eta txarrak .	0	Pronoun
+Deskargarakoa deitzen diogu , kanpoan 7. terminalari konektatuta egoten den kondentsadorea deskargatzeko erabiltzen delako .	7	Participle
+Agerian utzi ditu beren arazoak , beren sentimentuak , beren salaketak .	10	Noun
+Vienako Fiskaltzak joan den asteartean jakinarazi zuen Haiderren eta bere alderdikide batzuen aurkako ikerketa hasi zuela , botereaz abusatzeagatik eta delitua egitera bultzatzeagatik .	20	Noun
+Horiekin biekin , Bizindar , Altamira Gazteak eta Zigoitia ariko dira sokan .	0	Determiner
+Zinismo , hipokresia eta gezur politiko lotsagarrienen garaian bizi garenean ezin zaie eskatu presoei beste inon inork erakusten ez duen zintzotasun eta integritate ikaragarri hori .	6	Adjective
+Bere ustez , " abertzaleek bake eszenatoki batera heltzea lortuz gero , orduan etorriko dira benetako erasoaldiak Estatuaren aldetik " .	17	Noun
+" Guk kontrakoa frogatzen duten asko jarriko ditugu " .	6	Participle
+Baina Martin Fizen izenak agian pisu handiegia du , eta ez didate utzi .	9	Conjunction
+Hil honen 24ean hauteskundeak dira Jugoslavian eta Slobodan Milosevic presidenteak uste du indar erakustaldi batek botoak emango dizkiola .	10	Noun
+Aitor Etxebarria ( Baiona ) , Mezo ( Kakarraldo ) eta Iker Lopetegi ( Mungia ) fitxatu ditu Getxo Arteak denboraldiari aurre egiteko .	0	Proper Name
+EAJ eta EAk Giza Agiriarekin izan jarrera kritikatu du EHk .	4	Noun
+Hernandok EAJk atzo Aznarri emandako erantzunaren ildotik egin zituen adierazpenok .	8	Verb
+Gorputz osoan ditu kolpeak eta ezin da bizikletan jarri uneotan .	7	Noun
+Azkenik koroa distiratsua ezartzen diote .	1	Noun
+Hamabosgarren denboraldia beteko du .	3	Verb
+Babes gutxi du orain Japoniako lehen ministroak alderdiaren barruan , eta iritzi inkestetan ere 20 puntuko beherakada izan du .	15	Noun
+Hygrocybe gehienak bezala berankorra da , Azarotik aurrera ernetzen da neguko lehenengo hotzaldira arte , kare-lurretan eta mendiko larreetako belar artean .	15	Noun
+Gisa horretan , Ligarako prestakuntza behar bezala aitzinatuko litzateke .	5	Noun
+Gipuzkoan Lasarten bilduko dira garraiolariekin goizeko 11:00etan .	5	Noun
+Horren ondorioz , martxoaren 8ko 34/1983 Dekretuaren bidez sortutako ihardun-antolakidetegiak ihardunean hasi ziren eta babes zibilerako politika bereziaren garapenari ekin zitzaion .	1	Noun
+Mixel Uhart donaixtiarrak , berriz , zoritxarra pairatu zuen helmugatik oso metro gutxira autoa uzkaili baitzitzaion eta han bertan geratu baitzen , sailkapenetik kanpo .	19	Participle
+" Frano Botica asmatzen hasi da , puntuak batu ditugu , eta uste dut ekipo handia daukagula erakutsi dugula " .	4	Verb
+Goiz honetan Mercedez berria garageatik ateratzean marratu dudalarik senditu dinat egun haundi baten mentura banuela .	2	Proper Name
+Inter Milanek jokalaria urtebeterako uztea litekeena da , lesionatu zenetik " etsita " baitabil Ronaldo .	3	Noun
+Bost artixten obrak ikus ditazke agorrilaren 31 arte .	2	Noun
+Hala , Juan Mari Larrarte , Elena Etxalar , Xabier Ugalde , Iñaki Lasa eta Olaiz Arkotxa izango dira deklaratzen azkenak .	20	Numeral
+Q emisore jarraitzaile gisa dabil eta irteerako seinalea sarrerakoaren ia berdina izango da , irteerako inpedantzia ( erresistentzia ) txikia delarik .	9	Adverb
+Halaber , gogor antzean jokatu zuen Kamerunek , eta haien falta batzuk adierazi gabe utzi zituen epaileak .	4	Verb
+Auzitegi Gorenak du hitza .	2	Verb
+Andoni Egañak lehengoan idatzi zuen bezala , berdin dio norbere herrikoa zipotz hutsa bada , eta aurkaria munduko pertsonarik onena .	3	Participle
+Urtero aldaketa anitz egiten dituzte , beti taldea hobetuz joateko " .	2	Determiner
+Ez da harritzekoa Angramain horrela mintzatzea , bere helburu bakarra baitu beti ongi izatea .	11	Adverb
+Urnietan San Juan transformazio-zentrora joango den lurrazpiko elektrizitate-lineari ( 13,2 KV , zirkuito bakuna ) baimena ematea eta egiteko proiektua onartzea .	3	Noun
+Beste hegazkin batzuk arazorik gabe aireratu ziren ordu laurden lehenago .	3	Noun
+Gaur eta bihar jokatuko dira aurreneko probak , eta hilaren 8an , 9an eta 11n besteak .	15	Determiner
+Kenyan , Ugandan , Nikaraguan edo Korean , berriz , emakumeen %50 inguruk familiako kideren baten erasoak jasan dituela diote .	19	Verb
+Bestalde , Arif Erdem eta Tayfun Korkut turkiarrak igandean aurkeztuko ditu Realak .	7	Adjective
+eta , halako batean , egun batean , inork zergatik ez dakiela , ospa egitea ematen dio buruak .	17	Noun
+- Ikasketa-maila batezbestekoaren gainetik dago .	1	Noun
+Galdera Xucek egin zuen eta denok begira geratu gintzaizkion .	2	Verb
+Coffeyren iritziz , Atlantako Apelazio Auzitegiaren erabakiak eragina du beste haur errefuxiatuengan .	5	Noun
+Gainerako hiru postuak ia erabakita zeuden estropada erdirako :	3	Adverb
+Suedian eta Europako beste herrialde aurreratu batzuetan , mutikoak eta neskatoak eskolan bananduta hezitzeko saioak berreskuratu egin behar direlakoan daude pedagogo edo hezitzaile batzuk .	6	Determiner
+Administrazio Kontseiluak aurkeztuko dituen beste asmoen artean konpainiako 18 zuzendarirentzako stock options egitasmoa dago ( akzioak erosteko lehentasunezko eskaintza ) .	2	Verb
+Lehen zatia aspergarria izan zen oso .	4	Verb
+Balizko igoeraren inguruan Iruñean sortu den giroarekin oso pozik azaldu zen atzo Miguel Angel Lotina entrenatzailea .	15	Noun
+Ullrichek , minutu bat atzerago atera arren , ibilbidearen lehen zatian harrapatu zuen italiarra .	3	Numeral
+Eta nazioarteko gaizkile-taldeak - hainbat herrialdetako lapur-taldeak - sortzen dira , antzinateko horiek lapurtu nahirik .	5	Noun
+Sinn Feinek jada iragarri du ez duela halakorik onartuko , aldi berean irlandarra zintzilikatzen ez bada .	14	Particle
+Langileek eta enpresariek negoziatzeko eta akordio kolektiboak lortzeko eskubidea dute .	3	Verb
+Gutxienez 29 lagun hil dira eta 200 zauritu , kohete lantegi batean izandako leherketan .	4	Verb
+Bestalde , aurten erlojupeko bat gutxiago izango bada ere , nekez errekuperatuko du mendian hango hutsegitea .	12	Verb
+Euren desoreken barruan denek baitute ahuldaderen bat haiek dira orekatuenak , hiru astetan mailarik onena emateko dohainik onenak dituztenak , fisikoki zein psikologikoki .	11	Numeral
+" Urte guztia jokatu barik eman nuen .	4	Adverb
+Bryantek 13 aldiz jaurti eta lau saskiratze lortu zituen , eta faltengatik , kanporatu egin zuten .	3	Participle
+Loiartek 15:01 behar izan zituen bost enborrak ebakitzeko ( bi kanaerdiko , bi 60 ontzako eta oinbiko bat ) .	17	Numeral
+Gizarteratua orain berriz , azkenik , lortu dut sistemaren artalde horretan sartzea .	2	Adverb
+Holandarekin 79 partidu jokatu ditu , eta inoizko golegile onena da bere selekzioarekin ( 37 ) .	3	Verb
+Landare gehienak %50eko hezetasunarekin ondo biziko dira .	5	Verb
+Espainiako bigarren mailan lehiatuko diren taldeen zerrenda nahikoa ikusgarria da .	8	Adjective
+Landare igokari edo herrestariak ugaltzeko erabiltzen da belaunketa ( ikus beheko irudia ) .	10	Noun
+Hasiera besterik ez da oraindik eta gauza asko gelditzen dira egiteko .	9	Verb
+Medinak eskuetan zauriak zituen eta , erietxean egon ostean , atxilotu zuten .	10	Verb
+Andereñoa ez zen harritu Jontxu hain alai ikustean , eta ez zuen ezer susmatu .	1	Particle
+JOAN den astelehenean Folger ( Fougeres ) hirian atxilotutako hiru independentista bretainiarrak kargurik gabe aske utzi dituzte .	5	Proper Name
+Andre Agassi munduko lehen tenislaria utzi du kanpora munduko 37.enak hiru setetan ( 6-3 , 6-2 eta 6-4 ) .	11	Noun
+" Nik urte batzuk baditut jada , ez naiz hasiberria , ez da probokazio tranpa bat .	13	Noun
+Beste neurketan , Baigorrik Bagneres bisitatuko du .	5	Verb
+Beste edozein selekziorentzat hondamendia litzateke , baina Italiarentzat ez .	7	Proper Name
+Gorantz egiteko xantza du gaurtik hasita .	4	Adverb
+Orain profesionalak dira eta dena ondo neurtuta dago , tamalez edo zorionez .	9	Adverb
+Zarata habarrotsu hark zeharo gortuko zuen edozein momentutan ; bitartean , tunelean behera zihoan bunbulunka , inbuluzkakA , galgarik gabeko kotxea maldan behera bezala .	12	Adposition
+Ez nintzen sasoi betean joan , baina zorionez , nahikoa izan da bi domina lortzeko .	13	Noun
+Txanda horretan ez ziren hain eroso izan errektoregaiak .	0	Noun
+Gerrillari txetxeniarrek , aldiz , 70 soldadu hil dituztela ziurtatu dute .	6	Noun
+ONCE taldean egin dituzun urteen balorazioa ona da , ezta ?	2	Verb
+Gipuzkoan Lasarten bilduko dira garraiolariekin goizeko 11:00etan .	4	Noun
+Nafarroako hauteskundeak baliogabetu egin dituzte .	4	Verb
+Belgradek behar zuen , beraz , NBEko kide izateko prozesua berregin , eta honi uko egin zion beti Slobodan Milosevicen errejimenak .	18	Proper Name
+Bederatzi gol ez dira egunero sartzen .	5	Verb
+Lehendakariak " beharrezkoa " iritzi zion demokrazian sakontzeari , baina aurretiaz funtsezko oinarri etiko baten beharra azpimarratu zuen :	9	Conjunction
+mahaia bere onera itzuli zen .	0	Noun
+PERUKO hauteskundeak OEA Amerikako Estatuen Erakundeak indargabetzea ezinezkoa dela adierazi zuen atzo Limako Gobernuak .	3	Proper Name
+Bere aukeraren zain egon beharko du , Herrera izango baita atezain titularra .	0	Determiner
+Hots , hizkuntza edo hizkuntz-trebetasunen euskarria den egitura neurologikoa hein batean edo bestean kalteturik edo ezindurik daukate .	3	Conjunction
+Hautagai errepublikanoak EEBBek munduan duten garrantzia sendotu eta hegemonia estatu batuarra iraultza teknologikoaren garai berrira moldatuko duela agindu du .	17	Participle
+Hiru kilometro geroago , Mapeiko Gianni Faresin elkartu zitzaien .	1	Noun
+Korrontearen balio kritiko horri mantenu-korrontea ( I ) deitzen diogu .	9	Verb
+Luis Fernandezen azken denboraldian giro nahasia izan zen , eta Rojoren etorrerak arnasa hartzeko aukera eman die taldeko aktore guztiei .	10	Proper Name
+Ametsetan egoera berean nengoen , nire amaren ohean etzanda .	8	Verb
+Alde bakarra da miarriztarrek Frantziako Kopa irabazi dutela aurten , eta tolosarrek ez dutela orain arte deus irabazi .	8	Adverb
+Osasunak Aitor Ocio aurkeztuko du asteazkenean .	5	Noun
+Elkargo berak , 1995eko abuztuaren 11n ikuskatu ondoren , 951338 zenbakia jarri zion proiektu horri , hain zuzen ondorengo ezaugarriak dituen lurrazpiko elektrizitate-lineari dagokionari :	11	Verb
+Ez dinat sekulan Saint Emilionerik edan , ez dut egundaino arnoa maite ukan .	11	Noun
+Boticak 11-6koa ezarri ostean , Boty harroinak 11-11 berdindu zuen .	2	Participle
+Estadioari itzulia eman ondoren , hamar metrotik gorako abantailarekin pasa zion lekukoa Colander-Richardsoni .	11	Noun
+Itsasontzia nekez ikusten nuen arroka handi batzuen artean .	6	Determiner
+Sukurtsal batzuetan langileak ezkutatu eta bezeroari deika jarduten diote katxondeo gorrian .	10	Adjective
+Joseba Egibarrek egin zuen agerraldia EBBren izenean .	3	Verb
+Andreu ez da erori , Hamyltonek zauri batzuk ditu eta Armstrongek hartu du min gehien .	3	Verb
+- Han goiko harkaitz handi hura baino beherago dago , eta hilobia sakanean egongo da nonbait .	10	Conjunction
+Hautagai biek prentsaurreko bana eskaini zuten atzo .	3	Numeral
+Lehen saria 50.000 pezetakoa izanen da , bigarrena 25.000koa eta hirugarrena 15.000koa .	3	Noun
+estatu palestinarraren estatusa eta Jerusalemi buruzko eztabaida palestinarrek hiri horren zati bat nahi dute hiriburu , baina israeldarrak ez daude elkar banatzeko prest .	22	Adverb
+Eskura dugun guztia egingo dugu Barak kargutik kentzeko " .	1	Verb
+Gainera , Hugo Gutierrez abokatuaren laguntza izango dute epaiketan .	6	Participle
+Gogoratu daitekeenez , Schaeuble CDUko presidente bilakatu zen Kohlek kargu hau utzi behar izan zuelarik finantzaketa ezlegezkoaren eskandalua plazaratu egin ondoren .	15	Noun
+Urrak bere abokatuari eginiko deian funtzionarioengatik jasotzen zuen tratu txarra salatu zuen .	0	Proper Name
+Hurrengo goizean bueltatxo bat eman nuen .	1	Noun
+Hernaniarrak gogor segi du lanean ordea , eta Osasunaren ezker hegala bereganatu dezake Iban Perezek eta Senak ez baitute Lotina konbentzitu .	18	Verb
+inork ez zekien .	1	Particle
+" ETAko kide izateaz akusatuta etorri , eta Jaurlaritzari buruz baino ez digu galdetu " .	8	Noun
+Alderdi sozialistarekiko aliantzaren aukerak sinesgarritasuna galduko luke , PPk kutsatuta egongo litzatekeelako .	5	Verb
+Sobiet Batasunean perestroika-rekin hasi zenak eta Hungarian eta Polonian segida izan zuenak , itxuran bederen ez zuen ondoriorik izan AEDn .	5	Conjunction
+Alderdi Errepublikanoak kontrolatzen duen Floridako Legebiltzarraren batzorde berezi batek datorren astean ezohiko bilera egiteko gomendioa eman du .	6	Noun
+Bateratzearen hamargarren urteurrenarekin batera lehia arraro bat gertatzen ari da Alemanian .	0	Verb
+Estoniaren arabera , Tallin hiriburuan Errusiak duen enbaxadako bi diplomatiko espiatzen ari ziren .	0	Proper Name
+Euskal pilotalekuari dagokionez , Iñaki Lizasok erakustaldi aparta eman zuen atzoko estelarrean Matxin bikote zuela .	10	Adverb
+Reaganek aldegin eta bere burua EEBBetako presidente aurkeztu zorian izan zen , arestian esan bezala .	9	Participle
+Villarrek zaleen portaera zuzena izango dela aurreratu ostean ikuskizun aparta izango dela esan zuen .	6	Participle
+- Hurbildu belarriak Galtzagorriren bihotzera .	3	Noun
+Elkargo berak , 1995eko ekainaren 1ean ikuskatu ondoren , 950933 zenbakia jarri zion proiektu horri , hain zuzen ondorengo ezaugarriak dituen aireko elektrizitate-lineari dagokionari :	3	Numeral
+Etxeko taldeak , berriz , joan zen larunbatean Compostelaren aurkako partiduan azkeneko minutuetan galdutako puntuak berreskuratzeko aukera ezin hobea izango du gaurko partiduan .	17	Noun
+Egoera okertuz zihoala ikusirik , Pearl Jamek kontzertua eten egin zuen , baina , dagoeneko , berantegi zen .	8	Participle
+Andre Agassi munduko lehen tenislaria utzi du kanpora munduko 37.enak hiru setetan ( 6-3 , 6-2 eta 6-4 ) .	8	Noun
+Xuc utzi genuenean , zerbait lasaixeago , neskak honela esan zigun :	8	Adverb
+" Hemen , eguraldi ona egiten du beti eta lau urtaro dauden arren , negua ez da beste leku batzuetan bezain hotza izaten " .	20	Adverb
+Frantzia da oztopo gehien jarri diona asmo horri ; Italiak , berriz , proposatu du lau estatuetako bakoitzak 33 boto edukitzea .	13	Verb
+Milaka herritar ihes egiten saiatu ziren , eta Diliko portuan pilatu ziren .	4	Verb
+Ricardo Alberdi Alberdi I.a eta Juan Antonio Kompañon Konpa ariko dira aurrez aurre .	0	Proper Name
+Insausti - Garma eta Urkia - Juan Pablo palako estelar erakargarria ere jokatuko da bihar .	0	Proper Name
+Azken batean , Euskal Herri osoko hautetsiekin osatuko den biltzar horrek gatazka politikoaren muina mahai gainean jartzen du :	4	Noun
+Nire anpuluak ibai bat sortu zuen eta ibai hori heriotzaren itsasoan , itsasoratu zen .	12	Verb
+Buliganek hiru aste daramatza haragirik jan gabe .	5	Verb
+Europako diru bakarra 0,8707 dolarrera heldu zen atzoko kotizazioan , 0,8615 dolarretan hasita .	10	Numeral
+Azkenean , segurtasun indarrek atera zuten etxe hartatik eta aitari itzuli .	3	Noun
+Rojoren plantilan titularrak eta ordezkoak daude denboraldia hasteko hilabete luze geratzen denean .	1	Noun
+Gure begiradak gurutzatu genituen , eta gauza arraro bat sentitu nuen nire gorputzaren barrenean .	5	Conjunction
+1980an munduko junior txapelduna izan zen , Dortmunen ( Alemania ) , eta xakeko Olinpiar Jokoetan SESBko selekzioarekin aritu zen .	12	Conjunction
+Sakez bost tanto lortu zituen , eta erregular aritu zen oso partidu guztian .	3	Verb
+Festinako David Plazak irabazi du itzulia , Andreas Kloden eta Udo Bolts alemaniarren aurretik .	4	Verb
+Joseba Ostolaza zestoarrak baino hiru jasoaldi gehiago eta 675 kilo gehiago bizkarreratu zituen Goenetxok , lau harriekin hiru minutuko txandak eginda .	7	Conjunction
+Horrela , bada , patriarkatuak gizonen arteko dependentzia eta elkartasunezko lokarriak eratzen ditu , emakumeak menderatzeko bidea ematen dienak .	0	Adverb
+Orain dela gutxi onarturiko Autonomia Estatutu murritzen bidez konpondu nahi izan dira .	3	Participle
+Azken partiduetan itxura ona eman duten arren , Osasunako jokalariek bost partidu daramatzate jarraian garaipenik lortu gabe .	16	Adverb
+Atzokoa ikusita , ez dago zalantzarik 2000-2001 denboraldia oso gogorra izango dela bi jokalarientzat egun Athleticekin duten harremana hobetzen ez badute .	4	Verb
+Baliteke , azken batez , herri palestinarrak Israelgo politikarien arteko lehien ondorioak pairatzen egotea , haien politikaren menpe egotea .	5	Noun
+Retegik berriro galdu du .	2	Verb
+Juan Chozas Enplegu idazkari orokorrak jakinarazi zituen atzo datuok .	4	Adjective
+Baina interes handiak daude hori hala izan ez dadin , ezta ?	7	Particle
+Erlojupekoa irabazi ondotik , sailkapenean ere , Laszlo Bodrogi bera da lider .	8	Proper Name
+etengabeko arreta behar da , eta bizkortasuna , eta hori da guztia .	8	Conjunction
+Aldi bakoitzean kutxatxoa bere lekuan uzten zuten arreta handiz , eta zoruko ohola jartzen zuten haren gainean .	1	Adjective
+ATHLETICEKO eta Alaveseko bi jokalari elkartu ditugu mahai baten inguruan , igandeko derbiaren atarian .	8	Numeral
+Oraintxe norgehiagoka bikaina jokatzen du aurkari indartsu baten kontra , oraintxe talde xume baten aurrean galtzen .	11	Noun
+Egia da , kanpotik ahalegin haundia egin du guri geografia pittin bat irakasten .	10	Adjective
+Iñaki Anasagasti EAJko diputatuak botoak bilatzea egotzi zion Aznarri egindako adierazpenengatik , baina aspaldi diseinatutako estrategia bat jarraitzen duela azaldu zuen .	0	Proper Name
+Aurten harri txikiekin aukera du txapela janzteko , eta hari begira gehixeago prestatu da .	13	Verb
+Txuri-urdiñek ere ez zituzten gol aukera gehiegi izan baina Igor Jauregik bigarren zatian sartutako gol batek urrezko hiru puntu eman zizkien .	10	Proper Name
+Aspaldi zebilen Josune Bereziartu Honky Mix bidearen atzetik , jo eta su , ekin eta ekin , bi hilabete eta erdi bai .	19	Conjunction
+Bestalde , azken hauteskundeetan Fujimori boterera eraman zuen Peru 2000 aliantza ofizialki desegin zen atzo .	3	Noun
+Era honetako liburua izanik eta Virgiliorena delarik testua , gutxienekoa da zaharkituak egotea edo ez egotea Minelliusen edizio hauek :	10	Verb
+Erakunde honetako presidente Wim Duisenberg oso kritikatua izan da azken asteetan euroa indartzeko neurririk hartzen ez duelakoan , merkatuetan esku-hartzeari uko egin baitzion .	22	Verb
+Agiri horretan garbi aitortu zuten bata soilki Joxe izendatzea eta bestea soilki Isidro izendatzea , elkarrekin adostasunean , gaztetan hartutako erabakia zutela .	19	Verb
+KAMERUNEK hartu du Sydneyn Nigeriaren lekukoa , eta Afrikako talde bat izan da berriro txapeldun olinpiar .	12	Verb
+Operazio militarra larunbat gauean egin zen Abu Hanud gerrillari palestinarra atxilotzeko .	3	Noun
+Bateratzearen hamargarren urteurrenarekin batera lehia arraro bat gertatzen ari da Alemanian .	5	Adjective
+Atzo gauean heldu zen Sondikako aireportura , eta handik etxera , Aretxabaletara abiatu zen .	7	Conjunction
+Nik uste dut Euskal Herriak bere nortasuna baiezteko daukan hil ala biziko premia horrengatik dela , bere herri-nortasuna kulturaren errorik sakonenetan bilatuz " .	2	Verb
+" Aita Santuak minez jaso du Madrilen egin den eta hiru pertsona hil eta hainbat zauritu dituen atentatu berri horren albiste tristea .	16	Verb
+Giro freskoa eta lainotsua zegoen eta tarteka euri tantaren bat erori zen .	3	Adjective
+Igor Dygalo eledunaren arabera , bederatzigarren gelako pasabideak estuegiak ziren murgilarien bizia arriskuan jarri gabe lanean jarraitzeko .	15	Noun
+Badiara begira jarraitu zuen , faroaren kliska tarteak neurtzen , baina artean laranja-kolore beteaz tindaturik ageri zen zerumuga , eta faroa itzalita zegoen .	13	Adjective
+Aurreneko kanaerdikoan denbora pittin bat galdu dut , baina ez ziren egur txarrak " .	12	Adjective
+Hor gogora heldu zait galdera bat :	1	Noun
+Eta premiatasun hari amore emanez , auzia lehenbailehen erabakitzera deliberatu zen .	10	Verb
+Igotzeko indarra eduki dezakezu , baina jaitsieran kuadrizepsak asko nekatzen ziren , azido laktikoa sortzen hasten da eta ; kroseko ibilbidea izan da :	5	Conjunction
+Joan den astean Moriren aurka aurkeztutako zentsura mozioak piztu zuen LDPko krisia .	2	Noun
+Estatu idazkari Madeleine Albrightek atzo esan zuenez , EEBBek babesa emango diete errusiarren bitartekari lanei , " Moskuk Kostunicaren garaipena argi ikusi behar duelako " .	21	Participle
+Herritartasuna adierazpen bidez edo lege-ordezkariaren eskariz eskuratzen denean , baimen-erabakian dagokion auzotasun zibila zehaztuko da .	9	Noun
+Astelehenean bertan egin zioten lehen ebakuntza , lau ordukoa , eta herenegun egin ziotenak hiru ordu iraun zuen .	15	Noun
+Baina hurrengo partidan atzera ere galdu egiten du .	0	Conjunction
+Greens etxearen inkestak dio %48 euroaren alde daudela eta %44 aurka .	8	Conjunction
+Lau estalpe ezarri dituzte Zumeltzako zelaietan , ekitaldi guztiak eguraldiaren beldurrik gabe egin ahal izateko .	5	Noun
+Bizia eta biziraupena baliodun bihurtu duten kualitateak zehazteko bideratu diren ikerketa enpirikoak urriak izan dira .	0	Noun
+Albrighten arabera , leku santuen gaineko kontrola da benetako gakoa Israel eta PAN Palestinako Aginte Nazionala ados jartzeko .	15	Adjective
+Zentral nuklearraren itxieraren atarian , 1986ko hondamendiaren biktimek protestak antolatu dituzte , beren subentzioak gutxitzeko arriskua ikusi dutenean .	10	Verb
+" Beno ... espero dut jokalariek duten guztia ematea , eta dugun txantza baliatzea .	13	Verb
+Euskal Herri osoan mota askotako zeramika ontziak aurki ditzakegu .	7	Verb
+Eta Jacksoni azkar erantzun zion Pippenek :	4	Verb
+Eki Timorren " gauza guztiak " suntsituta daudenez , Jokoetarako preparazioa egin duten bitartean eta Olinpiar Hirian egin duten bizimoduarekin asko gozatu duela esan zuen .	24	Verb
+Gerora , ezkondu , seme-alabak izan eta utzi egin nuen ; badu bere arriskua .	0	Adverb
+Zugicek autoa aparkatu ondoren , etxetik lau metrora zegoela pertsona bat inguratu zitzaion eta pistola-ametragailu batez hil zuen .	13	Conjunction
+Jokalariek nahi dute , ez izan dudarik .	2	Verb
+Athleticek ez nau kezkatzen , guk gure jokoa egiteak baizik .	8	Verb
+Hori diote futbolaz dakiten entrenatzaileek .	1	Verb
+Ez zion Felipek gaizki iritzi egindako proposamenari eta , bai borobil batez erantzun ondoren , tripa zorriak isilaraztera abiatu ziren .	18	Participle
+Jada 85.100 dolar ( 8,5 milioi pezetatik gora , 340.00 liberatik gora ) eskaini dutela zioen atzo The Daily Telegraphe-k .	10	Noun
+Marokoko erlijio nagusia islama denez , Houdaren familia ere musulmana da .	3	Noun
+Ildo horri jarraikiz , Estatuak UMTS-Frekuentzien enkantea dela eta poltsikoratu dituen 8,4 bilioi pezetak zorrak amortizatzeko erabili dira .	0	Noun
+Agurtzeko elkartu ziren .	1	Participle
+" Ez nekien , ez " .	1	Particle
+Hizkuntza-heldutasuna neurtzeko era hau Brown ( 1976 ) ikerlariak asmatu zuen haurren hizkuntza-maila mugatzeko helburuagaz , eta euskararentzat Idizabalek ( 1991a ) egokitu du .	12	Noun
+Ziur naiz gauzak zail jarriko dizkigula .	5	Verb
+HASTAPENETIK hasi zen Lyon taldea diru arazoekin , eta aitzin partida ez zuen jokatzerik izan , Grenobleren kontra , eta ez noski hurrengoak ere .	22	Adjective
+Atzo arte 12 bat gorpu atera ziren .	4	Noun
+Bestetik " eraso guztiei tamainako erantzuna " emateko beharra aipatu zuen , eta alderdi , sindikatu eta eragile sozialei arduraz jokatzeko eskatu zien .	5	Noun
+Andre Agassi munduko lehen tenislaria utzi du kanpora munduko 37.enak hiru setetan ( 6-3 , 6-2 eta 6-4 ) .	10	Numeral
+Lur zaharraren eta lorontzi berriaren arteko tartea lur berriz osatu eta ongi zanpatu .	7	Noun
+Lehenengo bonsaia Aizkorrin hartu nuen , pago txiki bat .	2	Proper Name
+Bost urterakoa da , baina pentsatzekoa da legearen zirrikituak baliatu ahal izango dituztela luzaroagoan egoteko .	8	Noun
+Bestetik , Zestoako Udalak mozio bat onartu zuen aho batez AEKren kontrako prozesua salatzeko .	10	Proper Name
+Landareak leiho eta ateetatik urrundu .	0	Noun
+Eusko Jaurlaritzako Hezkuntza Sailak eta udaletako Gizarte-Ekintzako Sailek ikasteko bekak eta laguntzak banatzeko programak dituzte .	2	Noun
+- Elektrizitate-instalazioak egiteko gehienez ere 12 hilabete izango dira , erabaki hau Gipuzkoako ALDIZKARI OFIZIALEAN argitaratzen den egunetik hasita .	7	Participle
+Eta bertoko euskalari ikasi ezak agerian utzitako hutsunea atzerrikoek bete zuten oraingo epe honetan ere hein handi batean .	10	Verb
+Era horretan , Rouen , Amiens eta Reims saihestuko genituzke final-laurdenetan " .	1	Determiner
+Aurrera begira , Iberdrolak Europako nahiz EEBBetako merkatuetara ere zuzenduko du bere hazkundea , eta beste 400.000 milioiren inbertsioak aurreikusita dauzka .	9	Participle
+" Karratua marrazteko moduak ikasten ari naiz " .	2	Verb
+Jose Mari Arrate , presidentea , Txetxu Rojo , entrenatzailea eta Julen Guerrero , kapitaina , azaldu ziren hedabideen aurrean jokalariak zelaira atera aurretik .	17	Verb
+Aldaketa sakon horren ondorio izan zen , jakina , lehenbiziko alderdi politiko abertzalea sortu izana :	9	Adverb
+Esate baterako , zazpi antzerki-taldek bederatzi emanaldi egingo dituzte .	1	Numeral
+Helburua , herritarrek herriko dendetan erostea zen , ez saltoki handietan .	4	Noun
+Ez nintzen sasoi betean joan , baina zorionez , nahikoa izan da bi domina lortzeko .	12	Numeral
+Bi txartelak Kamerundarren area barruan lurrera joateagatik atera zizkioten Espainiako aurrelariari , itxura batean falta ere egin zioten arren .	14	Noun
+Mugaberen bozeramaileak azpimarratu zuenez , Hegoafrikako eta Nigeriako presidenteak " Zimbaweko herriari elkartasuna adieraztera etorri dira " .	6	Conjunction
+Batzuen artean beste bat izatea ere latza da , zuretzat berezia denarentzat zu berezia ez izatea latza den bezalaxe .	6	Adjective
+Nolakoa izan zen Garzonen aurreko deklarazioa ?	3	Proper Name
+" Udan , bestalde , ez du euririk egiten eta loreak usteldu egiten dira " .	12	Verb
+Cockburnek dioenez " emakumeak lan merkatuan sartzen dira esku bat atzera lotuta " .	0	Proper Name
+Nork bere egurrak eramateko aukera zuen , baina antolatzaileen esku utzi zuten , eta Donato Larretxeak plazaratuko ditu .	11	Verb
+Gero ikusi behar noraino ailegatzen garen bide horretan , ze nolako oztopoak aurkitzen ditugun , ze nolako indarrak jartzen ditugun denon artean , etabar .	9	Determiner
+Beherantza , Kelmeko hiru txirrindularik Sastreren asmoa zapuztu zuten , azken hiru kilometroetako aldatsa hasi aitzin tropela batuta utzita .	16	Noun
+Bere aukeraren zain egon beharko du aulkian .	5	Verb
+Gaur egun , EBk hutsune asko erakusten ditu nazioarteko krisietan ahots bakarrarekin erantzuteko , eta pentsatzekoa da kide gehiago izateak are zailago egingo duela hori .	7	Verb
+Marokoko erlijio nagusia islama denez , Houdaren familia ere musulmana da .	7	Noun
+Kilometro askotako erradioan dagoen guztia suntsitzen du bonba horrek , eta argitasunak , 30 kilometrora dagoen jendea itsutatzen du .	15	Verb
+Jonasek ezin izan zuen eserita iraun .	0	Proper Name
+Interesatzen zaigun gertaera gogoangarriaren egunean , egun asko zeramatzan " Kloro"-k libratu gabe , koittadua .	14	Adjective
+Salbatu zirenak semeak argitaratu zizkion .	4	Verb
+Adibidez , baloia igotzeko aukera du , defentsa lanetan sendo aritzen da , erreboteak lortzeko erraztasuna du eta taldeari puntuak ematen dizkio .	8	Noun
+Jon Azkune azpeitiarrak eta Oscar Garcia barakaldarrak Portugalgo Paredes Movel taldean korrituko dute hurrengo denboraldian .	10	Noun
+Vitaliciok Giro honetan lortzen duen hirugarren garaipena da , eta hori ere oso garrantzitsua dela zioen :	6	Noun
+Hau guztia denen jakinetara jartzen da .	2	Determiner
+Faith Terim izango da Fiorentinako entrenatzailea .	1	Proper Name
+Herri mailako eta eskualde mailako instituzioak behar dira , eta baita nazioarteko esparru bat , oinarrizko betebehar batzuk derrigortzeko .	16	Noun
+Valladoliden ere mila lagun inguru bildu ziren Intolerantziaren Kontrako deituta .	2	Numeral
+Kursk urpekoaren aurrealdean ari dira zuloa egiten murgilariak , gorpuak ateratzeko ahaleginean .	0	Proper Name
+Agustin Iñarra Zer-Nai tabernako jabearen ustetan , " jendea lehen askoz lehenago irtetzen zen " .	9	Adverb
+Egungo alderdien sistema ez dute gogoko , eta behetik gora eraikitako demokrazia nahi dute , " obedituz aginduko den sistema bat " .	16	Verb
+Baina kikildu ordez , Zeberio II.a eta Aizpuruk partidua pixkanaka orekatzea lortu zuten ( 19-23 ) .	1	Verb
+Las Palmasek " atzean indartsu " eta " zelaian oso ordenatuta " jokatzen duela iritzi dio Alonsok .	1	Proper Name
+Bartzelonak bosgarren partidua behartu nahi du , Palaun jokatuko litzateke - eta azken partidu erabakigarria .	2	Noun
+Seguru hark egin behar zion proposamenak ez zuela bere ohizko bezeroek egiten zizkiotenekin zerikusirik .	6	Particle
+Aurten , 2000. urtearekin , bere 44. aldia ospatzen duen Gailurretako Rallyan iragan urteko balentria handia errepikatu nahi izango dute pilotu zuberotarrek .	6	Numeral
+Marion Jonesek 400 metroetako proba prestatuz gero , Cathy Freeman estutuko lukeela ikusi zen atzoko lasterketan .	2	Numeral
+Rojok atzealdeko ezker hegalean zelairatuko du .	1	Noun
+Hego Euskal Herriko taxi gidariek lanuztea egingo dute gaur .	6	Verb
+Biok nahi genuen lehenbailehen jokatu eta , asteazken hori libre dagoela aprobetxatuz , egun hori aukeratu dugu " .	13	Noun
+GARAIPEN garrantzitsua lortu zuen atzo Tau Baskoniak Breoganen kontra .	3	Verb
+- Ala joan bazihoan ?	2	Verb
+Nik uste dut pare bat urte gehiagorekin nahikoa izango dudala .	6	Determiner
+Baina 10 eguneko epea du zigorraren aurka helegitea aurkezteko .	6	Adposition
+Etoo izan zen markagailuan oreka ezarri zuena , 52. minutuan .	2	Verb
+- PEN atzizkiak ekintza eta horren ondorioa adierazten ditu .	5	Determiner
+Partiduz partidu joan behar da .	2	Verb
+Formula hori alemaniar askori bihotzetik ateratzen zitzaien , aldaketa eszeptizismo handiz ikusten baitzuten .	1	Determiner
+Ondorioz , 200 lagun hil dira eta milioi erdi herritar baino gehiagok galdu dituzte etxebizitzak , agintariek adierazi dutenez .	14	Noun
+JOAN den igandean Donibane Lohizunek Garazi mendean hartu ostean , gaur bigarren derbia jokatuko dute Garazik eta Maulek Adolpghe jauregin ( 15:00 ) .	8	Noun
+Panathinaikosetik eta Bartzelonatik pasatu ondoren , Bennetonen ari da ; Kopa irabazi du aurten .	12	Verb
+Hemendik aurrera NPN motako transistorea azalduko dugu .	5	Verb
+Oso pozgarria da gurpildun aulkian dabilen lagun bat domina batekin ikustea .	5	Verb
+Haien pausoa bizkorra zen , eta espaloietatik ez ezik erdigunetik ere saiatzen ziren , autoen arteko meharguneak baliatuz .	5	Conjunction
+Agian , bere burua gutxietsi egiten zuen gurekin hitzegitearren eta , oraingoz bederen , disimuluan zebilen .	3	Noun
+Hiru arlotan batera aritzeko gonbita egin die :	2	Adverb
+Burua korrika hasi zitzaidan , eta bat-batean erori " .	0	Noun
+Auzi bera ikertzen ari den Baltasar Garzon Entzutegi Nazionaleko epaileak Goardia Zibileko zuzendaria amarru baten biktima izan zela erabaki zuen joan den astean .	17	Verb
+Beno , nik urte asko neraman kontzertuekin nazkatuta , beti betikoa ikusten .	5	Verb
+Larunbataz geroztik , ultraeskuindarren indarkeriaren kontra zerbait egiteko deialdiak ugaritu egin dira .	4	Noun
+Gorri-berdeekin , azken 20 urteetako murrizketa programa antisozialena erabaki da , eta oso gogor jo dute sindikatuen aurka .	17	Adposition
+Baina ez zirudien inork ezer gehiago zekienik .	5	Determiner
+Askoren ustez , Barak eta Sharon borrokan hasi dira , biak indartsu agertzeko boto emaileen aurrean .	11	Adjective
+Atzo aurrerako pausoa tokatzen zen .	4	Verb
+Bi eta hiru paretako frontoietan , marka batzuk izaten dira ezkerraldekoan , pilotak botea leku egokian jo duen ala ez jakiteko .	19	Particle
+Andreasek ez zuen tarte luzea egin Upsalan ; Linneok , pozik Egiptoko aurkikuntzak zirela eta , beste norabait bidali nahi izan zuen .	2	Verb
+Letretan , berriz , " gazteek kalean erabiltzen dituzten gaiak " azaltzen dira .	5	Adjective
+Administrazio Kontseiluak aurkeztuko dituen beste asmoen artean konpainiako 18 zuzendarirentzako stock options egitasmoa dago ( akzioak erosteko lehentasunezko eskaintza ) .	9	Noun
+Filipinetako enbaxadoreari Jakartan jarritako lehergailu batek bi lagun hil eta 22 zauritu ditu .	7	Noun
+" PPk badaki ez dela horrela baina hala ere esan egiten dute gizartea nahasteko " .	9	Verb
+Lan horri esker , Frantziako gazteak atzerriko talderik indartsuenen helburu bihurtu dira azken urteotan .	2	Adposition
+Vidakovic eta Mateoren lesioak bitarteko , Aitor Ocio eta Krutxaga dira hasieratik ariko diren hiru zentraletatik bi .	8	Conjunction
+Idiakezek falta bat atera zuen arearen eskuin aldetik eta Igor Jauregik baloia sareetara bidali zuen atzetik sartuta .	2	Numeral
+Ildi beretik , azken urteetan Hego Amerika merkatu ekonomiaren eredu izan dela azpimarratu zuen :	11	Verb
+Polarizazio zuzenean dagoela atetik korrontea ( tentsio positiboko inpultsua ) aplikatzen badiogu , eroale bihurtzen da tiristorea .	14	Verb
+Azken torneoetan ez da gaindiezina izan , eta borrokatzeko gogo gutxiagorekin agertu da .	0	Numeral
+Talde berri bat sortzekotan zebilen zuzendari batek ere deitu zidan .	3	Verb
+Aulkian bizarra kentzeko labana zegoen odolduta .	2	Verb
+Batzutan afari dotorea izaten zen , bestetan ez hainbeste .	2	Adjective
+Alaitz eta Maider bikoteak bere lehenengo diskoa aurkeztu zuen atzo .	3	Noun
+Joan den astean Moriren aurka aurkeztutako zentsura mozioak piztu zuen LDPko krisia .	10	Proper Name
+Bulta huntan eri handi zen .	2	Adjective
+Urrezko eraztunak izango banitu , soinekoekin jantzi ahal izateko ... " .	7	Noun
+Erresuma Batua horren kontra mintzatu da .	1	Adjective
+Miamik Eddie Jones , Mason eta Brian Grant , baina Mourning baja izango da .	10	Proper Name
+Horregatik , soldadu batzuk handik atera eta beste batzuk bidaliko ditu Gobernuak .	10	Verb
+Gainera , Portlandek 14 orduko bidaia egin zuen herenegun Cetinjera iristeko , eta horrek nekea eragiten du beti .	14	Noun
+Hala , BEAk ikerketa egileek baietsi dute Air France konpainiako Concordearen lurreratze tresneriako pneumatiko baten lehertzea izan zela istripuaren lehendabiziko eragilea .	18	Noun
+EAJko eta EAko bozeramaileak erabateko babesa agertu zioten Suduperi .	3	Noun
+generoa kontuan hartuko dugu , hori egiteak zentzu adierazkorra duenean .	1	Noun
+Guztira 60 ekitaldi antolatu dira eta berauetan 300 bat artista arituko .	9	Noun
+Halere , batez ere Nietzscherengandik daukana , izpiritu basa horren berbizkundearen kontzeptua eta esperantza da .	4	Proper Name
+Bubkak hiru aldiz bota zuen 5,70 metroan jarritako listoia .	1	Numeral
+Bihar kurrituko dira Zalalagaine , Okabe 1 , Mehatze 1 , Okabe 2 , Mehatze 2 eta Bandetia .	12	Numeral
+Gaur hasiko dira lau kuartel eraisten .	1	Verb
+Otoitzen ondoren zenbait palestinarrek harriak bota zituzten leku sakratua zaintzen ari ziren polizien aurka , baina ez zen istilu larririk izan .	1	Adposition
+Gaur jokatuko dute txapelketa horretako finala Jennifer Capriati estatubatuarrak eta Magdalena Maleeva bulgariarrak .	3	Noun
+Neskalaguna eta Karakorumera trekkinga antolatu duen Banoa bidai agentziako Jon Lazkano eta Mikel Eseri ordezkariak zituen zain mendizaleak .	1	Conjunction
+Gainera , atzo Betoñun egindako lan saioan errekuperazio lanetan aritu zen batik bat Alaves eta ez zen ikusi gaur zer-nolako taldea zelairatu dezakeen .	12	Numeral
+unionistek RUC berea dute , eta nazionalistek arrotz gisa ikusten dute , Poliziako kideen %93 protestanteak baitira .	6	Noun
+- Beti dago non iritsia .	2	Verb
+1973-1990. urteak bitarteko diktaduraren garaiko biktimen abokatu Jose Galianok epailearen jokaera laudatu eta Pinochet " etxean arrestaturik garatzeko garaia " bazela esan zuen .	8	Proper Name
+Estatuak beldurra dio beste su-eten bat izateari , eta badaki desobedientzia zibilak baduela eragina erabaki hori hartzeko unean , eta hori zapuztu nahi izan du .	8	Conjunction
+" Horrexegatik , hain zuzen , legeek eta dekretuek bereziki zainduko dituzte gutxiengo ideologiko eta filosofikoen eskubide-askatasunak " .	6	Noun
+FIDEtik irtetean xakeko haustura ere sortu zuen eta bere etsaien aurka paregabeko grinaz aritu da .	3	Noun
+Zergatik egin duzu aldaketa ?	1	Verb
+Bestalde , zuzenketak aurkeztu zituzten alderdiek PSNk erregionalistekin egin duen akordioa kritikatu zuten eta lortu dituen igoerak " oso eskasak " direla leporatu zioten Lizarberi .	11	Participle
+helburuak ez lortzea edo ametsak ez betetzea ez da trajedia .	6	Verb
+Gure etxea , egun batean , ordu batzuetan , zeharo aldatu zen .	1	Noun
+Oso partida gogorra izan zen .	0	Adverb
+Arrasateko esperientzia kooperatiboaren sortzailearen teoria laburbildu du Lankik .	2	Adjective
+EAEko patronalak datorren urteko negoziazio kolektiborako ildo nagusiak azaldu zituen , eta xede nagusiak hazkunde ekonomikoaren eta enpleguaren sendotzea eta lan osasunean sakontzea dituztela jakinarazi .	24	Verb
+Blanco , Rodriguez eta bera aspaldiko lagunak dira .	3	Conjunction
+Kapitulu horien izenburuak duintasuna , askatasunak , berdintasuna , elkartasuna , herritarren eskubideak eta justizia dira .	2	Noun
+" Joan den igandean Bidanian [ Gipuzkoa ] aritu nintzen , eta gorputzaldian nagoela uste dut " .	4	Proper Name
+Guk errespetua diegu Alaveseko jokalariei , eta giro kontuak baztertu egin nahi ditugu .	6	Conjunction
+" Ez huan aldaketarik nimiñoena egin jatorrizko idazkian .	2	Verb
+Hautesleek sinetsi egin diotela ematen du , inkesten arabera , parez pare baitaude Fox eta PRIren hautagai Labastida .	3	Verb
+Goizean Errioxakoak atseden hartu zuen , eta , gauzak ondo badoaz , hurrengo egunetan normaltasunez arituko da .	14	Noun
+C.M.L.G. 11 urteko neskatoa dago larrien , baina medikuen arabera onera egin du eta ez dago batere arriskurik .	5	Adverb
+Titinen doinuan dantzan Elkororekin , Donostia Hiria Torneoko finala irabazi du ( 16-22 ) .	0	Proper Name
+UPNk Alliren erasoei erantzunez ekin dio hauteskunde kanpainari .	0	Proper Name
+Joan den astean asko landu genuen uztartzea , eta fruitua eman du .	10	Verb
+Izan ere kontenidoari dagokionean antzematen dugun kezka nagusia da politikoki zuen eremua zaintzea eta neurri batean ausardia falta aurrerapausoak emateko .	10	Pronoun
+Donibaneko eta Donosti-Arraun alde baterantz abiatu ziren eta Koxtape eta Trintxerpe besterantz .	10	Proper Name
+Vienaren kontrako zigorrek bere horretan diraute , eta horren ondorioz ezadotasunak sor litezke Hamalauen artean .	14	Adposition
+" Podiumera iritsita erretiratu nahi dut " .	4	Noun
+- David ... , gogoratzen nola etorri zitzaizkigun hitzak ezpainetara :	9	Noun
+Haatik , beste lehiakide oso puntakorik egongo da , hala nola Simonite ingeles aita-alabak eta Favy frantziar pilotua .	17	Noun
+Biolinaren doinu leunak eta kafe egin berriaren usainak biharamunaren zama arindu zioten , dutxarekin hasitako piztualdiari jarraipen egokia emanez .	5	Participle
+Baina Knesseten atzera bota zuen mozioa .	4	Verb
+Azkenengo kilometrotan eragin handia izan du haizeak .	4	Participle
+Igotzeko indarra eduki dezakezu , baina jaitsieran kuadrizepsak asko nekatzen ziren , azido laktikoa sortzen hasten da eta ; kroseko ibilbidea izan da :	20	Noun
+Bertzela , aurrelari portugaldarra Bordelera joanen litzateke .	2	Noun
+Suedian eta Europako beste herrialde aurreratu batzuetan , mutikoak eta neskatoak eskolan bananduta hezitzeko saioak berreskuratu egin behar direlakoan daude pedagogo edo hezitzaile batzuk .	17	Noun
+Horrek konponbide erraza du :	3	Verb
+Helburu horrekin honako hamaika jokalari hauek osa dezakete Eibarren estreinako hamaikakoa .	1	Determiner
+Euskal Herriko txirrindularien artean , Beloki ibili zen , Olanoren ondotik , ongien .	1	Noun
+Urtemuga ospatzeko entitatearen Donostiako egoitza nagusian ekitaldi berezia egin zen eta bertan izan ziren Gipuzkoako hainbat erakundetako eta enpresa munduko ordezkariak .	16	Noun
+Talde honen azken garaipena duela 11 urte gertatu zen , baina garai hartan ez zen Magny Cours zirkuituan korritzen , Paul Ricarden baizik .	1	Determiner
+Ministro berriaren aitorpenak halako irribarre maltzur bat eragin zuen kazetarien artean .	1	Adjective
+" Azkenean partidu on bat jokatu dute gure oranje-ek , eta golak sartzea ahaztu .	13	Participle
+Baieztapen hau guztiz argi geratzen da aztertu ditugun aditz-multzoaren arloko ezaugarri ezberdinez ( ikus 2. taula ) .	2	Adverb
+Baina azkar moztu zuen osaba apaizak :	1	Adverb
+Kultura eta hizkuntza ugari bidea egiten ari dira azken urteotan australiar literaturan .	3	Determiner
+" Ankerkeria , basakeria , higuingarria eta krudelkeria " hitzak erabili zituen atzo Josu Jon Imazek herenegun Madrilen egindako atentatua gaitzesteko .	3	Noun
+Lau urteko epea jarri zuen Joverrek kopurua 2.000 milioi pezetara igotzeko , baina arinago lortzea espero du .	9	Noun
+Bakea sinatu arren , ordea , Etiopiak kontrolpean izango ditu iparraldeko frontean berreskuratu dituen lurraldeak eta Zalambessa hiria .	6	Proper Name
+Erasoaren ondotik , erreakzioak berehalakoak izan ziren .	5	Participle
+" Gehienbat Frantziakoaz nekien , batez ere han diharduten internazionalek kontatu zidatena .	7	Adverb
+Urrak bere abokatuari eginiko deian funtzionarioengatik jasotzen zuen tratu txarra salatu zuen .	7	Verb
+Artetxe eta Xabi Alonso izango dira euskarriak eta hauen aurretik Pablo , Olano eta Alfredok jokatuko dute .	1	Conjunction
+Pasarterik zailena zeharkaldia da , eta pauso gehienak , zailtasunean , paretsuak dira " .	0	Noun
+Tolosarrek esperientzia handiko internazionalak dituzte aitzinean , eta nazioartean jokatuta , baliabideak bereganatzen dituzu .	5	Noun
+Aukera ezin hobea du taldean sartzeko .	5	Verb
+Intxaurragak dio Aznarren adierazpenak ez direla egokienak presidente batentzat .	5	Verb
+Amaieran aipatzen ditut ere talde gazte batzuk - Dut , Deabruak ... - niri sekulako profesionaltasuna erakutsi zidatenak .	13	Pronoun
+COLIN POWELL jeneral erretiratuak eskainitako hitzaldian Bushek " EEBBetako bereizketa arrazialak gutxitzen " lagunduko duela aldarrikatu zuen .	14	Verb
+" Kikilduta " aritu zen tenislari nafarra .	3	Verb
+Ba , nahi niken sinets nazan , ez dinat batere senditzen , hau ez dun bestea bezain sineskorra .	13	Particle
+Orain joera den bezala , bikote honek ere estilo asko nahastu ditu Alaitz eta Maider izeneko disko honetan .	6	Determiner
+Zine izarra edo Tourreko garailea bailitzan hartu zuten argazkilariek aurrena , eta , kazetariek , gero , David Etxebarria .	0	Noun
+Irteerako tentsioaren balioaren arabera , artezgailu honen korronte alternoko sarrera transformadorearen sekundariotik ala zuzenean sare elektrikotik jaso daiteke .	8	Adjective
+Honen lehendabiziko xedea zen genozidio armeniarraren gogoratzeak urtero antolatzea apirilaren 24ean , 1915 urteko apirilaren 25a izan baitzen honen hasiera .	16	Participle
+Baloi galdu bat bereganatzen badute entsegu-arriskua sortzen dute .	3	Verb
+Kontakizun bizia , birako argazki ugari , eta mitoetatik aldenduz Negu Gorriak-en irudi fidela erakutsi nahi izan du kazetari tolosarrak .	7	Conjunction
+Ullrich zortzi segundoko atzerapenarekin sartu zen azkenean helmugara , eta zilarrarekin konformatu behar izan zuen .	1	Numeral
+Bigarren postuan Juanjo Erdozia sailkatu zen irabazlearengandik 1:46ra , eta hirugarrenean Joxeinazio Flores 2:46ra .	9	Conjunction
+Asegarce-Altiren adarreko finala jokatuko dute Jorge Nagorek Nafarroako egungo txapeldunak eta Ruben Belokik ( 17:45 , Tele 5 ) .	7	Proper Name
+' Amerikarrak eta euskal kulturan sartu !	1	Noun
+Freddy Rojas ariko da 81 kiloetan Garbeyren partez .	6	Proper Name
+RONALDO brasildarra harremanetan jarri da Flamingorekin , hurrengo urtean Brasilen jokatzeko .	3	Verb
+Baldar , plater handian igo zen kazakhstandarra .	0	Adjective
+Bizia eta biziraupena baliodun bihurtu duten kualitateak zehazteko bideratu diren ikerketa enpirikoak urriak izan dira .	7	Verb
+Laurazeoen familiako zuhaitza , jatorriz Ekialde Urrunekoa eta klima beroko leku askotan lantzen dena .	12	Verb
+Baina geroztik gol bakarra egin diote Toldori lau partidutan ( eta Holandaren penaltiko bat ) .	5	Verb
+Aurreko gaiko sintesi-ereduak azken esaldiaren adibide ona dira .	3	Numeral
+Errusiako Atzerri Ministerioaren agiri baten arabera , " probokazio garbia da Errusia eta Estoniaren arteko harremanak nahita hondatzeko " .	5	Adposition
+Orain Espilek lasaitu egin behar du , eta aprobetxatu atsedena hartzeko , datorren denboraldian mailarik onena erakutsi ahal izateko .	8	Verb
+Gauerditik geldituta zeuden kamioiak , grebalariek bidea oztopatu zieten eta .	8	Verb
+Gasteiztarra partidua jokatzeko irrikan da , " aurkaria Real Madril izateaz gain , sailkapenean azkenak garelako , eta oraindik etxean garaipenik lortu ez dugulako " .	22	Particle
+Francine dardaratu egin zen :	1	Verb
+Honezkero jakin beharko zenukete zer zen nagusi baserrietan .	5	Verb
+Iaz gertatu antzera , Mendebaldeko Konferentziako Los Angeles Lakers eta Portland Trail Blazers dira hautagai nagusiak , eta ia bakarrak .	5	Noun
+Hildako kopuruari dagokionean bakoitzak gauza bat esaten du , iturri batzuek 9 eta PANek 15 palestinar hil direla adierazi baitute .	19	Verb
+Silvi aitzurrarekin ari zen muturreko lau ileak ebakitzen eta Laura , berriz , loxintze-lanetan .	3	Verb
+Espainiako Erregearen Gabonetako mezua ETBn emateko legez besteko proposamena egin du PPk .	7	Determiner
+- Zabortegia egin beharrean , turismoa erakar dezaketen proiektuak bultzatu beharko genituzke , beharbada , Nobel Sarien arrakasta aprobetxatuz .	15	Proper Name
+131 bidaiariak hil ziren .	2	Verb
+2001 urtean negoziazio kolektiboak enpresen kudeaketa eta kostuen murrizketarako " ezhoiko tresna " izan behar du .	5	Noun
+Proposa ezazu definizio bat .	2	Noun
+ANGEL MORALES berreskuratzeko aukera baliatu egin du Espanyolek .	0	Proper Name
+Sezerrek kritika gogorrak jaso zituen , " Errepublikaren arerioen aurka bigunegia " izateagatik .	9	Adposition
+Edu Lertxundi LABeko Politika Sozialeko arduradunak mende honetan zehar lortutako eskubide sozialekiko " atzerakoitzat " jo zuen Oinarrizko Eskubideen Gutuna .	6	Noun
+Urriaren 5ean atxilotu zuten , beste zortzi lagunekin batera , desodentzientzia zibila bultzatzeaz akusatuta , eta hilabete eman du Espainiako Soto del Real espetxean .	6	Numeral
+Ibarretxe lehendakariak egin zion biltzeko gonbita Redondo Terrerosi , eta bi orduko solasaldia izan zuten .	3	Verb
+EIBARREK golak sartzeko dituen zailtasunak bere horretan jarraitzen dute , eta atzo Betisen aurka jokatutako partiduan gabezia horiek agerian geratu ziren .	16	Noun
+Horrela ikus dezakegu argi eta garbi ergatibo-markaren , adizki laguntzaileen edo pertsona-komunztaduraren erabileran .	2	Verb
+42 urte ditu eta oraindik puntako txirrindularia da .	6	Noun
+Esan nahi da , aise samar topa gaitezkeela beren euskarritzako material bezala pintura , argazkia edo are eskultura ( baxuerliebean ) daukaten obrekin .	1	Noun
+Gizarteak indarkeriaren inguruko diagnosi bateratua egitea eskatzen duela iritzi dio Sudupek , eta ildo horretan Juan Jose Ibarretxek foroa sortzeko eginiko ahalegina txalotu zuen .	9	Verb
+Rider jokalari ikusgarria da , eta dohain berezi horiek erakusten baditu , Phil Jackson entrenatzaile soil bat baino askoz gehiago dela frogatuko da berriro .	18	Adverb
+Euskal historia aztertzen dutenek ere aitortu dute jadanik Zuzenbide Pribatuari ez diotela jaramon gehiegirik egin .	13	Determiner
+Kafetegia gurutzatu ondoren han barruan , sukaldearen aurrean eta komunak iragan ondoren zegoen ate baten parean geratu zen enkargatua .	18	Verb
+Paper bakoitza bere tokian jartzen zuen .	3	Noun
+Roger Lemerre berak argi eta garbi adierazi du hori :	1	Proper Name
+Taldeak " kalitateko atezaina behar " duela gaineratu zuen , eta , ziurrenik , " etxetik kanpo " bilatuko dutela .	8	Verb
+MARTIN Fiz korrikalari arabarrak hurrengo urtea bere kirol jarduneko azkena izango dela iragarri zuen atzo Interneteko sportec.com helbidean .	8	Noun
+Serioski eta arriskuak onartuz bakea lortu nahi izan genuen , eta oraindik ez dugu lortu .	0	Adverb
+Lan horretan lehendakariaren iritzi kontrajarrien bilduma egin du Gaok , betiere Mendebaldeko iturrien arabera .	5	Noun
+Orain artean , Euskaltel-Euskadik ez du zorterik izan Espainiako Itzulian .	4	Particle
+" Bigarren zati perfektua egin du Miarritzek , eta bera izan da presio latza egin duena .	12	Noun
+Batuko grafia erabiltzen dute , hitz berriak Batutik hartzen dituzte .	8	Verb
+Talde galiziarren arteko derbian ia ez zegoen jokalari galiziarrik .	7	Noun
+DUELA lau egunetik itsasoan galduta dago Indonesiako Moluketako probintziako ferry bat , eta haren inguruan albiste kontrajarriak zabaldu ziren atzo .	4	Verb
+Gelak atari handi baten inguruan daude eta atariko hormak eta zorua azulejo apaingarriz estalita daude .	5	Verb
+Baina gero , korrika hasi , eta ondo sentitu naiz " .	6	Conjunction
+- Elkarrizketaren batean esana duzu bidai baten kronika literarioa - edo dela kontakizuna .	7	Noun
+Haiderrek kritika gogorrak egin zituen ezkerreko indarrak agintean dauden Europako Batasuneko herri zenbaiten kontra ; Alemania eta Suediaren kontra , esaterako .	11	Noun
+Miarriztarrek galdu egin zuten .	3	Verb
+Hiru pisutako txapela izango dute jokoan :	5	Noun
+Nonakaren dimisioa Morik boterea galtzeko lehen pausoa izan daitekeela adierazi dute adituek .	8	Verb
+Ikusteko dago indizeek gorako bideari modu sendoagoan helduko dioten .	2	Noun
+Ruiz Alfranca goizeko bederatziak eta erdiak aldera atxilotu zuen Poliziak , etxetik atera ondoren lantokira zihoala .	15	Verb
+Mantxa itsasartearen azpitik Frantzia eta Ingalaterra lotzen dituen trena bi orduz etenik izan zen .	4	Conjunction
+Orduan , kasinoko managerrak , Mefistofeles trajedun horrek , neskaren nondik-norakoak arakatu eta honako ondorioa atera zuen :	9	Noun
+Lehen taldeko teknikariak aukeratu ostean , harrobiko taldeak nortzuren esku geratuko diren erabaki beharko dute Lezamako arduradunek .	4	Noun
+Argitalpenek eta literaturak gizarte anitz honen aldaerak eta islak eskaintzen dituzte .	7	Conjunction
+Idazkera zuzen eta modernoa erabiliz idazteko bide berria landu zuen bere garaian .	2	Conjunction
+Lauraren lata hartu eta amaitu arte edan zuen , neskak solasa hausnartzen zuen bitartean .	0	Proper Name
+Edmonton hiriko ( Kanada ) Munduko Txapelketa izango da Martin Fizek korrituko duen azken maratoia .	5	Noun
+Bestalde , Simon Peres Israelgo lehen ministro ohia Estatu palestinarraren sorreraren alde azaldu zen atzo .	10	Noun
+Minutu bateko isilunea egin zuten astebete lehenago atentatuan hil zituzten Fernando Buesaren eta Jorge Diezen omenez .	14	Proper Name
+Ez zen uste bezain eraginkorra izan , baina ONeal geldiezinak bete zituen hutsune guztiak .	7	Conjunction
+Armadako base militarraren atarian geratu ziren , belauniko , kandela eta loreekin .	11	Noun
+Horrexegatik ez dute adierazten beste material batzuek duten ahalmena elektrizitate mota hau sortzeko beraiekin kontaktu egitekoan ez badugu isolatzaile bat erabiltzen behintzat .	14	Noun
+" Eurek asko zuten jokoan eta gu garaipenaren bila atera ginen partidu berezia zelako .	8	Adposition
+Atlantara irabaztera joan nintzen , Europako eta Munduko txapeldun izatetik netorren .	7	Noun
+Printzipioz , patronalarenpean dagoen ANET kamioi gidarien elkarteak grebarik deitu ez arren , haren partaide diren garraio enpresa batzuk lanuztea jarraitzen ari dira .	16	Noun
+ekintza 12:30ean gertatu zen goizeko 04:30 Euskal Herrian .	6	Noun
+Lekeition , 1573. urtean bederatzi hilabeteko izurria jasan zuten eta txistulari bat kontratatu bere musikarekin herriaren mina , goibeltasuna eta kezka xamurtzeko .	6	Noun
+Asmo hori gauzatu ahal izateko kalitateko jokalari berriak aurkitzeari ekin zion zuzendaritza taldeak .	5	Noun
+Eremu magnetiko baten barnean eroale bat higiaraziz , eroale horren muturren artean potentzial-diferentzia sortzen da .	4	Noun
+Bigarren Maniani-Tzelili greziarra izan zen , eta hirugarren Osleidys Menendez kubatarra .	1	Proper Name
+Azken zortzi urteetan lehen aldiz elkartu dira bi Koreetako ministroak .	3	Numeral
+Bertan , aditz-aspektu-markek , subjektuarekiko pertsona-komunztadura-markek , zehar-osagarriarekiko pertsona-komunztadura-markek , osagarri zuzenarekiko pertsona-komunztadura-markek , denbora-markek eta modu-markek , haur guztiengan agerrera mailakatua dutela baieztatzen digute .	8	Noun
+PP-K galdera bat aurkeztu du EAEko Legebiltzarrean Ibarretxek erantzun dezan , EA joan den larunbatean Donostian egin zen manifestazioan izan zela eta .	19	Verb
+Don King saiatuko da EEBBetara eramaten , baina Savon ongi bizi da Kuban , eta ez lioke iraultzari halakorik egingo .	15	Particle
+RIRAk suetena deklaratu zuen 1998ko abuztuan , Omagheko atentatuan 29 lagun hil ondoren .	5	Noun
+" Inolako krimenik ez egotea gustatuko litzaidake eta horregatik , handitan , abokatu edo epaile izango naiz justizia egin dadin " .	13	Conjunction
+SERGEI ZVEREV Moskuk Txetxenian izendatutako agintari zibilaren ordezkoa hil zen astearte arratsean , Grozniko auzune batean gertatutako atentatuan .	5	Noun
+Hernaniarrak gogor segi du lanean ordea , eta Osasunaren ezker hegala bereganatu dezake Iban Perezek eta Senak ez baitute Lotina konbentzitu .	13	Proper Name
+Ildo horretatik , Timorko , Indonesiako zein nazioarteko giza eskubideen aldeko hainbat talde oso haserre agertu dira Fiskaltza Nagusiaren erabakiarekin .	5	Proper Name
+Legebiltzar saioa " Libanoko hegoaldea askatzeko borrokan eroritakoei " eskainitako minutu bateko isilunearekin hasi zuten .	13	Verb
+Konta dezadan jatorria .	1	Verb
+Landareen arerio nagusia tenperaturaren gora-behera azkarra da .	5	Adjective
+helburuak ez lortzea edo ametsak ez betetzea ez da trajedia .	9	Noun
+Zuloaldea ere kontu handiz ondo egina utzi behar da , zuloaren ertza zorrotza bukaturik .	0	Noun
+Hildakoetako gehienak palestinarrak dira , baina gutxienez sei , Israelgo herritar arabiarrak .	1	Determiner
+Zientzian eta progresoan sinesten duenak , problema guztien soluzioan sinesten du .	0	Noun
+Nafarroako erdialdean eta hegoaldean , gutxi bada ere , oraindik erabiltzen da zanbonba arrunta zarata ateratzeko eta kantuaren erritmo lagungarritzat .	0	Proper Name
+Alta , bertako kultura eta hizkuntzek badute lekurik argitalpenetan .	8	Noun
+urralburu kasuko inplikatuek jarritako errekurtsoak datorren urtarrilaren 10ean goizeko 10:30ean aztertuko ditu Auzitegi Gorenak .	2	Verb
+Chavezen " iraultza baketsua " legitimatu dute venezuelarrek .	6	Verb
+Orain dela ordu erdi bat eskatu dut kalamarra !	4	Numeral
+Ondoan Luis Morenoren eta Raquel Garciaren argazkiak atera zituen , eta barruan estradizio itunen inguruko komentario zabala jaso zuen .	16	Adjective
+Batzordeko kideek atzo esan zutenez , hala egiteko asmoa dute Gorte Gorenak erabakitzen badu diktadore ohiak ez duela immunitaterik .	13	Verb
+Unanue mugitzen saiatuko da , eta orain arteko partiduetan horretan asmatu ez duela onartu arren , tantoak amaitzen saiatu .	0	Proper Name
+EIBARREK Universidad Las Palmas taldearen aurka jokatuko du gaur , azken asteetako bolada onari jarraipena emateko asmoz .	4	Noun
+Ondorioz , 200 lagun hil dira eta milioi erdi herritar baino gehiagok galdu dituzte etxebizitzak , agintariek adierazi dutenez .	11	Determiner
+Balantze ona egiten duzu , hortaz .	1	Adjective
+Richard Virenque * Federico Martin Bahamontesen eta Luciem Van Imperen marka berdindu dezake ( sei garaipen ) mendiko sailkapenari dagokionez .	0	Proper Name
+Winstonek luma pisuko Munduko Txapelketa eskuratu zuen 1968an Mitsunori Seki japoniarraren aurrean , Londresko Royal Albert Hallen .	14	Proper Name
+Urriaren 3tik aurrera Alemania bat izango zela hitzartu zen .	1	Numeral
+JOSE MARI OLAZABAL golf jokalariak bigarren jardunaldia eskasa egin zuen Sun City Torneoan ( Hegoafrika ) .	1	Proper Name
+" Gaur egun , talde pribatu batentzat asmo hori luxu bat izanen litzateke " .	9	Noun
+Sasoi goiztiar honetan Oitz haurrak bideograbaketetan zehar halako ekoizpenik gauzatu ez arren , bere gurasoek bildu duten egunerokoan halako formak ere aurki ditzakegu .	9	Verb
+Italiarrak " onartezintzat " hartu du erabakia :	0	Adjective
+Peter Carey eta Thomas Keneally dira ezagunenak .	4	Proper Name
+Sabin Intxaurraga eta Inazio Oliveri sailburuei ere eskatu diete nola batera daitekeen euren erantzukizuna Jaurlaritzan eta manifestazio horri euren alderdiak babesa eman izana .	18	Pronoun
+Azken denboraldi honen hasieran jokalari berri asko fitxatu ziren , eta taldearen muina mantentzeko erabakia hartu badut , horiek eman dezaketen guztia ateratzeko da .	4	Noun
+Gainera , ez zen nire gustuko ibilbidea , bihurgune gehiegi zituen , eta hori ez dut atsegin .	2	Particle
+LANGABEZI tasa urrian zehar hamarren bat jaitsi ondoren , %9,4an kokatu da , atzo Frantziako Gobernuak aditzera eman duenez .	11	Verb
+Aitzin multzo haustailea eta bultzatzailea du , baloi asko irabazten dute , eta defentsa zorrotza dute " .	9	Verb
+Politikoki bultzatutako hilketa izan zela esan zuen batasunak .	1	Verb
+Horiek agian ez dira heroiak izango , baina ederki erakusten dute maratoia bizi iraupen proba bat dela .	13	Noun
+Donostia Hiria Torneoko finala , besterik gabe , ikusgarria izan zen , jokoz zein giroz .	9	Participle
+Agintari militar israeldarrek Polizia palestinarrari manifestariak Israelgo soldaduak dauden tokietatik aldentzeko exigitu zioten , eta ez zutela munizio erreala erabiliko .	9	Noun
+Baina 155 kereila kriminal gehiago daude Txileko epaitegietan .	5	Verb
+Bestalde , jalkitako material horiekin batera arro edo haran sedimentarioetan bizitako animalia eta landare batzuen hondarrak pilatzen dira , harri " bereziak " sortaraziz .	10	Adjective
+Aurkezpenak eginda , denak eseri eta garagardo bana hartu genuen egarria berdintzeko .	11	Verb
+Indar eragile horien artean mota desberdinetakoak ikus ditzakezu .	2	Determiner
+Gauerditik geldituta zeuden kamioiak , grebalariek bidea oztopatu zieten eta .	9	Conjunction
+Astelehenetik da Miarritze Bordelen .	2	Proper Name
+Holandak egun osoa igaro zezakeen atera jaurtiz :	2	Adjective
+Baina erretolika harekin berehala gal zitezkeelakoan , instantean moztu zuen Marigorrik , barrutik gainezka egiten zion desesperazioa aholkulari zuela :	15	Verb
+" Buenos Airesen , Luis Triscuelok deitu zidan ; Pumasen eta Ingalaterran aritua da Triscuelo .	1	Proper Name
+Europako Kontseiluetan herrialde handiek indar gehiago izango dute , eta zabaldu egingo dira aho batasuna ezinbestekoa ez den arloak .	2	Noun
+hamabost urte zituenerako egin zuen debuta Argentinako txapelketan ; orain hogei urte ditu .	7	Noun
+- Mutazioa ahuldu lehenengo eta ezkutatu egin zen gero .	8	Adverb
+Valentzian Angel Fernandez , Jorge Faguas eta Gregor Cvijic esloveniarra ez daude jokatzeko moduan .	11	Verb
+EEBBek eta Vatikanoak aztertu dute Jerusalemi buruzko auzia .	2	Proper Name
+Eta behin eta berriro ikusi dugu , pena handiarekin , tropel gupidagabeak nola irensten zuen bere ametsa .	15	Determiner
+- Bost egun gelditzen zaizkigu , Lorea !	1	Numeral
+Horrela , bada , Leontxi , Zotz eta kanguru izukaitza zirkura bildu , eta zirkuko jendearekin joan ziren herriz herri , irriz irri .	18	Noun
+Dagoeneko ospakizunak prestatzen hasi dira .	0	Adverb
+Chevenement kasuari konponbide bat eman beharko dio irailerako Jospinek .	0	Proper Name
+Hau guztia kondatzen zion bitartean , hiri barnera sartu ziren .	9	Verb
+Gainera , elkarrizketa politikoaren aldeko beste ekitaldi bat iragarriko du aurki .	5	Determiner
+Katedrala ez da bete ligan orain arte San Mamesen jokatutako bi partiduetan .	3	Participle
+Gustora egoteko moduko lana egin dut , baina laugarrengo postuak beti uzten dizu tristura bat , podiumaren atarian gelditzen baitzara .	1	Verb
+" Ni ez naiz harritu garaipenarekin , eta ondo ezagutzen nauenarentzat ere ez zen ezustekoa izango nik erlojupekoa irabaztea " .	17	Noun
+herri desberdinetako pertsona batzuk oso bidaia luzea egiten ari dira Siberian zehar .	3	Determiner
+Erraz konformatzen ziren garai hartako umeak .	2	Verb
+Herritarrak beldurtzen aritu ziren , eta UNAMET Nazio Batuetako misioaren egoitzaren bi eraikini eraso zieten , timortarrak han babestuta zeudelako .	11	Numeral
+Azken hori PANeko kide Saeb Erekatekin elkartuko da astebete barru .	9	Adposition
+Kroaziarraren kasuan , normaltzat jo behar da hori , orain artean oso gutxi jokatu baitu .	14	Verb
+Brivek lehen multzoan dihardu Liga Xapelgoan , eta bigarren postuan da 41 punturekin .	10	Verb
+Yong-Koo eta Ji-Kooren koltxoiak gurasoen logelan gordetzen dituzte egunez .	8	Noun
+Gasteizko zaleek Tau Baskonia ikusteko aukera izango dute gaur eguerdiko 12:15ean Zurbanoko pabilioian .	12	Noun
+Zuzendaritzak , Donostian 1995.eko azaroaren 20an egindako bileran familiari eta bereziki Pakitari doluminak agertzea erabaki zuen .	10	Adverb
+Garai hartako egunkariek ezker muturreko kideen artean diferentziak egon zirela eta beraien arteko enfrentamentuetan hil zirela esan zuen .	11	Pronoun
+Defentsan ongi birkokatzen dira , eta horregatik , uste dut arazoak sortuko dizkiola Tolosari .	13	Proper Name
+- Han goiko harkaitz handi hura baino beherago dago , eta hilobia sakanean egongo da nonbait .	15	Adverb
+Madrildik 28 sarrera eskatu dituzte .	2	Noun
+Jugoslaviako lehendakaria ez ezik , Jugoslaviako Parlamentu Federala ere hautatuko dute serbiarrek eta montenegroarrek .	9	Verb
+EUROAK azken egunetako susperraldiari eutsi eta igoera nabarmena izan zuen atzo , 0,86 dolarren ingurura iritsi arte .	4	Verb
+Etxeari begirada bat eman nion , nire amaren logelara iritsi arte .	2	Numeral
+Gasteizko taldeak berriz , saskiratzeko ez zuen traba handirik , Bennettek jokoa ondo banatu , eta hegalekoek erreztasunez saskiratzen baitzuten hiruko jaurtiketak .	8	Adjective
+Zaragozak , Athleticek ez bezala , etekin ezin hobea atera zion San Mamesen izan zuen lehenengo gol aukera garbiari .	16	Noun
+Gaur egun , talde horretako 60 bat preso daude Espainiako kartzeletan .	5	Numeral
+Euskal Rock Topaketa burutuko da Lekunberrin datorren apirilaren 20an .	6	Verb
+Lizaso ongi ezagutzen du Ezkurrak , eta haren sakea nabarmendu zuen :	8	Noun
+Agiriak Mendebaldeko oinarrizko baloreak biltzen ditu , adierazpen eta pentsamendu askatasuna eta legearen aurreko berdintasuna horien artean .	11	Conjunction
+24 segundoko aldearekin iritsi zen helmugara .	4	Verb
+Juan Carlos Alti enpresariak Aspeko bikote bat faboritoa dela onartu zuen atzo , eta Titin III.ak eta Elkorok irabazteko aukera asko dituztela adierazi zuen .	2	Proper Name
+Bestalde , erraz bereiz daitezkeen osagaiak dituzten sistema heterogeneoak ere ezagutuko dituzu :	8	Adjective
+Erasoa gertatu zen unean , erromes hindu mordoa zegoen herrian .	5	Noun
+Egiptok 1979an sinatu zuen Israelekin bakea , eta palestinarren eta israeldarren arteko bake elkarrizketetan PANek egindako aldarrikapenak babesten dituen herrialde arabiar nagusienetakoa da .	22	Verb
+Herrialde horretako oposizioko alderdi nagusiek eta tamil politikari moderatuek gerrillariekin bake negozioazioak egiteko eskatu diote Gobernuari .	4	Adjective
+Marokoko etxe gehienetako horma eta zoruak honen antzeko azulejoz apainduta egoten dira .	3	Noun
+Eta lagunarekiko maitasuna adierazten dizute , ez errespetoz jantzi beldurrarenak .	8	Participle
+Palestina independentea " dagokion unean " onartuko du EBk , ahots bakarrarekin .	6	Participle
+Birlandatzeko garairik egokiena , landarearen sasoi aktiboa hastera doanekoa da .	2	Adjective
+Egoitza militarrak ixtea ez dakar berez soldadu britainiarren erretiratzerik , baina hiru hilabete barru beste azterketa bat izango dela azaldu zuen Flanaganek .	19	Verb
+Lurrun isuria izan zuen eta bigarren istripua da denbora gutxian .	4	Conjunction
+Azken finean bi higadura motek egiten dutena lurzoruaren taxutzea eta eratzea da .	2	Numeral
+Seattlek Lakers jipoitu du , 121-88 .	1	Proper Name
+Auzi bera ikertzen ari den Baltasar Garzon Entzutegi Nazionaleko epaileak Goardia Zibileko zuzendaria amarru baten biktima izan zela erabaki zuen joan den astean .	10	Noun
+Hautagaitzak aurkezteko epea atzo gauerdian amaitu zen , eta Redondoz gain ez zuen beste inork urrats hori egin .	17	Participle
+Beraz , ez dira hain lasai egongo , eta hori baliatu behar dute miarriztarrek pittin bat nahasteko .	15	Numeral
+Kaska-kaska eginda zagok ; soldaduzkatik etorri zenetik , goizero-goizero , tronpeta joka hasten duk zazpietan .	12	Verb
+Aitzitik , Alemaniako langabeen kopurua jaistea du helburu , eta , hala , Alemaniako industriaren lehia ahalmena handitzea .	6	Verb
+Farrow izutu egin zen , saltoan zutitu eta jiratu egin zen .	10	Verb
+Yoshiro Morik datorren asteartean kabinete berria osatuko duela jakinarazi du .	2	Verb
+Eta artaldeak zainduz , kostaldetik barru aldeko mendietara mugitu ziren .	9	Verb
+Ezbairik gabe , onena izan da " .	3	Adjective
+Lege berezi antiterrorista horiek ere frogatzen dute preso politikoak direla " .	1	Adjective
+Lotarako ere ez dut erantziko .	1	Conjunction
+Alderdi bakar baten izenik ere ez dakite .	0	Noun
+Emiliek arrazoi zeukan esaten zuelarik Andreas ez zela hilik , eta artean bizirik zegoela .	11	Adverb
+Areago aldaketa horiek akordioaren irakurketa edota garapena izan nahi dutenean .	9	Verb
+Bere lehentasunezko helburua planta geldiaraztea dela esan du .	4	Verb
+Realaren aukera garbiena berriz , hamabostgarren minutuan iritsi zen , Delfi Geli bere atean gola egitekotan izan baitzen baloi luze bat urruntzen ahalegindu zenean .	11	Noun
+" PPk badaki ez dela horrela baina hala ere esan egiten dute gizartea nahasteko " .	10	Verb
+Orio eta Castro garaipena lortzeko hautagaiak ziren arren , maila makala erakutsi zuten estropada hasieratik , eta ez zuten aukerarik izan bandera irabazteko .	3	Noun
+Bilkura " pribatua " eta " ateak itxirik " zela abisatu zuen argi eta garbi , bilkura tokia eta ordua sekretupean atxikirik .	4	Conjunction
+Azken txanpan , ordea , Rikardo Alberdi printzeak hobeki asmatu zuen , eta erreskadan egin zituen falta zitzaizkion lau tantoak ( 25-21 ) .	7	Noun
+Valentziatik irten eta berehala arrapaladan abiatu ziren txirrindulariak eguneko ihesaldiko partaide izateko xedearekin .	2	Conjunction
+- Asmo horrexekin esan duzu !	1	Noun
+Jaurerriak desagertzean eta probintzien arteko banaketa egin zenean , Trebiñoko konderria Burgosen menpera pasa zen ( 1832 ) .	16	Numeral
+Etiopiarren festa Millon Woldek osatu zuen atzo , gizonezkoen 5.000 metroak irabaziz .	0	Noun
+Behin izan gintunan boita batean lagun batekin .	4	Numeral
+gutxinaka-gutxinaka gainera , Reala gorantz egiten hasi zen eta azkenik , bigarren zatiko hamaikagarren minutuan , markagailuan aurrea hartu zuen izan zuten aukera bakarretakoan .	13	Numeral
+Azken bilera apirilaren 4an egin zuten , eta alkateek nahi dute " lehenbailehen " biltzea eta hitzarmen berriak egitea .	10	Verb
+Frantziako politika gizonik ezagutuenetakoa da .	2	Noun
+Iñaki Rekarte presoak gutun bat igorri du isolamenduan jasaten dituen " presio eta kontrolak " salatuz .	4	Numeral
+Azkenean , Pedro Maziziorren gizonek bost segundo kendu zizkioten Trintxerperi .	0	Adverb
+Pozik azaldu zen taldeak erasoan erakutsitako lasaitasunagatik ere .	4	Noun
+Atzoko lan saioan Zubietan bata zein besteak ez zuten entrenatu .	8	Verb
+Tiroideetako minbizi kasuak hamar aldiz handitu dira Ukranian istripuaren ondoren , esate baterako .	7	Proper Name
+Osasunak , baina , Olondriz bigarren taldeko gaztea fitxarik gabe utzi du azken unean , eta Jusuek hartuko du haren tokia .	0	Proper Name
+Bizkaiko , Gipuzkoako eta Kantabriako alturako eta baxurako arrantzaleek bilera izan zuten atzo Donostian .	2	Proper Name
+ESPAINIAKO POLIZIAK Mikel Zuluaga ezker abertzaleko militante historikoa , Santi Brouard taldeko kidea eta Piztu txostenaren egilea atxilotu zuen atzo arratsaldeko 18:00ak aldera .	0	Proper Name
+XEBAAKO landetxeak Israelen eskuetan izatea ez duela onartzen adierazi du Siriako Atzerri ministro farouk Al Xaraak .	1	Noun
+Gainera , italiarren kultura lehiakorra pixkanaka sartzen ari da Frantziako txapelketan , entrenatzaileak konturatu direlako kalitatea ez dela nahikoa txapeldun izateko .	15	Noun
+Rojok atzealdeko ezker hegalean zelairatuko du .	3	Noun
+Galdetu bestela plazan dabiltzen neska-mutilei .	1	Conjunction
+Suizan esaterako erreskate talde profesionalak daude eta erreskate onak egiten dituzte , asko arriskatuz .	5	Verb
+Enbaxadorea zauritu egin zuen eta ospitale batera eraman zuten .	0	Noun
+AZKEN egunetan arazo txikiekin izan ostean , Javi Moreno eta Vlatko Djolonga osatu dira dagoeneko eta ondorioz , igandean Athleticen aurka jokatzeko moduan dira biak .	21	Verb
+Gizarteak indarkeriaren inguruko diagnosi bateratua egitea eskatzen duela iritzi dio Sudupek , eta ildo horretan Juan Jose Ibarretxek foroa sortzeko eginiko ahalegina txalotu zuen .	5	Verb
+Kaxmirko talde ugarik baztertu zuten suetena berehala , eta Indiaren aurkako borrokarekin jarraituko zutela esan zuten .	0	Proper Name
+helburuak ez lortzea edo ametsak ez betetzea ez da trajedia .	7	Particle
+" Urte guztia jokatu barik eman nuen .	3	Verb
+Aipatu horrek guztiak ordea , badu kontrako argudiotik ere , zitarik garrantzitsuenetan Ekimov ez baita onenen pare ibili inoiz .	3	Conjunction
+Nazionalen berehalako Donostiara sartzea eta agintari berriek udal bizitza normalizatzeko egindako ahaleginen arabera , luzaro gabe txistulari banda martxa ipini zen berriro .	11	Noun
+Gainera , arazo horiek ostiralean gainontzeko taldekideekin batera Holandara joatea galaraz diezaiokete Asier Salcedori .	9	Verb
+BASKONIAK bere indarrak neurtzeko aukera paregabea du gaur Zurbaoko pabilioian , Kinder talde italiarra izango baitu aurrez aurre .	11	Proper Name
+Eta siloitik altxata , gelaren erdiraino joan zen .	0	Conjunction
+Aurrenekoz Olinpiar Jokoetan izango dena , erakusketa kirol bezala bada ere , ureko eskia izango da .	7	Noun
+" Zaragoza talde ona da eta kalitate handiko jokalariak ditu .	7	Adjective
+Talde nafarrak , gainera , akordioa lortu du beste hainbat jokalarirekin euren kontratuak berritzeko :	6	Verb
+Shawn Kemp eta Dale Davis saskipeko jokalari gihartsuak fitxatu dituzte eta Brian Grant pibota joan da .	11	Proper Name
+Rojorekin ez da hasierako hamaikakoan izango .	3	Noun
+Itsas armadako bozeramaileek ukatu egin zuen susmoa atzo , eta azpimarratu hilotzak berreskuratzea zela xede bakarra .	15	Adjective
+VLADIMIR PUTIN Errusiako lehendakariak Indiara egiten ari den bisita dela eta , mila milioi dolarretik gorako kontratua sinatuko dute Indiak eta Errusiak defentsa arloan .	15	Adposition
+Eritreak dio gerra ez dela amaituko Etiopia erretiratu ezean .	2	Noun

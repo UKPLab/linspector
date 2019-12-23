@@ -1,0 +1,2000 @@
+Bola to tmavovláska .	0	Imperfective
+Nedokázal premôcť nápor paniky .	1	Perfective
+Teraz musí urobiť , čo jej prikáže .	1	Imperfective
+Dlho sedela na kraji lesa a pozerala , ako zlaté klasy zľahka povievajú v letnom vánku .	1	Imperfective
+Čierne diery by mohli prirodzene vzniknúť .	5	Perfective
+“ To je zaujímavé , “ vraví Maja .	6	Imperfective
+Ten pohľad poznal .	2	Imperfective
+Stál pred verejným súdom , priznával všetko , každého obviňoval .	0	Imperfective
+Po telefonáte nainštalovali EASEP , ktorý obsahoval pasívny seizmograf a laserový retroreflektor .	2	Perfective
+Pri slávnostných obradoch ju potom niesol jej najuznávanejší člen .	5	Imperfective
+Namiesto veľkého podnosu niesla malú tácku , na ktorej bola len jedna šálka s kávou a jeden pohár s rakijou .	9	Imperfective
+Musím niečo urobiť , inak hrozí , že sa nezúčastním na Lorinom svadobnom obrade .	2	Perfective
+Kobylka je navrchu zaoblená , takže sa sláčik môže dotýkať len dvoch strún súčasne .	8	Imperfective
+Našla osí roj , ktorý mal včelí palác zničiť .	5	Imperfective
+Neviditeľní jazdci na koňoch sú vyjadrením predstavy o zlých duchoch , schopných ubližovať človeku odnesením jeho duše do podsvetia .	4	Imperfective
+Okamžite som súhlasil .	2	Imperfective
+“ Môžeš si dať za mňa , “ povedala som .	8	Perfective
+Povedala , že sa volá Liza .	4	Imperfective
+Ostatní sú mimo -- nezáleží na nich . "	1	Imperfective
+U dovážaných produktov zabezpečí elimináciu tých , ktoré nespĺňajú kritériá kvality a ktoré neprešli colným a daňovým vysporiadaním .	13	Perfective
+Som rada , že som pomohla . “	4	Imperfective
+Priviezol ho džíp , za ktorým išlo kryté nákladné auto , naložené naplno .	0	Perfective
+Vedel , že ho má vo svojej hadej moci , ktorou môže zhypnotizovať aj to najživšie zviera .	11	Imperfective
+Môžem ti hovoriť Jaz ? “	0	Imperfective
+Šetrí aj pani ministerka financií , ktorá stále nevylučuje ďalšie zvyšovania cien a zodpovednosť za to prenechala na vedúcich úsekov ?	0	Imperfective
+Legislatívnym základom bude vládou vypracovaný návrh moderného zákona o výchove a vzdelávaní .	2	Imperfective
+Niečo ma však na tom znepokojuje .	5	Imperfective
+V roku 1998 opustil aktívnu politiku a stal sa znova spisovateľom z povolania .	7	Perfective
+Je mŕtva !	0	Imperfective
+Balú zatiaľ chlapcovi nepovedal , že ho vedie do osady .	3	Perfective
+Technologické spracovanie vychádza z ľahkého špeciálneho penového plastu s otvorenými pórmi , ktorý je uzatvorený vo vzduchotesnom obale .	2	Imperfective
+Hľadali ju všade , vnútri i vonku , ale bezvýsledne .	0	Imperfective
+Čaj vzniká spracovaním listov čajovníka .	1	Imperfective
+Na chvíľu zavládlo trápne ticho , ale potom mu mama podala ruku .	10	Perfective
+Zhlboka sa nadýchla , poriadne si vydrhla predné nohy a ostala nehybne sedieť na liste ako prikovaná .	10	Perfective
+“ Mhm , “ zamrmlala som .	5	Imperfective
+“ Neviem si ťa v uniforme predstaviť , “ povedala som .	9	Perfective
+Bolo sivé popoludnie s oblohou veštiacou sneh , keď sa človeka zmocňuje ubíjajúca otupnosť a uvoľnenie prináša len alkohol .	11	Imperfective
+Slečna sa znepokojila .	2	Perfective
+“ Zatváram , “ odvetilo lekno .	1	Imperfective
+Nostradamus nič také nepredpovedal . . .	3	Imperfective+Perfective
+Tu je prirodzené , že človek dostane vši .	6	Perfective
+Zišli sa tu všetci tunajší obyvatelia .	0	Perfective
+Ja som však mohol odprisahať , že tie slová mi povedal N . T .	1	Imperfective
+Nejestvoval ; nikdy nejestvoval .	3	Imperfective
+Oči mala červené .	1	Imperfective
+Kto odniesol vajíčka ?	1	Perfective
+I Hanibal si to všimol , a preto vzal pred ňou nohy na plecia .	4	Perfective
+Mahmúdova armáda tak oslávila triumf nad mužom , ktorý dokázal vzdorovať piatim sultánom .	9	Perfective
+To námestie bolo akousi stanicou .	2	Imperfective
+Strana , samozrejme , vyhlasovala , že oslobodila proletov z jarma .	7	Perfective
+“ Odíď a daj mi pokoj !	3	Imperfective+Perfective
+Prišiel onedlho so stetoskopom v ruke .	0	Perfective
+Neviem .	0	Imperfective
+V nasledujúcom roku Snyder pracoval v národnom parku , kde sa staral o prevenciu vzniku požiarov .	11	Imperfective
+Išiel som za ňou , akoby som kráčal v ústrety budúcnosti .	0	Imperfective
+V súlade s európskym trendom budeme podporovať rozširovanie výmery ekologického poľnohospodárstva a výroby biopotravín .	5	Imperfective
+Bola medzi nimi : fľaša vodky Smirnoff .	0	Imperfective
+Musím vydržať dovtedy , keď sa bolesť nebude dať vydržať .	7	Imperfective
+Koniec sa blížil , ale Wendy bola pokojná a statočná .	6	Imperfective
+Chichúňala sa a s džbánom na hlave sa pobrala do osady .	0	Imperfective
+Ordinácia je akt , ktorým kandidát svätenia ( ordinand ) získava istý stupeň svätenia .	10	Imperfective
+Z toho človeka nevravel mozog , ale hrtan .	3	Imperfective
+Pripadalo mu to , akoby sa džungľou rútili tisíce zvierat .	7	Imperfective
+Vo svojom blaženom sne Winston nevenoval nijakú pozornosť tomu , že mu nalieva pohár .	5	Imperfective+Perfective
+Lenže ozajstný ľúbostný vzťah bol takmer nemysliteľný .	4	Imperfective
+Keď preberal znova volant , prikryl mi ruky , ktoré ostali naspodu .	5	Perfective
+Právne normy prijaté počas Kolomanovho panovania predstavujú vrchol ranoarpádovského cirkevnoprávneho zákonodarstva .	6	Imperfective
+Maja si s hrôzou spomenula na Teklu .	4	Perfective
+Neodpovedal som .	1	Imperfective
+Nateraz sa uzavrel pred vzdialenejšími zvukmi a počúval len kvákanie , ktoré sa valilo z obrazovky .	7	Imperfective
+V európskych krajinách tvoria zemiaky a výrobky z nich podstatnú časť kalorického príjmu populácie .	3	Imperfective
+“ Nie , “ odvetila som a žmurkla na Chrisa .	4	Perfective
+Veľmi som chcela , aby ostali spolu , no cítila som sa pri nich trochu navyše .	1	Imperfective
+Vnútorný zmysel kresťanstva zostal väčšine ľudí predmongolskej Rusi cudzí .	3	Perfective
+Niekoľko dvojíc tancovalo , iní sa bavili pri stoloch a bolo tam veselo i príjemne .	2	Imperfective
+Ale to sa nedalo spoľahlivo určiť .	5	Perfective
+Nevládal odtrhnúť oči od ciferníka .	1	Perfective
+Nakoniec to nevydržal a snažil sa upratovačku na problém upozorniť .	9	Perfective
+Prstom zalovil v hrnci a nabral si porciu kaše .	1	Perfective
+Podľa nich klerici sa nielenže nesmeli opíjať , ale mali aj povinnosť brániť veriacim v prehnanom požívaní opojných nápojov .	12	Imperfective
+Odraz sa , povedala som si na konci dráhy po prvej dĺžke a hladko som to zvládla .	0	Perfective
+" to bol ďalší výraz .	2	Imperfective
+Možno budeš musieť čakať .	3	Imperfective
+Kosatky majú zložitý systém spoločenských skupín .	1	Imperfective
+Prišlo „ ale “ , ktoré som počul iba nejasne .	0	Perfective
+Nečakal som , že ju moje slová až tak rozosmejú .	1	Imperfective
+“ Choď preč , daj mi pokoj ! “ skríkol , keď sa vyslobodil z hadieho chvosta a odvrátil hlavu .	18	Perfective
+Júlia tíško zapišťala , v jej hlase sa ozvalo prekvapenie .	2	Perfective
+Vlak bol plný proletov so sviatočnou náladou , ktorú v každom vyvolávalo letné počasie .	11	Imperfective
+Tiberios ešte silnejšie ako jeho predchodca začal vyprázdňovať štátnu kasu a vyzbrojovať rímske vojsko .	7	Imperfective
+Smrť Vladislava III . v bitke spôsobila , že Česko a Uhorsko zostali v rukách 4 ‐ ročného Ladislava Pohrobka .	12	Perfective
+Hneď sa vybral za Matúšom do prasačieho chlieva a pozval ho k sebe na celých osem dní !	9	Perfective
+Musím niečo urobiť , inak hrozí , že sa nezúčastním na Lorinom svadobnom obrade .	9	Perfective
+Mešťania sa nazlostili a upozornili Herkulovho otca , nech ho viac do mesta nepúšťa .	2	Perfective
+Históriu nikdy neštudoval , v tomto odbore je autodidaktom .	7	Imperfective
+Nevedel som , čo ich čaká .	5	Imperfective
+Povedala , že sa cíti unavená a na druhý deň musí zavčasu vstávať .	12	Imperfective
+Aj tak sa vybrala pod harmanček , či náhodou pod lístkom neostala nejaká kvapôčka .	3	Perfective
+Uvidel som ju veľmi rýchlo .	0	Perfective
+Keď som mala bundu na sebe , zistila som , že ju nepotrebujem .	12	Imperfective
+Táto výsada pannonhalmského opáta mohla byť už súčasťou originálej listiny .	5	Imperfective
+Dôležitý bude brankársky post .	1	Imperfective
+Hádaj znovu . "	0	Imperfective
+Keď som si naň spomenula , zakrútila sa mi hlava .	6	Perfective
+Horace a Jasper sedeli na starej pohovke obklopení tuctami šteniatok a pozerali televíziu .	3	Imperfective
+Najviac z nich vzniklo , resp . začínalo vznikať , v rokoch pontifikátu Gregora VII .	3	Perfective
+Tá epizóda mohla mať len jediný zmysel .	3	Imperfective
+" Hráš , vyhráš , hráš , prehráš .	1	Imperfective
+Podišli sme k pultu , kde som objednala tortillu so syrom .	7	Perfective
+Bucka ( Petronila ) zalomila krídlami .	4	Perfective
+“ Chceš povedať , že s tým nemôžeš niečo urobiť ? “ pýtal sa zúfalý Herkules .	9	Perfective
+“ Ty si bola uňho doma ? “ prekvapene sa spýtala Blythe .	2	Imperfective
+Iných stopárov som tu zatiaľ ešte nevidel .	6	Imperfective
+Bol v cele bez okien , s vysokým stropom a so stenami z lesklého bieleho porcelánu .	0	Imperfective
+Položil Winstona na lôžko .	0	Perfective
+Šírila sa z veľkého červeného kvetu s tmavozelenými listami .	0	Imperfective
+Umožniť jazykovedcovi rozhovoriť sa o systéme v jazyku , prináša zdanlivo nebezpečenstvo , že sa vstúpi do nezaujímavého a nudného sveta .	0	Perfective
+Opäť som zmenil názor , k čomu ma priviedlo niečo neočakávané .	8	Perfective
+Napokon zlá víla priviedla princeznú do izbietky na samom vrchu vežičky .	3	Perfective
+V marci 1898 sa Štefánik stal tajomníkom Detvana .	5	Perfective
+Verte mi ! “ ubezpečoval ju Fedor .	0	Imperfective
+Milan Uhde je autorom poviedok , divadelných a rozhlasových hier , scenárov a zbierok poézie .	2	Imperfective
+Tak či onak ho dostane Ideopolícia .	4	Perfective
+Inštitúciou , ktorej človek vďačí za to , že ho vo dne i v noci obklopujú dôverne informovaní špicli .	15	Imperfective
+Niekedy sú však tie pragmatické dôvody prapodivné .	1	Imperfective
+Kým som tam osamote sedel , začul som na chodbe kroky a hlasy .	1	Imperfective
+“ Nič sa nestalo , “ odpovedala som hanblivo .	7	Imperfective
+Pozoruhodné je , že obmedzil používanie odpustkov .	1	Imperfective
+Dňa 16 . mája 1816 sa stal členom Societas latina Jenensis .	6	Perfective
+Celkom mi vyfučalo z hlavy , že som sa s ňou mala stretnúť v knižnici .	12	Perfective
+V hmle odchádza akýsi tieň .	2	Imperfective
+A položil som slúchadlo .	2	Imperfective
+Vďaka nižšiemu napadnutiu hmyzom je množstvo fumonisinu v GM kukurici výrazne nižšie .	4	Imperfective
+Jedného dňa stretla na malinčí čudného tvora .	2	Perfective
+Bežala na rodnú lúku , ktorú po búrke ľahko našla .	0	Imperfective
+Uvítala každú príležitosť , aby som vypadla z mesta na čerstvý vzduch .	5	Imperfective
+Prsty sa jej skrivili a nechty sa premenili na zahnuté pazúriská .	3	Perfective
+“ Ostalo , zvyšok by som vám mohla ponúknuť , “ povedala Maja .	7	Imperfective
+“ Hneď som u teba .	2	Imperfective
+Bolo významným strediskom na ceste do rostovsko ‐ suzdaľskej oblasti .	0	Imperfective
+“ Si v poriadku , Amy ? “ spýtal sa potichu chlapčenský hlas , keď som sa kašlúc vynorila .	18	Perfective
+Rýchlo som upratala zo stola a ponáhľala sa do svojej izby .	6	Imperfective
+Druhá brutalita marketingu je menej zjavná .	3	Imperfective
+Vilko si posunul na čelo slnečné okuliare .	2	Perfective
+Zobudil som sa o dvanásť hodín .	0	Perfective
+“ Si pripravená ? “	1	Imperfective
+Winston i Syme postrčili svoje podnosy k okienku .	3	Perfective
+A bodliak Makulienku i motýľa Emanuela radšej pustil .	7	Perfective
+“ Zatváram , “ odvetilo lekno .	4	Perfective
+To je prvá brutalita marketingu .	1	Imperfective
+Ona odíde prvá a po polhodine ju Winston bude nasledovať .	9	Imperfective
+Prvý otras som zažila na fyzike .	2	Imperfective
+Herkules zajasal .	1	Imperfective
+Vyspevovali sme odrhovačky , občas sme lúštili krížovky alebo sa hrali slovné hry .	5	Imperfective
+“ Ja viem , odkiaľ je , “ povedala Jazmína .	5	Imperfective
+Chcela by som mať kaktus .	3	Imperfective
+Uvedomuješ si , aká osamotenosť nás potom čaká ?	0	Imperfective
+Delina patrí navždy jemu .	1	Imperfective
+Podal mi ruku .	0	Perfective
+Nikdy nič podobné nevidel .	3	Imperfective
+Veľmi dobre ich vysvetľuje teória Veľkého tresku a pomáhajú obmedziť parametre modelu .	8	Imperfective
+Odraz sa , povedala som si na konci dráhy po prvej dĺžke a hladko som to zvládla .	4	Imperfective
+A Maja odvetila : “ Udeľuje sa milosť , končím . “	9	Imperfective
+List skrýval žiadosť , aby Iobates dal Bellerofonta popraviť .	6	Imperfective+Perfective
+Je naznámejší svojim zostavením fínskeho národného eposu Kalevala .	0	Imperfective
+Z Manresy šiel Iňigo do Barcelony , odkiaľ cestoval loďou do Talianska .	2	Imperfective
+Jeho 25 tisíc vojákov stálo proti presile 100 tisíc mužov .	4	Imperfective
+“ Dotkni sa vretena ! “ prikazovala jej .	1	Perfective
+“ Prečo nie , “ zakričala som a zamierila k dverám .	8	Perfective
+Hroby majú vedľa seba a mama ma kedysi brávala každú nedeľu so sebou zapáliť im sviečky .	13	Perfective
+Taktáto blízkosť funkcií vedie k ľahkej zameniteľnosti šamana za mnícha .	3	Imperfective
+Dieťa vie čítať až vtedy , keď text pochopí .	8	Perfective
+Tigríča jej nešikovne skočilo do náručia a princezná zacítila mäkulinkú teplú guľku s hodvábnou srsťou .	3	Perfective
+Zrazu zažmurkal a prekvapene na oboch pozrel .	6	Perfective
+Nepovedal som jej nič .	0	Perfective
+Meg totiž verila , že iba Fil môže odvrátiť Herkulovu porážku .	8	Perfective
+Ona ustúpila dozadu , otočila sa mu chrbtom , ale ten chlap zostal pri zástupe žien .	4	Perfective
+“ Nemôžem to počúvať ! “ zamrmlala som a pohodlne sa oprela .	7	Imperfective
+Ja som mal tajne odložené niektoré naše intímnosti .	2	Imperfective
+Si euroázijský špión !	0	Imperfective
+Nasledovali snahy vytvoriť s pomocou OSN v Afganistane novú vládu pod vedením Hamida Karzaia .	2	Perfective
+Gaston sa obrátil k zástupu dedinčanov , ktorí sa medzitým zhromaždili okolo neho .	10	Perfective
+Môžete to ďaleko dotiahnuť .	0	Imperfective
+“ Zhlboka sa nadýchni .	3	Perfective
+“ Samozrejme , “ povedala som a chytila ho za ruku .	7	Perfective
+Chodíš tadiaľto domov pravidelne ?	0	Imperfective
+Samonafukovačky sa pýšia výbornými izolačnými schopnosťami , vysokým komfortom pri ležaní a neprepúšťaním vlhkosti .	2	Imperfective
+Možnosť , že uverejním nejaký cyklus básní , som okamžite zavrhol .	10	Perfective
+V roku 1929 našiel Edwin Hubble experimentálne dôkazy , ktorými odôvodnil Lemaîtreovu teóriu .	10	Perfective
+Zatvorím oči a narátam do desať .	3	Perfective
+Prestala som na to myslieť .	1	Imperfective
+“ Vezmem ho , “ zvolala som a letela k nemu , “ určite je to pre teba . “	14	Imperfective
+Moderný fez vystriedal turbany , frak nahradil bohaté róby hodnostárov .	2	Perfective
+“ To je zaujímavé , “ povedala Maja .	6	Perfective
+Chichúňali sme sa ako pojašení , prebehli sme cez trávnik a smerovali k múru .	1	Imperfective
+Počkajte , na okamih vás vyrušíme !	5	Perfective
+Bolo by hanba predstúpiť pred žiakov v takom stave .	3	Perfective
+Mohli si nás všimnúť a vyjavene sa na nás dívať .	9	Imperfective
+Každý z chlapcov mal prezývku , ktorou podpisoval svoje články .	3	Imperfective
+“ Ako to myslíš ? “ zaujímal sa škriatok .	3	Imperfective
+Odlož masku , povedal som mu .	3	Perfective
+Takáto bola podstata jeho slov , ktoré ma rozčúlili .	8	Perfective
+Išli sme do mojej izby a mne sa podarilo zapáliť piecku .	1	Imperfective
+Keď sa zasa vrátili do triedy , pani učiteľka im prečítala zaujímavú rozprávku .	3	Perfective
+To vysvetlila Del Ponteová Chorvátom , keď v pondelok na pozvanie premiéra prišla do Záhrebu .	12	Perfective
+Cestou zoťali strom — budú ho potrebovať , ako baranidlo , keď budú chcieť vyvaliť bránu .	4	Imperfective
+“ A okamžite ide do osady . “	3	Imperfective
+“ Blahoželám , Chris , “ povedala srdečne .	1	Imperfective
+“ Prepáčte , “ povedala zvonivým spevavým hlasom .	4	Perfective
+V roku 1930 bol Karol Wojtyła prijatý na Štátne chlapčenské gymnázium Marcina Wadowity vo Wadowiciach .	3	Imperfective
+Schytilo dievčinku labkami a vraví : “ Ty moja krásna dievčinka , odnesiem si ťa do hniezda ! “	0	Perfective
+Bál som sa , že ma skritizuje za názov , ktorý som prevzal z jednej Čechovovej poviedky .	0	Imperfective
+Pomysli na slobodu , ktorou ťa Boh obdaril , na možnosti , ktoré sa vďaka tomu pred tebou otvorili .	0	Perfective
+Oni to hlúpe drevené chlapčisko priam zbožňovali .	6	Imperfective
+“ Môžem si to ešte rozmyslieť ? “ spýtala sa .	8	Perfective
+On i jeho spoločníci sa mali stať Ježišovými spoločníkmi a mali niesť jeho meno .	11	Imperfective
+Dôležité je tiež dobré vetranie .	1	Imperfective
+To je zjednodušené a časovo nenáročné riešenie .	1	Imperfective
+Šmátrala som okolo seba a hľadala môj poklad .	5	Imperfective
+Bála som sa , že keby som naznačila , po čom túžim , mama by si našla aj tretie zamestnanie .	1	Imperfective
+Presadni si na druhú stranu postele .	0	Perfective
+Zmĺkla som , lebo som si spomenula , ako sa moja mama pustila do pečenia aj po dvoch šichtách .	1	Imperfective
+Ďalším dôkazom samosprávy týchto plemien bola paralelná existencia novgorodského a vodského daňového okruhu v Koporí .	5	Imperfective
+“ Kam ideme ? “ vypytoval sa .	2	Perfective
+Prestal premýšľať a iba vnímal .	1	Imperfective
+Večne o nej rozprávala .	3	Imperfective
+Numerická analýza skúma metódy na efektívne riešenie rôznych matematických problémov na počítačoch a zaokrúhľovacie chyby , ktoré pri numerickom riešení vznikajú .	2	Imperfective
+Teší ma , “ jachtala som .	4	Imperfective
+Uvedomila som si , že to , čo vravela , mohlo pokojne platiť aj na Chrisa .	12	Imperfective
+Žiaľ , bol priťažký , lebo maškrtil kandizované datle .	6	Imperfective
+Bol to chlapec veľmi talentovaný a rád športoval .	7	Imperfective
+Makové zrniečka v nej zašušťali , ako keď sa presýpajú myšlienky .	9	Imperfective
+Spytovaní náhodní chodci i sociológovia a ďalší odborníci sa vzácne zhodli .	10	Perfective
+V oblasti vodného hospodárstva bude vláda legislatívnymi a organizačnými opatreniami zabezpečovať racionalizáciu a efektívnosť pôdohospodárskych činností .	4	Imperfective
+Popáliť sa na jedinom písmene je klasický prípad , ktorý sa môže vyskytnúť v rôznych podobách .	11	Imperfective
+Ilúzia takejto taktiky netrvala dlho .	3	Imperfective
+Dialekt = nárečie je územne a funkčne vymedzený štruktúrny jazykový útvar , ktorým spontánne komunikuje autochtónne obyvateľstvo istej oblasti .	3	Imperfective
+Vylial som zvyšnú vodku do pohára .	1	Imperfective
+“ Psst , “ umlčala som ju a ukázala na obývačku , kde mama čítala noviny .	4	Perfective
+Vláda pripraví a realizuje systém ochrany slovenského spotrebiteľa a prostredníctvom legislatívy ho prispôsobí stavu , ktorý bude zodpovedať legislatíve EÚ .	1	Perfective
+Naďalej som tam stál so spustenými rukami a na Lorino objatie som neodpovedal .	1	Imperfective
+Okamžite jej padol zrak na televízor .	2	Perfective
+Jediný kanál s jasným obrazom vysielal pornografické scény .	5	Imperfective
+Tak tomu hovorím názorný príklad fungovania zóny najbližšieho vývinu , o ktorej som písala minule !	2	Imperfective
+Pochádzal z Porbandaru .	0	Perfective
+Podľa toho , čo mi hovorili známi , som sa mal teraz skvele .	10	Imperfective
+Zachytil ma , aby som sa neudrela .	6	Perfective
+Je to najbežnějšia kukurica pre priamu ľudskú spotrebu .	0	Imperfective
+Nijako nie som zlý .	2	Imperfective
+Ak nepočítam učebnice , až donedávna jediné knihy , ktoré držala v ruke , boli detské rozprávky .	1	Imperfective
+Pocítil som na hrudi tlak jej pevných okrúhlych pŕs .	1	Imperfective
+Pri tom seriáli by som dnes nevydržala .	6	Perfective
+“ Bolo to ťažké , “ povedala som Blythe .	6	Perfective
+Odkašlal si .	0	Perfective
+To , pravda , nebolo veľmi pravdepodobné .	4	Imperfective
+To je tajomstvo , povedalo , neprezradím ho každému .	6	Perfective
+Zrazu sa nad ňou ktosi tichučko zasmial a akýsi hlások sa jej spýtal : “ Prečo sa bavíte so bzdochou ? “	17	Imperfective
+Aladin sa na chvíľu zamyslel .	4	Perfective
+Históriu nikdy neštudoval , v tomto odbore je autodidaktom .	2	Imperfective
+Majine jemné krídelká sa jagali ako perly a zlatisté telíčko na slnku len tak žiarilo .	4	Imperfective
+Obyčajne sedávala v poslednom rade , kam som si sadal i ja .	9	Imperfective
+Sú nápadné , vyzývavé a slušné dievča sa v nich môže odviazať a vyvádzať ako divoška .	13	Imperfective
+Abu chvíľu otáľal .	2	Imperfective
+Kráľ sa usmial , keď zbadal Mauglího .	5	Perfective
+V posledných dňoch sa dokázal sústrediť len nakrátko .	4	Perfective
+Sú tam psi ? “ spýtal sa ma , kým sa vyšvihol na múr .	11	Perfective
+Začali sme na kolotočoch , kde sme vyliezli na koňa .	1	Imperfective
+Z malabarského frontu sme práve dostali bleskovú správu .	3	Imperfective
+V oblasti služieb stojí na prvom mieste turistický ruch .	3	Imperfective
+Stisla peniaze v ruke a odišla .	0	Perfective
+Išlo to !	0	Imperfective
+Sedela na pohovke len v kombiné a čítala jednu z mojich poviedok .	7	Imperfective
+Tigríča sledovalo , ako sa rozkotúľali , a skočilo medzi ne !	8	Perfective
+Cieľom reforiem v sociálnom systéme je zníženie jeho zneužívania , odstraňovanie byrokracie a potláčanie korupcie .	5	Imperfective
+Zvíťazila som !	0	Perfective
+Vláda sa zaväzuje v praxi realizovať už schválenú dikciu Európskej charty regionálnych alebo menšinových jazykov .	2	Imperfective
+Skutočnosť , že som na teba myslela , bola nebezpečná .	6	Imperfective
+A neutekala som otvoriť .	2	Imperfective
+Neodvážil som sa pohnúť , zdvihnúť ruky , odpovedať na Lorino objatie .	1	Imperfective
+" Mal som inú predstavu .	2	Imperfective
+Potom vyhnal z paláca proreformných ministrov , čím ich vystavil istej smrti .	1	Perfective
+Nechcela som sa s Chrisom rozísť .	1	Imperfective
+Poprosil som čašníka , aby mi priniesol koňak , dvojitý .	1	Imperfective
+Likvidácia privilegovaného postavenia gréckych fanariotov v roku 1821 viedla k zvýšenej potrebe tureckých úradníkov ovládajúcich cudzie jazyky .	8	Imperfective
+To je krása !	1	Imperfective
+Zatmenia nastávajú iba vtedy , keď sa Slnko , Zem a Mesiac nachádzajú v jednej priamke .	12	Imperfective
+Po roku 1938 spolu emigrovali do Spojených štátov amerických .	4	Imperfective+Perfective
+Nič som nevidel .	1	Imperfective
+Potlačila som zívnutie .	1	Imperfective
+Opatrne odhrnula okvetné lístky a vyzrela von .	1	Perfective
+Tu sú obžalovacie spisy , tu sú zatykače .	1	Imperfective
+Táto funkcia sa využíva na zobrazenie alternatívneho obsahu scény , ktorým nemusí byť len pohľad z iného uhla .	3	Imperfective
+Opäť zdvihol zrak na portrét Veľkého brata .	1	Perfective
+Herkules sa snažil stĺp odvaliť , vtedy sa mu vrátila sila .	9	Perfective
+Mal vysokú , štíhlu , ale svalnatú postavu a pophyboval sa s nesmiernou ľahkosťou .	0	Imperfective
+Keď Shannon otvorila dvere , sprisahanecky ma objal okolo pliec a vliezol na zadné sedadlo .	7	Perfective
+Ako mala vo zvyku v takýchto prípadoch , povedala mi , aby som išiel do svojej izby .	1	Imperfective
+O dôležitom postavení mesta svedčí aj skutočnosť , že Trnava bola miestom stretnutí kráľov .	4	Imperfective
+Sedela som vedľa neho na vrchole Squaw Peaku a zmocnil sa ma pocit šťastia .	9	Perfective
+Všimol si pritom slabú hviezdu , ktorá sa periodicky na snímkach objavovala a premiestňovala sa .	13	Imperfective
+Kosatky sú jedinými cicavcami s takou potravnou rôznorodosťou medzi jednotlivcami žijúcimi na rovnakom území .	1	Imperfective
+Zničí ich raz a navždy !	0	Perfective
+“ Nie je zlý , hoci lepšie mi chutí náš . “	8	Imperfective
+Ukázalo sa , že v jednom stánku predávali plechové panvice .	7	Imperfective
+Bozkávala ma a dovolila mi , aby som ju bozkával na pery .	3	Perfective
+Zo Škandinávie je známe časté zamieňanie toporov s poriskom čiastočne vysunutým nad čepeľ .	2	Imperfective
+Sadli si na rímsu a Maja zreteľne videla , čo sa dnu deje .	7	Imperfective
+Jeho príznačným postojom je pasivita , s ktorou prijíma okolité dianie .	3	Imperfective
+Winstona bolestne bodlo pri srdci .	2	Perfective
+Keď ich neskôr Fil dohonil , zúril ako pominutý .	6	Imperfective
+Prepáčte , musím vám niečo povedať .	2	Imperfective
+Túžba bola ideozločinom .	1	Imperfective
+Celý dojem nie je nijako uchvacujúci až do chvíle , keď požiadate o jedálny lístok .	11	Perfective
+Zatiaľ Chrabroš vyslobodil Maju .	2	Perfective
+“ Nehovor , “ zahlásila Jill .	1	Imperfective
+Pozoroval som každý štvorcový milimeter jej tváre .	0	Imperfective
+Niektorí historici taekwondo zastávajú názor , že tvorcovia tohto športu praktizovali taekkyon .	3	Imperfective
+Bežali kľukatými cestičkami , až prišli k prijímacej sieni .	5	Perfective
+Nastavil dlaň .	0	Perfective
+“ Ďakujem , “ odvetila som a zrazu som znervóznela .	5	Imperfective
+Amaris zdvihla parádny ružový šašovský kostým .	1	Perfective
+Už vedela , na čo ho Barbie potrebuje .	1	Imperfective
+Pečať č . tri bola nájdená roku 1962 v Novgorode .	4	Imperfective
+Zamlada ste zdravý a silný .	1	Imperfective
+“ Psst , “ umlčala som ju a ukázala na obývačku , kde mama čítala noviny .	5	Imperfective
+Zrýchlil sa mi pulz a spomenula som si na sen , v ktorom ma bozkával .	14	Imperfective
+“ Rada pomáham . “	2	Imperfective
+Väčšina vojska stála na jeho strane , a tak si mohol dovoliť prehlásiť kráľa za zosadeného a začať pochod na Ktésifón .	11	Perfective
+“ Daj im pokoj ! “ skríkol Aladin .	1	Imperfective+Perfective
+Pozri aj : Zoznam zahraničných ciest Jána Pavla II .	0	Perfective
+Nič také som neurobil .	2	Imperfective
+SLOBODA JE OTROCTVO	1	Imperfective
+Veľmi som chcela , aby ostali spolu , no cítila som sa pri nich trochu navyše .	9	Imperfective
+Mýlil som sa .	0	Imperfective
+Inštitúciou , ktorej človek vďačí za to , že ho vo dne i v noci obklopujú dôverne informovaní špicli .	4	Imperfective
+Trkotali , sŕkali med a zapíjali ho pálenkou !	2	Imperfective
+Balú zatiaľ chlapcovi nepovedal , že ho vedie do osady .	7	Imperfective
+Ako ho nájdem ?	2	Perfective
+V takýchto podmienkach sa moja modlitba mohla len ťažko dostať na správne miesto , napriek tomu som to skúsil .	18	Perfective
+Za jasotu spoluobčanov prevzali cenu a Dr . Slimák slzil od dojatia , pretože v tejto súťaži doteraz nijaký slimák nevyhral .	9	Imperfective
+Zaburácal silný výbuch , ktorý akoby zodvihol vydláždený chodník ; na chrbát mu dopadla spŕška ľahkých predmetov .	6	Perfective
+Cítila som na pokožke nežný dotyk jeho prstov .	0	Imperfective
+Jazmína pozrela dolu a zbadala otca .	1	Perfective
+Kým svetlo stihlo zmiznúť , upozornil som naň taxikára .	3	Perfective
+Prevrátila sa a klesla na dno .	3	Perfective
+Zlá víla vedela , že iba on môže zrušiť kliatbu , ktorou Zorničku zakliala .	2	Imperfective
+“ Nie ! “ ozval sa odkiaľsi zdola vzdialený hlas .	4	Perfective
+“ Pomôžem ti , “ povedala Chris , keď som sa snažila udržať rovnováhu na okennom parapete .	12	Perfective
+Blythe bola úžasná , odpustila mi , že som na ňu nakričala kvôli plesu .	8	Imperfective
+Popri vlastných starostiach málokto vníma vaše vysvetlenia , ktorými chcete oboznámiť svoje okolie so svojimi zámermi .	4	Imperfective
+Bol unavený a hladný .	0	Imperfective
+Dofajčí ju po smene , ak ju dokáže nevytrúsiť .	7	Perfective
+Mestské zastupiteľstvo schválilo umiestnenie menších sôch šiestich patrónov Európy na Nádvorie Európy , ktoré je vo výstavbe .	2	Perfective
+No kým si Aladin stačil odhryznúť , čosi ho zaujalo .	5	Perfective
+Opakom je uzavretý model , kde odhaliť a opraviť chybu môže len člen uzavretého tímu .	6	Perfective
+Tolkien výrazne ovplyvnil žáner fantasy , ktorého obľuba po úspechu Pána prsteňov významne stúpla .	2	Perfective
+Máš však nebezpečnú zbraň — žihadlo .	0	Imperfective
+Ťava sa potkla o voz a všetky granátové jabĺčka popadali na zem .	9	Perfective
+To prehovoril kvietok , čo rástol pri vode .	5	Imperfective
+Chrobák zmizol medzi okvetnými lístkami .	1	Perfective
+Namiesto veľkého podnosu niesla malú tácku , na ktorej bola len jedna šálka s kávou a jeden pohár s rakijou .	3	Imperfective
+Aby to bolo možné , musí sa človek celej svojej hriešnej prirodzenosti zbaviť a prekonať ju .	2	Imperfective
+Porozprával Júlii , ako mu matka zmizla .	6	Perfective
+Čo bolo v listoch posielaných nahor , nikdy som sa nedozvedel .	1	Imperfective
+“ Nemôžem , “ čo znamenalo , že ho nemôžem pozvať dnu , a nie bozkávať sa .	10	Perfective
+Dvere sa napodiv pohli a ja som stuhol .	7	Perfective
+“ Mohla by som doplniť aj najhulvátskejší ? “ dodala Aziza .	9	Perfective
+Po tejto dohode prichádza aj koniec historky .	3	Imperfective
+Jeho i Hydru zasypala lavína kamenia .	3	Perfective
+“ Čo sa stalo ? “ pýtala sa ho jemne .	3	Perfective
+Vtedy si uvedomil , že Meg po celý čas donášala Hádesovi .	9	Imperfective
+V roku 1977 kvôli zdravotným ťažkostiam odchádza do dôchodku po náročnej a požehnanej práci na vinici Pánovej .	6	Imperfective
+Pri bombardovaní kozmickým žiarením vyžaruje každý prvok späť do vesmíru vlastnú radiáciu ako gama lúče .	4	Imperfective
+Chýba jej predovšetkým jasnosť .	0	Imperfective
+Zareagoval som okamžite .	0	Perfective
+Dnes nevykazuje žiadna krajina významný lov .	1	Imperfective
+“ Našla si ju ? “ spýtal sa Chris .	1	Perfective
+NEVEDOMOSŤ JE SILA .	1	Imperfective
+Trúbeľko preto rýchlo dodal , že bez Ňufka by veru mravenisko neubránili .	3	Perfective
+Ak mám byť úprimná , ešte včera by som odušu písala ako ostatní spolužiaci .	1	Imperfective
+A ja som jej neprezradil niečo , čo ma ťažilo veľmi dlho po jej odchode .	2	Imperfective
+Tak tomu hovorím názorný príklad fungovania zóny najbližšieho vývinu , o ktorej som písala minule !	12	Imperfective
+Tí , ktorí nemali čím zaplatiť , museli putovať po brehoch Acherónu po celých sto rokov .	8	Imperfective
+Chvalabohu , nič sa mu nestalo .	5	Perfective
+Takáto vyhliadka na nadchádzajúci večer sa mi nepáčila .	7	Imperfective
+Iná verzia hovorí , že vyskočil zo zeme , na ktorú dopadla Medúzina krv .	2	Imperfective
+Zem vznikla ako horúca žeravá guľa roztavených skál asi pred 4 , 6 miliardami rokov .	1	Perfective
+Keď bol bohatý , pripadali mu tie jagavé vežičky akosi bližšie .	4	Imperfective
+Snažila sa premáhať slzy .	2	Imperfective
+Úradným jazykom sa v tom čase stala v Byzancii namiesto latinčiny gréčtina .	6	Perfective
+Poslušne som sa za ňou vliekla a zaháňala myšlienky na matematické rébusy , čo ma doma čakajú .	5	Imperfective
+“ Nehnevám sa , “ odvetila Makulienka .	1	Imperfective
+Sú nápadné , vyzývavé a slušné dievča sa v nich môže odviazať a vyvádzať ako divoška .	10	Imperfective
+Otočil sa ku mne a nedopovedal .	5	Perfective
+Chvíľu stála a pozerala sa naňho , potom nahmatala zips na jeho kombinéze .	8	Perfective
+“ Prosím vás pekne ! “ zvolal lúčny koník Flip .	1	Imperfective
+Pre Lizu by bolo katastrofou , keby som rozpovedal ostatným , čo som videl v Profesorovej izbe .	7	Imperfective
+Prvý preklad bol grécky .	2	Imperfective
+Koloman mal v súvislosti so svojimi hospodárskymi reformami akiste zámer profitovať z potenciálu oboch týchto skupín obyvateľstva .	10	Imperfective
+Neodvážil som sa pohnúť , zdvihnúť ruky , odpovedať na Lorino objatie .	8	Perfective
+Tentoraz mu ju však pripomenula najmä dusná horúčava toho popoludnia , keď mu na čele vyrazili kropaje potu .	15	Perfective
+Od roku 472 však vzrastalo nebezpečenstvo zo strany Ostrogótov .	4	Imperfective
+Onedlho sa mu podarilo zostrojiť ďalekohľad oveľa účinnejší , ktorý zväčšoval viac než šesťdesiatkrát .	3	Perfective
+Väčšina neskorších bádateľov sa uspokojila s jednoduchým reprodukovaním tohto zistenia .	4	Perfective
+Maja zakrátko znovu nabrala odvahu .	3	Perfective
+Nezdalo sa mi , že veštia nejaké zásadné zmeny .	0	Imperfective
+“ Preber sa , Baghíra , preber sa ! “ kričal Mauglí .	10	Imperfective
+“ Nič , “ odvetila som a pozrela na Chrisa .	5	Imperfective
+“ Si v poriadku , Amy ? “ spýtal sa potichu chlapčenský hlas , keď som sa kašlúc vynorila .	15	Imperfective
+Vyšiel a žalostne zaplakal .	3	Perfective
+Nič lepšie robiť nemohol .	3	Imperfective
+“ Nesmieš sa udrieť , nesmieš sa udrieť , nesmieš sa udrieť .	11	Perfective
+V prvých listoch reaguje na uhorskú vnútropolitickú situáciu , keď prebiehali boje medzi Gejzom a Šalamúnom o uhorský trón .	10	Imperfective
+Siahol mu do vrecka na šatách a keď vytiahol ruku , mal na dlani veľký červený rubín .	8	Perfective
+Otvorila okienko , akože naňho zakričí , ale vzápätí si to rozmyslela .	0	Perfective
+Voľby sa uskutočnili 2 . novembra .	2	Perfective
+Odtiahol som kameru .	0	Perfective
+“ Pozrite na toho zbabelca ! “ zakričal nejaký nezbedník .	7	Perfective
+Heraklonas zomrel onedlho na následky svojich zranení .	1	Perfective
+Medzitým som sa už naučila čítať , a keď som ich našla , hneď som si ich , samozrejme , prečítala .	4	Perfective
+Ak chce Kalif vedieť toto , tak dobre .	1	Imperfective
+Vláda bude podporovať programy v horších pôdnych a klimatických podmienkach a orientovať sa na mimoprodukčné funkcie poľnohospodárstva a agroturistiky .	2	Imperfective
+Polícia žiada verejnosť o pomoc pri identifikovaní mŕtveho , ako aj o všetky informácie , ktoré by mohli pomôcť pri pátraní .	1	Imperfective
+Žuk meškal , a hoci som sa všemožne pokúšal opäť zaspať , nedarilo sa mi to .	5	Imperfective
+Herkules napokon súhlasil .	2	Imperfective
+Krist , nenamáhaj sa , nepoučuj ma o tom , o čom ma stará mama poučila už dávno ‐ pradávno .	15	Perfective
+My krájame vlastný chlieb	1	Imperfective
+Ustráchaní sedeli na akejsi lúke a nevedeli , kadiaľ sa ide domov .	10	Imperfective
+Ostávala po ňom mokrá stopa .	0	Imperfective
+Chlapci sa vyšplhali z rokliny , no len čo zastali Hádesovi pri nohách , premenili sa na Bôľ a Zmätok .	14	Perfective
+“ Nemyslím , “ odvetila som .	1	Imperfective
+“ Pustíš ? “ spýtal sa Ferdinand .	1	Perfective
+Prvý otras som zažila na fyzike .	3	Perfective
+Mala pravdu a ja som to dobre vedel .	7	Imperfective
+“ Ešte raz blahoželám , “ povedal Chris , keď si cestou späť sadol v autobuse vedľa mňa .	6	Perfective
+Syreeta vyvesila oznam o Abuovom úteku a kto ho nájde , dostane odmenu .	9	Perfective
+Čo sa deje ?	2	Imperfective
+Zažmurkala .	0	Perfective
+“ Ako sa voláš a kde bývaš ? “ spýtala sa toho stvoreniatka .	6	Imperfective
+Lúčne svetielko sa stratilo v tme a o chvíľu už dievčatko z diaľky počulo veselú motýliu pieseň .	3	Perfective
+Pocitom , ktorý tam prevládal , bola číra zvedavosť .	4	Imperfective
+Nič som nevidel .	2	Imperfective
+Znervóznela som .	0	Perfective
+Magazín TIME označil Busha za „ Osobnosť roka “ dvakrát : v roku 2000 a v roku 2004 .	2	Perfective
+Winston spustil nohy na podlahu a neisto sa postavil .	8	Perfective
+Luther vydáva reformačné spisy , v ktorých svoje názory ďalej obhajuje .	10	Imperfective
+Tvoj druh vyhynul a my sme jeho dedičia .	5	Imperfective
+ZOMREL JOHN ADDISON	0	Perfective
+Boh potom opäť Abrahámovi prislúbil , že z jeho potomkov urobí veľký národ .	4	Perfective
+Oprel sa dozadu a zavrel oči .	0	Perfective
+Vytvoríme kapitálotvornú vrstvu , ktorá bude zárukou blaha ľudu , presvedčivo hlásal tvorca blaha svojich prívržencov .	11	Imperfective
+Tak to medzi zvieratami chodí .	4	Imperfective
+Boli to dvaja muži v civilnom obleku .	0	Imperfective
+“ Balú , ty žiješ ! “ zvolal Mauglí a hodil sa mu okolo krku .	4	Imperfective
+Vilko visel na Maji ako ťažké bremeno .	1	Imperfective
+Presne , “ povedal Chris .	3	Perfective
+Voda bola chladná ako vždy , a tak som si na zahriatie zaplávala niekoľko dĺžok .	12	Perfective
+Ako vrchný veliteľ armády presadzoval vojenské reformy , a svoju kariéru ukončil ako veľkovezír .	4	Imperfective
+Aj ja som rada , prehodila Lori , aj ja som bola otrávená až na smrť .	5	Perfective
+To nie je sovietske meno , vysvetlila mi v ten večer mama .	6	Perfective
+Veľmi sa mi páčila .	3	Imperfective
+“ To je môj koniec ! “ kričal zronene .	2	Imperfective
+" Tak dobre počúvaj .	3	Imperfective
+Ani družka , ani sok ho nesledujú . Čo ho núti vysedávať na konári osamoteného stromu a vyludzovať hudbu do prázdna ?	10	Imperfective
+Nečakal som , že ju moje slová až tak rozosmejú .	0	Imperfective
+Newspeak bol oficiálnym jazykom Oceánie , vytvorený kvôli ideologickým potrebám angsocu , teda anglického socializmu .	1	Imperfective
+Galba sa stal cisárom , ale bol bezdetný a Otho dúfal , že sa stane jeho nástupcom .	10	Imperfective
+Je otázne , proti komu .	0	Imperfective
+Trápilo ma niečo iné : musím zvíťaziť nad zvieraťom , ktoré sa vo mne prebudilo .	0	Imperfective
+Na mieste , kde sedelo , ostala vlhká , tmavá škvrna .	6	Perfective
+“ Toto hľadáš ? “ spýtal sa s úsmevom , keď sa po chvíli vynoril aj s kľúčikom .	5	Perfective
+Omar odvrátil zrak .	1	Perfective
+Kým som ich mal tajne odložené , stelesňovali moju vinu .	3	Imperfective
+Chcem jej uniknúť , zväzuje mi nohy .	4	Imperfective
+“ Naozaj ? “ zvolala prekvapená Snehulienka .	4	Perfective
+A pomyslel som si , že som psia koža . . .	1	Perfective
+“ Ale to som predsa nechcela ! “ zvolala Lienka , keď predseda súdu vyhlásil rozsudok .	8	Perfective
+Jednou z hlavných postáv eposu je mýtický kováč lllmarillen .	5	Imperfective
+“ Som Makulienka , “ vraví motýľovi .	5	Imperfective
+Zavrela znútra dvere na školskej budove , zastrčila závoru , vzala ma za ruku a viedla za sebou .	7	Perfective
+“ Barbie , nevidela si Koru ? “ zakričala .	8	Perfective
+Francúzske vojská vedené maršalom Villeroyom sa v nej pokúsili zničiť cisárske jednotky Eugena Savojského .	9	Perfective
+Spomenula som si na mamu , ktorá pracovala na dvoch miestach , aby vládala platiť účty .	7	Imperfective
+Pokým nás kryjú tieto konáre , sme v bezpečí . "	6	Imperfective
+Fil mu vysvetlil , že doteraz ho sklamali všetci , ktorým pomáhal .	11	Imperfective
+Pripomínal jej trochu Teklu a chcela rýchlo odletieť .	5	Imperfective
+“ Mhm , “ zamrmlal .	4	Perfective
+Na chvíľu zavládlo trápne ticho , ale potom mu mama podala ruku .	2	Perfective
+Našla osí roj , ktorý mal včelí palác zničiť .	0	Perfective
+Bolo to bláznovstvo , povedala a ja som jej za seba potvrdil , že má pravdu .	14	Imperfective
+Kto by to mal byť ?	3	Imperfective
+Znovu sa ozval zvonivý hlas a nocou sa niesla prekrásna melódia .	2	Perfective
+“ Toto robia ľudia každý deň ? “ čudovala sa .	2	Imperfective
+Keď som na nej otvoril dvere , zarazene som zastal na prahu : hrali tam šach dvaja učitelia .	13	Imperfective
+Nepamätal som sa , či sme s Raisou vypili včerajšiu fľašu alebo nie .	8	Perfective
+Hmla je vlastne len jednou z podôb pary , vznikajúcej v parnom kúpeli , spomínanom v rozprávaní o vzniku sveta .	1	Imperfective
+Sú tam psi ? “ spýtal sa ma , kým sa vyšvihol na múr .	5	Perfective
+Cítila som , ako sa mi do hlavy hrnie krv .	1	Imperfective
+Márne sa ho pokúšam dohoniť .	4	Perfective
+Všimli ste si ?	1	Imperfective
+O týždeň sme sa dozvedeli , že ju na rok vylúčili z fakulty .	4	Perfective
+Strana , samozrejme , vyhlasovala , že oslobodila proletov z jarma .	4	Imperfective
+Hlavu si oprela o jeho rameno a príjemná vôňa jej vlasov zahnala zápach holubieho trusu .	11	Perfective
+Začala hovoriť pomaly .	1	Imperfective
+Máme celé popoludnie .	0	Imperfective
+Čakal som v obývačke , mal som na sebe oblek s kravatou .	0	Imperfective
+“ Tento víkend ostanem doma .	3	Perfective
+Ale dlho ho potrebovať nebudeš , “ vraví pavúk Karkoško .	3	Imperfective
+Ako predpokladal , pán Charrington nerobil s prenájmom izby nijaké drahoty .	1	Imperfective
+Nemôžeš poprieť , že si plakala .	1	Perfective
+Sčista - jasna sa mu videlo celkom možné , že sa hlúpo mýlil .	12	Imperfective
+So žiarivým trojzubcom v mohutnej ruke sa nad nimi týčila ako predzvesť smrteľných bleskov .	9	Imperfective
+“ Isteže , “ povedal Chris , keď ma odtiahla nabok .	4	Perfective
+Rozrývalo mi to dušu a ničilo nervy .	5	Imperfective
+Ja by som si dovolil tvrdiť , že nefungujú .	8	Imperfective
+Ospravedlnil som sa jej .	0	Perfective
+Spamätala sa , až keď zacítila jemný dotyk .	0	Perfective
+Duchovia sa však v tomto prípade nechcú objaviť — boja sa kríža , ktorý má Novgorodec pri sebe .	7	Perfective
+Chceš povedať , že Amy Wyseovej sa páči nejaký chalan ?	1	Perfective
+Takáto interpretácia stvorenia človeka diablom je zjednodušením .	5	Imperfective
+Opatrne som vstala , aby som ju nezobudila a išla som vypnúť televízor .	11	Perfective
+Domorodcom prišlo vhod , že som sa ubytoval v tej izbe .	7	Perfective
+“ Neboj sa , Ferdo .	1	Imperfective
+Celé stádo bolo zrazu fuč !	2	Imperfective
+Piateho mája sa začalo Pražské povstanie a z rádia sa ozývala výzva o pomoc .	10	Imperfective
+Súčasťou reformy verejných financií bude aj zásadné sprísnenie poskytovania štátnych záruk .	4	Imperfective
+Trúbeľko preto rýchlo dodal , že bez Ňufka by veru mravenisko neubránili .	11	Perfective
+Pustil bicykel a vbehol na rozmoknutú trávu .	3	Perfective
+V nedeľu 18 . apríla sa konalo zasadnutie zborového presbyterstva .	6	Imperfective
+V každom prípade musím otvoriť oči a nesmiem veriť legendám .	3	Imperfective
+Bolo tu pododdelenie televíznych programov s inžiniermi , producentmi a s celými tímami špeciálne vybraných hercov , lebo dokázali imitovať hlasy .	0	Imperfective
+Robili sme to v mori a ja som necítil váhu Soninho tela .	8	Imperfective
+Ak chce Kalif vedieť toto , tak dobre .	3	Imperfective
+V prijímacej sieni to vyzeralo , akoby sa tadiaľ prehnala búrka .	9	Perfective
+Nikoho , kto raz vybočil , neušetríme .	4	Perfective
+Mama postupne napísala otcovi niekoľko listov , ale on jej neodpovedal .	10	Imperfective+Perfective
+Nemal najmenšie pokušenie jej klamať .	0	Imperfective
+Traja ďalší ortodoxní biskupi boli tiež popravení .	4	Imperfective
+Nakoniec sme priniesli z kuchyne taniere , šalát a fašírku .	2	Perfective
+Keď sedím pri stole aj keď som pred oltárom .	1	Imperfective
+Starec ihneď pookrial .	2	Perfective
+Na rozdiel od iných stretnutí v ten večer nepila .	8	Imperfective
+Najzaujímavejšie bolo sledovať Profesora večer .	1	Imperfective
+Pocítil , že na znak nesúhlasu pokrčila ramená .	6	Perfective
+Kľúčové miesto vo vzdelávaní zastáva škola .	4	Imperfective
+Vláda bude hľadať spôsoby legislatívnej úpravy , aby v Národnej rade SR neboli prijímané zákony s nekrytými rozpočtovými dôsledkami .	1	Imperfective
+Uprostred pretekov som prestala plávať a šliapala som vodu až k miestu , kde sa ponoril .	7	Imperfective
+S odporným škrekotom z nej stúpali čarodejné výpary .	5	Imperfective
+NEVEDOMOSŤ JE SILA .	1	Imperfective
+Lori nemala ani najmenšie podozrenie , že vo mne sa prebudilo zviera .	10	Perfective
+Chorvátsko sa totiž od Zvonimirovej komendácie považovalo za pápežské léno .	6	Imperfective
+Jeho slovami - " Uvoľňovať kód skoro , uvoľňovať často a počúvať odozve od používateľov " .	4	Imperfective
+“ Je to môj miláčik . “	1	Imperfective
+Mlčky sme sedeli a dívali sa , ako medená žiara pomaly bledne .	1	Imperfective
+Raz to boli gombičky , potom vlnené handry na záplaty a raz šnúrky od topánok ; a teraz to boli žiletky .	2	Imperfective
+Nie je toto skvelá skrýša ?	1	Imperfective
+“ Ešte si to rozmyslím , “ zahučal obor , ale už sa knísal nepriateľovi v ústrety .	4	Perfective
+V svetle lampy som uvidel agresívnu formu jej pŕs .	3	Imperfective
+Išiel som za ňou , akoby som kráčal v ústrety budúcnosti .	6	Imperfective
+Nastala chvíľa , aby som si oživil v pamäti tú ženu .	6	Perfective
+Jej povrch sa postupne ochladil a na povrchu sa vytvorila pevná kôra .	4	Perfective
+" Politika SNS by sa mala orientovať na ekonomickú oblasť .	5	Imperfective
+Ja som zatiaľ porovnal jej tvár so Soninou .	1	Imperfective
+Je známe , že hlinené nápodoby medvedích láb , slúžili na ochranu domáceho krbu .	0	Imperfective
+Ďalší navrhli , že sa Mesiac mohol sformovať z úlomkov zachytených na obežnú dráhu po kolízii asteroidov alebo planetesimál .	7	Perfective
+" Zahneš doľava , potom doprava a napokon ešte raz doľava .	1	Perfective
+Aby ma Chris nepovažoval za decko pretože , nemám mamin súhlas , nič som mu nevravela .	15	Imperfective
+Tentoraz mu ju však pripomenula najmä dusná horúčava toho popoludnia , keď mu na čele vyrazili kropaje potu .	4	Perfective
+Výučbu tancov povedie Jano Blaho , dôstojný nástupca Štefana Nosáľa na poste choreografa Lúčnice .	2	Perfective
+Odporúčal svojim žiakom , aby sa vyjadrovali v dialekte .	6	Imperfective
+Tiberios ešte silnejšie ako jeho predchodca začal vyprázdňovať štátnu kasu a vyzbrojovať rímske vojsko .	6	Perfective
+Za to , že sme mohli deti a chovancov obdarovať , ďakujeme Zuzke Reiszovej , Milke Čopovej a Jankovi Pagurkovi .	4	Imperfective
+“ To tvrdí každý obžalovaný , “ odporoval sudca .	2	Imperfective
+" Ešte mŕtvi nie sme , " poznamenala Júlia prozaicky .	7	Perfective
+Kritérium je dosť kontroverzné .	1	Imperfective
+Trvalo to tri týždne .	0	Imperfective
+Gazdinky vyložili do okien vankúše , Kasandra zasa medové guľôčky a slečna Hopka usporiadala na čistinke rannú rozcvičku .	13	Perfective
+Vlci súhlasne pokývali hlavami .	2	Perfective
+Zachvel som sa .	0	Perfective
+“ Navštívte ma občas , “ zakričal šťastný Vendelín Maji a Vilkovi .	6	Perfective
+Winston dojedol chlieb so syrom .	1	Perfective
+Tekla vychrlila niekoľko oplzlých pavúčich nadávok , ale na silného Chrabroša si netrúfla , a tak kľajúc zaliezla pod vädnúci list .	17	Perfective
+Spomínaní suzdaľskí volchvi sa zjavujú práve v čase neúrody , aby ju pomohli zahnať .	12	Perfective
+Nakoniec som ho našiel .	3	Perfective
+A dodala : Narodila som sa v internácii .	3	Perfective
+Mal som koníka , mal som aj koč .	0	Imperfective
+“ To je nuda , “ nadhodil pán Sekáč .	2	Imperfective
+“ Som pripravený ! “ zvolal Herkules .	1	Imperfective
+Ale aj hlupáci a blbci vedia na seba vziať rôznu podobu .	8	Perfective
+Variant , že pôjdem po žobraní , sa mi nepáčil .	3	Imperfective
+Prinesie na oltár lásky obeť tým , že odpoveď začne najhorším .	9	Perfective
+Otočil sa a prekvapene sa díval .	5	Imperfective
+Chudáčik nešťastný Pinocchio si v klietke bezmocne sadol .	7	Perfective
+Winstona sa zmocnila úzkosť .	2	Perfective
+Po zastávke v meste Oňate , kde Loyolovci navštívili svoju vydatú sestru , sa brat Pero vrátil .	8	Perfective
+Musím s tým niečo robiť .	0	Imperfective
+V živote každého človeka sú okamihy a udalosti , ktoré majú zvláštnu moc .	10	Imperfective
+Ostatní ho nasledovali .	2	Imperfective
+Doma Alfonz bratovi vyčítal , že mu svojím správaním urobil hanbu a vyhodil ho .	12	Perfective
+Povedala mi , že užíva antikoncepčné tabletky .	0	Perfective
+“ Si mojím otrokom a zaraz mi splníš prvé želanie .	1	Imperfective
+Preglgla som .	1	Imperfective
+Z ničoho nič opäť sedel s O ' Brienom a mal ruku na jeho ramene .	10	Imperfective
+Nemohla som si spomenúť , odkiaľ ju poznám .	7	Imperfective+Perfective
+“ Vy tu bývate ? “ spýtala sa Maja .	3	Imperfective
+“ Tieto zbrane ti pomôžu zvíťaziť nad zlom , “ povedali mu .	4	Perfective
+Vrecúško poskladal a vložil ho do pravého vrecka na stehne .	1	Perfective
+Napriek maminým radám som pil .	4	Imperfective
+“ Počkajte .	1	Perfective
+“ Štvrť na dvanásť , “ povedala som a Chris odvetil : “ Správne . “	7	Imperfective
+Uprostred pretekov som prestala plávať a šliapala som vodu až k miestu , kde sa ponoril .	2	Imperfective
+V tú noc zostal so mnou .	3	Perfective
+Hans Blix a Mohamed El Baradei viedli obnovené inšpekcie v Iraku .	6	Imperfective
+Keď Herkules počul tie slová , vrátila sa mu odvaha .	6	Perfective
+Začali sme na kolotočoch , kde sme vyliezli na koňa .	0	Perfective
+Potom sa pomaly pobral opačným smerom .	3	Perfective
+Išli sme až k nášmu vchodu na zadnej strane domu a celou cestou sme mlčali .	0	Imperfective
+Tu dnu , to vedel inštinktívne , sa svetlá nikdy nevypínajú .	10	Imperfective
+“ Vy tu bývate ? “ spýtala sa Maja .	6	Perfective
+Roku 619 dobyli Peržania Egypt , obilnicu ríše , a zmorený cisár uvažoval , že svoje sídlo prenesie do Kartága .	17	Perfective
+Včeliu kráľovnú chcem živú .	2	Imperfective
+Herkules hodil povinnosti s radosťou za hlavu .	1	Perfective
+Ja tomu len verím . Viem , že raz padnete .	3	Imperfective
+Chcela som sa spýtať , kde tie chrústy našiel .	0	Imperfective
+" Niežeby som tam mal veľa vecí .	2	Imperfective
+Pocítil som akúsi vnútornú horúčosť , úzkosť .	0	Perfective
+Odtiaľ som cez neveľké dvere , ktoré sme na noc zatvárali znútra hákom , vyšiel do dvora .	14	Perfective
+Vilko sa prebral a vyskočil na rovné nohy .	4	Perfective
+Na moje kaktusové obdobie som si spomenula celkom nedávno .	4	Imperfective
+Nakoniec som ho našiel .	1	Imperfective
+“ Kto povedal stáť !	2	Perfective
+Chceš vidieť , ako urobím leoparada ? “ spýtal sa .	4	Perfective
+Spomenula som si na mamu , ktorá pracovala na dvoch miestach , aby vládala platiť účty .	1	Imperfective
+Tak čo si o mne vypátral ? “	5	Perfective
+Išla som k dverám jej izby : “ Volá Rick , “ zašepkala som .	0	Imperfective
+Nerozhodne zastali .	1	Perfective
+To je asi burina .	1	Imperfective
+Opice skákali z konára na konár a preskakovali koruny stromov , čo rástli pozdĺž brehu rieky .	12	Imperfective
+Vypil som už polovicu fľaše s koňakom , keď sa objavila vo dverách .	10	Perfective
+V oboch " krajinách " sa dostali k moci ľudia , ktorý sa pokúšali o znovuobnovenie Uhorska .	6	Perfective
+Jeho kult mal okrem rozmeru spontánneho ľudového uctievania aj rozmer „ štátneho “ kultu a panovnícky dvor ho vedomo šíril .	2	Imperfective
+Navyše nepriateľskú osu hral jeho kamarát hnojník Kurt .	3	Imperfective
+Moja myseľ opäť postrehla akúsi súvislosť medzi autom a týmito dvoma mužmi .	3	Perfective
+Ľudská naivnosť i hrubosť majú určité hranice .	4	Imperfective
+Poď dolu , Omar .	0	Imperfective
+Ďalšia kritika sa zameriavala na jeho presvedčenia .	3	Imperfective
+S čím som mala súhlasiť ? “ nechápala som .	8	Imperfective
+“ Barbie , nevidela si Koru ? “ zakričala .	3	Imperfective
+Pani Shepherdová sa zasmiala , no mala som nepríjemný pocit , že mi neverí .	3	Perfective
+Maja si z celého srdca vydýchla a náhlila sa k potoku , aby tú radostnú novinu oznámila ostatným .	7	Imperfective
+Neraz som videla , ako sa máča ľan .	2	Imperfective
+O chvíľu tam bola upratovacia čata mravcov .	3	Imperfective
+Ja som v džungli vyrástol . “	4	Perfective
+Abu žmúril na ľudské písmo .	1	Imperfective
+Moderný fez vystriedal turbany , frak nahradil bohaté róby hodnostárov .	6	Perfective
+Očakávala som niečo iné , ona však nevyslovila jedinú výčitku .	1	Imperfective
+Jazmína vystrúhala grimasu .	1	Perfective
+Bol to riskantný nápad , lebo nemusel vyjsť .	0	Imperfective
+Na Makovej lúke sa nič nedialo , a tak zamierila do lesa .	9	Perfective
+Z kuchyne som vzala dva vínové poháre a veľkú fľašu malinovky .	2	Imperfective
+Okrem toho sa prílišnej rozpínavosti českého kráľa zľakli v zahraničí .	7	Perfective
+Nehybnú princeznú nechala ležať na studenej kamennej dlážke .	3	Imperfective
+A pevne sa držal Šer Chánovho chvosta .	3	Imperfective
+Najväčším pôstnym obdobím cirkevného roka je predveľkonočný štyridsaťdňový veľký pôst – Quadragesima .	5	Imperfective
+Práve im okazoval svoju trofej .	2	Imperfective
+A bolo čo vidieť aj počúvať .	1	Imperfective
+Niekedy sa objavovali obyvatelia Čarodejníckej vily , všetkých som poznala a vedela som , aký bol osud každého z nich .	2	Imperfective
+Takéto oduševnenie stačilo na to , aby som sa zmenil .	7	Imperfective
+Keď som dokončil tento variant , zavrhol som ho .	7	Imperfective
+Kým odletím do nebeského pekla , musím si odčiniť nejaké hriechy tu , v pozemskom pekle .	8	Perfective
+Nakoniec som jej povedal , že má pravdu , náš nový pokus bol bláznovstvom .	3	Perfective
+“ Tá farba naozaj pripomína požiarnické auto . “	4	Imperfective
+Takýto svet pripravujeme , Winston .	2	Imperfective
+Odteraz sme jej rodičia , tak ju musíme niesť , “ povedala potom Vilkovi .	8	Imperfective
+Otočila som sa a medzi divákmi som zazrela Jilliných rodičov .	6	Imperfective
+V elektrolyte za zmenšuje počet iónov , koncentrácia roztoku sa znižuje , kvapalina sa stáva menej vodivou .	3	Imperfective
+V ten večer som štyri hodiny písala prácu o intimite .	6	Imperfective
+V poslednom období svojho života Ignác zakúsil veľa telesného utrpenia .	6	Perfective
+Kŕčovito sa pridržiaval kôry , aby ho neodfúkol vietor .	2	Imperfective
+Lori to trvalo dlho , ale neplakala .	6	Imperfective
+V tomto ohľade už predčil aj osvietencov .	4	Perfective
+Bol som šťastný ako blška , že sa jej nič nestalo .	0	Imperfective
+Pokračovali sme v pití mlčky , sediac proti sebe .	0	Imperfective
+Myslím však , že vysoká škola má dve významné úlohy , ktoré so spomínanou rovnicou priamo nesúvisia .	6	Imperfective
+Zasmial sa a ja som si uvedomila , že napätie pominulo .	6	Perfective
+Bál som sa , že zloží slúchadlo , a tak som sa usiloval rýchlo niečo vymyslieť .	5	Perfective
+Imidž nie je na nič .	2	Imperfective
+Kým som takto uvažoval , zdalo sa mi , že som na niečo prišiel .	3	Imperfective
+“ Napríklad na nej chodiť , “ napadlo Maji a hneď si to vyskúšala .	13	Perfective
+Zlá víla sa tvárila vyjavene .	3	Imperfective
+Poľsko malo spojenecké zmluvy s Francúzskom a bezpečnostné záruky Anglicka .	1	Imperfective
+Nechal som tam Margu stáť a podišiel som k dverám .	7	Imperfective
+Unavene klesla na zem a tíško nariekala .	1	Perfective
+Obidvaja spolu chvíľku hovorili osamote .	3	Imperfective
+Som na teba pyšná , “ zvolala .	6	Perfective
+“ Ja som vedel , že som niečo zabudol ! “ zvolal a neodolateľne sa usmial .	15	Perfective
+Meg totiž verila , že iba Fil môže odvrátiť Herkulovu porážku .	7	Imperfective
+“ Neviem si ťa v uniforme predstaviť , “ povedala som .	1	Imperfective
+Čo povie ?	1	Perfective
+S námahou som pochopil , že má na mysli moju chlpatú hruď .	6	Imperfective
+Vystrela k nemu zdravú ruku a on jej pomohol na nohy .	0	Perfective
+Vymenoval som štyri číslice , ktoré tvorili číslo mojej izby .	1	Imperfective
+Ženy a deti sledovali z úkrytu , ako sa muži skrývajú za Jumbom .	3	Imperfective
+Keďže samice môžu žiť až 90 rokov , nie je neobvyklý život štyroch alebo dokonca piatich generácií v jednej línii .	2	Imperfective
+V tom omámení som zabudol na niečo podstatné .	4	Perfective
+Dnes ma šéf pustil skôr , “ povedala a započúvala sa .	3	Perfective
+Odtiaľ som cez neveľké dvere , ktoré sme na noc zatvárali znútra hákom , vyšiel do dvora .	10	Imperfective
+Chlap pochopí , že vlky môžu prísť každú chvíľu .	6	Perfective
+Baghíra nestrácal ani chvíľu , zdvihol košík a odniesol ho k jaskyni .	1	Imperfective
+“ Myslím to vážne , “ povedal a začervenal sa .	1	Imperfective
+Mal som príležitosť poznať dievčinu , ktorá sa volala Lori , ale ona sa stratila .	1	Imperfective
+Zariadenie izby som už poznal .	2	Imperfective
+Lenže svedomie mi nedalo , a musela som jej niečo povedať .	7	Imperfective
+Ten potom so súhlasom francúzskeho velenia prijal funkciu veliteľa vytvárajúceho sa česko - slovenského vojska ( 10000 vojakov ) .	6	Perfective
+A lial som do seba whisky .	1	Imperfective
+Podchvíľou naňho ukradomky pozriem bez toho , aby som pohla hlavou .	8	Imperfective
+Vstala a odišla .	2	Perfective
+Poslednou baštou balkánskeho feudálneho separatizmu bola doména Aliho Pašu z Janiny ( 1741 – 1822 ) .	5	Imperfective
+Pred očami sa mi zjavila Lorina tvár .	4	Perfective
+Spor medzi tribunálom a záhrebskou vládou , ktorý vyzeral zásadne , previedla do čisto technickej roviny .	11	Perfective
+Šéf vypustil dušu vo chvíli , keď dosiahol orgazmus , a ona sa nemohla zbaviť prežitej hrôzy .	13	Imperfective
+Zrakom som hľadala náš dom , ale všimla som si , že Chris sa na mňa díva .	16	Imperfective
+Nemala som veľmi na výber , a tak som ostala vo vode .	0	Imperfective
+Profesor stál obďaleč , horko ‐ ťažko som mu videl časť tváre .	9	Imperfective
+Strana má vždy patent na absolútnu pravdu a je jasné , že absolútno nemohlo byť nikdy iné , než je teraz .	1	Imperfective
+A s pocitom viny za svoju neposlušnosť som sa na ňu po celý čas díval .	14	Imperfective
+Počula som tikanie nástenných hodín a vlastný dych .	0	Imperfective+Perfective
+Otvorila som oči .	1	Imperfective
+Veď nás Duchom Svätým a pomáhaj nám prekonávať všetko , čo v EÚ a našom svete bude slúžiť smrti a zániku .	7	Imperfective
+Ide opäť o prívesky — amulety .	0	Imperfective
+Išiel som do kuchyne .	1	Imperfective
+Tie budú súčasťou rozpočtu verejných financií SR .	1	Imperfective
+Je to len sen .	0	Imperfective
+Netrvalo dlho a nad jaskynkou sa zachvel list , spod ktorého vyliezol prečudesný chrobák .	0	Imperfective
+Môj úsmev do diaľky žiari , tvár zdobia mandľové oči .	7	Imperfective
+Chcel som tej rieke zabrániť , aby vyrazila von , bolo to však nemožné .	1	Imperfective
+Obyčajne sedávala v poslednom rade , kam som si sadal i ja .	1	Imperfective
+Abu z celej sily nahlas kýchol .	5	Perfective
+Zo svojich komnát vyšla našťastie zubatá kráľovna .	3	Perfective
+“ Ty žartuješ , “ zvolala som a prekvapene vyvalila oči .	6	Imperfective
+Ani bratanci sa sem už neodvážia prísť , priatelia k nám prestali chodiť na návštevu už dávno .	5	Perfective
+Modernizovaná vojenská mašinéria Muhammada Alího dosiahla víťazstvo , ktoré tradičným osmanským plukom a janičiarom dlho unikalo .	15	Imperfective
+Aladin pritiahol stoličky a psi na ne vyskočili .	1	Perfective
+Dlhé pretrvávanie predkresťanských ideí sa vysvetľuje etnicky nerovnomerným obyvateľstvom .	5	Imperfective
+“ Ranná čata pôjde chlapca hľadať . “	3	Imperfective
+Sedela som vedľa neho na vrchole Squaw Peaku a zmocnil sa ma pocit šťastia .	1	Imperfective
+O kom to chrobáky rozprávali ?	4	Imperfective
+Ja som chcela vyhrávať .	3	Imperfective
+Dvojhmat znamená rozozvučanie dvoch strún naraz .	1	Imperfective
+Nechal som tam Margu stáť a podišiel som k dverám .	4	Imperfective
+Jodie Foster sa vracia k filmu .	3	Imperfective
+Ak ste sa na ňu pozreli zblízka , okolo očí mala zopár vrások .	10	Imperfective
+Vláda bude analyzovať možnosti zavedenia rovnej dane .	1	Imperfective
+Prúd áut sa zastavil .	3	Perfective
+Ruská cirkev pozemkový majetok od panovníka nezískala .	6	Perfective
+“ Ale , počkaj chvíľu , “ odvetil Mauglí .	3	Perfective
+Podľa Marginých predstáv by som bol nemravnou ženou .	5	Imperfective
+Trochu sme sa potlačili , aby sme mu urobili miesto .	6	Imperfective
+“ Musíme ho rozveseliť , “ pošepla Maja Vilkovi .	3	Perfective
+Po prelete okolím planéty dosiahne sonda opäť hranicu sféry gravitačného vplyvu .	4	Perfective
+Margin predčasný odchod z tohto sveta som pripravoval ja .	7	Imperfective
+Nikdy predtým som nevidela živú korytnačku .	2	Imperfective
+" Nezabil som ju .	2	Imperfective
+Normálne som sa vykašlala na fyziku .	1	Imperfective
+O nej a o koníkovi nikto nič nevedel .	7	Imperfective
+Cítila som , že sa červenám .	1	Imperfective
+Meg márne odmietala , lebo podľa starej dohody s Hádesom vymenila svoju slobodu za život bývalého priateľa .	2	Imperfective
+Bola to veľmi pekná žena , pracovala v materskej škole .	0	Imperfective
+Od roku 1987 je Malta podľa svojej ústavy neutrálna .	3	Imperfective
+Čakal som v obývačke , mal som na sebe oblek s kravatou .	5	Imperfective
+Maja vyskočila a urobila zopár drepov .	3	Perfective
+Otočila sa a odletela .	3	Perfective
+“ Ak to je dôvod na oslavu , tak oslavuj častejšie , “ odvetila som .	14	Imperfective
+Spomenul Sergeja .	0	Perfective
+Vedel , že to tak nie je , jej vzrušenie , keď mu podávala odkaz , bolo príliš skutočné .	0	Imperfective
+Najpresvedčivejšia bola verzia , podľa ktorej všetko spôsobil Sonin denník .	1	Imperfective
+Pravdivá je jeho negácia .	1	Imperfective
+Prirodzene , udalosti okolo Canossy boli len začiatkom úsilia o presadenie takéhoto usporiadania sveta .	5	Imperfective
+Ale neotvoril ho ihneď .	1	Perfective
+V tom majú prsty Goldsteinovi agenti !	2	Imperfective
+Od zatknutia nemal v ústach nič .	2	Imperfective
+“ Veď je to ľudské mláďa ! “ zvolal .	2	Imperfective
+O toto som prišla ?	3	Perfective
+“ Musíme byť ticho , “ šepkal škriatok .	1	Imperfective
+Keď som tak urobil , spamätal som sa .	1	Imperfective
+Kto by to mal byť ?	4	Imperfective
+Potom otočil ktorýmsi vypínačom a hlasy zmĺkli .	6	Perfective
+Nadvihol som jej tvár .	1	Imperfective
+“ Hneď ťa tam odnesiem . “	4	Perfective
+V učebniciach dejepisu stojí , že život pred Revolúciou bol celkom iný , ako je dnes .	3	Imperfective
+Zavolajte a rezervujte .	2	Imperfective+Perfective
+Stala sa bestsellerom .	0	Perfective
+Po ukončení štúdia pracoval rok v Porúrí v koncerne Thyssen .	3	Imperfective
+“ Jill potrebovala pomoc , “ povedala som Shannon .	2	Imperfective
+Obliekal sa čisto , nosil košeľu s kravatou .	0	Imperfective
+Na zem padal teplý dážď a obyvatelia Makovej lúky sa skryli .	2	Imperfective
+Pred koncilom poslal biskup Wojtyła esej zmocnencom , ktorí pripravovali koncil .	2	Perfective
+Musí ma dostať z mŕtvolného stavu .	2	Perfective
+Zajali ho .	0	Perfective
+Keď na mňa pozrel a usmial sa , pripadala som si krásna , zbožňovaná a múdra .	3	Perfective
+Oblievala ma smrteľná hrôza a trepal som nohami zo všetkých síl .	6	Imperfective
+Netrvalo dlho a opäť sa ozvalo zvonenie .	0	Imperfective
+Bojuj ! “ prosíkal ho Fil .	0	Imperfective
+Po týchto slovách zmenila tému , začala mi rozopínať nohavice .	8	Imperfective
+“ To je idiotský nápad ! “ zvolal , ale videla som , že sa mu to páči .	10	Imperfective
+Konkrétnym príspevkom k prevencii konfliktov a k udržaniu mieru bude aj naďalej aktívna účasť v medzinárodných mierových operáciách .	9	Imperfective
+Nemajú čas ani myseľ na spory , ktoré by mohli vyplynúť z ich odlišných vyznaní .	10	Perfective
+Potom sa otvorili dvere a vošla mamička .	2	Perfective
+Kým sme sa dostali k ruskému kolesu , boli sme unavení , presladení a vysmiati .	9	Imperfective
+Teraz sme boli mlčanlivejší .	2	Imperfective
+Bola riadená klerikálne , ale žilo sa tu slobodomyseľne .	5	Imperfective
+Plukovník Hatí zúril .	2	Imperfective
+Vendelín zasa zosmutnel .	2	Perfective
+Vhodná je paralela z čias môjho starého otca .	1	Imperfective
+Hádes sa rozčúlil .	2	Perfective
+“ Nebuď smiešny .	1	Imperfective
+Vráť sestričke jej čokoládu ! "	0	Perfective
+Zavedenie inštitútu manažéra súdu zníži počet funkcionárov súdov , ktorí obmedzene vykonávajú súdnictvo .	11	Imperfective
+Počas inflácie prekoná vesmír exponenciálnu expanziu a oblasti v kauzálnom kontakte sa rozpínajú cez vzájomné horizonty .	2	Perfective
+“ Nemal si ho vyhnať , “ povedal Flip .	1	Imperfective
+Spomenul si , že sedí s drevenou bábkou , na ktorej zarobí milióny .	4	Imperfective
+Mala pravdu a ja som to dobre vedel .	4	Imperfective
+Vnútri sa krásna kobylka rozdvojila a vyskočili z nej Bôľ a Zmätok .	4	Perfective
+Chcela som , aby bral život trocha vážnejšie .	0	Imperfective
+Keď Nemecko prestalo platiť reparácie , francúzska armáda obsadila Porýnie .	3	Imperfective
+Nemala jediný zub .	0	Imperfective
+Blahoželám , slečna , povedal som s predstieraným nadšením , využijúc všetky svoje herecké schopnosti .	4	Perfective
+Vchádzala na parkovacie miesto , kde trhane zastala .	7	Perfective
+Návrh systému finančného vyrovnávania bude zohľadňovať princíp solidarity a motivácie .	5	Imperfective
+Zvedavo zdvihol hlavu a pýta sa : “ Zdá sa , že ma poznáte ?	4	Imperfective
+Cisár Valens podľahol zraneniam z bitky , a stal sa tak prvým rímskym imperátorom , ktorý zahynul v boji .	16	Perfective
+Otočila som sa a medzi divákmi som zazrela Jilliných rodičov .	0	Perfective
+" Je to zvláštne , nazdala som sa , že je plný .	6	Imperfective
+Po nočnom bdení skupinka zimných pútnikov pokračovala v ceste .	6	Imperfective
+Vo svojich prvých prácach vytvoril základy modernej štatistickej fyziky .	4	Perfective
+“ Aha ! “ zvolali sme dvojhlasne .	5	Imperfective
+Strana je nesmrteľná .	1	Imperfective
+Za tým všetkým sa skrýva strach .	4	Imperfective
+Uprostred pretekov som prestala plávať a šliapala som vodu až k miestu , kde sa ponoril .	3	Perfective
+Isté výhrady voči Závodszkého dielu sme pojali aj my .	6	Perfective
+Zbadala som jej prekvapený výraz .	0	Perfective
+“ Nevydeli ste tu nejakého koňa ? “ vypytoval som sa chrobákov .	2	Imperfective
+Nočným ovzduším sa nieslo vzrušenie .	3	Imperfective
+Rozbehla som sa a skočila , pričom sa hladina rozbúrila ako po výbuchu .	9	Perfective
+" Možno som sa nevyjadril celkom presne , " poznamenal .	4	Perfective
+Ležala som v posteli a po tvári mi stekali slzy .	0	Imperfective
+Vtedy sa ma zmocil čudný , nepríjemný pocit .	3	Perfective
+Keď chcel , úplne vypol a okolie preňho neexistovalo .	8	Imperfective
+Celú noc som sa prevaľoval na posteli v hotelovej izbe a nemohol som sa zmieriť s realitou .	14	Perfective
+Až potom zašiel mesiac za mraky .	2	Perfective
+S úsmevom vstal a oprašoval si zodraté , vyblednuté levisky .	2	Perfective
+Prvé naozajstné husľové koncerty zložil Vivaldi a Bach .	4	Perfective
+Keď sa začal semester , pustil som sa pod vedením profesora SommerfelTa do čítania textov .	2	Perfective
+Chlapci sa vyšplhali z rokliny , no len čo zastali Hádesovi pri nohách , premenili sa na Bôľ a Zmätok .	9	Perfective
+Časť sa pripojila k umierneným kališníkom , časť odišla do zahraničia za kariérou žiadaných žoldnierov .	8	Perfective
+Odpočívala na kraji bazéna a hompáľala nohami .	5	Imperfective
+Čakal som , kým zaparkuje auto , a potom sme išli do kaviarne pri ceste .	0	Imperfective
+“ Pusť ma ! “ prosíkal Gaston .	5	Imperfective
+“ Ostalo , zvyšok by som vám mohla ponúknuť , “ povedala Maja .	8	Perfective
+Stranu nezaujímajú konkrétne činy : my si potrpíme len na myšlienky .	7	Perfective
+Namiesto nich mal drobnú kartónovú škatuľku a v nej dva chrústy .	2	Imperfective
+V takýchto veciach bol Winston majster .	3	Imperfective
+Tam oslávili Majino vyslobodenie .	1	Perfective
+Ani v ten deň , ani neskôr som nepovedal kamarátom o návšteve , ktorá k nám prišla .	7	Imperfective
+Zaviedla Aladina dnu a zavolala sluhu , ktorý ihneď priniesol mešec zlata .	4	Perfective
+“ Nepridátete sa ku mne , Alia ?	1	Perfective
+V poslednom roku opustil štúdium medicíny a začal sa naplno venovať matematike , astronómii a fyzike .	10	Imperfective+Perfective
+Matka pracovala príležitostne ako krajčírka .	1	Imperfective
+Povzdychol si .	0	Perfective
+Spočiatku som sa úspešne tváril , že ma zaujíma výlučne predstavenie .	4	Imperfective
+Každá od neho však utiekla , pretože len čo otvoril ústa , ovalil ich zápach cesnaku a syra .	9	Perfective
+Precestoval Alžírsko , Atlas , Saharu , Tunisko aj Kartágo , no cesta nemala úspech .	0	Perfective
+Dúfam , že to nezbabrem .	0	Imperfective
+Je tu Amaris so Šatarou , máme pre teba prekvapenie ! “	0	Imperfective
+Tým listom sa začala radikálna zmena v mojom živote .	3	Perfective
+Problémy viedli k diskusii o účinnosti inšpekcií .	1	Imperfective
+Chichúňala sa a s džbánom na hlave sa pobrala do osady .	8	Perfective
+“ Blahoželám , zázračný silák , “ povedala Meg so slzami v očiach .	7	Perfective
+Bratovi farárovi prajeme v tejto funkcii múdrosť , vytrvalosť a Božie vedenie .	2	Imperfective
+I . ostrihomská synoda nariaďuje , že únosca je povinný poskytnúť postihnutým majetkovú kompenzáciu a navyše má vykonať aj pokánie .	10	Perfective
+A predsa sa točí !	3	Imperfective
+A dodala : Narodila som sa v internácii .	4	Imperfective
+N . T . bol za stenou , vyšetroval Margu .	4	Imperfective
+Napriek tomu som odišiel od okna .	3	Perfective
+“ Možno spolu na niečo prídeme .	5	Perfective
+Raný vesmír bol homogénne a izotropne vyplnený vysoko energetickou hustotou .	2	Imperfective
+Od tvojho príchodu na svet , od vzniku Strany , od začiatku dejín trvá stále tá istá vojna bez prestávky .	13	Imperfective
+Zasmiala som sa .	1	Imperfective
+“ Mauglí je v bezpečí , “ zakričal Dizzy Balúovi .	2	Imperfective
+Všetci chceli súťažiť .	2	Imperfective
+Miesto pravdy ponúka nejasné , ale presvedčivé prísľuby .	2	Imperfective
+Základom väčšiny dnes známych letopisov je tzv . Rozprávanie o dávnych časoch .	5	Imperfective
+V tú noc som po mnohých rokoch pocítil potrebu písať poéziu .	9	Imperfective
+Chcela som zaplniť ticho , čo medzi nami zavládlo , a tresla som parádnu hlúposť .	2	Perfective
+Chris je najrýchlejší plavec v Delfíne , ale rekord v prsiach doteraz neprekonal .	12	Perfective
+" Ľutuješ , že si to neurobil ? "	1	Imperfective
+“ Čo tu tak príšerne smrdí ? “ čudovala sa Maja .	5	Imperfective
+Mráz ničí zemiaky , pretože v nich dochádza k hydrolýze škrobu na nízkomolekulárne oligosacharidy a poškodené hľuzy potom ľahko podliehajú hnilobe .	1	Imperfective
+Musí byť pohodlný , viem , aby sa v ňom Lienke dobre sedelo a dobre pérovaný , aby nedostala kočovú chorobu .	18	Perfective
+Neskôr vám zaobstaráme niečo iné .	2	Perfective
+Dvakrát sa mi pod vodou omotal okolo krku a prehodil sa na chrbát .	5	Perfective
+" Je to zvláštne , nazdala som sa , že je plný .	10	Imperfective
+V roku 1921 sa zmocnil vedenia strany .	4	Perfective
+Mauglí tancoval Balúovi pred nosom a zrazu ho nečakane zasiahol do ňufáka .	1	Imperfective
+Zaoberali sa históriou , geografiou , národopisom , uhorskou literatúrou a kultúrou , jazykovedou , ekonomikou a prírodnými vedami .	0	Imperfective
+Rád by vedel , ako naložili so ženou na dvore .	5	Perfective
+Pravdu o jeho smrti sme sa dozvedeli rýchlo .	4	Imperfective
+Strenutie Masaryka s Briandom bolo úspešné a Briand sa stal prívržencom Masarykovej koncepcie riešenia stredoeurópskej otázky .	9	Perfective
+Takže teraz veľmi čakám , či niekto z mienkotvorných hláv Bútorovho elektorátu urobí sebakritickú analýzu tohto svojho fatálneho politického omylu .	3	Imperfective
+“ Zbytočne sa so mnou hádaš .	5	Imperfective
+Odletím ako sen , keď príde môj čas .	5	Perfective
+Tézy , ktoré sa bez vedomia Luthera rýchlo rozšírili , vyvolali kvôli vtedajšej všeobecnej nespokojnosti s cirkvou veľký ohlas .	10	Perfective
+Do základnej školy chodil v Kukovej , kde ukončil štyri triedy .	8	Perfective
+Priznal , že v tých dňoch pil „ príliš ” .	6	Imperfective
+Obyčajne sedávala v poslednom rade , kam som si sadal i ja .	7	Imperfective
+Nákladné autá ešte stále prechádzali okolo a ľudia ešte stále na ne hladovo civeli .	13	Imperfective
+Zlej víle ostávala posledná nádej — havran .	2	Imperfective
+Ak sa priznám , zastrelia ťa , ak sa priznať odmietnem , aj vtedy ťa zastrelia .	2	Perfective
+V sledovaných zbierkach kánonického práva nachádzame celý rad podobných ustanovení .	5	Imperfective
+Dievčatko vstalo a vyšlo z miestnosti .	1	Perfective
+Chcela mu ukázať strom , z ktorého viseli liany .	7	Imperfective
+Po ľubečskom zjazde sa mesto napokon dostalo do Monomachových rúk .	6	Perfective
+Prvý popis kosatky je v Prírodopise Plínia Staršieho ( napísaný asi 50 pred Kr . ) .	3	Imperfective
+Aj reformný kánonista Anselm uvádza vo svojej zbierke viacero nariadení o konaní synod .	4	Imperfective
+Bol som rozjarený , ohúrený od šťastia , ktoré vo mne vzbudzovalo obavy .	11	Imperfective
+Priplával k okraju a stiahol polystyrénovú dosku .	4	Perfective
+Chcel som povedať tým civilistom , aby mi aspoň vysvetlili , čo odo mňa chcú .	0	Imperfective
+Nechcela som sa s Chrisom rozísť .	5	Perfective
+Keď však odchádzal z Ríma , musel si priznať , že ciele , ktoré sledoval , nedosiahol .	6	Imperfective
+“ Pustíš ? “ spýtal sa Ferdinand .	4	Perfective
+Dodala , že vtedy bola malá .	4	Imperfective
+Ďalším dôležitým zdrojom plynov je slnečný vietor , ktorý je rýchlo zachytávaný mesačnou gravitáciou .	4	Imperfective
+“ Vráťte sa , vy zlodeji ! “ hrmel za nimi predavačov zúrivý rev .	1	Perfective
+Marga mi svoju túžbu piť vysvetlila na druhý deň .	5	Perfective
+Drž ! “ povedal .	0	Imperfective
+Pri ďalšej skúške vymenila slák za golfovú palicu , takže Klotilda musela kričať a prišla o hlas .	14	Perfective
+Zatriasli námesačníkom a prezradili mu , kto je zlodej .	7	Imperfective
+“ Dotkni sa vretena ! “ prikazovala jej .	6	Imperfective
+Išla som k dverám jej izby : “ Volá Rick , “ zašepkala som .	1	Imperfective
+Maja si z celého srdca vydýchla a náhlila sa k potoku , aby tú radostnú novinu oznámila ostatným .	16	Perfective
+Nová však bola energia , s akou tieto požiadavky nastoľovali a nová bola aj prísnosť trestov za nerešpektovanie týchto požiadaviek .	12	Imperfective
+Spala .	0	Imperfective
+Na kompresiu obrazu sa používa štandard MPEG - 2 .	4	Imperfective
+Mahmúd bol výborným kaligrafom a básnikom , písal pod pseudonymom Adli .	1	Imperfective
+Odporúčal svojim žiakom , aby sa vyjadrovali v dialekte .	0	Imperfective
+V roku 1990 splatil pôžičku predajom akcií Harken Energy .	3	Perfective
+“ Nechcela som ťa nahnevať , “ vravela som rozpačito .	1	Imperfective
+“ Prosím , ja uznávam , že Ferdo je jednotka .	8	Imperfective
+Obyčajne majú väčší objem ako klasické karimatky .	1	Imperfective
+Po príchode Reinharda Heydricha do Prahy a zatknutí protektorátneho premiéra Aloisa Eliáša sa Hácha dostal pod zvýšený tlak okupantov .	14	Perfective
+Len čo stačil dobehnúť do úkrytu , z jaskyne vytrielila svorka vĺčat .	2	Imperfective+Perfective
+Dozvedel som sa to , keď som sa vrátil domov a ešte predtým urobil jeden pokus .	6	Imperfective
+Zahraničné cesty sa stali neoddeliteľnou súčasťou jeho pontifikátu .	3	Perfective
+Stala si na kameň a začala vrzúkať .	6	Imperfective
+" Asi by som to vydržal , nebyť jednej veci , " povedal .	3	Imperfective
+Čas uteká !	1	Imperfective
+Ako som vychádzala zo školy , zbadala so , že sedí na trávniku pri zastávke môjho autobusu .	6	Perfective
+Keďže žiadne podobné odchýlky neboli pozorované , vyvodil , že rýchlosť svetla je nekonečná .	7	Perfective
+“ Učme sa spolu , “ navrhol Chris .	6	Perfective
+Vnútil mi liace a koč s tým divým koňom .	0	Perfective
+“ Máš úplnú pravdu , “ odvetil Nassir .	1	Imperfective
+Kráčal chodbou s bielymi kachličkami a mal pocit , že sa prechádza na slnku , v pätách mu kráčal ozbrojený dozorca .	0	Imperfective
+Obaja sme sa usmiali , lebo nám obom bolo jasné , že naše rande nikdy nebude len také obyčajné .	1	Imperfective
+Tvoja teória je veľmi vyumelkovaná .	2	Imperfective
+V samotnom Konštantínopole bol ustavený proticisár , ktorý bol však rýchlo odstránený .	3	Imperfective
+“ Zmizol , “ podotkla komárica , čo bežala okolo .	4	Perfective
+Pomyslel som si , že Soni by závidela Faike jej pleť .	0	Perfective
+Presne takého muža by som si želala .	6	Imperfective
+Pomedzi stromy zbadala chalúpku , v ktorej bývali trpaslíci .	2	Perfective
+Zároveň so zrušením janičiarskych zborov boli zrušené aj zvyky feudálnej jazdy , sipáhijov .	5	Imperfective
+Vždy mala vynikajúcu povesť .	1	Imperfective
+Pravdu o jeho smrti sme sa dozvedeli rýchlo .	6	Perfective
+Začal som chodiť po izbe s telefónom v ruke .	0	Perfective
+Vzduch preťal prenikavý hlas trúbky .	1	Perfective
+Strašná babizňa spokojne zakrákala .	3	Perfective
+Človek očakával , že ho zabijú .	1	Imperfective
+Tu nejde o solipsizmus .	1	Imperfective
+Vrátil som sa späť .	1	Imperfective
+“ Prepáč , Herkules .	1	Perfective
+Prevažne pohanské légie s Kristovými monogramami potom vybojovali veľké víťazstvo ; Maxentius sa na úteku utopil v Tibere .	7	Perfective
+Ale ony medzitým zmizli , pohltila ich temnota .	3	Perfective
+Ponášalo sa to na rovnicu o dvoch neznámych .	0	Imperfective
+Keď sa ku mne sklonila , že ma pobozká , zacítila som pach alkoholu .	11	Imperfective
+Flip sa ponúkol , že usporiada dobročinnú zbierku .	5	Perfective
+Zákon prispeje k stabilizácii príjmov územnej samosprávy .	1	Perfective
+Stretol by som sa tam so slovom „ anonym “ .	2	Imperfective
+Ani v ten deň , ani neskôr som nepovedal kamarátom o návšteve , ktorá k nám prišla .	16	Perfective
+Už dávno sa s nimi nehrám , ale ani vo sne by mi nenapadlo , aby som ich vyhodila .	16	Imperfective
+Trenie medzi priľahlými zónami disku spôsobuje , že sa prehrieva a vyžaruje veľké množstvá röntgenových lúčov .	11	Imperfective
+“ Padajme , kým nás tu zbadá správca , “ zašepkala som .	6	Perfective
+V ten deň som zaplávala osobný rekord .	4	Perfective
+Potom sa v jednej zákrute objavil ďalší stôl , za ktorým sedeli ďalšie dve ženy .	11	Imperfective
+Winston sa začal obliekať pomalými , strnulými pohybmi .	2	Perfective
+V ten večer som štyri hodiny písala prácu o intimite .	3	Imperfective
+Elektródy môžu byť napríklad uhlíkové .	2	Imperfective
+Často sa pokúšam nájsť nejaké vysvetlenie , prečo som ju vtedy nenávidela .	3	Perfective
+“ Ste nevzdelaný , “ zvolala .	5	Perfective
+Ďalšia balkánska cesta Carly Q Ponteovej vedie do Belehradu .	6	Imperfective
+Potom otvoril sklené dvere na terasu .	1	Perfective
+Typickým príkladom sú lúčové náušnice — symboly slnka a svetla .	2	Imperfective
+Ležal v bezvedomí na zemi .	0	Imperfective
+Právo na prístup ku kultúrnym hodnotám je jedným z dôležitých práv všetkých občanov .	6	Imperfective
+Ďalšie kroky švajčiarskej sudkyne povedú do Belehradu .	4	Perfective
+Tieto zníženia boli dočasné , avšak Bush požiadal Kongres , aby sa stali stálymi .	12	Perfective
+“ Sľúbil mi to . “	1	Perfective
+“ Musím ti niečo povedať .	4	Perfective
+Tolkien výrazne ovplyvnil žáner fantasy , ktorého obľuba po úspechu Pána prsteňov významne stúpla .	13	Perfective
+Potom sa mi Marga postupne prestala posmievať .	5	Perfective
+Syme zmizol .	1	Perfective
+Bod , pri ktorom sa slapové sily stanú zhubnými , závisí od veľkosti čiernej diery .	7	Perfective
+Tvár mala bledú .	1	Imperfective
+Hrozne ma bolia kĺby a nestihla som spojenie . “	5	Perfective
+Spomínala na všetkých kamarátov i na to , ako mohla byť aspoň na chvíľočku kapitánom mravcov .	9	Imperfective
+Prešlo niekoľko dní a princezná ani len nepomyslela na návrat domov .	7	Perfective
+Ak by som mal podobnú šancu , ak by som mal toľko kapitálu , ja ho nepremrhám .	9	Imperfective
+Práve sme sa pomilovali .	3	Perfective
+Niekto ťa prepadol ? “ vypytovala sa hlavná sestra .	5	Imperfective
+Myslela som na jeho hlboké hnedé oči .	0	Imperfective
+My takéto chyby nerobíme .	3	Imperfective
+Niektoré úmrtia tak akosi predpokladáme , ľudia sa k nim systematicky dopracovávajú .	11	Imperfective
+“ Ty mi neveríš , však ? “	3	Imperfective
+Cieľom Diskusného klubu je budovanie občianskej spoločnosti na kresťanskom morálnom základe .	3	Imperfective
+Hovorila potichu .	0	Imperfective
+Zrakom som hľadala náš dom , ale všimla som si , že Chris sa na mňa díva .	2	Imperfective
+Pri úplnom zatmení Mesiac celkom zakrýva slnečný disk a slnečná koróna je viditeľná voľným okom .	5	Imperfective
+“ Ja teraz veľmi rada lietam , “ povedala Maja .	8	Perfective
+Ležala som v posteli a po tvári mi stekali slzy .	1	Imperfective
+Včera byl tady zas a dělal problémy , " dodáva ospravedlňujúco .	9	Imperfective
+Chcela som zaplniť ticho , čo medzi nami zavládlo , a tresla som parádnu hlúposť .	8	Perfective
+Niet pochýb , v hlave mám zmätok .	0	Imperfective
+Skry sa ! “ zvolala som a zatiahla Chrisa pod oleander .	5	Imperfective
+Určite bol nervózny , lebo hlas mu v tej krátkej vete preskočil do fistuly ako rozladené rádio .	1	Imperfective
+Nikdy nepočula o Bratstve a odmietala veriť v jeho existenciu .	1	Imperfective+Perfective
+Keď videl , ako sa bavia , hneď sa chcel pridať .	1	Imperfective
+“ Dotkni sa vretena .	1	Perfective
+Teraz som cítil , že nemám silu pokračovať pred Lori .	5	Imperfective
+“ Ďakujem , “ povedala som , lebo nič lepšie mi nenapadlo .	11	Perfective
+Ďalšou skupinou , ktorá sa tu vyskytovala , boli spokojní víťazi .	8	Imperfective
+Keď dohovoril , usmial sa svojím záhadným úsmevom a ustúpil nabok , aby uvoľnil cestu Lori .	3	Perfective
+Raz zaútočil na tlupu ich odveký nepriateľ Sabor .	1	Perfective
+Rozhodol sa letieť za nimi a za trest , že naňho zabudli , vzal so sebou všetkých susedov .	13	Perfective
+Zostupujúc do hĺbok duševných priepastí , ( seba ) obnažuje , bičuje ( sa ) .	11	Imperfective
+Bola drobná a veľmi pekná .	0	Imperfective
+“ Fajn ! “ odvetil .	4	Perfective
+Pred okienkom do pivnice ležal lesklý tvor s červenými očami a nahlas funel .	12	Imperfective
+“ Dám si na teba dobrý pozor ! “	1	Perfective
+Narodil sa 15 . februára 1564 v Pise .	0	Perfective
+Dieťa vie čítať až vtedy , keď text pochopí .	2	Imperfective
+Publikum burácalo .	1	Imperfective
+Keď som ho zazrela , usmial sa .	3	Perfective
+“ Musíš mať fotografickú pamäť . “	2	Imperfective
+Rímski reformátori totiž potrebovali inštrumentárium , prostredníctvom ktorého by zdokladovali oprávnenosť svojich požiadaviek .	3	Imperfective
+“ Preber sa , Baghíra , preber sa ! “ kričal Mauglí .	1	Perfective
+Abdullah bol zaskočený .	1	Imperfective
+Nezvoň , mama bude spať .	3	Imperfective
+Kuber to vie , no neodváži sa odporovať .	7	Imperfective
+Existuje malý počet zástancov neštandardných kozmológií , ktorí veria , že v skutočnosti nebol žiaden Veľký tresk .	13	Imperfective
+Bolo by to v poriadku , keby si sa v duchu nestiahla , len čo sa dotkneš steny .	0	Imperfective
+Spomenula som si na mamu , ktorá pracovala na dvoch miestach , aby vládala platiť účty .	13	Imperfective
+Zvončeky už hlásili , že sa blíži nepriateľ .	2	Imperfective
+“ Môžem si to ešte rozmyslieť ? “ spýtala sa .	1	Imperfective
+Winston spustil nohy na podlahu a neisto sa postavil .	1	Perfective
+Potom som sa vrhla na astronómiu .	3	Perfective
+“ Nič , “ odvetila som a pozrela na Chrisa .	4	Perfective
+V tom okamihu bolo po vysokoškolských plánoch .	3	Imperfective
+V tom čase bol taký postoj niečím úplne novým .	3	Imperfective
+Rímanmi na perzský trón potom , ako bol porazený perzský uzurpátor Bahrám Čóvén .	7	Imperfective
+Keď máme čo jesť , máme všetko ostatné , čo potrebujeme .	5	Imperfective
+Maja vedela , že blízko úľa je veľké mravenisko .	1	Imperfective
+Nech ma Tom netrápi , chcel som jej povedať .	8	Perfective
+Teraz som cítil , že nemám silu pokračovať pred Lori .	2	Imperfective
+Ja som si nemohla dovoliť také neprístojnosti .	3	Imperfective
+Mamu som zbadala na rovine , keď sa na nebi zablyslo a rozľahol sa mocný hrom .	10	Perfective
+Faikiným rukojemníkom som zostal až do chvíle , keď sa rozhodla , že odíde , a vydala sa .	16	Perfective
+“ Nie , ale vonku je tak krásne , “ odvetila som , i keď v hlave som mala len Chrisa .	10	Perfective
+V krajine sa 9 . októbra 2004 uskutočnili aj prezidentské voľby , ktoré zahraniční pozorovatelia označili za demokratické .	15	Perfective
+Táto predstava tiež pekne vysvetľuje prečo neexistujú žiadne k nám blízke kvazary .	6	Imperfective
+Bude to filmové spracovanie románu Rene Steinkeho , ktorý vychádza v USA v týchto dňoch .	0	Imperfective
+Vyspevovali sme odrhovačky , občas sme lúštili krížovky alebo sa hrali slovné hry .	6	Imperfective
+Krátko na to sa narodil P . J . Šafárik .	4	Perfective
+“ Volá sa Pegas , synček , a je len tvoj ! “ povedal Zeus s úsmevom .	13	Perfective
+Keď som dokončil tento variant , zavrhol som ho .	6	Perfective
+Ja ta pôjdem inokade .	2	Imperfective
+Neviem , čo mama urobila , že jej dali pokoj .	4	Perfective
+Cez obed som zavolala mame do práce .	3	Perfective
+“ Rozviažte ich ! “ prikázal .	1	Perfective
+Sultán sa odobral do klenotnice a vztýčil Prorokov prápor .	6	Perfective
+Bola noc a biele tváre a šarlátové transparenty zalievalo zlovestné svetlo .	8	Imperfective
+Všimol som si , že aj ona sa začervenala .	8	Perfective
+Piráti opäť začali spievať .	2	Perfective
+“ Práve som dostal na teba sťažnosť . “	3	Perfective
+Nerob zo seba hlupáka , povedali mi .	5	Perfective
+Prevažná väčšina pobrežia všetkých ostrovov je skalnatá .	5	Imperfective
+“ Taký balíček s prekvapením , “ dodal Smí .	7	Perfective
+Okolo výhonkov stromu sa nachádza mriežka s kosoštvorcov .	4	Imperfective
+Všetky zvieratká bežali do bezpečia , no Polly letela po zobák vody .	8	Imperfective
+Na môj zarazený pohľad odpovedala pozvaním : Ak túto sobotu nepôjdeš domov do Tirany , príď sem .	4	Imperfective+Perfective
+Vzal si za cieľ udusiť rúhačstvo , znesväcovanie sviatkov a nemorálnosť rímskej verejnosti .	4	Perfective
+Nerob zo seba hlupáka , povedali mi .	0	Imperfective
+Mal som príležitosť poznať dievčinu , ktorá sa volala Lori , ale ona sa stratila .	8	Imperfective
+Fil mu vysvetlil , že doteraz ho sklamali všetci , ktorým pomáhal .	2	Perfective
+Voľby sa vyznačovali kontroverznosťou .	2	Imperfective
+Chcem rozpovedať istý príbeh , a nechtiac ho zamotávam .	1	Perfective
+Keď som zložila , mama na mňa zhrozene pozrela .	1	Imperfective
+Keď Ferdovi muži zajali celé nepriateľské vojsko , aj hlavný veliteľ otrokárov vyšiel z podzemnej chodby .	12	Perfective
+Neskôr mi Sergej povedal , že obyvatelia vily volajú toho muža Cerberus .	3	Perfective
+Bohatstvo a privilégiá sa najľahšie ochraňujú , keď majú spoločného vlastníka .	5	Imperfective
+Bol to nevysoký , vychudnutý muž .	0	Imperfective
+Úzky ružový pás na oblohe ohlasoval príchod nového dňa .	5	Imperfective
+Na chvíľu privrel viečka .	2	Perfective
+" Neposlúchol rozkazy , ľahol si na zem a odpálil granát , " povedala hovorkyňa miestnej polície .	1	Perfective
+Keď bol bohatý , pripadali mu tie jagavé vežičky akosi bližšie .	1	Imperfective
+Vlastný motív tohto činu je sporný .	4	Imperfective
+Za ich zvukov som zaspal .	3	Imperfective
+Ak raz človek spáchal ideozločin , určite ho raz čaká smrť .	3	Perfective
+“ Nejdeme domov , “ odvetil Baghíra .	1	Imperfective
+Čo iné im ostávalo , museli prestať s hašterením a začať odčerpávať vodu .	5	Imperfective
+V tom istom fascikli som mal odložené aj ďalšie texty , ktoré som neskôr zoskupil do samostatného fascikla .	14	Perfective
+Symbolickú úlohu má i výzdoba koníka — krúžky s bodkou uprostred sú ďalšou z mnohých modifikácií solárnych znakov .	2	Imperfective
+Keď uplynul tretí deň a ja som sa v ten večer konečne ocitol sám , bol som na pokraji nervového vyčerpania .	16	Imperfective
+“ Nemôžem !	1	Imperfective
+Zdalo by sa teda , že Somogyvárske opátstvo bude vďaka zväzku so svojím materským opátstvom súčasťou clunyjskej „ kongregácie “ .	8	Imperfective
+Smiali sme sa , až sme lapali dych , a držali sa za ruky .	0	Imperfective
+Škriatok , ktorý opustí kvet , má zázračnú moc .	3	Perfective
+V Jene strávil P . J . Šafárik dva roky , čím skončil tri semestre .	2	Perfective
+V nasledujúcej chvíli nastal obrovský rozruch .	3	Perfective
+Popri Rostove bol druhým , konkurečným centrom krajiny a v nasledujúcich storočiach zatienil jeho vplyv .	12	Perfective
+Profesor rozprával historku o anglickej vojenskej misii , ktorú cez vojnu zhodili na padákoch .	1	Imperfective
+Cítil som , že sa to takto skončí .	0	Imperfective
+Nik sa však nezastavil .	3	Perfective
+Keď sa Peter raz topil na mori , Ježiš mu podal ruku a zachránil ho .	4	Imperfective
+Vláda považuje štíhlejší , funkčnejší a menej náročný verejný sektor za nevyhnutnú podmienku úspešnej správy vecí verejných .	1	Imperfective
+Netušili , čo to znamená a čoskoro sa dostali do úzkych .	8	Perfective
+Iba Jazmína nebola veselá .	2	Imperfective
+Na obzore sa objavil čierny bod a ja som si pomyslela , že je to nejaký chrobák .	13	Imperfective
+Na rozdiel od rodičov som sa Profesora nebál .	7	Imperfective
+“ To všetko je veľmi pekné , ale to som nechcel počuť .	11	Imperfective+Perfective
+O ' Brien sa zastavil , akoby Winston vyslovil tú myšlienku nahlas .	8	Perfective
+Chichúňali sme sa ako pojašení , prebehli sme cez trávnik a smerovali k múru .	6	Perfective
+Nevedel som , čo ich čaká .	0	Imperfective
+Povedal som jej „ boľšoje spasibo “ a pobral som sa na koniec chodby , kde bola moja izba .	0	Perfective
+Veľmi ste mi pomohli .	3	Perfective
+Z malabarského frontu sme práve dostali bleskovú správu .	5	Perfective
+Stále som mal pred sebou Lorinu tvár .	1	Imperfective
+Lori som nevidel .	1	Imperfective
+“ Myslel som , že v láske to tak chodí , “ povedal Aladin .	12	Perfective
+“ To všetko je Ferdova vina , “ prehlásila .	3	Imperfective
+Vzbúrenci sa na vonkajšom prvom nádvorí paláca Topkapi zmocnili sultánovho osobného tajomníka a rozsekali ho na kusy .	13	Perfective
+Zmĺkla som , lebo som si spomenula , ako sa moja mama pustila do pečenia aj po dvoch šichtách .	4	Imperfective
+Radšej zomreli , akoby mali Krista zradiť a zaprieť .	6	Perfective
+Bála som sa , že keby som naznačila , po čom túžim , mama by si našla aj tretie zamestnanie .	11	Imperfective
+Požiadavka primeraného vzdelania klerika nepotrebuje obšírnejší komentár .	4	Imperfective
+Schytilo dievčinku labkami a vraví : “ Ty moja krásna dievčinka , odnesiem si ťa do hniezda ! “	12	Perfective
+Počas komunistickej vlády bol významným predstaviteľom disentu a po nežnej revolúcii sa stal ministrom kultúry a predsedom Poslaneckej snemovne Českej republiky .	12	Perfective
+Lönnrot zomrel 19 . marca 1884 v Sammatti v Južnom Fínsku .	1	Perfective
+“ Nech ti nelepí , vyhnem sa ti , ak sa vyhneš ty mne !	3	Imperfective
+Vláda bude presadzovať zvýšenie efektívnosti výberu daní a odvodov .	1	Imperfective
+V paláci nahradili vankúše a divány európske pohovky , stoličky a stoly .	2	Perfective
+Keď som to vyslovil , prebehli mi po tele zimomriavky .	1	Imperfective
+Bezpochyby to urobila zámerne .	2	Perfective
+Keď sa telo spojilo s dušou , dievčina zažmurkala a otvorila oči .	3	Perfective
+Opustila strom , ktorý ju chránil , a veľkými oblúkmi letela povetrím .	10	Imperfective
+Spolu sme sa potichučky vyšplhali na studenú strechu , a ako dvaja námesačníci sme vyliezli až hore .	13	Imperfective
+Zavrel som oči a kdesi v hĺbke bytosti som pocítil jej sacie pohyby .	0	Perfective
+Myslel si , že obdivujem západ slnka .	0	Imperfective
+“ Počkajte !	1	Perfective
+Chris ma chytil za ruku a kľúčik sme zvierali medzi dlaňami .	8	Imperfective
+“ Musím ťa zaviesť do osady , “ vyhŕkol napokon Balú .	1	Imperfective
+Naháňalo mi to strach .	0	Imperfective
+Skĺzol nižšie a vystrčil hlavu .	3	Perfective
+Ak si želáte dievča , povedala , zariadime to .	7	Perfective
+Negatívnych stránok je množstvo .	2	Imperfective
+“ Máš úplnú pravdu , “ odvetil Nassir .	6	Perfective
+Poznali sme ho podľa klopania , boli to tri ľahké údery .	1	Imperfective
+Vďaka tomu som stúpol v ich očiach .	3	Perfective
+Aby som mohol stvoriť Delinu , mal som pred svojím duševným zrakom Faiku .	1	Imperfective
+Zahundrala akýsi súhlas .	0	Perfective
+Kvôli tomu veľa bývalých programátorov v Lispe považujú Python za príťažlivý .	7	Imperfective
+Zastali sme na červenú a Chris sa na mňa usmial .	0	Perfective
+Navrhneme zmeny , ktoré sú nevyhnutné pre vybudovanie moderného sociálneho systému .	4	Imperfective
+Chcela som jej povedať o Chrisovi , ale nedokázala som sa zdôveriť so všetkým , čo cítim .	11	Perfective
+Pôsobil tam ako tlmočník a povedal , že keď Angličania pristáli , ich prvou požiadavkou bolo vybudovať poľné WC .	0	Imperfective
+Hydra totiž nebola mŕtva .	2	Imperfective
+Víťazoslávne na nich hľadela a pritom sa škodoradostne rehotala .	8	Imperfective
+A lial som do seba whisky .	2	Imperfective
+Po chvíli sa upokojil a začal vysvetľovať .	3	Perfective
+Postupne ju cítila čoraz silnejšie .	2	Imperfective
+Ešte mu v ušiach znel smiech a potlesk divákov .	4	Imperfective
+Zvládnem to , “ povedala som mu .	4	Perfective
+Tú báseň som napísal v štvrtej triede základnej školy , chcel som napodobniť jedného básnika , ktorý bol otcovým priateľom .	2	Imperfective
+Preto by sa malo zabrániť ich kríženiu s modernými odrodami ( nezávisle na tom či ide o GM ‐ odrody ) .	4	Perfective
+Baghíra sa snažil pozbierať všetku svoju dôstojnosť .	3	Perfective
+“ Vidíte , čo ste spravili ? “ zabzučala a starostlivo si kefovala jemné chĺpky na tele .	8	Perfective
+Pristúpil k zrkadlu bližšie .	0	Perfective
+“ Ja som navine ! “ hrdo zvolal Tarzan .	7	Perfective
+Začiatkom mája sme vstúpili do Európskej únie .	2	Imperfective
+Vláda sa zároveň zaväzuje presadiť v zdravotníctve tvrdé rozpočtové obmedzenie tak , aby od roku 2004 nedochádzalo k tvorbe nového dlhu .	3	Imperfective
+Už dávno sa s nimi nehrám , ale ani vo sne by mi nenapadlo , aby som ich vyhodila .	18	Perfective
+Nepovedal som jej nič .	1	Imperfective
+Odviazal kôš a podal mi ho .	3	Perfective
+V estónskej rozprávke Hromovládcové gajdy je zasa zachovaný obraz starobylého dualizmu v postavách vládcu hromov Pikneho a vrchného čerta Vanatuhiho .	5	Imperfective
+Zišlo mu na um , že ešte stále nepozná jej priezvisko , ani jej adresu .	8	Imperfective
+Stále sa mu chce škrabať , nech by bol kdekoľvek .	8	Imperfective
+Bosorka sa nad ňou víťazne skláňala a zaškriekala .	5	Imperfective
+Zrazu zatajila dych , oslepila ju farebná ligotavá žiara .	1	Perfective
+Odišiel som od okna .	1	Imperfective
+Jazmína zakašlala .	1	Perfective
+“ Ako ste si mohli myslieť , že zvíťazíte nado mnou , nad Kráľovnou zla !	4	Imperfective
+Bola nefalšovane na smrť vystrašená , čo sa dalo pochopiť .	0	Imperfective
+Jazmína zdvihla hlavu a uvidela , že princ Omar tuho spí .	10	Imperfective
+Nič nie je skutočné , usúdil som nakoniec .	2	Imperfective
+Naši žiaci a rodičia sú pobúrení .	4	Imperfective
+Blythe dobre vedela , že mama by ma pustila .	8	Perfective
+Blahoželám , slečna , povedal som s predstieraným nadšením , využijúc všetky svoje herecké schopnosti .	5	Imperfective
+Náhradné batérie a aspoň jedna rezervná žiarovka by mali byť samozrejmosťou .	9	Imperfective
+Brániť sa tomu nebudem .	0	Imperfective
+Vzápätí však na votrelcov zaútočili svietniky , vešiaky , skrine , hodiny a riad .	4	Perfective
+Povedal som mu , že v tú noc som neodišiel z zürišského letiska .	9	Perfective
+Musíme uznať , že rok 2004 bude významný pre 10 európskych štátov .	1	Perfective
+“ Je v šoku , nehýbe sa , “ zistili mravce .	5	Imperfective
+Zvŕtala som sa pred zrkadlom a spomínala na Chrisov bozk .	0	Imperfective
+Vládol tam smiech , spev a veselie .	0	Imperfective
+Ľudia sa však neukázali .	3	Perfective
+Nenašiel som slová , aby som mohol odpovedať .	5	Imperfective
+Priznal , že v tých dňoch pil „ príliš ” .	0	Perfective
+Kimov neoficiálny čínsky výlet tentoraz zrejme prelom znamenať nebude .	8	Imperfective
+Urobíme nejaké rozbory , určíme liečbu . . .	0	Perfective
+Pokrútil hlavou .	0	Perfective
+Vláda zabezpečí uvedenie nového registra obyvateľov do prevádzky .	1	Perfective
+“ Akú širokú perspektívu máš na mysli ? “ spýtala som sa .	4	Imperfective
+Radšej zomreli , akoby mali Krista zradiť a zaprieť .	8	Perfective
+" My sme mŕtvi , " povedal .	2	Imperfective
+Veľký panter pozorne nastražil uši .	3	Perfective
+V jeho krásnej vile bude určite príjemne .	4	Imperfective
+Našli cestu do tajnej vežičky a v nej Kráľovnú zla .	0	Perfective
+Hneď sa vybral za Matúšom do prasačieho chlieva a pozval ho k sebe na celých osem dní !	2	Perfective
+Bolo prirodzené , že roztiahla pery do úsmevu .	0	Imperfective
+“ Zomrel , “ povedal Baghíra .	1	Perfective
+Obávala som sa , že dám najavo priveľké nadšenie , ak sa otočím ku Chrisovi celá naradostená .	5	Imperfective+Perfective
+Bohatá história mesta zanechala výrazné stopy - množstvo architektonických pamiatok .	3	Perfective
+“ To je síce pravda , “ súhlasil Fidlik , “ ale cvrček musí dbať na svoje dobré meno !	7	Imperfective
+“ Tak ma pusť , “ vyhŕkla som .	7	Imperfective
+Keby som dal tie texty Deline , pochopila by , že ich stredobodom je ona .	7	Perfective
+Nespýtal som sa ho , či sa pamätá na obdobie , keď som s ním každú nedeľu chodieval do bábkového divadla .	0	Perfective
+Bol členom haagského rozhodcovského súdu a legislatívnej rady vlády ČSR .	0	Imperfective
+“ Ďakujem , “ povedala som , lebo nič lepšie mi nenapadlo .	1	Imperfective
+Bol som Faikiným rukojemníkom .	0	Imperfective
+Navyše sú nepoužiteľné vzhľadom na tlačiarenskú farbu , ktorá môže nepríjemne poškodiť istú chúlostivú časť tela .	9	Imperfective
+Delina nemohla počuť jeho burácanie .	1	Imperfective
+Chvíľu ho nechali metať sa vo vode , no potom prilákali k studni muža , čo okopával záhradku .	2	Perfective
+“ Človek nikdy nevie , čo ako vypáli . “	7	Perfective
+Ale roh s názvom novín nebol odtrhnutý .	5	Imperfective
+Možno to bola tlmená ozvena nevedomia .	2	Imperfective
+Dnes to dotiahnu ďaleko takí , ako si ty . . .	7	Imperfective
+Ktosi si všimol Marginu bledosť a zdvorilo jej uvoľnil miesto , aby si mohla sadnúť .	14	Perfective
+Veselo sa prechádzali medzi hosťami , usmievali sa a povzbudzovali ich , aby sa u nich cítili ako doma .	6	Imperfective
+Zostal som sám na prvopočiatku sveta .	1	Imperfective
+Ak jej dovolím odísť , už ju neuvidím .	2	Perfective
+“ Vážne som chcela ísť po tréningu za tebou , ale vyfučalo mi to z hlavy .	2	Imperfective
+Primátor Komárna Štefan Pásztor po svojej sekretárke odkázal SME , že sa k problému nevyjadrí .	7	Perfective
+Barbie sa sklonila nad Koou .	2	Perfective
+Vstal som a vyšiel von .	0	Perfective
+Ale ona nezdvihla zrak .	2	Perfective
+Maja naň mala obrovskú chuť , no držala sa v úctivej vzdialenosti .	7	Imperfective
+Dal som jej aj nejaké ruble a povedal som , aby za ne nakúpila pivo a ešte niečo iné .	7	Perfective
+V jednom rohu podložky je ventil , po jeho otvorení pena nasáva vzduch , nafukuje sa .	11	Imperfective
+“ Takto to už ďalej nejde , “ povedala Maja Rudkovi a Flipovi .	5	Imperfective
+Prvým mužom , ktorý kráčal po mesačnom povrchu , bol Neil Armstrong , veliteľ americkej misie Apollo 11 .	9	Imperfective
+Maja dobre poznala Fridolína .	2	Imperfective
+Maja sa ponáhľala za ním .	2	Imperfective
+Keď sa všetko dozvedel , spokojne zhlboka zavrčal .	7	Perfective
+Príčiny svojich neúspechov musí človek hľadať vo vlastnom vnútri a ja som tak robil .	3	Imperfective
+Chcela som jej povedať o Chrisovi , ale nedokázala som sa zdôveriť so všetkým , čo cítim .	1	Imperfective
+Najprv sa Radžu ukrutne bojíš a len čo odídem , ste najlepší priatelia .	4	Imperfective
+Mahmúd bol výborným kaligrafom a básnikom , písal pod pseudonymom Adli .	7	Imperfective
+Nadpisy , nájdené v rokoch 1898 ‐ 99 boli odtlačené do „ matríc “ z plastelíny a architektonickej hliny .	8	Imperfective
+Za ním vyšla starena , ktorá sa hneď skryla pod dáždnik .	8	Perfective
+Ide teda , takpovediac , o problém výchovný .	0	Imperfective
+Popáliť sa na jedinom písmene je klasický prípad , ktorý sa môže vyskytnúť v rôznych podobách .	0	Perfective
+Vonku opäť zaznel dupot čižiem .	2	Perfective
+" Na tento účel sa robí zbierka .	5	Imperfective
+Balú sa napokon predsa len so špľachotom vynoril .	7	Perfective
+Tekla sa tomu potešila a bola nadmieru spokojná .	3	Perfective
+Medzi prioritné témy kampane patrila vojna proti terorizmu a vojna v Iraku .	4	Imperfective
+Pohyb z jednej skupiny do druhej je oveľa vzácnejší , než bol v kapitalizme či dokonca v predindustriálnom veku .	6	Imperfective
+Zaslúžil sa o obnovu tradičného katolicizmu .	0	Perfective
+Keď sa všetko dozvedel , spokojne zhlboka zavrčal .	3	Perfective
+Elektródy môžu byť napríklad uhlíkové .	1	Imperfective
+V sedemdesiatych rokoch sa stretol s mnohými ďalšími vodcami organizácií spochybňujúcimi holokaust .	4	Perfective
+Zvieratká odpočívali pred svojimi príbytkami , večerali a popíjali púpavovú šťavu od cikád .	8	Imperfective
+Nedokázala som urobiť jedinú slušnú obrátku .	1	Imperfective
+Chcem jej uniknúť , zväzuje mi nohy .	2	Perfective
+Keď opätoval môj pohľad , vedela som , že je to naozaj on .	5	Imperfective
+Mama zbledla .	1	Perfective
+Mnohí z nás s nimi nadviazali hlboké priateľstvá , spoznali sme ich krehučké duše prahnúce po láske , priateľstve a uznaní .	10	Imperfective
+Len čo som ju uvidel , mal som pocit , že mi pripomína ktorúsi z hrdiniek klasickej ruskej literatúry .	7	Imperfective
+Neskôr začali španielski námorníci používať zemiaky ako hlavnú potravinu , čo im nevdojak pomáhalo ako prevencia proti skorbutu .	4	Imperfective
+A nohy ma priviedli do obchodu , kde predávali alkoholické nápoje .	3	Perfective
+“ Veľmi ma teší . “	3	Imperfective
+Začala som mať podozrenie už pred rokom , povedala .	0	Perfective
+“ Som včela , pane ! “ zvolala výhražne .	7	Perfective
+Marketing deformuje naše vnímanie a chápanie pravdy .	1	Imperfective+Perfective
+Naopak , pamätala si niečo iné : pohľad mojich očí .	2	Imperfective
+Jeho knihy boli odstránené z verejných knižníc a bolo mu bránené vykonávať akékoľvek zárobkové povolanie .	11	Imperfective
+Išlo to ako na bežiacom páse .	0	Imperfective
+I keď som mala na sebe jeho bundu , naskočila mi husia koža , ale neuhla som sa .	15	Perfective
+“ Mala by si sa dať dokopy s Rickom , “ radila som jej šeptom .	5	Imperfective+Perfective
+Vzdelanecké pozadie rodiny malo pre moju budúcnosť VEĽMI DÔLEŽITÚ úlohu . “	3	Imperfective
+Začali sme na kolotočoch , kde sme vyliezli na koňa .	6	Imperfective
+Sergej mi takisto povedal , že zatiaľ sa môžem ísť poprechádzať po Nevskom prospekte .	3	Perfective
+Odľahlo mi .	0	Perfective
+Smrti sa , samozrejme , bojím .	5	Imperfective
+Sultán sa odobral do klenotnice a vztýčil Prorokov prápor .	2	Perfective
+Sotva som bol schopný sformulovať to takto .	2	Imperfective
+Ríša sa zmietala vo vnútorných problémoch , ktoré ešte prehĺboval spôsob Fokovej vlády s charakterom otvoreného teroru voči cisárovým potenciálnym nepriateľom .	9	Imperfective
+Teraz musí urobiť , čo jej prikáže .	2	Perfective
+Drobná žena s pieskovými vlasmi zružovela a ústa otvárala a zatvárala ako ryba na suchu .	5	Perfective
+Velením týchto vojsk poveril bývalých dôstojníkov Nového poriadku , čo rozhorčilo reakcionárov .	10	Perfective
+Opatrne som vstala , aby som ju nezobudila a išla som vypnúť televízor .	9	Imperfective
+Niektoré kmene vyššie uvedených vírusov sú karanténne .	5	Imperfective
+To nás obidvoch vždy uvoľnilo , mohli sme sa správať prirodzene .	4	Perfective
+Vláda v každom prípade prijme kroky na zvýšenie motivácie rodičov a ich detí študovať , respektíve skutočne plniť povinnú školskú dochádzku .	17	Imperfective
+Koncom osemdesiatych rokov a na začiatku deväťdesiatych rokov zastával názor , že v Osvienčime neexistovali plynové komory .	8	Imperfective
+“ Ja som to bol , “ priznal sa Baghíra .	4	Imperfective
+Pomôžu vám vyniesť nahor veci , povedal Cerberus a podal ten kľúč mame .	2	Perfective
+Lenže oni neznesú , aby sa človek cítil takto .	2	Perfective
+Za týchto okolností sa mi v diaľke zjavilo mytologické božstvo záhrobného sveta .	7	Perfective
+“ Zato by som ti mal odhryznúť hlavu , maličká ! “ zreval rozzúrený sršeň .	3	Imperfective
+Pomyslela som si , že sa stal zázrak .	1	Imperfective
+Následne cestoval na Slovensko , kde sa stretol s ruským prezidentom a predstaviteľmi Slovenska .	7	Perfective
+Záchranu som našiel v telefónnom čísle 09 .	1	Imperfective
+Nahlas vykríkla od bolesti .	1	Perfective
+Zapojte sa aktívne do zborového života , príjmite pozvanie mládeže , navštevujte tento chrám , prichádzajte k Večeri Pánovej .	11	Imperfective
+Koleso sa krútilo a náš vozík pomaly stúpal na vrchol .	2	Imperfective
+Tu je vaša odmena . “	1	Imperfective
+Boli to mizerné , chatrné rárohy , ale akékoľvek hrnce sa vždy ťažko zháňali .	13	Imperfective
+Primátor Komárna Štefan Pásztor po svojej sekretárke odkázal SME , že sa k problému nevyjadrí .	14	Perfective
+Janičiari počas noci pripravili sprisahanie a ráno 15 . novembra 1808 veľkovezíra prepadli v sídle Vysokej porty .	3	Perfective
+Prestal myslieť na vojnu .	1	Imperfective
+“ Nepiekla to , “ odvetil .	5	Perfective
+To miesto Winston dobre poznal .	4	Imperfective
+Musí ma dostať z mŕtvolného stavu .	0	Imperfective
+A jeho želanie zostať v ten deň so mnou ma dojalo .	3	Perfective
+“ Nič sa nestalo , “ odpovedala som hanblivo .	3	Perfective
+Často ho trénovali nevzdelaní dedinčania a neraz mal charakter rodovej rivality .	7	Imperfective
+Hook sa tešil .	2	Imperfective
+Vo vnútrozemí boli dobyté a vyplienené Naissus ( Niš ) , Serdica ( Sofia ) a Viminacium ( Kostolac ) .	2	Imperfective
+Chris sa oprel o lakeť .	2	Perfective
+Až doteraz vlastne nepostrehol , aký je chudý a slabý .	3	Perfective
+Tieto čísla samozrejme treba brať s rezervou .	4	Imperfective
+Najväčšie zaznamenané stádo malo 49 zvierat .	3	Imperfective
+Zážitky z detstva boli neskôr zdrojom inšpirácie pre scenérie v jeho knihách .	3	Imperfective
+Ako sa princ blížil k palácu , Kráľovná zla mu postavila do cesty múr z tŕňových krov .	3	Imperfective
+Chlapci sa pokúšali maximálne priblížiť k reálnemu časopisu vrátane zo žartu uvedenej ceny na prebale .	4	Perfective
+Musím rešpektovať Marginu požiadavku , aby som deťom nič nepovedal , a zároveň musím nájsť pre Irmu nejaké presvedčivé vysvetlenie .	6	Imperfective
+Nechcela som Chrisa znepokojiť , ale čím dlhšie tu ostaneme , tým skôr nás zbadajú .	1	Imperfective
+Sergej mi vysvetlil , že tak sa volal jeden hrôzostrašný pes .	2	Perfective
+V prvom variante som sa sústredil na epizódu s nohavičkami .	5	Perfective
+Pokiaľ ide o vši , veľmi sa netráp .	7	Imperfective
+“ Pustite ma na zem ! “ kričal Mauglí .	7	Imperfective
+Zase sú tu Vianoce .	1	Imperfective
+Ich bojový pokrik prilákal spústu divákov .	3	Perfective
+Dolorina tvár , ktorá bývala obyčajne bledá , zbledla ešte viac .	8	Perfective
+“ Nechceme pomstu , “ povedal zmierlivo Ferdo .	5	Perfective
+Tá si vie vždy poradiť .	4	Perfective
+“ Môžem byť vaším kapitánom ? “ spýtala sa .	1	Imperfective
+Znamená to teda , že on je jediný , komu ešte zostala pamäť ?	11	Perfective
+Každý jazyk tak robí .	3	Imperfective
+Objímal kmeň a hrdo zdvihol bradu .	4	Perfective
+Prvým stupňom boli archeologické vykopávky svojou uchopiteľnosťou zhmotňujúce rozplývavé symboly starých povier a zároveň ich presne lokalizujúce .	2	Imperfective
+“ Bude z teba čertovsky dobrý boh ! “	1	Imperfective
+Na chvíľu zavládlo ticho .	2	Perfective
+Zakryte nádobu pokrievkou a nechajte vychladnúť na izbovú teplotu .	5	Perfective
+Vediem ho do osady . “	0	Imperfective
+“ Čo by si chcela robiť v sobotu ? “ spýtal sa Chris a ja som na uchu zacítila jeho dych .	5	Imperfective
+Do Tvojej milosti ich porúčame .	4	Imperfective
+Spočiatku som svoje utrpenie dusila v sebe .	1	Imperfective
+Slovensko má dôvod na sebavedomie .	1	Imperfective
+Ak sa raz oldspeak nahradí , posledné puto s minulosťou sa pretne .	11	Perfective
+A vtedy zaznel prenikavý treskot .	2	Perfective
+Boli veľmi citlivé a milé .	0	Imperfective
+Šľachtitelia sa snažia neprekročiť koncentráciu solanínu 0 , 2 mg / g .	2	Imperfective
+Začula ma a hneď na druhý deň mastila k hliadke .	0	Perfective
+Lulu tigra najprv prekvapene sledovala , ale po chvíli sa rozosmiala .	10	Perfective
+Bratia Badunovci ustráchane prikývli .	3	Perfective
+Začul prekrásny hlas Šípkovej Ruženky , ktorý sa niesol lesom .	8	Imperfective
+Keď človek dostane vši , je to nepríjemné .	5	Imperfective
+Celý týždeň som bol náchylný uveriť , že to všetko bol iba sen .	10	Imperfective
+“ V lese nie je , “ povedala ozvena z lesa .	7	Perfective
+Kým sme sa dostali k ruskému kolesu , boli sme unavení , presladení a vysmiati .	3	Perfective
+Nezdalo sa mi , že veštia nejaké zásadné zmeny .	5	Imperfective
+“ Nikdy som nemala šťastie na peniaze . “	3	Imperfective
+Keď sme vychádzali z izby , že pôjdeme k autu , uvidel som vec , ktorá zvrátila ten večer nepredvídaným smerom .	2	Imperfective
+Boli sme spojenci .	0	Imperfective
+V oblasti prepravných povolení v cestnej doprave sa realizuje nový transparentný systém založený na princípe nárokovosti pri splnení požadovaných kritérií a podmienok	8	Imperfective+Perfective
+Detektíva Steva McGarretta hral Jack Lord .	3	Imperfective
+Šaty boli dlhé , biele a viseli medzi Profesorovými oblekmi .	1	Imperfective
+Potom knihu zavrela a dievčatko pobozkala .	2	Perfective
+Sedela som pri telefóne a usmievala sa .	1	Imperfective
+Tábory v Osvienčime a Brezinke sú dnes prístupné verejnosti .	5	Imperfective
+Opustil som Lori .	1	Imperfective
+Džin ho každý večer otupoval a džin ho každé ráno znovu oživoval .	4	Imperfective
+Zenón svoj sľub dodržal : Uväznil svojich zajatcov do prázdnej vodnej nádrže , kde sa neskôr udusili .	16	Perfective
+V podobnom duchu sa vyjadrovali aj prezident KOZ Ivan Saktor a jeho kolega Svetozár Korbel .	4	Imperfective
+Čosi podobné nariaďujú i uhorské právne normy .	2	Imperfective
+Nevidel som nijakú uniformu .	0	Imperfective
+Chcel by som s tebou prebrať istú myšlienku , ktorá ma znepokojila len pred chvíľou , keď Irma odišla na letisko .	0	Imperfective
+Chrobák zhovievavo pokrútil hlavou .	2	Perfective
+Rozbehla som sa a skočila , pričom sa hladina rozbúrila ako po výbuchu .	1	Imperfective
+Zastali sme na červenú a Chris sa na mňa usmial .	9	Perfective
+Našťastie za prvým bukom stretli Truhlíka a zistili , že aj on má na otrokárov ťažké srdce .	4	Perfective
+Nemecku však české pohraničie nestačilo a rozhodlo sa zaútočiť .	8	Perfective
+Svedomite a zodpovedne sa pripravoval na skúšky .	4	Imperfective
+Nebolo ťažké udržať ich pod dozorom .	2	Perfective
+“ Vynikajúce jedlo , “ povedal Chris , keď dojedol .	9	Perfective
+Niekedy mi behajú po rozume všelijaké rozprávky .	2	Imperfective
+Môj potôčik vyrazil von , rozlial sa a ja som zostal zahalený v horúcej pare sauny .	10	Perfective
+" Pivo bolo lepšie , " poznamenal napokon .	6	Perfective
+Keď som tak urobil , spamätal som sa .	3	Perfective
+Medzi závery patrilo aj to , že Saddám mal k dispozícii aj strely s väčším doletom ako povoľovali sankcie .	8	Imperfective
+Vtedy sa odhaľovala jej krásna tvár .	2	Imperfective
+Vstal .	0	Perfective
+Škole chýbali priestory , a tak žiaci prvého stupňa , čiže aj my prváčikovia , mávali vyučovanie popoludní .	15	Imperfective
+Uprostred parku bola plošinka pre tanečníkov a vedľa nej kryté miesto pre orchester .	2	Imperfective
+Začala som mať podozrenie už pred rokom , povedala .	2	Imperfective
+Koľkokrát Aladin počul , ako po nich pokrikujú tie isté slová !	7	Imperfective
+Neveril som vlastným ušiam .	0	Imperfective
+Recepčné sa podujali objednať taxík a zobudiť ma , kedy uznám za vhodné .	2	Perfective
+Pred svojou smrťou trpí prepracovanosťou .	3	Imperfective
+Potom vyhnal z paláca proreformných ministrov , čím ich vystavil istej smrti .	9	Perfective
+Preto je v Mexiku pestovanie akejkoľvek GM kukurice zakázané .	1	Imperfective
+Najskôr sa na hornej časti schodišťa objavila drobná starena v širokých nohaviciach .	6	Perfective
+Veď hrdinu by nemalo nič rozptyľovať .	5	Imperfective
+Zaspíš , kým sa dopečie , “ vyhlásila som neisto .	4	Perfective
+Keď som mala bundu na sebe , zistila som , že ju nepotrebujem .	2	Imperfective
+Muž , ktorý zostal stáť , mi povedal to isté po anglicky .	4	Imperfective
+Veľkú tašku hodil do kúta a mľaskavo ho pobozkal .	8	Perfective
+Aj tu je však jeden problém .	2	Imperfective
+Zakrátko nevidela na cestu .	1	Imperfective
+Prvý sa zobudil Winston .	2	Perfective
+Mala som dojem , že som sa vrátila z cesty okolo sveta .	7	Perfective
+Tí , ktorí nemali čím zaplatiť , museli putovať po brehoch Acherónu po celých sto rokov .	7	Imperfective
+Bude mať názov Shanghai Noon a režisérom bude debutujúci Tom Dey .	1	Imperfective
+Jej bledosť a mlčanie stačili , aby som okamžite pochopil , že som urobil hlúposť .	13	Perfective
+Pokúšala by sa presvedčiť ma , že nemá zmysel rozčuľovať sa .	3	Perfective
+Ľudstvo svojou usilovnosťou prispelo k zrodu dvoch svetových vojen , ba v niektorých kútoch Zeme vojny pokračujú .	16	Imperfective
+Na druhý deň neprišla na vyučovanie .	3	Perfective
+Vláda bude podporovať podnikanie a zlepšovať podnikateľské prostredie .	2	Imperfective
+Prestal platiť hunskému náčelníkovi Attilovi každoročný tribút .	1	Imperfective
+Možno mi chcel dodať odvahu .	3	Perfective
+" Vy ste zrejme od svojho mládenectva zažili ohromné zmeny , " opáčil Winston .	2	Imperfective
+Anita jej to sľúbila a zložila .	5	Perfective
+“ Urobil si veľkú a hlúpu chybu , priateľko . “	1	Perfective
+Povedala , že sa cíti unavená a na druhý deň musí zavčasu vstávať .	4	Imperfective
+“ PÄŤ TELEFONÁTOV ! “ zvolala som , keď som zbadala , že doma v chodbe bliká svetielko na odkazovači .	9	Imperfective
+Už mnohokrát som sa utvrdil o pravdivosti tejto teórie .	2	Imperfective
+Bajraktar sa ukryl v susednej malej kamennej budove , ktorá sa zdala , že je pomerne dobre obranyschopná .	14	Imperfective
+Otvoril som kufor .	0	Perfective
+Pousmejú sa a zíde im na um moja prezývka .	0	Perfective
+Je plná fasciklov a väčšina z nich je očíslovaná .	7	Imperfective
+Slnečný svit , ktorý prenikal nespočetným lístím , ich ešte stále pálil na tvárach .	4	Imperfective
+A odtiahla sa odo mňa .	1	Perfective
+Môžem ti pomôcť ? “ ľutovala ju Maja .	5	Imperfective
+Už dávno som stratil kontakt so svetom kina a v nových televíziách ma nikto nepoznal .	14	Imperfective+Perfective
+“ Možno sa zajtra vrátim , keď budem mať peniaze , aby ste mi o ňom povedali viac . “	8	Imperfective
+Sopky vreli , vyčíňali búrky a zemetrasenia , svet bol plný zmätku a veľkého zdesenia .	1	Imperfective
+Nakoniec ma chcela privítať .	3	Perfective
+“ Čo je to vrecko ? “ vystrašene sa pýtala Maja .	2	Imperfective
+Navyše , do istej miery to bola pravda .	6	Imperfective
+Po záhrade poletovali mištičky , servítky ba aj stoličky .	2	Imperfective
+Možno som vôbec nič nepovedal .	4	Perfective
+Neviem , čo mi to napadlo .	0	Imperfective
+Máme celé popoludnie .	0	Imperfective
+Slovensku Hitler pohrozil , že ak sa neosamostatní , bude rozdelené medzi Maďarsko a Poľsko .	7	Perfective
+Hladko som vkĺzla pod vodu a vynorila sa na hladine .	6	Perfective
+Mama pila doma , nikdy sa nestalo , že by sa vrátila z kravínov a razila alkoholom .	1	Imperfective
+Irma bola neskúsená , Lori už mala všeličo za sebou .	1	Imperfective
+“ Vravela , že pozná sultána . “	4	Imperfective
+Musíte byť tolerantní , musíte pochopiť , že som nemal iné východisko .	8	Imperfective
+Vyspevovali sme odrhovačky , občas sme lúštili krížovky alebo sa hrali slovné hry .	0	Imperfective
+“ To je ono ! “ zvolal Balú .	2	Imperfective
+Prikázal dopravnej čate , aby ju premiestnila , ale keďže bola veľmi ťažká , robotníci ju občas postavili na zem .	17	Perfective
+Dnes by som povedala , že som bola zhypnotizovaná .	6	Imperfective
+V uhorských zákonníkoch sa stanovenie týchto pôstnych období objavuje už u sv . Štefana .	8	Imperfective
+A hrozilo by , že sa stratí čaro našich ľúbostných stretnutí .	1	Imperfective
+Pri prevzatí moci nezamestnanosť dosahovala úroveň 4 , 2 % ( január a február 2001 ) .	4	Imperfective
+Keďže kníh , ktoré mi zostali , nebolo ktovieako veľa , vrece bude ťažšie , ak pridám rukopisy svojich scenárov .	16	Perfective
+Kobylka je navrchu zaoblená , takže sa sláčik môže dotýkať len dvoch strún súčasne .	9	Imperfective
+Tento čas Zenón využil na prestavbu armády .	3	Perfective
+Rahim zdvorilo prikývol .	2	Perfective
+Nikto si nevšimol , že som bol preč .	6	Imperfective
+Mešťania sa nazlostili a upozornili Herkulovho otca , nech ho viac do mesta nepúšťa .	13	Imperfective
+Nebude to koniec Ferda Mravca ?	0	Imperfective
+Winston i dievča vytrvalo jedli .	4	Imperfective
+Keď pred správami zaznela trúbka , vždy to znamenalo víťazstvo .	8	Imperfective
+Po skončení napoleonských vojen vzniklo medzi Grékmi žijúcimi v emigrácii hnutie proti sultánovej vláde .	4	Perfective
+Možno " priateľ " nebolo správne slovo .	4	Imperfective
+Keď opätoval môj pohľad , vedela som , že je to naozaj on .	9	Imperfective
+Ja som však neznášal huriavk , ktorý robili ľudia čakajúci v radoch .	7	Imperfective
+Začínalo sa brieždiť .	2	Imperfective
+V skutočnosti sa vyplácali iba malé sumy a výhercovia veľkých výhier neexistovali .	11	Imperfective
+Na druhom bola tvár Lizy .	2	Imperfective
+Oznámime to slečne Kasandre a budeme žiadať náhradu škody .	6	Imperfective
+Kto zažil sparné pražské popoludnie , vie veľmi dobre , čo znamená spojenie " správně vychlazená dvanáctka " .	1	Perfective
+Známe uskromňovacie heslo " Jeme preto , aby sme žili . " nie je pravdivé .	4	Imperfective
+Zrazu sa ma zmocnilo presvedčenie , že som to zbabrala , ani kytička sedmokrások ma nemohla utešiť .	7	Imperfective
+Musím rešpektovať Marginu požiadavku , aby som deťom nič nepovedal , a zároveň musím nájsť pre Irmu nejaké presvedčivé vysvetlenie .	0	Imperfective
+Navrhneme zmeny , ktoré sú nevyhnutné pre vybudovanie moderného sociálneho systému .	0	Perfective
+Prikývol a naozaj , spočiatku šiel krokom .	0	Perfective
+Zachytil ma , aby som sa neudrela .	4	Imperfective
+Rozoberá problém skladania pohybov a prvý formuluje myšlienku relatívnosti pohybov .	0	Imperfective
+“ Nemôžem , “ čo znamenalo , že ho nemôžem pozvať dnu , a nie bozkávať sa .	1	Imperfective
+Doba jeho vlády je veľmi dobre zdokumentovaným obdobím doznievajúcej neskorej antiky ( najdôležitejším prameňom je dielo alexandrijského historika Theofylakta Simokatta ) .	3	Imperfective
+Chvíľu trvalo , kým zbadali drozda .	4	Perfective
+Som rada , že som pomohla . “	5	Perfective
+“ Videl som ťa v bazéne a mal som sa ti vyhnúť .	8	Imperfective
+Nechcela som Chrisa znepokojiť , ale čím dlhšie tu ostaneme , tým skôr nás zbadajú .	14	Perfective
+Napriek tomu som stratil formu .	3	Perfective
+Syreeta vyvesila oznam o Abuovom úteku a kto ho nájde , dostane odmenu .	1	Perfective
+Stiahol páku a pokračoval :	0	Perfective
+Rýchlo som jej bežal na pomoc .	1	Imperfective
+Ich počet vzrástol za pätdesiat rokov na 742 .	2	Perfective
+Dobrý Bože , osloboď nás od pyšného presvedčenia , že sme skúsení a múdri .	3	Perfective
+“ Tentoraz by sme mali hudbu vynechať a usporiadať maratónsky beh , “ navrhol Rudko a všetci nadšene súhlasili .	8	Perfective
+Strana má vždy patent na absolútnu pravdu a je jasné , že absolútno nemohlo byť nikdy iné , než je teraz .	8	Imperfective
+Vyznajme Bohu svoje hriechy , potom nám Boh daruje tento pokoj skrze vieru v Ježiša Krista .	8	Perfective
+Pomedzi stromy zbadala chalúpku , v ktorej bývali trpaslíci .	7	Imperfective
+Deti sa veľmi tešili , keď Lulu kŕmila mláďatká .	3	Imperfective
+Džin im naliali do porcelánových šálok bez ucha .	2	Perfective
+Tento pohľad zdieľali mnohí ľudia v postkomunistických štátoch , Ronald Reagan , ako aj hrdinovia zodpovední za ukončenie komunistického útlaku .	2	Imperfective
+A ak sa za týchto okolností zjavil Hádes , bolo to nedobré .	6	Perfective
+Potom vzal Balú Mauglího na plecia a Baghíra kráčal za nimi .	8	Imperfective
+“ Kam ideš ? “ spýtal sa Chris .	2	Imperfective
+Tie , čo mu dali rozliční obdivovatelia a dobrodinci , rozdal .	10	Perfective
+Priplávala som ku kovovým schodíkom a s námahou som vystupovala von , keď ma striaslo .	14	Perfective
+“ Máš nejaký problém ? “ spýtala sa Jill , keď plávala popri mne .	11	Imperfective
+Paradoxne som si želal , aby neprišiel .	3	Imperfective
+Winston spustil ruky pozdĺž bokov a pomaly nabral vzduch do pľúc .	7	Perfective
+“ Skoro všetky sú mamine , “ opravila som ho rýchlo .	7	Perfective
+Prichádzali tam , keď si ich predvolal Cerberus .	0	Imperfective
+“ Určite ťa zaskočila moja výnimočná krása , “ zašveholilo .	3	Perfective
+A ak sa za týchto okolností zjavil Hádes , bolo to nedobré .	9	Imperfective
+Celú noc som sa prevaľoval na posteli v hotelovej izbe a nemohol som sa zmieriť s realitou .	11	Imperfective
+Len čo zmizla z dohľadu , Aladin rýchlo zbalil Abdullahove pomôcky .	2	Perfective
+Navštevoval aj historika Jaroslava Golla i básnika Jaroslava Vrchlického .	0	Imperfective
+Spravodajca BBC napríklad informoval , že veľká naháňačka za lístkami do pekinskej opery naznačovala , že Kim mal navštíviť včerajšie predstavenie .	18	Perfective
+Povedal som jej , že sa podobá na niekoho , koho poznám .	11	Imperfective+Perfective
+Maja bola prešťastná .	1	Imperfective
+“ Zastavte svet , nech sa prestane krútiť ! “ zvolal .	10	Perfective
+Ak chcem niečo dokázať , musím sa Chrisa zriecť .	1	Imperfective
+Silno som ho zovrela , akoby ma mal ochrániť .	7	Imperfective
+Takto medzi nami zmizla akákoľvek vzdialenosť .	3	Perfective
+“ Ale to som predsa nechcela ! “ zvolala Lienka , keď predseda súdu vyhlásil rozsudok .	3	Imperfective
+Ako som takto táral , pochopil som , že rozprávam hlúposti .	5	Perfective
+Mohlo byť len zo stromu , do ktorého sa zaťalo sekerou so zatvorenými očami .	1	Imperfective
+Kým som si to stačila uvedomiť , po tvári mi tiekli slzy a potichu som vzlykala .	5	Perfective
+Cestou zoťali strom — budú ho potrebovať , ako baranidlo , keď budú chcieť vyvaliť bránu .	14	Perfective
+To je fantastická novina ! “ zvolala som a objala ju .	6	Perfective
+Okamžite som súhlasil .	1	Imperfective
+Obyvatelia lúky sa začali zbiehať pred jej domom a chválili Klotildin spev .	4	Imperfective
+David Duchovny a Gillian Anderson totiž podpísali zmluvy na 6 . a 7 . sériu úspešného televízneho seriálu .	6	Perfective
+“ Učme sa spolu , “ navrhol Chris .	1	Imperfective
+Bol som zmätený .	1	Imperfective
+Väčšina zdrojov však uvádza , že by mal byť v Šanghaji .	8	Imperfective
+Winston ho jemne uchopil za ruku .	3	Perfective
+Tam sa venoval literatúre , maliarstvu , divadlu a hudbe .	2	Imperfective+Perfective
+Pozoroval som každý štvorcový milimeter jej tváre .	1	Imperfective
+Nik iný ho neoslovil .	3	Perfective
+“ Nie , ale vonku je tak krásne , “ odvetila som , i keď v hlave som mala len Chrisa .	17	Imperfective
+Varoval Sýriu , aby prestala podporovať teroristov .	5	Imperfective
+Chris pokrútil hlavou , akoby si to rozmyslel .	7	Perfective
+" Vlastne by to na veci nič nezmenilo , " poznamenal .	7	Perfective
+Snažila som sa potlačiť vzrušenie .	1	Imperfective
+V tej chvíli mi bolo všetko jasné , vedela som , v čom je problém .	13	Imperfective
+Preto samotné pozvanie nebude dôvodom pre sebauspokojenie .	3	Imperfective
+Paradoxne som si želal , aby neprišiel .	6	Perfective
+“ Náramne ! “ odvetil Stromboli .	4	Perfective
+“ Tu niekde mám bundu , “ zamrmlal .	7	Perfective
+Domorodcom prišlo vhod , že som sa ubytoval v tej izbe .	5	Imperfective
+Pomaly som jej vyzliekol kombiné .	3	Perfective
+Nevieme , kde v tú noc odišiel .	6	Perfective
+" Tá nateraz postačí .	3	Perfective
+Mladým som vyrozumel z tváre , že ani oni sa dobre nevyspali .	2	Perfective
+“ Spomínaš na tú rozprávku , čo ti mama rozprávala , keď si nemohla zaspať ? “	12	Imperfective
+Takto som sa vyjadril a jej tvár pokryl ľahký rumenec .	3	Perfective
+Existujú rôzne možnosti .	0	Imperfective
+“ Chcela by som , aby ste mi vyveštili budúcnosť , ale nemám veľa peňazí . “	1	Imperfective
+Rudko Bielohlávok dal faul !	2	Imperfective+Perfective
+Samozrejme , že autorom pôvodnej myšlienky je VB , " dodal .	10	Perfective
+Začínalo sa brieždiť .	0	Imperfective
+Kala bábätko vybrala a v tej chvíli prestalo plakať .	7	Perfective
+Fatma nakoniec zomrela nasledujúci rok vo februári pri pôrode dcéry a malá princezná zomrela v útlom veku .	13	Perfective
+Je to už tretí prípad v krátkom čase .	0	Imperfective
+To všetko mi jedného dňa porozprával Sergej , pri močiari .	5	Perfective
+Navrhli im , že ak chcú prežiť v nových podmienkach trhového hospodárstva , môžu predávať po tiranských chodníkoch cigarety alebo banány .	5	Imperfective
+Teraz musím publikovať .	1	Imperfective
+V lete 1948 v Prahe zažiadal o zahraničné štipendium .	5	Perfective
+Stiahol páku .	0	Perfective
+Jednou z príčin bola aj nedostatočná komunikácia medzi vedúcimi bezpečnostnými pracovníkmi a operátormi čo sa týka príkazu vykonať nočný experiment .	15	Imperfective
+Neviem vysvetliť , prečo sme nechodili na rande ako iní .	4	Imperfective
+Maja si pospomínala na všetky nebezpečenstvá , o ktorých im vykladala slečna Kasandra .	2	Perfective
+Vaša depresia sa začne prehlbovať a stratíte záujem o okolitý svet .	6	Perfective
+Keď sme asi hodinu kráčali po ceste pre vozy , mama odbočovala ku kravínom a ja som išla ďalej do školy .	1	Imperfective
+Ten nežiadal , aby som mu podal pomocnú ruku .	6	Perfective
+Preštudoval šachovú úlohu a rozostavil figúrky .	4	Perfective
+Rýchlo vyčarila drevený kolovrátok so zradným zeleným vretenom .	1	Perfective
+“ Ty zradná potvora ! “ oboril sa na ňu .	6	Perfective
+Usmiala som sa .	1	Imperfective
+“ Netráp sa , niečo vymyslíme , “ povedala Makulienka .	8	Perfective
+Celá sa triasla , sotva vládala stáť na nohách .	2	Imperfective
+Možno to vyzerá nezmyselne , ale mne to pomáha .	8	Imperfective
+A odišla , stratila sa v dave .	3	Perfective
+Aj ja som tam bol kvôli mame , aby som jej vyhovel .	9	Imperfective
+“ Vravel si , že ti môžem veriť ! “	6	Imperfective
+Predavačka sa silene usmievala , aby dala najavo , že ju to pobavilo .	12	Perfective
+Luther bol veľmi plodný spisovateľ , celkové vydanie jeho spisov obsahuje viac ako 100 zväzkov .	10	Imperfective
+Sultán nazrel dnu .	1	Perfective
+Generál zreval : “ Bojujte ako levy ! “	4	Imperfective
+Žili v chudobe , venovali sa dobročinnosti a poučovali ľudí o viere a o zachovávaní kresťanských zásad .	0	Imperfective
+“ Odvahu veru máš .	3	Imperfective
+Obaja súhlasili , no nič im nenapadalo .	6	Imperfective
+Inštinktívne som zavrela oči — a vtom ma pobozkal .	2	Perfective
+Medzi Slnkom a Zemou je vzdialenosť 149 , 6 miliónov kilometrov .	4	Imperfective
+Išli sme za školu , kde – trochu vyššie – vyvieral prameň , ktorý tam vymlel priehlbinu .	10	Imperfective
+Ale keď veľký vlk vopchal do košíka ňufák , bábätko sa zasmialo .	11	Perfective
+Nemôžeš spať ? “	1	Imperfective
+“ Asi mám , “ odvetil Chris a pokračoval v kreslení .	2	Imperfective
+Odmlčala sa , aby sa nadýchla .	0	Perfective
+Vrátil som sa a znovu som si sadol k stolu .	7	Perfective
+Diogenes opustil bohatú rodinu , stal sa dobrovoľným žobrákom a ľudovým učiteľom .	5	Perfective
+Musí sa veľa učiť a Kasandrinou úlohou bolo vychovať ju a pripraviť na život včely .	3	Imperfective
+Uprostred salóna bol jedálenský stôl .	2	Imperfective
+Práve vtedy tréner August zapískal .	4	Perfective
+Všetky okná boli vysvietené .	2	Imperfective
+Ja mám za úlohu robiť sprostredkovateľku .	1	Imperfective
+Zrejme uplynuli týždne a mesiace .	1	Perfective
+“ Nazri do svojho srdca , ono ti povie , čo máš robiť . “	11	Imperfective
+Kufor som nemal zbalený .	1	Imperfective
+Naposledy požiadalo o povolenie na postavenie súsošia na svojom pozemku Gymnázium Ľudovíta Jaroslava Šuleka .	1	Perfective
+Mám kŕčové žily a päť umelých zubov . "	0	Imperfective
+Prvá písomná zmienka o nej pochádza z roku 1211 .	5	Imperfective
+Keď sa Štefánikov stav zlepšil , odišiel do Talianska .	6	Perfective
+Španielsko a Peru vyhlásili jednodňový smútok .	3	Perfective
+Pretože sa vzdialenosť medzi Mesiacom a Zemou veľmi pomaly zväčšuje , uhlový priemer Mesiaca sa zmenšuje .	9	Imperfective
+“ Tu si . . . “	2	Imperfective
+Obrázkovým telefónom som zavolal kováča Kováčika a ten bez dlhých rečí koníka okoval .	2	Imperfective
+Uži si trocha , prikázala som si .	4	Perfective
+V máji 2001 uskutočnil cestu po stopách svätého Pavla po Stredozemí .	3	Perfective
+Vybrala najligotavejšie jabĺčko a podala ho chlapcovi .	4	Perfective
+Syme zdvihol zrak . " Tam prichádza Parsons , " poznamenal .	1	Perfective
+Potomstvo sa o tebe nikdy nedozvie .	5	Perfective
+Začiatkom studenej vojny sa Berlín dostáva do centra konfliktov medzi víťaznými mocnosťami .	5	Imperfective
+Naozaj som na chlapcov nemala čas .	4	Imperfective
+Pritúľte sa k sebe tantricky !	0	Perfective
+Podchvíľou naňho ukradomky pozriem bez toho , aby som pohla hlavou .	9	Perfective
+A ponáhľal sa preč .	1	Imperfective
+Ak by som mal podobnú šancu , ak by som mal toľko kapitálu , ja ho nepremrhám .	10	Imperfective
+“ A teraz je na rade výcvik , “ oznámil som mu .	9	Perfective
+Hoci bývali naproti , vídala som ich zriedka .	4	Imperfective
+NA DRUHÝ DEŇ RÁNO som sa prebudila do skutočnosti .	6	Perfective
+“ Ostanem tu ! “ kričal .	5	Imperfective
+“ Hádam mi nechceš tvrdiť , že nezáleží na výsledkoch .	3	Imperfective
+Z cirkevnoprávnych zbierok , ktoré vznikli v období gregoriánskej reformy , sa budeme venovať len niektorým .	5	Perfective
+Z chilského centra pravdepodobne pochádzajú predchodcovia európskych kultúrnych odrôd .	4	Imperfective
+Len čo polícia odišla , dali si Barbie so Sandrou v kaviarni malinovku .	5	Perfective
+Potom som si to rozmyslel .	1	Imperfective
+Ako teda vysvetliť , že žobráci touto zónou opovrhujú ?	2	Perfective
+Svätoštefanské zákony okrem toho nariaďujú aj povinnú nedeľnú návštevu kostola .	4	Imperfective
+" Môže to trvať dlho , " odvetil O ' Brien . " Ty si ťažký prípad .	14	Imperfective
+Vláda pripraví legislatívne a finančné predpoklady pre vznik povinného kapitalizačného piliera dôchodkového systému .	1	Perfective
+Winstona vyparia .	1	Perfective
+Ako sa hovorilo , túto škandalóznu informáciu potvrdila sama herečka , ktorá sa nervovo zrútila .	7	Perfective
+Má vhodné chemické vlastnosti pro pečenie .	0	Imperfective
+“ Toto je tvoja detská izba , neskôr dostaneš večeru , “ vysvetľovala mu Maja .	2	Imperfective
+Vytrhol som mu ho a opäť som ho vypil až do dna .	1	Imperfective
+Septembrové voľby potvrdili pevnosť demokratických základov Slovenskej republiky .	2	Perfective
+Služobníctvo by ťa tu našlo .	4	Perfective
+Liza s hrôzou zastala .	3	Perfective
+Starec po ňom hodil bochník starej pity .	3	Perfective
+Vedel , že to tak nie je , jej vzrušenie , keď mu podávala odkaz , bolo príliš skutočné .	16	Imperfective
+V utorok píšeme test z astronómie .	2	Imperfective
+“ To je bomba ! “ povedal udivene .	2	Imperfective
+“ Vysvetlíme mu , že ja také niečo nikdy neurobím ! “	1	Perfective
+Umožniť jazykovedcovi rozhovoriť sa o systéme v jazyku , prináša zdanlivo nebezpečenstvo , že sa vstúpi do nezaujímavého a nudného sveta .	9	Imperfective
+Zmocnil sa ma nevysvetliteľný strach , mal som pocit , že ju už neuvidím .	7	Imperfective
+Alia mu ukázala dve ligotavé medené mince .	2	Perfective
+Uži si trocha , prikázala som si .	0	Perfective
+“ Skala zavalila dvoch chlapcov , “ kričala zúfalo .	2	Perfective
+Kolos , ktorý celkom ovládol svet !	4	Perfective
+“ Ešte si to rozmyslím , “ zahučal obor , ale už sa knísal nepriateľovi v ústrety .	13	Imperfective
+Kolega mi porozprával o tejto epizóde práve v čase , keď moja mama dostala ten slávny list .	13	Perfective
+Keď som prišla domov a ocitla sa v izbe , toto všetko mi uviazlo v hrdle .	13	Perfective
+Vytvoril prvú funkčnú verziu a zverejnil na internete zdrojový kód .	0	Perfective
+Vzápätí za ním s krikom vybehla i Bibina slúžka : “ Zastavte ho .	5	Perfective
+Posledný krok urobí na Ministerstve lásky .	2	Perfective
+Práve preto upútalo môj pohľad niečo veľmi zvláštne .	2	Perfective
+Po desiatich dňoch lekárske konzílium posilnili českí lekári .	5	Perfective
+Usmiala sa naňho .	0	Perfective
+Kráčal ďalej .	0	Imperfective
+“ To je ono ! “ zvolal Balú .	6	Perfective
+A okrem toho bude šťastný , priateľský a veselý ako vy . “	3	Imperfective
+“ Vždy je tu taký zmätok ? “ spýtala sa Kasandry .	2	Imperfective
+A ja som jej neprezradil niečo , čo ma ťažilo veľmi dlho po jej odchode .	9	Imperfective
+Môžem ti pomôcť ? “ ľutovala ju Maja .	2	Perfective
+Janičiari sľúbili zastaviť obliehanie a zaistiť voľný odchod odzbrojených vojakov .	5	Perfective
+“ Počkám ťa ! “ zvolal Chris , bežiac pri mne .	8	Imperfective
+“ Rozumel .	1	Imperfective
+Na slnku jej telo žiarilo .	4	Imperfective
+Len čo na moju loď vkročí , porátam sa s ním zoči ‐ voči .	5	Perfective
+“ Kto sú to ľudia ? “ vypytovala sa zvedavo Maja .	2	Imperfective
+Poznal som aj ich kapsy a tašky .	1	Imperfective
+Kolekcie majú dve základné formy : mapované typy a sekvenčné typy .	1	Imperfective
+Keďže kníh , ktoré mi zostali , nebolo ktovieako veľa , vrece bude ťažšie , ak pridám rukopisy svojich scenárov .	12	Imperfective
+“ S čím ? “ zvolala zúfalo .	5	Perfective
+Spočiatku som ničomu nerozumel .	3	Imperfective
+“ Čo je Balúovi ? “ spýtal sa chlapec .	2	Imperfective
+Hoci voľby poznačilo drobné násilie a slabá participácia Sunitov , väčšina Kurdov a Šítov prejavili silný záujem .	14	Perfective
+“ Som smädná , “ povedala som Rickovi a bosá som vyskočila z radu .	10	Imperfective
+Prečo nechodím na rande ?	1	Imperfective
+Sneh trval na tom , že musím zostať v tejto pasci .	6	Imperfective
+V kláštornej škole študoval medicínu , do ktorej ho otec nútil , pretože chcel , aby žil lepšie ako on .	10	Imperfective
+Nuž som sa rozhodol , prirodzene , že ten rubín zmizne z jeho vrecka a zjaví sa v mojom . “	15	Perfective
+Noviny ste zabudli v kaviarni , letáky neznášate .	2	Perfective
+Zrejme mala akúsi praktickú ostrieľanosť , ktorá Winstonovi chýbala a podľa všetkého vďaka nespočítateľným spoločenským výletom výborne poznala okolie Londýna .	1	Imperfective
+“ Nesmieš sa udrieť , nesmieš sa udrieť , nesmieš sa udrieť .	1	Imperfective
+I ja mám občas dojem , že môj život riadia mamine nesplnené sny .	2	Imperfective
+“ No dovoľ ! “ vyhŕkla som .	2	Perfective
+Vytrhal ľan a zviazal ho do snopu .	3	Perfective
+Shepherdovci bývali v luxusnej štvrti , kde boli samé honosné domy .	1	Imperfective
+Niečo v jej posunku mu naznačilo , že sestrička umiera .	5	Perfective
+Maja vyskočila , schytila Svetlanku a zakrútila sa s ňou dokola .	6	Perfective
+“ Ocko ! “ zvolala Jazmína , keď sultán zmizol .	9	Perfective
+Skúste siahnuť po nejakej knižnej novinke , zoznam nájdete v Knižnom katalógu .	8	Perfective
+“ Sú veľmi čistotné a hryzú iba vtedy , keď ich obliekate . “	1	Imperfective
+Pred okienkom do pivnice ležal lesklý tvor s červenými očami a nahlas funel .	4	Imperfective
+“ Neviete , že vám piraňa za pár sekúd obžerie všetko mäso ? “	1	Imperfective
+My sme mŕtvi , im patrí budúcnosť .	1	Imperfective
+Zbadal dolu Šer Chána .	0	Perfective
+Leopard Sabor sa chystal zaútočiť .	3	Imperfective
+Všetkým sa zdal veľmi zaujímavý , najmä pavúčici Hedvige .	2	Imperfective
+Faika si nič nevšimla a nevmietla mi do tváre nijaký prívlastok .	5	Perfective
+Na Majino prekvapenie bola pod ním malá jaskynka .	3	Imperfective
+Chcel som tej rieke zabrániť , aby vyrazila von , bolo to však nemožné .	0	Imperfective
+Takmer ihneď usnuli a driemali asi polhodinu .	2	Perfective
+A takto sa dostávame k jej koncu .	3	Imperfective
+“ Nemôžeš mi nič zakazovať !	1	Imperfective
+" Dom je obkľúčený , " povedal Winston .	2	Imperfective
+My sme mravce smelé , my sa nezľakneme .	1	Imperfective
+Kolektívne postupovať nemôžeme .	2	Imperfective
+Obyvatelia Makovej lúky sa kvôli tej ľudskej stope naozaj pripravovali na evakuáciu .	9	Imperfective
+Rovnako ako sú lovené pre mäso , sú kosatky zabíjané aj preto , že konkurujú rybárom .	2	Imperfective
+" To je jej druh krásy , " poznamenal Winston .	8	Perfective
+" Vy ste zrejme od svojho mládenectva zažili ohromné zmeny , " opáčil Winston .	12	Perfective
+Pri príležitosti Irminho odchodu sme usporiadali slávnostný obed .	4	Imperfective
+Neustály pohyb roztavenej hmoty jadra vytvára zemské magnetické pole .	5	Imperfective
+Zasmiala som sa .	0	Perfective
+Podpísal Chartu 77 , v roku 1988 sa stal aj signatárom Hnutia za občiansku slobodu .	8	Perfective
+Vypla som tranzistor .	0	Perfective
+Dal som jej aj nejaké ruble a povedal som , aby za ne nakúpila pivo a ešte niečo iné .	8	Imperfective
+Veď ho strhne do hlbočiny , pomyslela si Polly .	2	Perfective
+“ Tak aké je rande , princezná ?	3	Imperfective
+“ Ďakujem , že si našiel Tarzana , “ povedala Terk Kechakovi .	5	Perfective
+Nezničil som ich , iba som ich ukryl .	5	Imperfective
+Ľudovítovou manželkou bola Mária , sestra rakúskeho arcivojvodu Ferdinanda Habsburského , ženou Ferdinanda naopak Ľudovítova staršia sestra Anna .	2	Imperfective
+Ako som počúval otcove husle , pred očami sa mi zjavil portrét ženy z medailónu .	1	Imperfective
+Ja by som si dovolil tvrdiť , že nefungujú .	4	Perfective
+Keby som ich mohla premeniť na chrobáky , obidvoch by som bez štipky milosrdenstva zabila .	1	Imperfective
+Správal sa , akoby sa nič nestalo .	6	Perfective
+Vedel , že ho má vo svojej hadej moci , ktorou môže zhypnotizovať aj to najživšie zviera .	12	Perfective
+Chvíľu ho nechali metať sa vo vode , no potom prilákali k studni muža , čo okopával záhradku .	10	Perfective
+Neprehovorila .	0	Perfective
+Jasne som chápal len absurdnosť situácie , v akej som sa ocitol .	11	Perfective
+Ďakujem , “ odvetila som a vymanila si studené prsty spod jeho rúk .	0	Imperfective
+Ako dôvod administratíva uviedla , že už nie je relevantná .	3	Perfective
+Odišla som preč , nechala som ho tam .	0	Perfective
+A on skutočne odišiel .	3	Perfective
+Dievčina sa usadila .	2	Perfective
+Pápežovi zástanci odpovedajú , že tieto tvrdenia sú nepravdivé .	7	Imperfective
+Zodpovedná makroekonomická politika sa bude opierať o pokračovanie vyváženej spolupráce medzi vládou a NBS .	4	Imperfective
+“ Amy , “ povedal a jemne ma chytil za lakeť .	8	Perfective
+Na dvore som hadicou napustila slnkom zohriatu vodu a začala som šampónovať auto .	11	Imperfective
+" Si posledný človek , " poznamenal O ' Brien . " Si ochranca ľudského ducha .	1	Imperfective
+Neskôr vám zaobstaráme niečo iné .	2	Perfective
+Vtáky spievajú , proleti spievajú , Strana nespieva .	1	Imperfective
+Bola špička a cez okienka som videla , že všetky sedadlá obsadili ľudia , čo pracujú v centre .	5	Imperfective
+Predpokladala som , že hovorí o Chrisovi .	1	Imperfective
+Väčšina vojska stála na jeho strane , a tak si mohol dovoliť prehlásiť kráľa za zosadeného a začať pochod na Ktésifón .	10	Imperfective
+Viedenský cisársky dvor uznal vedeckú činnosť Mateja Bela a samostatný cisár Karol VI . financoval vydávanie jeho vlastivedných prác .	3	Perfective
+Do literatúry vstúpil r . 1935 románom Poéma dňa i noci .	2	Perfective
+“ To je zbytočné , “ odvetila , prišla za mnou a objala ma okolo pliec .	6	Perfective
+Stavajú domy , čo plávajú na vode .	0	Imperfective
+“ Nie je zlý , hoci lepšie mi chutí náš . “	2	Imperfective
+O prípadnom sobáši nedebatovali .	3	Imperfective
+Rozzúreného Šuchtáka vystrieda slimák Plazivec a hra pokračuje .	7	Imperfective
+Túto úlohu by mali zabezpečiť názvy jednotlivých kapitol .	3	Imperfective
+Odtiaľ som cez neveľké dvere , ktoré sme na noc zatvárali znútra hákom , vyšiel do dvora .	7	Imperfective
+Obávam sa , že ocko nedovolí , aby sa mu po paláci potuloval tiger .	12	Imperfective
+To znamenalo jednak zákaz uctievania pohanských kultov , ale najmä ostré opatrenia proti kresťanským herézam .	1	Imperfective
+Dozvedel som sa to , keď som sa vrátil domov a ešte predtým urobil jeden pokus .	1	Imperfective
+Cieľom tejto druhej fázy bolo znepokojiť dôstojníka KFOR .	5	Perfective
+Ja som ich ani nepočúval , ani som si nič nemyslel .	4	Imperfective
+“ Zachovajte pokoj a rozvahu , “ zavelila im .	7	Perfective
+Bez slova a bez pozdravu Martin odišiel , ticho zatvoril za sebou dvere .	9	Perfective
+Vstal a usmial sa .	2	Perfective
+Nechcel sklamať otca .	1	Perfective
+“ Poď aj ty ! “ zavolal pološeptom a šliapal vodu .	6	Perfective
+Stál tam v otrhaných šatách , aké nosieval , keď sa túlal po uliciach .	11	Imperfective
+Zdvihla slúchadlo .	0	Perfective
+“ Mrzí ma to , “ vyhlásil Vilko , “ ale Kurt nie je nijaká osa ! “	1	Imperfective
+O ' Briena vyparia .	3	Perfective
+Obaja sme sa usmiali , lebo nám obom bolo jasné , že naše rande nikdy nebude len také obyčajné .	8	Imperfective
+Zvláštne inštrukcie doručili tatárski poslovia miestodržiteľom provincií .	2	Perfective
+Otvorila som balkónové dvere , po mačke ani stopy .	0	Perfective
+Sú vhodné do teplého letného počasia , od jesene do jari ich použitie neodporúčam .	13	Imperfective
+" Je to zvláštne , nazdala som sa , že je plný .	1	Imperfective
+“ Prineste i za mňa , “ vyhlásil Vilko a skočil do postele .	10	Perfective
+Išli pomaly a váhavo .	0	Imperfective
+" Mám tridsaťdeväť rokov .	1	Imperfective
+“ Raz to oľutuješ , Rahim . “	3	Perfective
+“ U nás budete zaručene spokojní , inak vám vrátime peniaze ! “ kričal .	3	Imperfective
+Winston si nečujne povzdychol .	3	Perfective
+Mama by sa nepotešila , keby som sa správala podľa vlastných predstáv .	6	Imperfective
+Vtom medzi nich skočil zo stromov Tarzan .	3	Perfective
+Túto reputáciu je možné napraviť iba presadením iného mena .	2	Imperfective
+Bola Ruska a ja som po nej túžil .	7	Imperfective
+Dohodneme sa ? “	0	Perfective
+Krátko navštevoval Školu svätého Filipa , absolvoval Školu kráľa Edwarda v Birminghame a Exeterskú Fakultu v Oxforde .	6	Perfective
+JEDNÉHO DŇA SA PYŠNÁ KRÁĽOVNÁ SPÝTALA svojho zázračného zrkadla : “ Povedzže mi , ktože je najkrajší v našej zemi ? “	15	Imperfective
+“ Tak dobre , “ vraví .	5	Imperfective
+Kým som ich mal tajne odložené , stelesňovali moju vinu .	7	Imperfective
+“ Ja si počkám , “ odmietla .	3	Perfective
+Najprv si myslel , že to vybaví podobrotky .	2	Imperfective
+Po známej zrážke s okrajom bazéna ma boleli päty a prestala som si veriť .	11	Imperfective
+Maja ho ustavične chválila a polichotený Vilko len tak rástol .	3	Imperfective
+Tak tomu hovorím názorný príklad fungovania zóny najbližšieho vývinu , o ktorej som písala minule !	13	Imperfective
+Namiesto toho som zašiel k predavačovi novín .	3	Perfective
+Rozlomila ju na dve polovice a jednu dala Winstonovi .	7	Perfective
+Vedomie más treba ovplyvňovať len negatívnym spôsobom .	3	Imperfective
+Zahynul pri leteckej katastrofe pri návrate na Slovensko .	0	Perfective
+Nazlostený Džafar vyskočil z trónu , ktorý pripomínal kobru .	7	Imperfective
+Tá epizóda mohla mať len jediný zmysel .	2	Imperfective
+Vypil ďalší dúšok džinu , vzal bieleho jazdca a pokusne ním tiahol . Šach !	5	Perfective
+Vystrela som sa a poďakovala mu .	4	Perfective
+Podišiel som k oknu , že sa spýtam svojich postáv , čo si o tom myslia .	15	Imperfective
+“ Dám príbor , “ ponúkol sa Chris , “ ak mi povieš , kde ho nájdem . “	16	Perfective
+Buď to spôsobil príval jej vďačnosti , alebo slovo „ ujo “ , ktoré vyslovila s akousi sexuálnou dôvernosťou .	14	Perfective
+“ Padajme , kým nás tu zbadá správca , “ zašepkala som .	11	Imperfective
+Hrozba rozvodu visela nado mnou ako Damoklov meč .	2	Imperfective
+“ Musíme ho rozveseliť , “ pošepla Maja Vilkovi .	1	Imperfective
+Teraz ťa pozývam ja , povedal som , ale Lori odvetila , že nič nechce .	5	Perfective
+Spravodajca BBC napríklad informoval , že veľká naháňačka za lístkami do pekinskej opery naznačovala , že Kim mal navštíviť včerajšie predstavenie .	3	Imperfective+Perfective
+V roku 1984 sa Ján Pavol stal prvým pápežom , ktorý navštívil Portoriko .	6	Perfective
+Koncerty vážnej hudby sa konajú v novom kostole .	4	Imperfective
+Po putovaní rôznymi bratislavskými krčmami sa slovenské večery vrátili do Véčka .	8	Perfective
+Mala som dojem , že som sa vrátila z cesty okolo sveta .	1	Imperfective
+Winston študoval štyri vyrovnané zvitky papiera .	1	Imperfective
+Hladko som vkĺzla pod vodu a vynorila sa na hladine .	2	Perfective
+Nikto sa mu nečuduje .	3	Imperfective
+Aj oni mali pred sebou lepšiu a krajšiu budúcnosť a máme ju aj my .	2	Imperfective
+“ Ty chceš ísť na túru ? “ spýtala som sa a pozrela na hodinky .	9	Imperfective
+V tej chvíli Makulienka celkom stratila srdce .	5	Perfective
+Chrisovo miesto bolo prázdne .	2	Imperfective
+Ide o unifikáciu .	0	Imperfective
+20 . februára 2005 Bush začal svoje „ turné “ po Európe .	5	Perfective
+Jeho otcom bol kráľ Hormizd II . ( vládol 302 – 309 ) , matkou jedna z kráľových konkubín .	8	Imperfective
+Netušili , čo to znamená a čoskoro sa dostali do úzkych .	0	Imperfective
+Neničíme kacíra preto , že nám odporuje ; pokým nám odporuje , neničíme ho .	10	Imperfective
+Zvýšil rozpočet vnútornej a zahraničnej bezpečnosti , ale znížil výdaje na nevojenské programy .	8	Perfective
+“ Napríklad na nej chodiť , “ napadlo Maji a hneď si to vyskúšala .	4	Imperfective
+Pre nesúhlas samosprávy blokovalo KDH vstup SMK do Európskej demokratickej únie .	3	Imperfective+Perfective
+“ Radšej choďte na večeru ku Kojotovi , “ pokračovala Shannon .	2	Imperfective
+V roku 1984 sa Ján Pavol stal prvým pápežom , ktorý navštívil Portoriko .	11	Perfective
+Zrazu sa zachvela zem a dievčatko skoro spadlo .	2	Perfective
+Zbytočne som komplikoval situáciu .	2	Imperfective
+Tak sa hovorievalo .	2	Imperfective
+Ale moja forma nemala dlhé trvanie .	3	Imperfective
+Mama vošla do izby mlčky .	1	Perfective
+Na druhý deň navštívila Klotilda Teklu a začali muzicírovať .	7	Perfective
+Hook sa napokon obrátil k Wendy , zľahka sa dotkol klobúka a vystrúhal poklonu .	12	Perfective
+Možno budeš musieť čakať .	1	Imperfective
+Fínsky grafik Erik Bruun použil Lönnrotovu podobizeň ako motív na päťstomarkovú bankovku .	4	Perfective
+Svätojánske mušky , lienky a niekoľko včiel sedelo alebo ležalo na dlážke a smutne vyčkávalo na svoj osud .	9	Imperfective
+Bolo živé .	0	Imperfective
+Už som nič necítila .	3	Imperfective
+Štúdiom vysokej atmosféry sa zaoberá aeronómia .	4	Imperfective
+Konečne nastal veľký deň a porota si obchádzala vystavené košíky .	7	Imperfective
+Otec sa práve vrátil domov .	3	Perfective
+Nekúpila som ho , povedala , priniesla som ti ho .	6	Perfective
+Húf mojich postáv i muž , ktorý mi radil , aby som pohol mozgom , zmizli .	15	Perfective
+Mám to tu vnútri , povedal som jej .	0	Imperfective
+Napriek mojej nezrozumiteľnej ruštine opäť pochopila .	5	Perfective
+Práve pripravujem tortu na jej narodeniny .	1	Imperfective
+Uvidíte , nabudúce prídem za vami zas !	0	Perfective
+Nechal som ju vzlykať .	3	Imperfective
+Ako si usúdila , že neprídem ?	1	Imperfective
+Ale ten namyslený chvastúň nemá nijaké sérum proti hadiemu jedu .	4	Imperfective
+Pomaly sa odplazil preč .	2	Perfective
+Moji rodičia sa báli .	3	Imperfective
+Mešec je prázdny !	1	Imperfective
+Základným pojmom používaným na popísanie zmeny je pojem funkcie .	6	Imperfective
+Vždy hulákaj s davom , to je moja zásada .	6	Imperfective
+Bosorka sa nad ňou víťazne skláňala a zaškriekala .	7	Perfective
+“ Aj ja , “ odvetil Chris a pohrával sa mi s vlasmi .	8	Imperfective
+Bol to riskantný nápad , lebo nemusel vyjsť .	7	Perfective
+Vláda sprehľadní pravidlá dotačnej politiky a zároveň dokončí realizáciu schválenej licenčnej politiky .	7	Perfective
+V kláštornej škole študoval medicínu , do ktorej ho otec nútil , pretože chcel , aby žil lepšie ako on .	3	Imperfective
+Bol to neuveriteľný pohľad a pripomínal skôr fatamorgánu .	0	Imperfective
+“ Ešte by som si niečo dal , “ povedal Chris , keď pozrel na jedálny lístok .	6	Perfective
+Vďaka svojmu umeniu prepojiť budhistickú spiritualitu a prírodu je občas nazývaný „ laureátom hlbinnej ekológie “ .	3	Perfective
+“ Vidíte , čo ste spravili ? “ zabzučala a starostlivo si kefovala jemné chĺpky na tele .	5	Perfective
+“ A reči o tvojom starkom neber vážne .	6	Imperfective
+Nespýtala som sa ho to .	0	Perfective
+“ Je na ňom symbol bohov , “ vysvetľovala Alkmena .	1	Imperfective
+Rozbúrila more a na rozčerenej , spenenej hladine sa ako atrament černela tekutina , ktorú vypúšťajú iba chobotnice .	11	Imperfective
+" Už dlho som to slovo nepočul .	3	Imperfective
+“ Mama mi ho poslala .	4	Perfective
+Zrejme mala akúsi praktickú ostrieľanosť , ktorá Winstonovi chýbala a podľa všetkého vďaka nespočítateľným spoločenským výletom výborne poznala okolie Londýna .	17	Imperfective
+“ Nič nie je v poriadku , “ namrzene odvrkla Frida .	3	Imperfective
+Ako som vychádzala zo školy , zbadala so , že sedí na trávniku pri zastávke môjho autobusu .	2	Imperfective
+Pomyslel som si , že plače .	1	Imperfective
+V prípade , že klerik žaluje laika , má sa spor prerokovať pred svetským sudcom .	11	Perfective
+Spustili novú internetovú televíziu Braňa Krála	0	Perfective
+Veľmi sa mi páčilo aj skadarské nárečie , aj skadarskí básnici .	3	Imperfective
+Mnohých som už predtým veľakrát videla na štartovacích blokoch .	1	Imperfective
+Jachtala som , rýchlo som zavrela notes a strčila ho späť do vaku .	1	Imperfective
+Bude tu doma .	0	Imperfective
+“ Chcem , “ odvetil .	4	Perfective
+Nemôžeme sa skrývať za masu ani za tradíciu cirkvi , keď nás Kristus oslovuje na ceste nášho života .	13	Imperfective
+Otrokársky generál sa spamätal až po hodnej chvíli .	3	Perfective
+Deti sú v prevažnej miere rímokatolíci .	1	Imperfective
+Po tréningoch som ostávala v bazéne a trénovala som sama .	8	Imperfective
+Mal neuveriteľne dlhé , tenké nohy a smiešne , malé , hnedé a guľaté telíčko .	0	Imperfective
+“ Len sa tak netvárte , “ namietala vážka Kráska .	4	Imperfective
+Abu sledoval , kam pozerá , a zbadal dievča .	7	Perfective
+Už som ho niekde počul .	1	Imperfective
+“ Chcete ju vidieť ? “	3	Imperfective
+Netešíš sa , že žiješ ?	4	Imperfective
+Samotný obsah robili chlapci , ktorí sa potulovali po Terezíne a hľadali témy .	7	Imperfective
+Po príchode chcel dohodnúť s vojenským velením podrobnosti presunu legionárov do vlasti .	3	Perfective
+Netušila som , že počúvajú , ale zrazu všetci hýrili nápadmi .	0	Imperfective
+“ Čo , prosím vás , “ spýtal sa Hanibal , “ znamená prečnoha ? “	7	Perfective
+Vytvoril prvú funkčnú verziu a zverejnil na internete zdrojový kód .	5	Perfective
+“ To je zaujímavé , “ vraví Maja .	2	Imperfective
+Drúk s newyorskou čiapkou , ktorý prišiel na túto svetovú križovatku , aby sa tu vymočil .	15	Perfective
+“ Ospravedlníte ma na chvíľu ? “ spýtala sa .	7	Perfective
+Vstal som a podišiel k Irme .	1	Imperfective
+Zmizol , keď mala osem rokov .	3	Imperfective
+Svojho dôstojníka KFOR priviedla Irma domov o tri dni .	3	Perfective
+Natiahla sa k zásuvke na mojej strane a prehŕňala sa v nej , až kým nenašla škatuľku cigariet .	8	Imperfective
+Rástol , zrel až dozrel .	2	Imperfective
+Začal som chodiť po izbe s telefónom v ruke .	1	Imperfective
+Vilko stál v cieli so stopkami a meral čas .	1	Imperfective
+Ty mi neveríš ? “	2	Imperfective
+Naďalej som tam stál so spustenými rukami a na Lorino objatie som neodpovedal .	3	Imperfective
+“ Ja viem , odkiaľ je , “ povedala Jazmína .	2	Imperfective
+Kňazi udeľovali sviatosti .	1	Imperfective
+Vedela som , že obaja túžime , aby táto čarovná noc trvala večne .	11	Imperfective
+Toto mi vysvetľovala aj stará mama z otcovej strany , povedala .	10	Perfective
+Bol to chlapec veľmi talentovaný a rád športoval .	0	Imperfective
+Nevešajte hlavu , sústreďte sa na podstatné záležitosti .	3	Perfective
+Mal pocit , že ho v žalúdku páli oheň .	7	Imperfective
+Lulu , ošetrovateľka v ZOO pre mláďatká , zvieratká ľúbila .	9	Imperfective
+Nato sa zvrtol a stratil sa v džungli .	4	Perfective
+Na moje „ haló “ sa ozval doktorov známy hlas .	6	Perfective
+Aladin sa uškrnul a podal Abdullahovi krištáľovú guľu .	2	Perfective
+Pozorovania , ktoré by to objasnili , stále prebiehajú .	8	Imperfective
+Priamym následkom tejto porážky bola strata Milána a ústup hlavných francúzskych síl smerom k francúzskym hraniciam .	4	Imperfective
+Záujemcov o šport poteší futbalový turnaj pre dospelých a jazda na koni pre deti .	3	Perfective
+Hoyle túto teóriu nepodporoval a plánoval sa jej vysmiať .	8	Perfective
+Takže teraz veľmi čakám , či niekto z mienkotvorných hláv Bútorovho elektorátu urobí sebakritickú analýzu tohto svojho fatálneho politického omylu .	12	Perfective
+“ Asi mám , “ odvetil Chris a pokračoval v kreslení .	8	Imperfective
+Píše Lize , pomyslel som si .	3	Perfective
+Alfonz prijal s úľavou od kamarátov ponuku , že mu pomôžu pripraviť oslavu .	11	Perfective
+Situácia sa dramaticky vyhrotila .	3	Perfective
+Keď sedím pri stole aj keď som pred oltárom .	6	Imperfective
+Vtedy som sa dozvedela len toľko , že mi zomrel otec .	1	Imperfective
+Nečudujem sa , že výborne urobil záverečné ročníkové testy .	0	Imperfective
+Keď sa napokon obzrela , škriatka už nebolo .	3	Perfective
+Miestnosť bola priveľmi stiesnená , lebo všetky steny dookola podopierali nespočítateľné množstvo zaprášených rámov naukladaných jeden na druhý .	9	Imperfective
+Nevládala som naňho pozrieť .	0	Imperfective
+Winston na chvíľu prestal čítal .	3	Perfective
+Bozkávala ma a dovolila mi , aby som ju bozkával na pery .	9	Imperfective
+S cieľom vyhľadávať námety pre kritiku .	2	Imperfective
+Cieľom fiškálnej politiky vlády bude zníženie podielu verejného dlhu na hrubom domácom produkte počas volebného obdobia .	4	Imperfective
+“ Bola si tretia .	2	Imperfective
+“ Môjmu kráľovskému uchu sa donieslo , že chceš ostať v džungli . “	9	Perfective
+Hádes nemohol pokojne spávať , kým sa nepresvedčil , že tvoj otec je mŕtvy .	3	Imperfective
+Po dlhom období dažďov vykúklo opäť slniečko .	4	Perfective
+Nemôžeme sa skrývať za masu ani za tradíciu cirkvi , keď nás Kristus oslovuje na ceste nášho života .	0	Imperfective
+“ Môžeš chodiť , kam len chceš . “	2	Imperfective
+Chris otvoril kôš a vybral dve koly .	4	Perfective
+15 . augusta mal Irak podľa pôvodného plánu prijať novú ústavu .	8	Perfective
+V úvode pasáže volchvi symbolizujú bielych šamanov , vysporiadávajúcich sa s čiernymi šamanmi .	4	Imperfective+Perfective
+V roku 1841 jeho syn Johann začal hromadnú výrobu .	6	Perfective
+Niekedy plakala .	1	Imperfective
+“ Poznám tvojho otca veľmi dobre a viem , že sa nikdy nezmení .	12	Perfective
+On sa smial a ja som bola čoraz zúrivejšia .	2	Imperfective
+Domorodcom prišlo vhod , že som sa ubytoval v tej izbe .	1	Perfective
+Bezprostredne za skúmanou pasážou nasleduje zmienka o založení novgorodského chrámu sv . Sofie .	4	Imperfective

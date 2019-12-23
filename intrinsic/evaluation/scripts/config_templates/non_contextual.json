@@ -1,0 +1,58 @@
+{
+  "dataset_reader": {
+    "type": "uncontextualized_sentence_vectors",
+    "token_indexers": {
+      "tokens": {
+        "type": "single_id",
+        "lowercase_tokens": true
+      }
+    }
+  },
+  "train_data_path": "../data_contextual/FEAT/LANG_LONG/train.txt",
+  "validation_data_path": "../data_contextual/FEAT/LANG_LONG/dev.txt",
+  "test_data_path": "../data_contextual/FEAT/LANG_LONG/test.txt",
+  "model": {
+    "type": "mlp_classifier",
+    "text_field_embedder": {
+      "token_embedders": {
+        "tokens": {
+          "type": "embedding",
+          "embedding_dim": EMB_DIM,
+          "pretrained_file": "pretrained_embedding_file",
+          "trainable": false
+        }
+      }
+    },
+    "classifier_feedforward": {
+      "input_dim": EMB_DIM,
+      "num_layers": 2,
+      "hidden_dims": [
+        300,
+        XXX
+      ],
+      "activations": [
+        "relu",
+        "linear"
+      ],
+      "dropout": [
+        0.5,
+        0.0
+      ]
+    }
+  },
+  "iterator": {
+    "type": "basic",
+    "batch_size": 16
+  },
+  "trainer": {
+    "num_epochs": 20,
+    "patience": 5,
+    "cuda_device": GPU,
+    "grad_clipping": 5.0,
+    "validation_metric": "+accuracy",
+    "optimizer": {
+      "type": "adam"
+    }
+  },
+  "evaluate_on_test": true
+}

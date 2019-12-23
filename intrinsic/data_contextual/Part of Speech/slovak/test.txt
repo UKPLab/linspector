@@ -1,0 +1,1000 @@
+Adoptoval ho cisár Tiberios II . , po ktorého smrti nastúpil na trón .	9	Noun
+A kto tie náročné preteky vyhral .	5	Verb
+Ľúbil som všetky ženy , s ktorými som mal pomer .	6	Determiner
+Chcel by som s tebou prebrať istú myšlienku , ktorá ma znepokojila len pred chvíľou , keď Irma odišla na letisko .	20	Noun
+Steblo sa zlomilo a on skončil na chrbte .	2	Verb
+Gaston sa obrátil k zástupu dedinčanov , ktorí sa medzitým zhromaždili okolo neho .	8	Pronoun
+Hrubín sa výrazne podieľal na založení detského časopisu Mateřídouška , v rokoch 1945 – 1950 ho redigoval .	10	Adposition
+Vreckový nožík	0	Adjective
+V popoludňajšej tíši prekvapovala hlasitosť jeho zvuku .	0	Adposition
+Vedľa v sieni sa zatiaľ zhromaždenie skončilo a v sršňom meste zavládol pokoj .	3	Pronoun
+Kniha obsahovala rastliny , ktoré Lönnrot zobral pri svojich cestách , poznámky o ich použití a opisy kvetov a listov .	7	Adposition
+Za jeho nástupcou Anastasios vymenoval monofyzitského patriarchu z Antiochie .	0	Adposition
+Rusko sa rozhodlo grécky problém internacionalizovať .	5	Verb
+Sám M . N . Tichomirov uvádza , že ide o pozostatok starého rítu Mordovcov .	0	Determiner
+Okno bolo len zámienkou a ona to svojou ženskou intuíciou vytušila .	2	Particle
+Maja zaletela na breh , aby si na chvíľu odpočinula .	2	Adposition
+Sú mojimi obeťami a prišli sem z jediného dôvodu : aby ma súdili .	5	Adverb
+Kým to hovoril , nenápadne sa posúval bližšie k včelám .	9	Noun
+Iba jeden z nich , Zdeněk Taussig , zostal v Terezíne až do jeho oslobodenia v máji 1945 .	17	Numeral
+Do 18 . storočia vstupovala Trnava ako univerzitné mesto známe v celej Európe .	5	Proper Name
+Minule sa môj kolega Rado Ondřejíček fejtónovým perom pustil do problému hlupákov medzi nami .	3	Noun
+Táto povinnosť sa však nevzťahovala na produkty , ktoré sa jednak priamo a jednak symbolicky týkali základných prejavov kresťanského kultu .	10	Conjunction
+Winston vedel , že tam sú , ale zazrel ich iba podchvíľou .	9	Pronoun
+Nové zabudované moduly môžu byť jednoducho napísane v C alebo C + + .	0	Adjective
+Koniec rebríka preťal okno a prelomil rám .	2	Verb
+Jeho straty boli značné .	2	Participle
+Každý ju má .	2	Verb
+Faika ma presvedčila o opaku .	0	Proper Name
+Rozoberané nepokoje sa odohrávajú v Beloozere , Novgorode , Suzdali , roku 1091 sa objavuje volchv i v Rostove .	15	Noun
+Nekúpila som ho , povedala , priniesla som ti ho .	0	Verb
+“ Predstavujem si , ako prekonávam krajský rekord v prsiach , “ vysvetľoval mi .	1	Verb
+Z tohto obdobia je prvý monoskop s nápisom " ČS .	6	Adposition
+“ Nie , “ odvetila som a žmurkla na Chrisa .	5	Verb
+Vláda pripraví koncepciu legislatívnych opatrení a ekonomickú stratégiu pre digitalizáciu televízneho a rozhlasového vysielania .	4	Noun
+Pápežovi zástanci odpovedajú , že tieto tvrdenia sú nepravdivé .	6	Noun
+“ No a ?	1	Particle
+Išli sme až k nášmu vchodu na zadnej strane domu a celou cestou sme mlčali .	6	Adposition
+Ďalšou dôležitou vlastnosťou Pythonu je to , že sa dá jednoducho rozširovať .	10	Adverb
+Za opáta Odona , Bernonovho nástupcu , sa potom vytvorili predpoklady , aby sa Cluny stalo strediskom skupiny kláštorov .	1	Noun
+Maja si s hrôzou spomenula na Teklu .	6	Proper Name
+Lenže Jasper chcel peniaze , ktoré mu sľúbila za krádež šteniat .	6	Pronoun
+Táto nedôvera voči zemiakom trvala takmer dve storočia .	3	Noun
+Vtedy vyšla moja KNIHA Paradigmatika spisovnej ruštiny , ktorá sa stala celoštátnou univerzitnou učebnicou ruskej TEORETICKEJ morfológie .	11	Adjective
+Maja dala Evelínke od radosti veľkú pusu .	1	Verb
+Síce sme nevyhrali , ale verím , že aj to príde .	2	Verb
+Vždy som mával zvláštny pocit , že ten človek ma neznáša .	9	Pronoun
+Na prvý pohľad je tu zrejmá podobnosť so znením kánonov , ktoré sa týkajú rehoľníkov .	3	Verb
+Pri delení sveta medzi troch Kronových synov mu pripadla morská ríša .	3	Adposition
+Nie je to na porazenie ? !	4	Noun
+V tom čase však už bolo lýceum pomaďarčené a z vlasteneckých profesorov tu učil iba Ján Kvačala .	2	Noun
+Lesné a vodné hospodárstvo	2	Adjective
+Ľud prenikol do cisárskeho paláca a vyvliekol nenávideného Foka na Herakleiovu vlajkovú loď .	2	Adposition
+“ To je nespravodlivé ! “ namietla som .	7	Verb
+Ja som zaujímal svoj výklenok , ona prichádzala po mne .	6	Pronoun
+Mne nie !	1	Particle
+Potom zostával na noc aj inokedy .	2	Adposition
+Ďalšiu polovicu som odhodil do kontajnera pri sedačke .	0	Adjective
+Bez problémov našiel moje pery , akoby dôverne poznal moju tvár .	9	Determiner
+A v mozgu sa mi vynorila zabudnutá scéna .	0	Particle
+O chvíľu prišiel za mnou Rick .	4	Pronoun
+Začiatkom týždňa sme písali ďalší test a profesor Tayerle nám ho dnes priniesol opravený .	4	Adjective
+Mal vysokú , štíhlu , ale svalnatú postavu a pophyboval sa s nesmiernou ľahkosťou .	3	Adjective
+Všetky zvieratká bežali do bezpečia , no Polly letela po zobák vody .	3	Adposition
+Krátko navštevoval Školu svätého Filipa , absolvoval Školu kráľa Edwarda v Birminghame a Exeterskú Fakultu v Oxforde .	0	Adverb
+Rozmyslel som si to .	3	Determiner
+Pamätajte na Ježišove slová : Kto vytrvá do konca , bude spasený .	7	Adposition
+Sám sa dovtíp , kto som !	5	Verb
+Justiánov mladší brat sa volal Herakleios .	2	Noun
+Raz sa podobali na rybu , potom na obra alebo na obriu včelu .	9	Conjunction
+Chrobák zmizol medzi okvetnými lístkami .	3	Adjective
+“ Prečo ste neoslavovali aj vy ? “ vypytoval sa Vilko .	8	Verb
+Keďže samice môžu žiť až 90 rokov , nie je neobvyklý život štyroch alebo dokonca piatich generácií v jednej línii .	10	Adjective
+Na konci tridsaťročnej vojny , v roku 1648 , celú zbierka odviezli Švédi .	12	Proper Name
+Raz to boli gombičky , potom vlnené handry na záplaty a raz šnúrky od topánok ; a teraz to boli žiletky .	5	Adverb
+Tigríča jej nešikovne skočilo do náručia a princezná zacítila mäkulinkú teplú guľku s hodvábnou srsťou .	8	Verb
+V tieni stromu s veľkými listami bol príjemný chládok .	3	Adposition
+Začiatkom studenej vojny sa Berlín dostáva do centra konfliktov medzi víťaznými mocnosťami .	0	Adposition
+Uvedomila som si , že som nevhodne zareagovala , lenže ten bozk ma naozaj vyviedol z miery .	10	Determiner
+Zakrátko sa toho nespratníka raz a navždy zbaví !	0	Adverb
+Po príchode Reinharda Heydricha do Prahy a zatknutí protektorátneho premiéra Aloisa Eliáša sa Hácha dostal pod zvýšený tlak okupantov .	8	Adjective
+Konečne v neskorej jeseni opustil Španielsko , aby sa tam už nikdy nevrátil .	3	Noun
+Lori po rusky nerozumela , ja som občas zachytil nejaké slovo .	0	Proper Name
+Spoločne mu ukázali upravené domčeky i podzemné chodby .	7	Noun
+Pripomínali mi najdaromnejšie obdobie môjho života .	0	Verb
+O jej presnej funkcii sa názory dodnes rozchádzajú .	7	Verb
+" Možno som sa nevyjadril celkom presne , " poznamenal .	6	Adverb
+Ako sa stretla s motýľom Emanuelom	3	Adposition
+Porovnanie s inými katastrofami	3	Noun
+Márne sa ho pokúšam dohoniť .	1	Pronoun
+Vseslav — vodca kyjevského povstania je z Polocka a nepokoje sú i v Novgorode .	11	Conjunction
+Na dvore som hadicou napustila slnkom zohriatu vodu a začala som šampónovať auto .	12	Noun
+Usadili sme sa pripravení sledovať oblohu .	2	Pronoun
+Nedýchala som , lebo skúmavo na mňa pozeral .	7	Verb
+Obra Jumba všetci oslavovali a vymenovali za čestného občana Makovej lúky .	10	Noun
+Keď som ho zazrela , usmial sa .	6	Pronoun
+Situáciu umožňujú skompletizovať archeologické vykopávky v Timerevskom hradisku .	6	Adjective
+Pedra totiž široko ‐ ďaleko poznali ako záletníka a donchuana .	6	Conjunction
+Vtedy vyšla moja KNIHA Paradigmatika spisovnej ruštiny , ktorá sa stala celoštátnou univerzitnou učebnicou ruskej TEORETICKEJ morfológie .	1	Verb
+Sú to naše nepriateľky , “ podráždene odvetila Kráska .	6	Adverb
+Ukázalo sa , že to bolo veľmi prezieravé rozhodnutie , lebo Lev po sotva ročnej vláde zomrel na neznámu chorobu .	6	Adverb
+A dve deti , vydatú dcéru a syna študenta .	5	Noun
+Velením týchto vojsk poveril bývalých dôstojníkov Nového poriadku , čo rozhorčilo reakcionárov .	5	Noun
+Ale pri pochodovaní sa nerozpráva .	0	Conjunction
+MIROSLAV BUKOV	0	Proper Name
+Neskoršie hlavné svoje diela Galilei písal po taliansky .	2	Determiner
+Zničená som si prisahala , že si cez obedňajšiu prestávku zaplávam a budem trénovať obrátky dovtedy , kým ich nezvládnem .	7	Adposition
+Slávnostne , s nádejou v lepšiu budúcnosť .	3	Noun
+Na stenách viseli zaprášené police s prastarými knihami zaklínadiel a čarov .	4	Noun
+Než si ju vzal , vedel podľa vône , že je to veľmi netypická čokoláda .	14	Noun
+Zrazu zbadal v kroví hlúčik tulákov .	1	Verb
+Skúmal napr . zákony pohybu kvapalín , pokračoval v prácach , týkajúcich sa morských prílivov a odlivov .	5	Noun
+Všetci okolo mňa pokojne písali odpovede , kým ja som ich horúčkovito čmárala .	2	Pronoun
+Mama zdvihla oči od novín a usmiala sa .	5	Conjunction
+Strategickým cieľom SR je členstvo v EÚ .	3	Verb
+Aladin pokrčil plecami .	0	Proper Name
+Zrazu som začula klopkanie na okno , no neposkočilo mi srdce ako inokedy .	10	Noun
+Vďaka vysokému obsahu cukru ničí baktérie procesom nazývaným osmolýza .	0	Adposition
+Keďže samice môžu žiť až 90 rokov , nie je neobvyklý život štyroch alebo dokonca piatich generácií v jednej línii .	14	Particle
+V ponuke je veľmi veľa druhov .	2	Verb
+“ Ja viem , odkiaľ je , “ povedala Jazmína .	8	Verb
+Iba Jazmína nebola veselá .	0	Particle
+V pozadí stojí popredný predstaviteľ zarathuštrovskej „ štátnej “ cirkvi , kňaz Kartír .	0	Adposition
+Polovica z nej nikdy nespoznala topánky .	3	Adverb
+Samozrejme , že som mu nepovedala , že mám domáce väzenie .	7	Conjunction
+To znamená , že v tom čase a na tom mieste bude aj ona .	7	Conjunction
+Keďže mu nechceli odpovedať na otázku , Hádes sa uchýlil k lichôtkam .	7	Proper Name
+Skutočnosť , že som na teba myslela , bola nebezpečná .	3	Verb
+Môj otec po jeho rozpade niekoľko týždňov nespal . . .	3	Determiner
+Rozhodujúcim spôsobom prispel k ukončeniu honov na čarodejnice .	1	Noun
+Trvalo to len chvíľu .	0	Verb
+Domorodcom prišlo vhod , že som sa ubytoval v tej izbe .	2	Adverb
+I . ostrihomská synoda nariaďuje , že únosca je povinný poskytnúť postihnutým majetkovú kompenzáciu a navyše má vykonať aj pokánie .	10	Verb
+Navrhol takzvanú Cestovnú mapu v spolupráci s Ruskom , niektorými európskymi krajinami a OSN .	11	Noun
+“ To všetko je veľmi pekné , ale to som nechcel počuť .	11	Verb
+Kým som takto uvažoval , zdalo sa mi , že som na niečo prišiel .	13	Verb
+Klesol som na stoličku .	1	Verb
+Obrazovka načas zmĺkla .	2	Verb
+Vláda SR predloží nový zákon o rozpočtových pravidlách a pravidlách rozpočtového hospodárenia územnej samosprávy .	7	Noun
+Literárne činný od roku 1898 , jeho prvá kniha poviedok vyvolala roku 1903 senzáciu — bezpochyby spôsobom stvárnenia i výberom tém .	7	Adjective
+Na chrbte cítil , ako ich zraky priťahuje jeho belasá uniforma .	5	Determiner
+Pôvodne ľudia používali slnečný čas , ktorý má však tú nevýhodu , že se líší od miesta k miestu .	2	Participle
+Pri slávnostných obradoch ju potom niesol jej najuznávanejší člen .	0	Adposition
+Zazrela som ho , keď vystrkoval z obloženia svoj odporný rypák .	10	Noun
+“ Otec , on spáva s potkanmi ! “	1	Noun
+Uži si trocha , prikázala som si .	1	Pronoun
+Zachvel som sa .	1	Verb
+Roku 380 vydal Theodosius I . edikt , ktorým povýšil kresťanstvo na jediné oficiálne uznávané náboženstvo v Rímskej ríši .	9	Participle
+Alfonz bez slova zmizol za záhradným plôtikom .	6	Noun
+Nespýtal som sa jej na to .	4	Adposition
+“ Ešte by som si niečo dal , “ povedal Chris , keď pozrel na jedálny lístok .	4	Pronoun
+Detektíva Steva McGarretta hral Jack Lord .	5	Proper Name
+Podľa viery ugrofínskych Čuvašov výšivka konskej hlavy na ženskej hrudi chráni pred nebezpečím pôrodu .	7	Adposition
+Neznášala som tieto slová .	0	Verb
+Nateraz sa uzavrel pred vzdialenejšími zvukmi a počúval len kvákanie , ktoré sa valilo z obrazovky .	14	Adposition
+V tomto omámení som si spomenul na niečo zvláštne , čo som kdesi čítal alebo počul .	3	Verb
+Winston na chvíľu prestal čítal .	4	Verb
+Ako zažala lúčne svetielko	2	Adjective
+Aj reformný kánonista Anselm uvádza vo svojej zbierke viacero nariadení o konaní synod .	11	Noun
+Vyvesili na tabuľu text , ale ani to nepomohlo , lebo Vilko sa z lenivosti nenaučil dobre čítať .	1	Adposition
+Jedného dňa stretla na malinčí čudného tvora .	6	Noun
+Spracovanie mlieka	0	Proper Name
+Chcela som zaplniť ticho , čo medzi nami zavládlo , a tresla som parádnu hlúposť .	10	Conjunction
+Nespokojní a ich požiadavky	0	Adjective
+Markian uskutočnil finančné reformy a nechal zaľudniť vydrancované oblasti na Balkáne .	0	Proper Name
+Teória množín , matematická logika a teória modelov vznikli za účelom skúmať základy matematiky .	0	Noun
+KOZOROŽEC 22 . 12 . - 20 . 1 .	3	Numeral
+Toto vyhlásenie vyvolalo kontroverzné reakcie veľkej časti obyvateľstva .	5	Adjective
+Potom sa otvorili dvere a vošla mamička .	5	Verb
+Najmiernejším prívlastkom , ktorý by mi vmietla do tváre , by bolo slovo „ gauner “ .	5	Pronoun
+" Neviem .	1	Verb
+V menšom množstve sa nachádza v zemnom plyne , z ktorého sa získava vymrazovaním .	2	Noun
+Boli obrovské .	0	Participle
+Rím tak stráca svoje postavení ako hlavné centrum ríše , ktoré mu patrilo veľa storočí .	11	Pronoun
+Až do Petrohradu som sa pokúšal spať .	6	Verb
+Opatrne odhrnula okvetné lístky a vyzrela von .	5	Verb
+Napriek všetkému bol Aladin trochu sklamaný .	1	Pronoun
+Na príjazdovej ceste pred Taco Villa stál dlhočizný rad áut , v ktorých sedeli decká z našej školy .	7	Adjective
+Fridolín bol malý hnedý chlapík so silným náprsným štítom a krátkymi krovkami .	1	Participle
+Na druhej strane položili telefón .	2	Noun
+Morálna tradícia a ľudské práva	4	Noun
+Maja sa rozbehla za veliteľom mravčieho vojska .	6	Noun
+Ja mám za úlohu robiť sprostredkovateľku .	0	Pronoun
+Potom v súkromí vykonal eucharistiu .	0	Adverb
+Z nálezov nefigurálneho charakteru je zaujímavý nález troch hlinených kraslíc .	4	Verb
+Zrejme mala akúsi praktickú ostrieľanosť , ktorá Winstonovi chýbala a podľa všetkého vďaka nespočítateľným spoločenským výletom výborne poznala okolie Londýna .	10	Adposition
+Spomínaní clunyjskí opáti boli osobnosťami s mimoriadnymi osobnostnými kvalitami a veľkou morálnou autoritou .	12	Noun
+Pri vchode do školy sa objavila Liza .	0	Adposition
+Na takú dokonalú odpoveď som sa vtedy nezmohla , napadla mi až na druhý deň .	13	Adjective
+Nezavelil však na ústup , ale poslal dopredu ďalších zubáčov .	5	Conjunction
+Centrom vladimírskych mohýl bolo Pleščejevské jazero , osídlené zmiešaným slovansko ‐ ugrofínskym obyvateľstvom .	4	Adjective
+Už mnoho generácií múch obývalo kráľovský palác v stajni .	6	Noun
+Ale ja som nevedel , že by zomrel niekto z domu .	10	Noun
+Na druhú stranu , zo zaznamenaného výrazného nárastu rakoviny štítnej žľazy vyplýva , že je aspoň čiastočne dôsledkom röntgenovania .	14	Verb
+Jediná nádej , že ju uvidím , bola virtuálna , závisela od toho , či sa rozhodne trápiť ma vo sne .	7	Participle
+Pôvodne ľudia používali slnečný čas , ktorý má však tú nevýhodu , že se líší od miesta k miestu .	9	Determiner
+„ Viera môže dávať človeku životnú istotu “ , mieni profesor Ďurovič .	6	Noun
+Avšak po pozorovaniach Jamesa Bradleyho ( 1728 ) bola hypotéza nekonečnej rýchlosti svetla definitívne odmietnutá .	2	Noun
+“ Môjmu kráľovskému uchu sa donieslo , že chceš ostať v džungli . “	9	Verb
+Už vtedy bol Bush podrobený tvrdej kritike od niektorých európskych lídrov kvôli jeho zamietnutiu Kjótskeho protokolu .	15	Noun
+“ Prosím ťa , Amy .	4	Proper Name
+Ignácovi mladí druhovia , ktorých nechal v Španielsku , mali prísť po istom čase za ním do Paríža .	5	Participle
+Tak tomu hovorím názorný príklad fungovania zóny najbližšieho vývinu , o ktorej som písala minule !	1	Determiner
+Drobná žena s pieskovými vlasmi zakvičala a v jej hlase sa miešala hrôza s odporom .	6	Conjunction
+Koberec , krištáľová guľa a niekoľko pomôcok na čarovanie .	8	Noun
+To vysvetlila Del Ponteová Chorvátom , keď v pondelok na pozvanie premiéra prišla do Záhrebu .	1	Participle
+Po nočnom bdení skupinka zimných pútnikov pokračovala v ceste .	8	Noun
+“ Môžem si to ešte rozmyslieť ? “ spýtala sa .	3	Determiner
+Lak však nemôže vylepšiť akustické vlastnosti huslí .	5	Noun
+Werfelovo dielo je veľmi obsiahle , obsahuje romány , kratšie prozaické diela , drámy aj básne .	13	Noun
+Za tento ich objav dostali obaja vedci Nobelovu cenu .	8	Noun
+Medzinárodný trestný tribunál ( International Criminal Court , ICC ) vznikol 1 . júla 2002 .	1	Adjective
+Stvoriteľ chcel , stvoril a riadi svoje stvorenie .	6	Determiner
+V roku 1522 sa vracia do Wittenbergu , aby zastavil obrazoborectvo .	5	Adposition
+Kaviareň preťal akýsi elektrický náboj .	1	Verb
+Iba na bodliaku sa jagali veľké kvapky rosy , lebo sa báli skotúľať do trávy .	6	Noun
+Ďalšia balkánska cesta Carly Q Ponteovej vedie do Belehradu .	5	Proper Name
+Bola špička a cez okienka som videla , že všetky sedadlá obsadili ľudia , čo pracujú v centre .	1	Noun
+Kráľ mu totiž zveril vrchné velenie nad sedemdesiattisícovým perzským kontingentom , ktorý mal útočníkov zastaviť a vyhnať z perzského územia .	7	Adjective
+Jednoznačne ide o účelovú mystifikáciu s cieľom zmanipulovať konanie bežného občana a obrať ho o posledné základné životné istoty .	16	Adjective
+Mladým včielkam pripadal dážď spočiatku zábavný .	0	Adjective
+Ako sme vychádzali z miestnosti , nastal v triede všeobecný ruch .	3	Adposition
+“ Viem sa o seba sám postarať , “ povedal nahlas .	5	Determiner
+Až nečakaná zmena v správaní nepriateľa vzbudila v hlavnom veliteľovi sirotkov podozrenie .	7	Adposition
+V niekoľkých sekundách po prebudení sen i spomienka , ktorá ho podnietila , splynuli v jeho mysli v jedno .	10	Pronoun
+Tie budú súčasťou rozpočtu verejných financií SR .	0	Determiner
+K voľbám sa dostavilo o 12 miliónov ľudí viac ako v roku 2000 .	9	Conjunction
+“ Vidíte , čo ste spravili ? “ zabzučala a starostlivo si kefovala jemné chĺpky na tele .	4	Verb
+Hoci voľby poznačilo drobné násilie a slabá participácia Sunitov , väčšina Kurdov a Šítov prejavili silný záujem .	11	Proper Name
+Konečne v neskorej jeseni opustil Španielsko , aby sa tam už nikdy nevrátil .	10	Particle
+To je aj prípad môjho nedávneho dobrodružstva .	4	Determiner
+Potom sa v jednej zákrute objavil ďalší stôl , za ktorým sedeli ďalšie dve ženy .	3	Numeral
+Boli veľmi citlivé a milé .	4	Adjective
+Okrem P . J . Šafárika všetci profesori boli Srbi .	5	Proper Name
+" Polliter nie je dosť .	1	Noun
+Iba 3 štáty zvolili kandidáta inej strany ako v roku 2000 .	0	Particle
+Pri formulovaní téz o funkčne vymedzenej platnosti nárečia sa uplatňuje najmä sociologický aspekt .	5	Adjective
+V roku 2004 bola predstavená nová Kofola Citrus s citrónovou príchuťou .	10	Noun
+Pri príležitosti Irminho odchodu sme usporiadali slávnostný obed .	1	Noun
+Pravdu o jeho smrti sme sa dozvedeli rýchlo .	3	Noun
+Chvíľami ho prenasledovali klamlivé spomienky .	2	Verb
+V jeho mysli sa vôňa spájala neoddeliteľne so smilstvom .	0	Adposition
+Súčasťou 10 . ročníka bude vyhlásenie ankety o najlepší film všetkých desiatich ročníkov .	5	Noun
+Nakukol pomedzi húštinu a uvidel troch tvorov v šatách namiesto kožušiny .	2	Noun
+Jedlo zásadne mení človeka po každej stránke .	1	Adverb
+Nasleduje objavenie sa volchva v Rostove , udalosti v Polocku , sucho a Polovci .	1	Noun
+Prvý raz po mnohých rokoch zabudol na všadeprítomnú televíznu obrazovku .	6	Adposition
+Potom som oči otvorila a ponorená v tme som smerovala k odrazu mesiaca .	3	Verb
+Lístky čajovníka	1	Noun
+Vtedy ho však zamestnávali iné veci .	3	Verb
+Dievča sa pozviechalo na kolená .	0	Noun
+Poď so mnou do Petrohradu namiesto mojich rodičov .	6	Determiner
+“ Mám ťa vyskúšať ? “	3	Verb
+Na druhej strane niektoré slová poukazovali úprimne a s pohŕdaním na skutočný charakter oceánskej spoločnosti .	12	Noun
+Nie je dobrý v počtoch , a preto sa často mýlil .	10	Verb
+Dozvedel som sa to , keď som sa vrátil domov a ešte predtým urobil jeden pokus .	5	Conjunction
+Uchopil Winstona za rameno a obrátil ho tak , aby si hľadeli tvárou v tvár .	7	Adverb
+“ Mal som iba dvoch zákazníkov , ženu a muža .	2	Verb
+Kritika hru nešetrila [ 1 ] .	2	Participle
+Ani o podrobnostiach jeho násilnej smrti .	4	Adjective
+Po chodníku kráčali ľudia sem a tam .	0	Adposition
+Nedokázala som urobiť jedinú slušnú obrátku .	4	Adjective
+Jeho úsilie podporili duchovne aj materiálne cirkevné kruhy .	3	Adverb
+Keď som vychádzal z izby , že za ním zájdem a poprosím ho o nejakú radu , opäť som pocítil svrbenie .	3	Adposition
+John sa vystrel , vypäl hruď , ale bol nesmierne smutný .	8	Participle
+Podráždene meditoval o materiálnych stránkach života .	0	Adverb
+V čase , keď sme s nimi skoncovali , boli to už len ľudské škrupiny .	1	Noun
+Na okraji Tirany , keď sme prechádzali cez predmestie Lapraka , uviazli sme na križovatke .	14	Noun
+Vzdialené tóny .	1	Noun
+Tvár , ktorú mal obyčajne bledú , mu sčervenela .	8	Verb
+Potom som stlačil kľučku na dverách vedúcich do Profesorovej izby .	6	Adjective
+Otvorila obdobie tvorby inšpirovanej rodinou , priateľmi a životom v miestnej komunite .	0	Participle
+Vajíčka z jeho mraveniska !	2	Determiner
+Podstrčil mu ho redaktor z televízie , ktorá všetko nakrúcala .	5	Noun
+Janičiari sľúbili zastaviť obliehanie a zaistiť voľný odchod odzbrojených vojakov .	4	Conjunction
+Zenón svoj sľub dodržal : Uväznil svojich zajatcov do prázdnej vodnej nádrže , kde sa neskôr udusili .	3	Participle
+Všetko som doň nahádzal bez ladu a skladu .	7	Noun
+Preto je väčšinou lepšie neplytvať energiou a vziať na vedomie cudziu paradigmu .	10	Adjective
+Po prehliadke hudobných skupín sa o zábavu postarajú dídžeji .	5	Adposition
+“ No čo ?	2	Particle
+Začínali sa aj pochôdzky chlapa v zelenom vojenskom kabáte .	7	Adjective
+Musíš ísť na Olymp , musíš ho zastaviť . “	6	Pronoun
+“ Ďakujem , “ povedala Makulienka , “ ibaže neviem , čo mám robiť , aby drozd vrátil Emanuelovi cylinder . “	8	Conjunction
+Len čo som ju uvidel , mal som pocit , že mi pripomína ktorúsi z hrdiniek klasickej ruskej literatúry .	18	Noun
+Avšak kvôli chýbajúcej aristokracii a nevraživosti miestneho miestodržiteľa zostalo jeho úsilie neúčinné .	6	Adjective
+Chcel vzlietnuť do vzduchu , ale zamotal sa do krídel fraku .	3	Noun
+Nesmie zobudiť mamu .	0	Verb
+Lev II . ( cisár )	0	Proper Name
+V rámci tohto programu presadil aj zníženie daňového zaťaženia pre ľudí používajúcich automobily s nižšími emisiami .	13	Adposition
+Každý deň , každú chvíľu budú porážaní , diskreditovaní , vysmievaní , opľuvaní -- a napriek tomu vždy prežijú .	3	Determiner
+Moja rodina má rôzne priezviská : Križiak , Kosec rožkatý , ale najčastejšie nám hovoria Kútnik .	15	Proper Name
+“ Kto je tvoj ocino ? “ spýtal sa Mauglí .	2	Verb
+Neodpovedal .	0	Verb
+Prvýkrát boli Nobelove ceny udeľované v roku 1901 , ceremoniál sa uskutočnil v Štokholme .	9	Noun
+Čašník stratil trpezlivosť .	0	Noun
+Nakoniec si urobila z nosidiel trampolínu , začala skákať kotrmelce a nosidlá tak rozhojdala , že ich včielky sotva udržali .	17	Noun
+Dej románu sa odohráva na nej alebo pri nej .	5	Pronoun
+“ Tu niekde mám bundu , “ zamrmlal .	2	Adverb
+Aby som sa definitívne vrátil do reality , na prvom poschodí výťah zastal .	2	Pronoun
+Urobia z neho človeka . “	3	Noun
+V tom omámení som zabudol na niečo podstatné .	0	Adposition
+Onánia bude praktická .	0	Noun
+Interval AB na diagrame vpravo je „ časový “ .	3	Noun
+Poznali ho všetky ženy , vedeli , o čo mu ide .	3	Noun
+“ Tentoraz by sme mali hudbu vynechať a usporiadať maratónsky beh , “ navrhol Rudko a všetci nadšene súhlasili .	8	Verb
+Sestrička , ktorá si uvedomila , že ju o niečo okradol , tíško zanariekala .	13	Verb
+Obrázkovým telefónom som zavolal kováča Kováčika a ten bez dlhých rečí koníka okoval .	9	Adjective
+Nechýbali vrúcne kontakty , dlhé lúčenie a pozvanie na ďalšie stretnutie .	2	Noun
+To a všeličo iné vlastne očakáva každý veliteľ útočiaceho vojska , uvažoval Ferdo .	9	Noun
+“ Kto je tvoj ocino ? “ spýtal sa Mauglí .	1	Pronoun
+Vnútri sa krásna kobylka rozdvojila a vyskočili z nej Bôľ a Zmätok .	2	Adjective
+Napriek tomu sa mi jeho prvá prednáška vryla do pamäti .	9	Noun
+Kým som vystúpil z auta , odvážil som sa otočiť hlavu .	9	Verb
+Možno to bola tlmená ozvena nevedomia .	5	Noun
+Ako vyzerá herec snov ?	3	Noun
+Tu sú obžalovacie spisy , tu sú zatykače .	1	Verb
+V roku 1968 vydáva Snyder zbierku básni The back country , v ktorej zhŕňa tvorbu posledných dvadsiatich rokov .	16	Numeral
+V šalátovej mise zmiešajte olej , korenie , soľ , uhorku , cibuľu , petržlenovú vňať a bazalku .	0	Adposition
+“ To je moja mama , “ povedalo .	7	Verb
+Hlúpa tvár pod svetlými vlasmi ho vítala s rozžiareným úsmevom .	8	Adjective
+Flauta hrala zložitú melódiu .	2	Adjective
+Nový vládca tak prevzal atribúty vládcu starého .	6	Adjective
+Prorok sprostredkováva Božie slovo a jeho vôľu ľuďom .	4	Conjunction
+Neotvoril oči ihneď .	2	Adverb
+Na príjazdovej ceste pred Taco Villa stál dlhočizný rad áut , v ktorých sedeli decká z našej školy .	17	Noun
+Nultý termodynamický zákon je tranzitivný .	4	Adjective
+V stredovekej teológii patria cherubovia medzi najvyššie rády v hierarchii anjelov , spoločne so serafmi .	3	Verb
+Vláda bude naďalej podporovať rozvoj bývania vytváraním legislatívnych , inštitucionálnych a finančných podmienok .	5	Noun
+Medzi jeho diela patria :	1	Determiner
+Konkrétnym príspevkom k prevencii konfliktov a k udržaniu mieru bude aj naďalej aktívna účasť v medzinárodných mierových operáciách .	15	Adjective
+Moduly štandardnej knižnice môžu byť rozšírené vlastnými modulmi napísanými v C alebo v Pythone .	7	Noun
+Kdeže !	0	Particle
+Za opáta Odona , Bernonovho nástupcu , sa potom vytvorili predpoklady , aby sa Cluny stalo strediskom skupiny kláštorov .	9	Verb
+Strana vyzýva jedinca , aby poprel svedectvo vlastných očí a uší .	1	Verb
+Vedú sa spory o tom , či išlo o postupný proces alebo o šťastnú udalosť .	2	Noun
+Potom vzal Balú Mauglího na plecia a Baghíra kráčal za nimi .	0	Adverb
+Žili v chudobe , venovali sa dobročinnosti a poučovali ľudí o viere a o zachovávaní kresťanských zásad .	10	Adposition
+Ak chce Kalif vedieť toto , tak dobre .	4	Determiner
+“ Tu som , Amy ! “ zakričala škodoradostne .	4	Proper Name
+JODIE FOSTER V CIRKUSE	3	Noun
+V podobnom duchu sa vyjadrovali aj prezident KOZ Ivan Saktor a jeho kolega Svetozár Korbel .	5	Particle
+Ulrich ‐ muž bez vlastností	0	Proper Name
+Keby som bol prehltol tú návnadu , moje postavy by ma boli priviedli do hrobu .	3	Verb
+Hltači mečov súperili s predavačmi šperkov o jej pozornosť .	1	Noun
+Kala priviedla dieťa k svojej rodine .	3	Adposition
+Po skončení napoleonských vojen vzniklo medzi Grékmi žijúcimi v emigrácii hnutie proti sultánovej vláde .	8	Adposition
+Odmlčala sa , aby sa nadýchla .	3	Conjunction
+NEVEDOMOSŤ JE SILA .	0	Noun
+“ Je na ňom symbol bohov , “ vysvetľovala Alkmena .	8	Verb
+“ Vieš , musím chvíľu popremýšľať , “ povedal Káa .	8	Verb
+Opustil som Lori .	2	Proper Name
+Slovania zaútočili aj na egejské ostrovy a na Krétu .	0	Proper Name
+Čakal som v obývačke , mal som na sebe oblek s kravatou .	9	Noun
+Chcel by som s tebou prebrať istú myšlienku , ktorá ma znepokojila len pred chvíľou , keď Irma odišla na letisko .	4	Pronoun
+Prikývla a povedala , že sa o chvíľu vráti .	6	Adposition
+FOTO PRE SME - VERONIKA JANUŠKOVÁ	1	Adposition
+Každá od neho však utiekla , pretože len čo otvoril ústa , ovalil ich zápach cesnaku a syra .	2	Pronoun
+Bol som ponorený do tejto maškarády až po krk .	8	Noun
+Uvidíte , nabudúce prídem za vami zas !	4	Adposition
+Vtom sa odraz mesiaca rozbil na črepy , no zakrátko sa zasa zjavil na hladine .	9	Adverb
+Premenlivosť minulosti je podstatou angsocu .	4	Noun
+Počítal s tým , že po jeho smrti sa o ňu podelia jeho synovia Arkadius a Honorius .	13	Noun
+Sedel na stoličke neprirodzene vzpriamene a jeho mocné prsia sa nadúvali a zachvievali , akoby mal čeliť nárazu vlny .	11	Conjunction
+Bol to neuveriteľný pohľad a pripomínal skôr fatamorgánu .	6	Particle
+Realita života na vidieku zatláča náboženské rozdiely do úzadia .	5	Adjective
+Elektráreň po havárii	1	Adposition
+Každý jeden šedý Reebok vás presvedčí , že tak skoro sa nič nezmení .	9	Adverb
+“ Môžeš chodiť , kam len chceš . “	5	Particle
+To dievča do kuchyne !	1	Noun
+Založil ho Vladimír Monomach medzi rokmi 1098 a 1103 ako kniežací zámok na sútoku riek Kľazmy a Nerli .	8	Numeral
+Hoci voľby poznačilo drobné násilie a slabá participácia Sunitov , väčšina Kurdov a Šítov prejavili silný záujem .	8	Proper Name
+Pred naším domom sme sa zvalili do trávy .	2	Noun
+V súčasnosti nárečia neplnia všetky sociálne funkcie , ktoré náležia plnohodnotnému jazykovému útvaru .	6	Noun
+Ferdo a zelené kravy	2	Adjective
+Prichádzali sme zozadu , a tak sme sa vyhli autobusom , autám a nápisom nad vstupom .	14	Adposition
+Počas prvých dvoch rokov novosadského účinkovania býval Šafárik v dome bohatého mešťana Servického .	6	Participle
+Za jasotu spoluobčanov prevzali cenu a Dr . Slimák slzil od dojatia , pretože v tejto súťaži doteraz nijaký slimák nevyhral .	11	Noun
+Súčasné ľudské poznanie je na veľmi vysokej úrovni , stojí na prahu klonovania nového života .	11	Noun
+Niečo mu chýbalo : opatrnosť , rezervovanosť , niečo ako sebazáchranná obmedzenosť .	0	Pronoun
+“ Psst , “ umlčala som ju a ukázala na obývačku , kde mama čítala noviny .	8	Verb
+Na začiatku Prvej svetovej vojny narukoval do Britskej armády k Lancashirským strelcom ( Lancashiree Fusiliers ) , kde slúžil ako nadporučík .	11	Noun
+Chris sa zrazu nadšene zatváril a prešiel do ľavého pruhu .	3	Adverb
+Vzájomné pôsobenie s priehľadnými materiálmi	0	Adjective
+Starec po ňom hodil bochník starej pity .	3	Verb
+Niektoré organizácie hovorili o neľudských podmienkach , aj keď kontrola senátorov z obidvoch hlavných amerických politických strán podobné prípady vylúčila .	11	Adposition
+Chris sa obrátil ku mne , v očiach mal hrdosť , ale aj ospravedlňujúci výraz .	2	Verb
+Vytrhol som mu ho a opäť som ho vypil až do dna .	7	Pronoun
+Pri stene bola posteľ , na stole lampa s hlboko stiahnutým tienidlom .	5	Adposition
+Nemohli sme k nej chodievať , ani ona nemohla chodievať k nám .	0	Verb
+Zazrela som ho , keď vystrkoval z obloženia svoj odporný rypák .	5	Verb
+Vo všeobecnosti to boli dôchodcovia s plstenými klobúkmi alebo čiapkami , ktoré ich chránili pred slnkom .	11	Determiner
+Keď dohovoril , usmial sa svojím záhadným úsmevom a ustúpil nabok , aby uvoľnil cestu Lori .	8	Conjunction
+A zvolil som ten najdrsnejší spôsob .	1	Verb
+V roku 1829 Francúzsko a Egypt vypracovali spoločný plán na ovládnutie severnej Afriky .	2	Numeral
+Postupne mu však ten príval hudby vyhnal z mysle všetky špekulácie .	0	Adverb
+Nesmie zobudiť mamu .	2	Noun
+Lenže milé bábätko trhalo Jane obrázok z rúk .	0	Conjunction
+Mravce dovliekli celý kôš dobrôt , včielky priniesli ovocný medovník a Kasandra jazmínové želé .	3	Noun
+Lesné jazierko a jeho obyvatelia	0	Adjective
+Hrozne ma bolia kĺby a nestihla som spojenie . “	1	Pronoun
+Zničená som si prisahala , že si cez obedňajšiu prestávku zaplávam a budem trénovať obrátky dovtedy , kým ich nezvládnem .	3	Verb
+Chcela mu ukázať strom , z ktorého viseli liany .	0	Verb
+Objala ho okolo krku , nazývala ho miláčikom , zlatkom , láskou .	2	Adposition
+V obvodnom kine , vzdialenom od centra , obyčajne premietali staré filmy .	4	Adjective
+Keď sa raz rozhodla piecť v takú nezvyčajnú hodinu , nikto jej v tom nezabráni .	1	Pronoun
+Snažil sa vyliezť po steble trávy hore , ale steblo sa pod jeho váhou nebezpečne naklonilo nabok .	2	Verb
+Veď ty si biely ani krieda . Čo ti je ?	1	Pronoun
+Cieľom Diskusného klubu je budovanie občianskej spoločnosti na kresťanskom morálnom základe .	0	Noun
+Štúdiom vysokej atmosféry sa zaoberá aeronómia .	5	Noun
+Samonafukovačky sa pýšia výbornými izolačnými schopnosťami , vysokým komfortom pri ležaní a neprepúšťaním vlhkosti .	12	Noun
+Zostal som sedieť v kresle , aj keď sa dvere otvorili a do miestnosti vošli dvaja muži , nové tváre .	15	Numeral
+Skúsil som sa rozpomenúť na jej tvár .	2	Pronoun
+Blythe má dlhé lesklé plavé vlasy a bohovskú postavu .	1	Verb
+Čajová plantáž v Malajzii	0	Adjective
+" Tak ty ho nenávidíš .	1	Particle
+Najskôr sa na hornej časti schodišťa objavila drobná starena v širokých nohaviciach .	1	Pronoun
+Zrakom som hľadala náš dom , ale všimla som si , že Chris sa na mňa díva .	15	Pronoun
+Vezmeš si tie Finneganky ? “	2	Determiner
+Našťastie za prvým bukom stretli Truhlíka a zistili , že aj on má na otrokárov ťažké srdce .	2	Adjective
+Rovnakú spoluprácu so svetským sudcom predpokladajú v citovaných ustanoveniach aj sledované súdobé cirkevnoprávne príručky .	7	Adjective
+Možno som sa mal správať k Irme inak .	6	Proper Name
+Nikto ju neprenasledoval .	1	Pronoun
+“ Čo to tu vidím ? “ zasyčal .	4	Verb
+Ani kolegovia .	1	Noun
+Ak má môj rod zomrieť , tak chcem zomrieť i ja , pomyslela si .	0	Conjunction
+Obyvatelia Makovej lúky sa kvôli tej ľudskej stope naozaj pripravovali na evakuáciu .	11	Noun
+Svetlanka od hanby očervenela .	3	Verb
+Ak A predchádza B v tejto sústave súradníc , potom A predchádza B vo všetkých sústavách súradníc .	13	Adposition
+Prečo sa potom letopisec zaoberá ešte akýmsi medveďom ?	4	Verb
+" Je to druhá Zlatá krajina , alebo takmer , " zašuškal .	5	Noun
+V „ našich “ zbierkach kánonického práva máme doslova záľahu ustanovení , ktoré hovoria o tom istom .	15	Determiner
+“ Balú , ty žiješ ! “ zvolal Mauglí a hodil sa mu okolo krku .	3	Pronoun
+My však každému ponaprávame mozog do dokonalosti , kým mu ho vystrelíme .	10	Pronoun
+Pozreli vyššie , ešte vyššie a zistili , že je to človek .	9	Verb
+Žiadne údaje o prípadných ďalších tunajších aktivitách Leva IX . , napríklad o snahách presadzovť refory , k dispozícii nemáme .	7	Proper Name
+Abu zoskočil z Aladinovho pleca .	0	Proper Name
+“ Ale to som predsa nechcela ! “ zvolala Lienka , keď predseda súdu vyhlásil rozsudok .	3	Verb
+Ja sa volám Faika , odvetila .	2	Verb
+Z obdobia 11 storočia pochádza šestnásť kusov .	2	Numeral
+Chris roztrhol jedno balenie , ale veľmi sa s ním nemaznal .	3	Noun
+Proleti si zachovali ľudskosť .	3	Noun
+Celý zvyšok predpoludnia sa mu pracovalo veľmi ťažko .	3	Pronoun
+Markian uskutočnil finančné reformy a nechal zaľudniť vydrancované oblasti na Balkáne .	1	Participle
+Ten súvisí s iným bláznom , ktorý býval v našej štvrti .	7	Verb
+Za opáta Odona , Bernonovho nástupcu , sa potom vytvorili predpoklady , aby sa Cluny stalo strediskom skupiny kláštorov .	17	Noun
+S cieľom zefektívnenia správy rozpočtových prostriedkov a správy finančných prostriedkov štátu vláda uskutoční kroky na urýchlené dobudovanie systému štátnej pokladnice .	13	Noun
+Na rozdiel od svätoštefanskej legislácie sú tí , ktorí v nedeľu neprídu do kostola , potrestaní prísnejšie – telesným trestom .	4	Noun
+Nateraz sa uzavrel pred vzdialenejšími zvukmi a počúval len kvákanie , ktoré sa valilo z obrazovky .	3	Adposition
+Táto činnosť , čiže roztrhanie lístka a jeho likvidácia , bola zbytočná .	1	Noun
+Vilka očarili .	1	Verb
+Legislatíva a legislatívny proces	2	Adjective
+Budem škaredá ! “ vravela a nedočkavo obracala ošúchané listy .	1	Adjective
+Z rúk generála Janina prevzal Rád veliteľa Čestnej légie a 25 . januára 1919 opustil Rusko a odišiel do Paríža .	2	Noun
+Dôverujem tomu zasľúbeniu , ktoré som prijala vierou .	0	Verb
+Najspokojnejšie však boli pestúnky , lebo im vrátia ukradnuté vajíčka .	1	Particle
+Kto zažil sparné pražské popoludnie , vie veľmi dobre , čo znamená spojenie " správně vychlazená dvanáctka " .	8	Adverb
+Obaja rýchlo dýchali , ale okolo kútikov úst sa jej znovu objavil úsmev .	7	Noun
+Chris , skutočný vinník , sa tváril pokojne ako Angličan .	0	Proper Name
+Znovu sa zahĺbil do svojich štúdií a pokusov .	4	Determiner
+Napriek tomu veľmi intenzívne pracoval v apoštoláte , takže si zaslúžil titul apoštol Ríma .	10	Participle
+Odborným prekladom z nemeckého jazyka nám poslúžil Mikuláš Lipták .	6	Verb
+Obrovské výdavky na vydržiavanie vojska , diplomatov , dvora aj štedré dary kráľovým stúpencom ju vyprázdnili .	8	Noun
+Lev IX . a jeho nástupcovia sa teda snažili cirkev už skutočne riadiť .	4	Determiner
+Pelikánia slečna Polly a jej veľký zobák	4	Determiner
+Už vtedy bol Bush podrobený tvrdej kritike od niektorých európskych lídrov kvôli jeho zamietnutiu Kjótskeho protokolu .	7	Adposition
+Pri zabíjaní sú kosatky veľmi vynaliezavé a hravé .	2	Verb
+Ján Pavol napísal množstvo dôležitých dokumentov , ktoré podľa mnohých pozorovateľov budú mať dlhotrvajúci dopad na cirkev a svet .	1	Proper Name
+Aladin pozrel na Abua .	0	Proper Name
+Zahľadela sa mi do očí a spýtala sa , či ju beriem .	7	Pronoun
+Zaujímavý je i vývoj cirkevnej organizácie mesta .	3	Noun
+Zároveň 150 janičiarskych dôstojníkov verejne podporilo dekrét pripojením svojich podpisov .	9	Noun
+S pocitom prihlúpleho vidiečana som prešiel po asfaltovej ceste , ktorá viedla k zhluku novopostavených budov .	7	Adjective
+Horst Mahler ( * 23 . január 1936 , Haynau ) je nemecký právnik a obhajca .	9	Proper Name
+V momente , keď prekročí horizont udalostí ho nebude možné pozorovať z vonkajšieho vesmíru .	1	Noun
+Kofola je sýtený nealkoholický nápoj vyrábaný v Česku a na Slovensku .	5	Participle
+Bál som sa , že ma skritizuje za názov , ktorý som prevzal z jednej Čechovovej poviedky .	8	Noun
+Mnoho predstaviteľov krajín z celého sveta vyjadrilo svoju sústrasť ( pozri nižšie ) .	3	Adposition
+Katka si zaumienila , že Maja musí ísť do paláca s ňou .	6	Verb
+Sadla som si vedľa neho a rukami som si objala kolená .	3	Adposition
+Dal jednému zo svojich mužov znamenie .	2	Adposition
+Nasledujúci deň vymenoval novú Imperiálnu radu .	4	Adjective
+“ Dám príbor , “ ponúkol sa Chris , “ ak mi povieš , kde ho nájdem . “	2	Noun
+Mám to tu vnútri , povedal som jej .	3	Adverb
+Cirkevný trest spočíva v pokání .	1	Noun
+Nebola to namáhavá robota , dážďovku o chvíľu našli .	8	Verb
+Winston vyskočil na rovné nohy .	4	Noun
+Od roku 1994 sú Züdelove názory propagované aj na Internete .	1	Noun
+“ No , dovoľte ! “ zvolal chrobák a ukázal svaly .	1	Particle
+CENY ČASOPISU MOVIELINE	1	Noun
+Vtom sa vrátil chrobák Truhlík aj so svojím filmovým časopsom .	1	Pronoun
+Kým odletím do nebeského pekla , musím si odčiniť nejaké hriechy tu , v pozemskom pekle .	1	Verb
+Môže ísť o toporčeky s predĺženým poriskom , ktoré boli v Škandinávií predmetom symbolizujúcim hromy vrhajúceho Thora .	15	Adjective
+V Pythone premenné nemajú typ , typ majú iba hodnoty .	0	Adposition
+Aladin držal špajľu horúcej pečenej jahňaciny , ktorú ukradol zo stánku .	8	Verb
+Telový gel , šampón ?	3	Noun
+Hroby majú vedľa seba a mama ma kedysi brávala každú nedeľu so sebou zapáliť im sviečky .	9	Determiner
+Posledný kánon II . kolomanovskej synody o celibáte sa svojím obsahom vymyká prísnejšiemu tónu uznesení tohto cirkevného snemu .	6	Adposition
+Alebo si ju stiahnite v súbore PDF na tej istej adrese .	2	Pronoun
+“ A teraz mi zaplať ! “ zhúkol na Jazmínu predavač .	4	Verb
+Ja som však mohol odprisahať , že tie slová mi povedal N . T .	2	Conjunction
+Oči jej vystúpili z jamiek a z vyškerených úst vypadali všetky zuby okrem jedného .	8	Noun
+Za týmto účelom odcestoval do Ruska .	2	Noun
+Tentoraz mu ju však pripomenula najmä dusná horúčava toho popoludnia , keď mu na čele vyrazili kropaje potu .	13	Adposition
+Keďže mu nechceli odpovedať na otázku , Hádes sa uchýlil k lichôtkam .	5	Noun
+Bolo to v jeden januárový deň , z popolavej oblohy padal jemný dážď .	10	Verb
+Rýchlo som jej bežal na pomoc .	0	Adverb
+Podľa Mahmúda bolo na jar 1826 grécke povstanie na konci .	3	Adposition
+Vo februári 2005 kanadský súd rozhodol o možnosti jeho vydania a 1 . marca 2005 Zündela dopravili do Nemecka .	1	Noun
+Aladin sa zatiaľ usadil so skríženými nohami pred krištáľovou guľou .	1	Pronoun
+Falošnú .	0	Adjective
+Keď ju môj brat zbadal , od úzkosti div nezomrel .	1	Pronoun
+Vláda pripraví koncepciu legislatívnych opatrení a ekonomickú stratégiu pre digitalizáciu televízneho a rozhlasového vysielania .	10	Adjective
+Najstaršie z nich sa objavujú v I . zákonníku sv . Ladislava .	4	Verb
+Už sa nemôžem vrátiť .	3	Verb
+Potom som oči otvorila a ponorená v tme som smerovala k odrazu mesiaca .	9	Verb
+“ No povedzte , nebola som krásna ? “ ubezpečovala sa vážka Kráska .	5	Verb
+“ Nevydeli ste tu nejakého koňa ? “ vypytoval som sa chrobákov .	5	Noun
+Vliali mi iskierku nádeje .	0	Verb
+Zo Škandinávie je známe časté zamieňanie toporov s poriskom čiastočne vysunutým nad čepeľ .	5	Noun
+Teraz som cítil , že nemám silu pokračovať pred Lori .	8	Adposition
+Denná aktivita kosatiek je zvyčajne rozdelená do štyroch aktivít – lov , cestovanie , odpočinok a spoločenský život .	1	Noun
+Vďaka tomu sa tu až do obludných rozmerov rozrástlo uplatňovanie tzv . práva vlastníckej cirkvi .	5	Adposition
+Niekedy s chabou nádejou myslel na O ' Briena a žiletku .	1	Adposition
+Tento ročník priniesol hneď niekoľko prekvapení .	2	Verb
+Dňa 2 . júna 1917 odplával Štefánik do USA .	4	Numeral
+Prišla i Maja , ktorá cítila zodpovednosť za Vilka .	5	Verb
+Pri úplnom zatmení Mesiac celkom zakrýva slnečný disk a slnečná koróna je viditeľná voľným okom .	11	Verb
+Hlavu si oprela o jeho rameno a príjemná vôňa jej vlasov zahnala zápach holubieho trusu .	11	Verb
+“ Poď aj ty ! “ zavolal pološeptom a šliapal vodu .	6	Verb
+Kdeže !	0	Particle
+Kľúčové miesto vo vzdelávaní zastáva škola .	4	Verb
+Kosatky sú jedinými cicavcami s takou potravnou rôznorodosťou medzi jednotlivcami žijúcimi na rovnakom území .	9	Noun
+Nechal som tam Margu stáť a podišiel som k dverám .	7	Verb
+Hroby majú vedľa seba a mama ma kedysi brávala každú nedeľu so sebou zapáliť im sviečky .	5	Noun
+Jeho zrak padol na úlomky skleného ťažidla .	1	Noun
+Založil ho Vladimír Monomach medzi rokmi 1098 a 1103 ako kniežací zámok na sútoku riek Kľazmy a Nerli .	11	Noun
+“ Máš nejaký problém ? “ spýtala sa Jill , keď plávala popri mne .	1	Verb
+Milí konfirmandi , dnes sa stanete dospelými členmi nášho cirkevného zboru .	3	Adverb
+Bratislava sa stala administratívnym centrom krajiny a Trnava prevzala úlohu kultúrneho a náboženského centra krajiny .	14	Noun
+“ Tak rozprávaj , “ súrila ma Blythe , keď sme nastúpili do jej džípu .	14	Noun
+V televízii stále bežala Hmla .	1	Noun
+Hans Blix a Mohamed El Baradei viedli obnovené inšpekcie v Iraku .	8	Noun
+Dieťa vie čítať až vtedy , keď text pochopí .	3	Particle
+Okrem tuberkulózy ho sužovala aj cirhóza pečene .	2	Pronoun
+“ Super ! “ vykríkla som .	1	Particle
+“ Pustite ma na zem ! “ kričal Mauglí .	8	Proper Name
+Akoby dvor bol plný ľudí .	3	Adjective
+musí byť dôsledne uplatňované	1	Verb
+O ' Brien nič nepoznamenal .	4	Verb
+Manželka P . J . Šafárika - ako uvádzajú životopisci - bola inteligentná , neobyčajne sčítaná a temperamentná .	16	Conjunction
+Pred Slovenskou republikou sú historické chvíle .	3	Verb
+Hru , ktorú hráme , nemôžeme vyhrať .	6	Verb
+V sedemdesiatych rokoch sa stretol s mnohými ďalšími vodcami organizácií spochybňujúcimi holokaust .	4	Participle
+Slnečný svit , ktorý prenikal nespočetným lístím , ich ešte stále pálil na tvárach .	13	Noun
+Čakal som celé dve hodiny , ale šéf nechodil .	1	Verb
+Inak bolo všetko v poriadku .	1	Verb
+Krátko na to sa narodil P . J . Šafárik .	1	Adposition
+Prehľadal som vrecká na všetkých sakách a vo vnútornom vrecku jedného z kabátov som našiel fotografiu ženy .	6	Conjunction
+Kukuričné klasy	0	Adjective
+Nikto mu nevenoval pozornosť .	1	Pronoun
+“ Správne , “ povzbudzovali ich akrobati .	5	Pronoun
+Právo na prístup ku kultúrnym hodnotám je jedným z dôležitých práv všetkých občanov .	7	Numeral
+" Koľko je teda tých prstov , Winston ? "	4	Determiner
+Veľká väčšina však , v ten istý deň , 7 . septembra 1159 , zvolila Orlanda .	4	Adposition
+Modernizovaná vojenská mašinéria Muhammada Alího dosiahla víťazstvo , ktoré tradičným osmanským plukom a janičiarom dlho unikalo .	2	Noun
+Zahundrala akýsi súhlas .	2	Noun
+Spomínala na všetkých kamarátov i na to , ako mohla byť aspoň na chvíľočku kapitánom mravcov .	4	Conjunction
+Nazlostený Džafar vyskočil z trónu , ktorý pripomínal kobru .	6	Determiner
+Profesor rozprával historku o anglickej vojenskej misii , ktorú cez vojnu zhodili na padákoch .	2	Noun
+Bola im drahá každá minúta .	4	Noun
+Dôverujem tomu zasľúbeniu , ktoré som prijala vierou .	6	Verb
+Naše prvé dobrodružstvo vtedy trvalo až do septembra .	6	Adposition
+Nateraz sa uzavrel pred vzdialenejšími zvukmi a počúval len kvákanie , ktoré sa valilo z obrazovky .	9	Noun
+Najprv sa Radžu ukrutne bojíš a len čo odídem , ste najlepší priatelia .	6	Conjunction
+Mabel učila svojich dvoch synov , a J . R . R . bol dychtivým žiakom .	13	Participle
+Zabili ho spolu s ďalším odsúdencom pri pokuse o útek z väzenia .	4	Adjective
+Nechodieval k nemu nikto okrem stareny v širokých nohaviciach .	4	Adposition
+Zvedavo zdvihol hlavu a pýta sa : “ Zdá sa , že ma poznáte ?	9	Pronoun
+Táto Španielska občianska vojna je niekedy považovaná za priamu predohru druhej svetovej vojny , alebo dokonca za jej súčasť .	10	Adjective
+Mamu som zbadala na rovine , keď sa na nebi zablyslo a rozľahol sa mocný hrom .	9	Noun
+Mám osem nôh , osem očí a sedem chutí .	2	Noun
+Obyvatelia lúky si ho zakrátko obľúbili .	2	Pronoun
+Každý ju má .	0	Determiner
+Winston i Syme postrčili svoje podnosy k okienku .	6	Adposition
+Mauglí stál v pozore , keď plukovník pochodoval okolo neho na koniec radu a zasa späť .	6	Noun
+Všetci si posadali a začali hodovať .	4	Verb
+Tieto zníženia boli dočasné , avšak Bush požiadal Kongres , aby sa stali stálymi .	8	Proper Name
+Správu aktív bude v tomto systéme zabezpečovať súkromný sektor , výber správcu bude v plnej kompetencii občana .	15	Noun
+Tretí termodynamický zákon	2	Noun
+Ktože by stál o takú úbožiačku , rada jej zakývam na rozlúčku .	0	Pronoun
+“ Som najslávnejší človek v Grécku ! “ namietal Herkules .	4	Adposition
+Vietor im prilepil tenké kombinézy na telo .	2	Verb
+Domáci pán mal zlatý oblek s čiernymi pásikmi .	4	Noun
+Prvým stupňom boli archeologické vykopávky svojou uchopiteľnosťou zhmotňujúce rozplývavé symboly starých povier a zároveň ich presne lokalizujúce .	4	Noun
+Vtedy bola zároveň jedným z hlavných nástrojov , vďaka ktorému udržiavali ľudské spoločnosti kontakt s hmotnou skutočnosťou .	10	Verb
+Prevažne pohanské légie s Kristovými monogramami potom vybojovali veľké víťazstvo ; Maxentius sa na úteku utopil v Tibere .	7	Participle
+Jeho knihy boli odstránené z verejných knižníc a bolo mu bránené vykonávať akékoľvek zárobkové povolanie .	1	Noun
+“ Prečo nie , “ odvetil Chris , keď chvíľu snoril v knižnici a prezeral si farebné obaly kníh .	5	Verb
+Niečo odkázať ?	1	Verb
+Nevlastní rodičia sa o Herkula dobre starali a vyrástol z neho milujúci syn a mladík .	12	Noun
+Stále som mal pred sebou Lorinu tvár .	5	Adjective
+Hodnotenie Fokovej vlády	1	Adjective
+Chcela zistiť , odkiaľ pochádza tá zvláštna neznáma hudba .	4	Verb
+Zostal som so slúchadlom v ruke a pozoroval som deti .	5	Noun
+Veľká väčšina však , v ten istý deň , 7 . septembra 1159 , zvolila Orlanda .	12	Numeral
+Bolo významným strediskom na ceste do rostovsko ‐ suzdaľskej oblasti .	0	Participle
+Znovu sa ozval zvonivý hlas a nocou sa niesla prekrásna melódia .	7	Pronoun
+“ Daj pokoj môjmu mláďaťu ! “ zreval .	2	Noun
+To je sabotáž !	0	Determiner
+Mával som ich už dlhšie .	0	Verb
+Jazmína zaváhala .	1	Verb
+Zrazu sa nad ňou ktosi tichučko zasmial a akýsi hlások sa jej spýtal : “ Prečo sa bavíte so bzdochou ? “	10	Pronoun
+Už dlhú dobu sa uvažuje o zlúčení Berlína s Brandenburskom .	9	Proper Name
+Mäso je neuveriteľne vynikajúco ochutené , mäkké , obloha čerstvá , hranolky " křupavé " .	11	Noun
+Prvým mužom , ktorý kráčal po mesačnom povrchu , bol Neil Armstrong , veliteľ americkej misie Apollo 11 .	9	Participle
+Chcel som poprosiť aj redaktorku , aby už nevyužívala repliky mojich postáv .	8	Verb
+Mladý Herakleios sa zmocnil sídelného mesta , z ktorého ušiel nenávidený Fokas a počas niekoľkých dní ho korunovali za cisára .	19	Noun
+“ A prečo palác nepresťahujete inde ? “	4	Verb
+Obaja sme na okamih upreli zrak na pohybujúce sa svetlo .	4	Verb
+Postavila sa na špičky prstov a pobozkala ma .	5	Conjunction
+Schmatol jeden z Winstonových zostávajúcich predných zubov palcom a ukazovákom .	3	Adjective
+Ostatné decká mali prísť až o polhodinu , a tak som mala celý bazén pre seba .	11	Verb
+Ale takto sa hovorí v Mikuláši !	5	Proper Name
+Francúzska vláda mu potom na návrh ministerstva námorníctva udelila kríž Rytiera Čestnej légie .	11	Adjective
+Vilko sa prebral a vyskočil na rovné nohy .	3	Conjunction
+Zrkadlo , zrkadlo	0	Noun
+Odborná porota vyberie najlepší film z kategórie režisérskych debutov a v tejto kategórii svojho favorita vyberie aj publikum .	13	Determiner
+Takže nacionalisticko - sociálny populizmus Mečiarov je , povedal by som , prirodzeným plodom stáročného vývinu slovenskej spoločnosti .	13	Noun
+Ten im teda dával zabrať !	2	Particle
+Zabili ho spolu s ďalším odsúdencom pri pokuse o útek z väzenia .	6	Adposition
+O niekoľko dní zmenila pracovné miesto : z kravínov prešla do kancelárií na družstve , stala sa upratovačkou .	9	Verb
+Naozaj , mravenisko vyzeralo ako pevnosť .	3	Verb
+V zápale hry Maja prihrala Vilkovi , ten prudko kopol do lopty a lopta zmizla v kroví .	8	Adverb
+Opice skákali z konára na konár a preskakovali koruny stromov , čo rástli pozdĺž brehu rieky .	7	Verb
+Winston sa zľahka poškrabal na nose sponkou na spisy .	0	Proper Name
+Thrácka armáda sa potom obrátila proti Konštantínopolu .	0	Adjective
+Samozrejme , že Maja s Vilkom zablúdili v jesennej hmle ako prví .	4	Adposition
+Na niektorých uliciach metropoly sa matky ani na chvíľku neodvážia nechať svoje bábätká samotné .	2	Noun
+Zenón svoj sľub dodržal : Uväznil svojich zajatcov do prázdnej vodnej nádrže , kde sa neskôr udusili .	5	Participle
+Hráš .	0	Verb
+Pri evakuácii z letiska v Niši však na lietadle havaroval a na úteku potom Štefánika opäť prepadla žalúdočná choroba .	17	Adjective
+Na strednú školu chodil v Hořoviciach ( ukončil ju maturitou v roku 1957 ) .	7	Participle
+Bulharom odstúpil Zagorje , ktoré malo dôležitý strategický význam na zabezpečenie hraníc ich krajiny .	2	Proper Name
+Aj reformný kánonista Anselm uvádza vo svojej zbierke viacero nariadení o konaní synod .	0	Particle
+Dieťa vie čítať až vtedy , keď text pochopí .	8	Verb
+Po nezaujatom posudzovaní rozličných možností prišiel k presvedčeniu , že spomenutý cieľ ľahšie dosiahne , keď bude aspoň trochu študovať .	5	Participle
+Radža vždy odhadne charakter človeka .	4	Noun
+Fatma nakoniec zomrela nasledujúci rok vo februári pri pôrode dcéry a malá princezná zomrela v útlom veku .	16	Noun
+V štúdiu na dobšinskej škole dosiahol ešte väčšie úspechy než v Rožňave .	0	Adposition
+Klopanie sa opakovalo .	2	Verb
+Ako zlodeji sme sa vyhýbali osvetleniu a snažili sa skrývať v bezpečí noci .	6	Conjunction
+Ja som uložil mladým batožinu do taxíka a nasadol som doň .	5	Adposition
+“ Ako bolo včera večer ? “ vyhŕkla nahlas , keď som otvorila kuchynské dvere .	13	Adjective
+Potrebovali sme istý čas , kým sme pochopili , že takáto pretvárka znamená zbytočné utrpenie .	12	Verb
+Vzápätí však včielka Maja začula iný hlas , oveľa tichší a jemnejší .	9	Adjective
+Práve vtedy tréner August zapískal .	2	Noun
+V piaty deň každého mesiaca išla Irma na poštu s príslušným kódom a priniesla domov sto dolárov .	14	Adverb
+Väčšina vojska stála na jeho strane , a tak si mohol dovoliť prehlásiť kráľa za zosadeného a začať pochod na Ktésifón .	13	Noun
+Vláda bude presadzovať zvýšenie efektívnosti výberu daní a odvodov .	8	Noun
+Po páde Berlínskeho múru roku 1989 začína nová kapitola mesta .	0	Adposition
+Do Winstonovej ruky sa zapichla ihla .	2	Noun
+To je aj prípad môjho nedávneho dobrodružstva .	6	Noun
+Medzitým prišlo na plaváreň zopár deciek z oddielu a ich hlasy sa ozývali po vykachličkovanom priestore .	12	Verb
+“ Nemôžeš mi nič zakazovať !	1	Verb
+Vnútorný zmysel kresťanstva zostal väčšine ľudí predmongolskej Rusi cudzí .	8	Adjective
+Vďaka tomu sa tu až do obludných rozmerov rozrástlo uplatňovanie tzv . práva vlastníckej cirkvi .	4	Particle
+Obsiahly vlastivedný úvod ( Praefatio ) k Doležalovej gramatike napísal o generáciu starší Matej Bel .	2	Noun
+Súčasťou návrhu bude aj kontrolný a monitorovací mechanizmus efektívneho využívania nástrojov podpory regionálneho rozvoja .	5	Conjunction
+Ďalšie inštitucionálne a legislatívne reformy	3	Adjective
+Vtom ním mocne zalomcoval záchvat hrôzy .	2	Adverb
+Neskôr vám zaobstaráme niečo iné .	4	Determiner
+Teraz som cítil , že sa ma zmocnil rovnaký zápal .	0	Adverb
+Na začiatku Prvej svetovej vojny narukoval do Britskej armády k Lancashirským strelcom ( Lancashiree Fusiliers ) , kde slúžil ako nadporučík .	20	Noun
+K žiadosti potrebujete nasledovné dokumenty : Potvrdenie o odhlásení auta v zahraničí .	8	Noun
+Tatko sa hneval na deti , lebo ukrutne vyvádzali , a mamka sa hnevala na tatka , že je precitlivený .	4	Noun
+Vláda sa zároveň zaväzuje presadiť v zdravotníctve tvrdé rozpočtové obmedzenie tak , aby od roku 2004 nedochádzalo k tvorbe nového dlhu .	18	Noun
+“ Možno by sa princeznej páčili nové šaty , “ navrhol Nassir .	7	Noun
+Rozpovedal im o svojej ceste k Pánovi i svojom živote s Ním .	4	Noun
+V tejto súvislosti počíta s efektívnou podporou cirkví .	5	Adjective
+Neskôr svoje sídlo presunula do Carihradu .	1	Determiner
+Niektoré organizácie hovorili o neľudských podmienkach , aj keď kontrola senátorov z obidvoch hlavných amerických politických strán podobné prípady vylúčila .	3	Adposition
+Už jej vzhľad mu naháňal hrôzu , a nielen vedomie , že je to on .	4	Verb
+Vláda sa zároveň zaväzuje presadiť v zdravotníctve tvrdé rozpočtové obmedzenie tak , aby od roku 2004 nedochádzalo k tvorbe nového dlhu .	1	Pronoun
+Kráčal som za ním po tichej chodbe nemocničného pavilónu a ani som si nevšimol , že Irma nie je s nami .	13	Verb
+Aj ja som tam bol kvôli mame , aby som jej vyhovel .	4	Verb
+Rovnako prirodzené bolo , že zablúdila očami k fľaši s vodkou značky Smirnoff na stole .	4	Conjunction
+O chvíľu priviedla vrtuľník — vážku Krásku .	0	Adposition
+Politicky sa Rus rozdrobuje , cirkev , naďalej sa upevňujúca , slúži ako kladný protipól úpadku .	0	Adverb
+Prvý raz vôbec mohol si tú ženu prezrieť .	1	Adverb
+Bez slova a bez pozdravu Martin odišiel , ticho zatvoril za sebou dvere .	8	Adverb
+Scenár - adaptácia : Tenká červená čiara	5	Adjective
+“ Princezny boli odjakživa v paláci . “	3	Adverb
+Malo sukničku z makových lupienkov a usmievalo sa .	5	Conjunction
+Dal som jej aj nejaké ruble a povedal som , aby za ne nakúpila pivo a ešte niečo iné .	18	Determiner
+" Veľa asi nie .	1	Numeral
+Delina nebola v Tirane , už dostala umiestenku do profesionálneho divadla v meste Fier .	11	Adposition
+Vďaka svojmu umeniu prepojiť budhistickú spiritualitu a prírodu je občas nazývaný „ laureátom hlbinnej ekológie “ .	0	Adposition
+V rokoch 1805 - 1908 študoval v Rožňave .	7	Proper Name
+Vo vnútrozemí boli dobyté a vyplienené Naissus ( Niš ) , Serdica ( Sofia ) a Viminacium ( Kostolac ) .	2	Participle
+Ovdovel .	0	Verb
+A očervenel som .	1	Verb
+Marga vypila trochu viac .	3	Adverb
+" Asi by som to vydržal , nebyť jednej veci , " povedal .	7	Verb
+Vyzerala staršie a veľmi intelektuálsky .	1	Adverb
+Maja sa však nedala odradiť .	4	Verb
+Keďže sa prvýkrát vyskytuje počas Jaroslavovho námestníctva v Novgorode , nie je vylúčená možnosť nápodoby všemocného novgorodského vodného jaštera .	3	Verb
+Závidela som chalanom , tí sa majú .	4	Determiner
+Neviditeľní jazdci na koňoch sú vyjadrením predstavy o zlých duchoch , schopných ubližovať človeku odnesením jeho duše do podsvetia .	8	Adjective
+“ Veď Rahim povedal , že spolu urobíme obchod .	1	Particle
+Lieh slúži ako veľmi dobré rozpúšťadlo kolofónie , ale nesmie sa dostať do kontaktu s lakom .	14	Adposition
+“ Mhm , nehovorte tak , “ namietal lúčny koník Flip .	4	Adverb
+Očká zažmurkali .	1	Verb
+Žaba nemohla kričať a had ju prehltol v tichosti .	3	Conjunction
+Rovnako nijako nebránil Geiserichovi vo vydrancovaní Ríma v roku 455 .	5	Noun
+Asi verili svojim po zuby ozbrojeným bojovníkom , pred ktorými sa všetci trasú .	2	Determiner
+“ Taký balíček s prekvapením , “ dodal Smí .	1	Determiner
+Na stenách viseli zaprášené police s prastarými knihami zaklínadiel a čarov .	9	Conjunction
+Môj otec mal celý tento politický kapitál keď vyhnal Iračanov von z Kuvajtu a on ho premrhal .	4	Determiner
+Je príznačné , že tu bol neskôr postavený chrám sv . Vlasija .	6	Adverb
+Bol na slnku , oni v tieni .	5	Adposition
+Okolo výhonkov stromu sa nachádza mriežka s kosoštvorcov .	5	Noun
+Vlak bol plný proletov so sviatočnou náladou , ktorú v každom vyvolávalo letné počasie .	10	Determiner
+Prepadol som sa do priepasti , kde som visel v bezváhovom stave .	11	Noun
+1 .	0	Numeral
+Neveriacky som sa na ňu dívala , cítiac , ako ma zadúša od hnevu .	2	Pronoun
+Veľký brat je zovňajšok , v ktorom sa Strana ráči ukazovať svetu .	6	Determiner
+Výsadné postavenie mesta upevňovali ďalší uhorskí králi .	6	Noun
+Nie nadarmo som v mladosti , ešte pred Tomom Jonesom , býval priaznivcom Adriana Celentana .	1	Adverb
+Vášeň ?	0	Noun
+Delina patrí navždy jemu .	2	Adverb
+Súše , resp . kontinenty dnes zaberajú skoro 1 / 3 povrchu Zeme .	10	Numeral
+Jill a tri plavkyne z plaveckého oddielu Žralokov otvárali vo vode oči , keď som sa vyšvihla hore .	8	Verb
+Dňa 15 . 2 . 2004 sa v našom cirkevnom zbore konal výročný zborový konvent .	3	Numeral
+V dome zavládlo hrobové ticho .	1	Noun
+S námahou som pochopil , že má na mysli moju chlpatú hruď .	7	Adposition
+Až nečakaná zmena v správaní nepriateľa vzbudila v hlavnom veliteľovi sirotkov podozrenie .	9	Noun
+A zovrel som ruky za chrbtom , silne .	1	Verb
+Stručný obsah	1	Noun
+Z formálneho hľadiska je matematika skúmanie axiomaticky definovaných formálnych štruktúr použitím logiky a matematického označenia .	3	Verb
+Utrpenie obyvateľov dosiahlo vrchol , keď krajinu postihla hrozná neúroda , ktorú nasledoval hladomor a epidémie .	3	Noun
+Zajtra určite zasa vyjde slniečko !	0	Adverb
+Prvý deň sa deťom v škole veľmi páčilo !	5	Noun
+Ľudská postava vcelku s kniežacou čiapkou , alebo korunou držiacou atribúty moci .	5	Noun
+Zo zbierky vyplýva , že každé zlo musí byť potrestané .	5	Determiner
+Na chrbte cítil , ako ich zraky priťahuje jeho belasá uniforma .	10	Noun
+Mesto s ním späté sa stáva dejiskom podivných udalostí .	7	Adjective
+Nateraz sa uzavrel pred vzdialenejšími zvukmi a počúval len kvákanie , ktoré sa valilo z obrazovky .	6	Conjunction
+Hospodárstvo zažilo za Anastasia rozkvet vďaka odstránení ťaživej obchodnej dane ( chrysargon ) .	2	Adposition
+Nemám náhodou vo vlasoch nejakú vetvičku ?	4	Determiner
+Hubert pozval všetkých na koncert pri príležitosti krásneho letného večera .	1	Verb
+U dovážaných produktov zabezpečí elimináciu tých , ktoré nespĺňajú kritériá kvality a ktoré neprešli colným a daňovým vysporiadaním .	17	Noun
+“ Čo bude stáť za to ! “ skríkla som .	9	Verb
+“ Si v poriadku , Amy ? “ spýtal sa potichu chlapčenský hlas , keď som sa kašlúc vynorila .	5	Proper Name
+Dáva tu do súvislosti umenie a rozum , Staroveké Grécko je symbolom optimizmu .	11	Noun
+Tá správa bola jasná : jej telo túži po mojom tele .	1	Noun
+Lákal ho nádherný palác v diaľke .	3	Noun
+Okamžite jej padol zrak na televízor .	5	Noun
+Oni to hlúpe drevené chlapčisko priam zbožňovali .	5	Particle
+Nebola to namáhavá robota , dážďovku o chvíľu našli .	2	Adjective
+Bol vo väzení a do väzenia zatvárajú zlých ľudí , ale otec nebol zlý človek .	14	Noun
+Niekto sa nám snaží ublížiť a nie je ďaleko čas , keď bude vypátraný a potrestaný .	13	Adjective
+" Ste pripravení vraždiť ? "	2	Adjective
+V hoteli ubytovali len mňa .	3	Particle
+Tarzanova najlepšia priateľka Terk ho prišla zachrániť .	4	Pronoun
+Žiaden z pápežov pred Gregorom VII . nešiel do priamej konfrontácie s najvyšším reprezentantom svetskej moci .	0	Determiner
+Pri prenasledovaní zahynuli viaceré prominentné osobnosti , vrátane hlavy perzských kresťanov , seleukijského biskupa Šimona bar Sabbá ’ é .	3	Numeral
+Zvedavo zdvihol hlavu a pýta sa : “ Zdá sa , že ma poznáte ?	13	Verb
+My sme mravce smelé , my sa nezľakneme .	5	Pronoun
+Vedel dôvod . Šírila okolo seba atmosféru hokejového ihriska , studených kúpeľov , spoločného stopovania a akejsi všeobecnej čistoty mysle .	4	Adposition
+A naozaj , bola pri rovnakom stole a opäť sama .	5	Adjective
+O chvíľu prišiel k stánku chlapec v otrhaných zaplátaných šatách .	1	Noun
+Maja bola prešťastná .	2	Adjective
+Theodorich Itálii po niekoľkých rokoch dobyl a vytvoril tam vlastnú ríšu , ktorá bola formálne podriadená Konštantínopoli .	8	Adverb
+Zmeravela som , keď na druhý deň Chris meškal celých desať minút na hodinu astronómie .	5	Adjective
+Keď boli sviatky , chodil z domu do domu a oznamoval ľuďom , že majú ísť na mítingy .	13	Conjunction
+Požiera slová bez akýchkoľvek zábran .	3	Determiner
+Lavdima Lavdoshaja zaraďovali k príslušníkom konzervatívneho krídla .	3	Adposition
+Zapojte sa aktívne do zborového života , príjmite pozvanie mládeže , navštevujte tento chrám , prichádzajte k Večeri Pánovej .	5	Noun
+Misia Apolla 11 odštartovala z Kennedyho vesmírneho strediska 16 . júla 1969 .	6	Adjective
+Čoskoro si získal dôstojnícku hodnosť .	2	Participle
+“ Prineste i za mňa , “ vyhlásil Vilko a skočil do postele .	12	Noun
+Ako najbližší mužský príbuzný cisára Leva I . bol určený za jeho nástupcu .	9	Adjective
+Neodvážila sa otvoriť oči a ja som pochopil , že očakáva niečo strašné .	5	Pronoun
+Znovu sa ozval zvonivý hlas a nocou sa niesla prekrásna melódia .	9	Adjective
+“ Kto to tu plače ? “ spýtala sa tá krehká drobučká bytosť a zvedavo sa poobzerala okolo seba .	18	Pronoun
+Zrazu sa nad ňou ktosi tichučko zasmial a akýsi hlások sa jej spýtal : “ Prečo sa bavíte so bzdochou ? “	15	Adverb
+Od tejto chvíle si môžete ľubovoľne vytvárať fotoalbumy s neobmedzeným počtom fotiek .	6	Verb
+Geografia povrchu	0	Proper Name
+Zodvihol pohár a opäť vystrel ramená .	4	Verb
+To však malá Maja ešte nevedela .	2	Adjective
+O päť sekúnd sedel Winston s rozbúchaným srdcom pri stole dievčiny .	5	Adposition
+Najprv však navštívil USA , kde spolu s Masarykom a gen . Janinom preberali ďalšie plány .	6	Adposition
+Dokázal , že voľný pád a pohyb telesa po naklonenej rovine sú pohyby rovnomerne zrýchlené .	2	Conjunction
+Zatiaľ čo silnejšie uviazal stužku a zavesil mi ju na krk , stála som na mieste .	1	Conjunction
+Winstonovo telo zalial razom na každom kúsku studený pot .	3	Adverb
+“ Je na ňom symbol bohov , “ vysvetľovala Alkmena .	4	Noun
+Smutne som hľadel na seba v zrkadle .	3	Adposition
+Veľmi by tvoj capko zúril , keby si sa dnes poobede ulial ? “	1	Verb
+Všetky ďalšie uhorské právne normy , ktoré reglementujú život kláštorných spoločenstiev nachádzame potom až medzi kánonmi I . ostrihomskej synody .	2	Adjective
+Prvým mužom , ktorý kráčal po mesačnom povrchu , bol Neil Armstrong , veliteľ americkej misie Apollo 11 .	16	Proper Name
+Pripomínala mi nejakú literárnu hrdinku .	2	Determiner
+Prítomnosť nálezov kačacích príveskov sa vysvetľuje tiež importom zo Škandinávie , prostredníctvom nápodoby laponských a karelských kovolejárov .	7	Noun
+Boj proti hospodárskej korupcii	2	Adjective
+“ Uteč , Mauglí , uteč ! “ kričal Balú .	9	Proper Name
+Na druhej strane slovo Kominterna vnuká predstavu prísne štruktúrovanej organizácie a dobre zoštylizovanej ideologickej doktríny .	8	Adjective
+Zdalo sa mu , že naň čakal celý život .	7	Adjective
+Po návrate do Paríža sa Štefánik intenzívne venoval otázke ustanovenia samostatného česko - slovenského vojska .	14	Noun
+Najviac z nich vzniklo , resp . začínalo vznikať , v rokoch pontifikátu Gregora VII .	12	Noun
+Kráľ mu totiž zveril vrchné velenie nad sedemdesiattisícovým perzským kontingentom , ktorý mal útočníkov zastaviť a vyhnať z perzského územia .	2	Particle
+Faika stála pri mne , s červenou tvárou .	3	Pronoun
+Kapitoly vytvoria protiváhu hlboko miestne ukotveného archeologicko ‐ historického prehľadu a predkladajú nový zorný uhol na skúmanú tému .	15	Adposition
+Neveriacky som sa na ňu dívala , cítiac , ako ma zadúša od hnevu .	7	Verb
+Spôsobil ju článok uverejnený na stránkach Októbra .	2	Noun
+O moc a vplyv na mladého kráľa súperili dve skupiny šľachty .	7	Participle
+Neviditeľní jazdci na koňoch sú vyjadrením predstavy o zlých duchoch , schopných ubližovať človeku odnesením jeho duše do podsvetia .	9	Noun
+Žena sa postavila na stupienok s katedrou , otvorila triednu knihu a začala čítať naše mená .	6	Noun
+“ Kam ideme ? “ vypytoval sa .	1	Adverb
+Navrhli im , že ak chcú prežiť v nových podmienkach trhového hospodárstva , môžu predávať po tiranských chodníkoch cigarety alebo banány .	16	Adjective
+Jeho počiatočná pozícia pri nástupe k moci bola mimoriadne slabá .	5	Adposition
+Mesto s ním späté sa stáva dejiskom podivných udalostí .	2	Pronoun
+Lenže ozajstný ľúbostný vzťah bol takmer nemysliteľný .	3	Noun
+Niekto vliezal do okna .	0	Pronoun
+Najprv Maja spoznala dobrého kamaráta , ktorý jej pripadal veľmi zvláštny .	0	Adverb
+Znamená to teda , že on je jediný , komu ešte zostala pamäť ?	10	Adverb
+Postupne mu však ten príval hudby vyhnal z mysle všetky špekulácie .	3	Determiner
+Taktáto blízkosť funkcií vedie k ľahkej zameniteľnosti šamana za mnícha .	6	Noun
+“ Ty nemáš otca alebo mamu ? “ spýtal sa Dizzy .	10	Proper Name
+V tej chvíli zišiel zo svojho ležoviska na strome Baghíra , ktorý pozorne počúval všetko , čo sa vravelo .	14	Pronoun
+“ Bude tam titulok : Slávna rekordérka fotografuje reportérov , “ povedala Blythe .	2	Adverb
+Herkules sa snažil využiť svoju neuveriteľnú silu a pomáhať .	1	Pronoun
+V každom prípade aj text jeho úvodu dal Doležalovej gramatike punc najautoritatívnejšieho zdroja poznania vtedajšieho spisovného jazyka Čechov i Slovákov .	18	Conjunction
+Ako som počúval otcove husle , pred očami sa mi zjavil portrét ženy z medailónu .	8	Pronoun
+V novembrových dňoch bol jedným z politikov , ktorí odmietli situáciu riešiť násilím a výrazne tak prispel k pokojnému priebehu prevratu .	17	Adposition
+Deti si obľúbia veľký zobák pelikánej slečny a radi sa s ním zahrajú , keď uvidia slová KLIP ‐ KLAP !	15	Verb
+John sa vystrel , vypäl hruď , ale bol nesmierne smutný .	2	Verb
+Títo reformne naladení klerici sa stali najbližšími pápežovými spolupracovníkmi a poradcami .	3	Noun
+Názov toho miesta nám obidvom vyhovoval .	0	Noun
+Šlo o veľkomyseľné ústupky v obchodnej sfére a Mahmúd dúfal , že Britániu zláka na vstup do formálneho spojenectva .	18	Noun
+Keď však Winston opravoval pôvodný plán , znížil číslo na 57 miliónov , aby vyhovel bežným požiadavkám na prekročenie kvóty .	18	Noun
+NA DRUHÝ DEŇ RÁNO som sa prebudila do skutočnosti .	2	Noun
+2 .	0	Numeral
+Už mnohokrát som sa utvrdil o pravdivosti tejto teórie .	3	Pronoun
+Po tréningoch som ostávala v bazéne a trénovala som sama .	1	Noun
+Konajte svoju povinnosť .	1	Determiner
+V noci sa zatvárala do medailónu a patrila Profesorovi .	4	Adposition
+Je plná fasciklov a väčšina z nich je očíslovaná .	7	Verb
+“ Čo je s tebou ? “ škodoradostne sa posmieval Gaston .	7	Adverb
+Marga sa ponáhľala odísť bezo mňa .	4	Adposition
+Žiť pre jedlo je to najlepšie , najistejšie a najbezpečnejšie , čo sa môže prihodiť .	3	Verb
+Septembrové voľby potvrdili pevnosť demokratických základov Slovenskej republiky .	2	Verb
+Bush kritizoval Irán a označil ho za „ hlavného štátneho sponzora teroru “ a prisľúbil iránskym reformátorom podporu USA .	16	Noun
+Bola presadzovaná hlavne sovietskou marxistickou historiografiou .	5	Noun
+Experimentálne dôkazy vykonané v poslednej dobe ukazujú , že skupinová rýchlosť svetla môže prekročiť c .	8	Conjunction
+Obehla okolo kríka a prekvapene zhíkla .	1	Adposition
+Kofola je sýtený nealkoholický nápoj vyrábaný v Česku a na Slovensku .	4	Noun
+Vtom sa odraz mesiaca rozbil na črepy , no zakrátko sa zasa zjavil na hladine .	11	Adverb
+Vzápätí som to však oľutovala .	3	Particle
+To boli dostatočné dôvody na to , aby trvale vyžadoval od svojich nasledovníkov dôsledné dodržiavanie chudoby .	13	Adjective
+Bez vyzvania im čašník priniesol ďalšie poháriky s džinom .	1	Noun
+Bol som v obývačke .	1	Verb
+Hospodárstvo zažilo za Anastasia rozkvet vďaka odstránení ťaživej obchodnej dane ( chrysargon ) .	5	Adposition
+Lúč svetla bol namierený na zrkadlo umiestnené vo vzdialenosti niekoľkých kilometrov .	10	Noun
+V samotnom Konštantínopole bol ustavený proticisár , ktorý bol však rýchlo odstránený .	7	Determiner
+Jasajúci diváci ho odniesli na pleciach domov .	2	Pronoun
+Mama zbledla .	0	Noun
+V ďalšom potom budeme identifikovať odraz tejto jeho pozície v sledovaných právnych normách .	0	Adposition
+Prvým príznakom jej existencie je pasáž o stvorení sveta . . .	7	Noun
+Pohyb z jednej skupiny do druhej je oveľa vzácnejší , než bol v kapitalizme či dokonca v predindustriálnom veku .	13	Noun
+Prirodzeným následkom Veľkého tresku je , že vesmír mal v minulosti vyššiu teplotu a hustotu .	1	Noun
+Iba jej skočiť na pomoc !	4	Noun
+Takýmito duchmi môžu byť medvede , vlky , zajace , jelene , kačky , orly , sovy a vrany .	18	Noun
+Po chodníku kráčali ľudia sem a tam .	6	Adverb
+Myslel si , že obdivujem západ slnka .	6	Noun
+Bola nefalšovane na smrť vystrašená , čo sa dalo pochopiť .	0	Participle
+13 . marca 1940 bolo uzavrené prímerie .	6	Noun
+“ Chyť volant , “ povedal a otočil sa k zadnému sedadlu , kde mal športový vak .	14	Verb
+Zúril , až mu vlasy dupkom stáli .	2	Conjunction
+Bol to smiešny prejav .	1	Determiner
+Boh je milostivý a spásny .	1	Verb
+Prečo lovíme zelené kravičky ?	3	Noun
+Odhodil som cigaretu .	1	Verb
+Winston ihneď vyplatil štyri doláre a zasunul si vysnívanú vecičku do vrecka .	6	Verb
+Do roku 1940 sa počet obyvateľov obce zvýšil na 1232 a počet domov na 249 .	11	Noun
+Keď prišiel ku mne , ukázala som na bazén .	2	Adposition
+Pôvodne bol priateľom cisára Nera , jeho žena Poppaea Sabina však upútala Neronovu pozornosť a stala sa jeho milenkou .	7	Noun
+Po celý čas som sa díval smerom k osvetlenému pásmu , kde sa zástup žien tlačil pred skleným priečelím obchodu .	18	Noun
+Celú noc som ani oko nezažmúril , spal som iba chvíľu nadránom .	11	Adverb
+Kardinálov si starostlivo vyberal .	3	Participle
+To vie Boh sám , človek je na ceste do večnosti alebo do zahynutia .	10	Noun
+V Gregorovom ponímaní by to znamenalo komendovanie Uhorska sv . Petrovi , ktorého nástupca by vládcovi krajiny udelil kráľovskú korunu .	13	Noun
+“ To sa nemalo stať ! “ kričal nešťastný Herkules .	9	Proper Name
+Zovrel ju v náručí a vtedy zistil , že bozkáva živú , teplú tvár .	1	Pronoun
+Chvíľu sme stáli vo dverách , pretože nás ovalil svieži závan klimatizovaného vzduchu .	11	Adjective
+Zhrozený Pinocchio lomcoval tyčami klietky .	2	Verb
+Pri ďalšej skúške vymenila slák za golfovú palicu , takže Klotilda musela kričať a prišla o hlas .	0	Adposition
+Symbolickú úlohu má i výzdoba koníka — krúžky s bodkou uprostred sú ďalšou z mnohých modifikácií solárnych znakov .	7	Noun
+Blythe bola úžasná , odpustila mi , že som na ňu nakričala kvôli plesu .	5	Pronoun
+Galileo objavil rozpory Aristotelovej fyziky .	2	Noun
+Teraz mohli všetci pokračovať v spoločnom programe .	5	Adjective
+Prirodzeným následkom Veľkého tresku je , že vesmír mal v minulosti vyššiu teplotu a hustotu .	11	Adjective
+Tu prekladá Nový zákon .	1	Verb
+ZLÁ VÍLA NETRPEZLIVO ČAKALA NA ZÁPAD SLNKA vo vlhkých tmavých rozvalinách kamenného hradu , ktorý stál na vysokom brale .	1	Noun
+Napokon sa striga rozhodla , že s morskou vílou skoncuje raz a navždy .	6	Adposition
+“ Takto to už ďalej nejde , “ povedala Maja Rudkovi a Flipovi .	9	Proper Name
+Najskôr som začul psí brechot .	0	Adverb
+Keď Maja začula žalostný nárek muchy , zabudla na strach pred žabami .	9	Noun
+Ľahol som si do postele .	4	Noun
+Zavrela znútra dvere na školskej budove , zastrčila závoru , vzala ma za ruku a viedla za sebou .	8	Noun
+“ Ale sú veci , ktoré nemôžeš zmeniť ani ty ! “	5	Determiner
+Tak sa hovorievalo .	1	Pronoun
+Hoci voľby poznačilo drobné násilie a slabá participácia Sunitov , väčšina Kurdov a Šítov prejavili silný záujem .	7	Noun
+Keď pred správami zaznela trúbka , vždy to znamenalo víťazstvo .	3	Verb
+Chris sa obrátil ku mne , v očiach mal hrdosť , ale aj ospravedlňujúci výraz .	12	Conjunction
+Bush vyčlenil 1 , 2 miliardy dolárov z federálneho rozpočtu na obdobie piatich rokov na vývoj vodíkom poháňaných vozidiel bez emisií .	17	Adjective
+Zrazu začuli vystrašený krik .	2	Adjective
+Theodorich Itálii po niekoľkých rokoch dobyl a vytvoril tam vlastnú ríšu , ktorá bola formálne podriadená Konštantínopoli .	4	Noun
+Mahmúdova armáda tak oslávila triumf nad mužom , ktorý dokázal vzdorovať piatim sultánom .	3	Participle
+Nasledovali ďalšie veci , ktoré boli podľa Sergeja podpichovaním na Cerberovu adresu , hoci jeho meno sa tam nespomínalo .	17	Adverb
+Išiel som za ňou , akoby som kráčal v ústrety budúcnosti .	8	Adposition
+Zostupujúc do hĺbok duševných priepastí , ( seba ) obnažuje , bičuje ( sa ) .	13	Pronoun
+Tak aj urobili .	0	Adverb
+Nárazuvzdornosť a odolnosť voči vlhkosti .	1	Conjunction
+“ Ricka zaujímajú vážne veci , “ namietla Blythe .	1	Proper Name
+V roku 1995 v encyklike Evangelium Vitae ( Evanjelium života ) znova presadil za hlavnú hodnotu cirkvi ľudský život .	4	Noun
+Nepretržite pršalo milióny rokov .	0	Adverb
+" Na tento účel sa robí zbierka .	2	Determiner
+Blythe mi požičala prekrásne hodvábne modré šaty a v trojici sme sa zjavili v piatok večer na plese .	0	Proper Name
+Zatiaľ čo sa Chris profesora na všeličo vypytoval , Rick si pedantne zapisoval každé jeho slovo .	3	Proper Name
+Faktom je , že náboženský fundamentalizmus prežíva svoju regeneráciu . “	1	Verb
+Deti sú v prevažnej miere rímokatolíci .	4	Noun
+Podľa jedného z nich vyskočil Pegasos z tela svojej matky Medúzy potom , čo jej Perseus usekol hlavu .	9	Noun
+“ Ty zradná potvora ! “ oboril sa na ňu .	2	Adjective
+Rozhodol sa letieť za nimi a za trest , že naňho zabudli , vzal so sebou všetkých susedov .	15	Pronoun
+Zaujímavá nie je ani smrť otca mojej mamy , ani smrť môjho otca .	10	Noun
+“ Neviem , “ vraví myška , “ ale možno ti poradia tamtie modré kvietky . “	1	Verb
+V paláci nahradili vankúše a divány európske pohovky , stoličky a stoly .	6	Adjective
+“ Už ste v poriadku ? “ starostlivo sa pýtala Maja .	8	Pronoun
+Rýchlo som upratala zo stola a ponáhľala sa do svojej izby .	4	Noun
+Problém dlhotrvajúcich vplyvov černobyľskej havárie na civilistov je silne kontroverzný .	8	Adverb
+Nateraz sa uzavrel pred vzdialenejšími zvukmi a počúval len kvákanie , ktoré sa valilo z obrazovky .	9	Noun
+Keď som jej zapaľoval cigaretu , prebehla mnou vlna zlosti .	1	Verb
+Celý týždeň som bol náchylný uveriť , že to všetko bol iba sen .	9	Determiner
+Preklad : Juraj Vojtek	0	Noun
+“ Zato by som ti mal odhryznúť hlavu , maličká ! “ zreval rozzúrený sršeň .	7	Noun
+Viedenský cisársky dvor uznal vedeckú činnosť Mateja Bela a samostatný cisár Karol VI . financoval vydávanie jeho vlastivedných prác .	5	Noun
+“ Ľudské mláďa nemôže ostať so svorkou . “	2	Noun
+Adoptoval ho cisár Tiberios II . , po ktorého smrti nastúpil na trón .	3	Proper Name
+Neprihovorím sa mu po taliansky .	4	Adverb
+“ Ako sa voláš a kde bývaš ? “ spýtala sa toho stvoreniatka .	12	Noun
+Porozprával Júlii , ako mu matka zmizla .	0	Verb
+Prebehli sme okolo nich a prešmykli sa dozadu k dvojmetrovému múru .	3	Pronoun
+Byvol bol veľký , byvolica malá .	1	Participle
+Počula som tikanie nástenných hodín a vlastný dych .	0	Verb
+Jeho slepú obeť hrá Marisa Tomei .	2	Noun
+Naďalej som tam stál so spustenými rukami a na Lorino objatie som neodpovedal .	2	Adverb
+13 . kapitola	0	Numeral
+Zároveň so zrušením janičiarskych zborov boli zrušené aj zvyky feudálnej jazdy , sipáhijov .	0	Adverb
+Maja zo zvedavosti priletela bližšie a sadla si na vedľajší list .	0	Proper Name
+Mahmúdova armáda tak oslávila triumf nad mužom , ktorý dokázal vzdorovať piatim sultánom .	5	Adposition
+Roku 1939 sa Hrubín oženil , neskôr mal dva deti .	6	Adverb
+Barbie a Sandra ju pozorne počúvali .	1	Conjunction
+Koloman mal v súvislosti so svojimi hospodárskymi reformami akiste zámer profitovať z potenciálu oboch týchto skupín obyvateľstva .	9	Noun
+Moje záhady sa vyriešili .	1	Noun
+Musíte byť tolerantní , musíte pochopiť , že som nemal iné východisko .	4	Verb
+Tento komplex otázok – teda vzťah uhorskej cirkvi ku tzv . gregoriánskej reforme tvorí širší rámec našej práce .	17	Noun
+O chvíľu som späť . “	1	Noun
+“ Poď sem , Chris , “ zašepkala som .	7	Verb
+Popáliť sa na jedinom písmene je klasický prípad , ktorý sa môže vyskytnúť v rôznych podobách .	15	Noun
+Ležala som na doske a pozerala naňho .	3	Noun
+Hlavnou súčasťou sláčika sú žinky napnuté medzi špičkou sláčika a tzv . žabkou .	4	Noun
+Na rodnú vlasť sa veľmi tešil , lebo ju nenavštívil od smrti svojho otca r . 1913 .	3	Pronoun
+Okolo hučal a bzučal najrôznejší hmyz a v stromoch na plné hrdlo vyspevovali vtáci .	10	Adjective
+Nebolo tajomstvom , že odoslané listy sa bežne otvárajú .	3	Conjunction
+Keď som dokončil tento variant , zavrhol som ho .	2	Verb
+A po rozlúčke s ním som mal zvláštny pocit .	3	Adposition
+V osobnosti a profesionalite učiteľa vidí vláda kľúčový prvok rozvoja školského systému .	10	Adjective
+Fínsky grafik Erik Bruun použil Lönnrotovu podobizeň ako motív na päťstomarkovú bankovku .	4	Participle
+Nestrácal som čas a priložil som oko k škáre v podlahovej doske .	9	Adposition
+Bol na slnku , oni v tieni .	2	Noun
+RYBY 20 . 2 . - 20 . 3 .	3	Numeral
+Keď pridáme veľmi hrubé odhady nesledovaných území , celková populácia môže byť asi 100000 jedincov .	1	Verb
+Heraklonas zomrel onedlho na následky svojich zranení .	5	Determiner
+Strana má vždy patent na absolútnu pravdu a je jasné , že absolútno nemohlo byť nikdy iné , než je teraz .	6	Noun
+Do tváre sa mu opieral príjemný letný vzduch .	4	Verb
+Tarzanova najlepšia priateľka Terk ho prišla zachrániť .	0	Adjective
+Zaviedol najvýznamnejšie známe zníženie daní s cieľom oživiť americkú spotrebu .	5	Adposition
+Články , zaujímavosti , recenzie .	0	Noun
+Mušiakovi Pavlovi sa mušia slečna zapáčila na prvý pohľad .	3	Adjective
+Za veľkými stolmi sedeli princovia a šľachtici .	3	Verb
+V Banskej Bystrici vyučoval orientálne jazyky a bol aj evanjelickým kazateľom .	2	Proper Name
+Tam som ho našla .	0	Adverb
+Sadol si na zem a povedal : “ Tak čo mám teda robiť ? “	4	Conjunction
+To nie je sovietske meno , vysvetlila mi v ten večer mama .	9	Determiner
+Iniciatívu Bush obhajoval úspechom programu z roku 1995 , ktorý podobne pristupoval k emisiám SO2 .	0	Proper Name
+Mama vybehla naštvane na chodbu .	4	Noun
+Okamžite vzlietla nad miesto nešťastia , kde topiace sa mravce zúfalo kričali o pomoc .	12	Adposition
+Pod gaštanom stálo niekoľko stolov a stoličiek a za živým plotom presvitala tehlová budova hostinca .	9	Adjective
+Potom začul ďalší zvuk — ľudské hlasy !	6	Noun
+“ Nepotrebujem nikoho ! “	2	Pronoun
+“ A ďakujem , že ste tu zdržali to ľudské mláďa . “	8	Determiner
+Michala III . zavraždili roku 867 .	4	Noun

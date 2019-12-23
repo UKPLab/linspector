@@ -1,0 +1,1000 @@
+Öyle kolay gelmez ki o .	4	Pronoun
+Saçları kır .	0	Noun
+Kendimi , bilincimin daha rahat olacağı bir dalgınlığa bırakmaya çalıştım .	0	Pronoun
+Sezer veto edebilir , referanduma getirebilir .	1	Noun
+Sömürgecilerin onyedi. yüzyılda başlayan müdahalesi ile daha da küçüldüler , dağıldılar , yok olma tehlikesiyle yüz yüze geldiler .	13	Masdar
+Esin Abicim Tontoş olsun ismi dedi .	5	Verb
+Çin Yeni Yılı ve Taylandlı Çinliler tarafından yapılan diğer ziyafetler , Çin takvimine göre hesaplandığı için her ikisine göre değişir .	16	Determiner
+Küçük beyin ismi Kahve olacak .	2	Noun
+Uzak uzak ülkelerden birinde fakir bir anne ve kızı yaşarmış .	1	Adjective
+Yaptığı nice düşüncesizlikleri başına kakmak istemedim , şunun şurasında birlikte yaşamaya başlayalı ne kadar oldu , yaparsam küstahlık olur .	13	Adposition
+O kişi olmazsa yaşayamam ; sekssiz yaşayamam ; alkolsüz bir hayat düşünemem ; başarı için günde on altı saat çalışmam gerekir vb .	20	Verb
+İhracattaki tarım ve sağlık sektörüne destek amacıyla verdiği önergeler ise " gider Başesgioğlu " olduğu gerekçesiyle kabul edilmedi .	4	Noun
+Taksitli Bebeleri hükümete girdiler .	1	Noun
+Konuyla ilgili kapsamlı bir dizi internet tartışması bulduktan sonra listem oldukça büyümüş ve ülkedeki hemen her eyaleti kapsamıştı .	7	Noun
+Beni nasıl etkilediğini bilemezsin .	3	Verb
+Delikanlı eşcinsel yaşamından suçluluk da duyuyordu .	0	Adjective
+O nasıl her olumsuzluğa olumlu bir gözle bakıyor öyküde ?	5	Numeral
+Hep başrollere çıkarlar .	2	Verb
+Bu olay , radikal bir devrimci olarak kariyerinin başlangıç noktası olarak görülebilir .	1	Noun
+Kazada hayatını kaybeden çiftlerden biri de Servet ve Sevinç Karadağ .	7	Conjunction
+Ayrıca dokuz deri yüklendi odunların üstüne .	4	Noun
+üçyüzatmışdört milyon sekizyüzseksen bin lira olan en düşük memur maaşı , böylelikle dörtyüzbir milyon üçyüzatmışsekiz bin liraya yükselecek .	7	Adjective
+2019 Winter Universiade etkinliğine Krasnoyarsk ev sahipliği yapacak .	4	Proper Name
+Kıyıda ki kayalara oturmuş bira içiyoruz .	0	Noun
+Komutanlar , Cumhuriyet'in temel dayanağı olan laikliği sarsacak gelişmelere ve görüntülere izin verilmemesi gerektiğini vurguladılar .	13	Participle
+Sağlam bir iskele yapmıştı teknelerin rahatça yanaşabilmesi için .	6	Verb
+Aldrin 9 Eylül 2002'de , bir Japon çocuk televizyonunun mekân konusunda bir röportaj verme bahanesiyle bir Beverly Hills oteline gelmeye ikna edilmişti .	12	Noun
+Bir ara babanızla annenizin ayrılacağından korktunuz .	0	Numeral
+Mükelleflerin son dört yıldaki vergi matrahlarını artırmaları ve borçlarını uzun vadeli taksitlerle ödemeleri halinde vergi incelemesi yapılmamalı .	16	Verb
+Her iki olgu da , bilim için yeni bir başlangıçtan çok , bir dönemin kapanışına işaret etmektedir .	10	Adposition
+Öğretmenim , babam tarlada çalışıyordu ...	0	Noun
+Benim büyük amcam var ya , diyorum .	3	Adjective
+İkimizden başka kimse bilmeyecek tamam mı ? dedi .	4	Adjective
+yirmi milyar dolarlık paketle geliyorlar .	1	Numeral
+Ayrıca tüzük , bölgeler ve metropolit bölgelerden oluşan meclisin seçimini belirler .	4	Conjunction
+Hindistan'da insanlar yaşlılıktan öldüğünde bunun bir kutlama olması gerekiyor .	7	Verb
+Yaptığı nice düşüncesizlikleri başına kakmak istemedim , şunun şurasında birlikte yaşamaya başlayalı ne kadar oldu , yaparsam küstahlık olur .	16	Verb
+Kipling orada geçirdiği süre boyunca , ( Trix'in geri döndüğü ) Southsea'de Trix ile gemiye binen Floransa Garrard'ına aşık olmuştu .	13	Adposition
+Daha doğrusu , bazılarının konumuna bundan daha iyi yakışan bir sözcük olamazdı .	1	Adjective
+Beline uzamış abanoz saçları .	1	Verb
+Bir kadınla bir erkeğin oynayabileceği bütün oyunları oynamış , kadınlığı da erkekliği de sonuna kadar yaşamıştık .	0	Numeral
+Kadınlar rahatça mağazada dolaşmaya , satış elemanlarıyla konuşmaya , ürünleri incelemeye , sorular sormaya , ürünleri denemeye ve sonunda satın almaya daha yatkın .	7	Verb
+Bağımlılık yapan bir yer bu Erkekler Parkı .	3	Noun
+Matematiğin kötü ellerde hortlayan ve doğa bilimlerini olumsuz yönde etkileyen yanı da burada , kusursuzluğunda yatmaktadır .	15	Verb
+Gazi daha çok kuru leblebiyi tercih ederdi .	0	Proper Name
+İyi ki ordu sesini yükseltti , şimdi ne yapacaklar bakalım , deyip bekledik .	2	Noun
+Uçağın tam inişi sırasında yolculardan birinin cep telefonu açtığının tespit edildiğini bildiren Yıldırım , " Cep telefonunun açılmaması gerekirdi .	9	Noun
+Bence ayıp olan yalan söylemek , bir şey çalmak , birisine iftira atmak ...	11	Noun
+Bu nedenlerle uçağın yerde buzlanma şartları altında olmadığı kıymetlendirilmiştir deniyordu .	0	Determiner
+Çok dalgınsın bugün sen , dedi Gül Abla .	3	Pronoun
+Aygün , sundukları dosyayı inceleyip faiz oranlarını görünce hayrete düşen Şener'in , bu konuyu gelecek hafta Bakanlar Kurulu gündemine getireceğini söylediğini kaydetti .	6	Noun
+İngilizlerin sebze zevki tartışmalı tabi .	0	Adjective
+O gece rüyamda ben balerin olmuştum .	0	Determiner
+Yapılan seçim yasası değişikliklerinin bir yıl içindeki seçimlerde uygulanmayacağına ilişkin hükümden bu dönem yapılacak ilk ara seçimler muaf tutulacak .	10	Noun
+Sık sık af çıkması doğru olmuyor .	2	Noun
+Kadının dolgun beyaz göğüsleri siyah ipekli bluzundan dışarı taşıyordu .	2	Adjective
+Ne kadar zorlarsam zorlayayım , her biri cılız birer siluet olarak gözlerimin önünden geçip kayboluyor .	2	Verb
+Catalano Londra'da yaşadıktan sonra bölgeye geri döndü ve daha sonra Glasgow Sanat Okulu'nda mücevher tasarımı eğitimi aldığı Glasgow'a taşındı .	0	Proper Name
+Orta yerinden bıçak gibi girer , kesip atar .	7	Verb
+Diskoteği sandığı kadar ürkütücü bulmadı , belki de gençlere uyum sağlamak için ister istemez içtiği iki kadeh viski yüzünden .	6	Adverb
+Bütün bunlara rağmen , Sav familyası imajını zedelemeyerek aynı okulları bitirdim ben de .	9	Noun
+Abla Gaye Karasu ve yakınları , İstanbul'dan THY'nin tahsis ettiği uçakla dün Diyarbakır'a gitti .	9	Participle
+Rakı sofranı onunla beze .	0	Noun
+Üstümde kiler eski , ipek gömleğim sararmış ...	4	Adjective
+Yerime iyice yerleşirim .	1	Adverb
+Undersea olarak yayınlanan deneme , okyanus tabanında geçen bir yolculuğun canlı bir anlatımıydı .	1	Verb
+Öte taraftan dış tarih , İspanyolca konuşanların geçmişi , tarihsel değişiklikleri ve dilin toplumsal kullanımı ile ilgili referanslar içerir .	2	Adjective
+Kimseyi doldurmadık .	0	Noun
+Hayatım bir gezginin hayatına dönüşeli , bunu artık hemen anlıyorum .	0	Noun
+Bununla birlikte , şehirleşme Tayland'da obezite gibi sorunlarda da büyük artışlara neden oldu .	1	Adposition
+Üstelik ikinci gün arayıp kadavranın cinsiyetinin benim için fark edip etmeyeceğini sordular .	2	Noun
+Milletvekili seçimlerinde görev yapacak sandık başkanlarına net kirkdort milyon besyuz bin lira ödenecek .	3	Verb
+Göz kırptı .	0	Noun
+Bu disk , Rona'nın Enstitü'nün sonraki araştırmalarının çoğunda kullanılan polonyum laboratuvar örnekleri oluşturmasına izin verdi .	12	Noun
+Fakat samimiyeti bozduğu için konuşmayı böyle resmi ağıza dönüştüren kişi , kendiliğinden soğuk kaçtığını anlar , bir daha herkes gibi içtenlikle konuşmaya dikkat ederdi .	5	Adverb
+O dönemde , orada çok sayıda iyi tarım arazisine ve sığır otlağına sahip kırk civarında aile vardı .	5	Noun
+Allahım üveylerden beni koru .	0	Noun
+Doğu Anadolu'da ulaşımın zor olduğu arazide dev boruların taşınması ve inşaat makinelerinin geçmesi için yapılacak yollar , bölgedeki sarp arazide yeni ulaşım olanakları sağlayacak .	17	Noun
+Bütün delilleri , dosyayı inceleme hakkına sahipiz hukuki olarak , fakat bu haktan mahrum edildik .	3	Noun
+Türkiye'de darbeciler ellerini kollarını sallayarak dolaşıyor , evet ...	3	Noun
+Ama biz Tayyip Erdoğan'la yıllardan beri aynı çizgiyi paylaşmış insanlarız .	6	Adjective
+Esasen çağdaş bilim kavramının kendisinin ortaya çıkışı da , bu kuralın dışında değildir .	0	Adverb
+Ya da Boğaziçi'nde , Emirgan sırtlarındaki korularda , o yörenin kahvelerinde .	6	Noun
+CAN'ın duygulu anlar yaşadığı okul açılışında gözler , eşi Sulhi Aksüt'ün hazırlattığı , " Bir okul yaptır , bin hapishane kapat " afişini aradı .	5	Noun
+Nicolai , bir gece akşam yemeğinde , Morricone tarafından verilen çeşitli sinematik puanlar üzerinde işbirliği yapar ; bazıları her ikisi tarafından yazılmıştır .	0	Proper Name
+Çağdaş bilim kavramının ikinci ayağı , bilgilerin soyutlama yoluyla sistemleştirilmesi diye tanımladığımız teoridir .	6	Noun
+Dönmek istiyorum Erkekler Parkı'na , dedi birdenbire .	1	Verb
+Teknoloji , bilginin üretimde kullanılabilir hale getirilmesi amacıyla birtakım düzeneklerin tasarımlanıp oluşturulmasıdır .	5	Noun
+Çocuk pantolonu Recep'in elinden kaptığı gibi kayığın arkasına geçti .	0	Noun
+Ama dünyanın kendi sandıklarından ibaret olmadığını bilmek , yardım isteyebilmek , danışabilmek , mütevaziliğin başlangıcı , ben merkezciliğin yavaş yavaş ölümüdür .	0	Conjunction
+Yaptığı nice düşüncesizlikleri başına kakmak istemedim , şunun şurasında birlikte yaşamaya başlayalı ne kadar oldu , yaparsam küstahlık olur .	1	Adverb
+" Ben Burhan Dede'nin soyundan , torunlarından biriyim .	6	Noun
+Başlıktaki gerek olmadığını düşünüyordu ama çoğunluk , apartmana espri li bir ad taksak fena mı olur a yatkın dı .	10	Numeral
+Israr etseydin bize , daha güzel bir isim önerseydin ! ..	7	Noun
+Ayrıca , Buenos Aires Şehri'nin federalleştirilmesini , ticari kanunun uzatılmasını ve orduya yeni generallerin atanmasını da ele almıştır .	3	Proper Name
+Matbaadan işçiliğinden sonra somya kaynakçılığını da terk etmemi hazmedemiyordu .	5	Conjunction
+Nusret Senem : Şimdi raporların detayına girdiğimiz zaman kuşkularımızı çok yoğunlaştıran noktalar oldu .	11	Noun
+Akıllı telefon nesli en aptalca durumun en iyi senaryoda milyonlarca seyirciye ulaştığı , hak ettiği bir uygulamaya kavuştu .	6	Adverb
+Koşarken göbeği bıngıl bıngıl yere değiyordu .	5	Verb
+Ben de kelleyim tabii , bir de herif ölcem mölcem diyor ya , ister istemez moralin bozuluyor .	16	Verb
+Akıllı telefon nesli en aptalca durumun en iyi senaryoda milyonlarca seyirciye ulaştığı , hak ettiği bir uygulamaya kavuştu .	0	Adjective
+Ama aynı dönemde tanıştığı alkol , esrar ve eroin suçluluk duygusunu bir anda yok ediyordu .	6	Noun
+Kardeşinin Marmara depreminde de Gölcük'te yedek subay olarak görev yaptığını anlatan Vecdi Altındağ , " Kardeşim o büyük depremden de mucize eseri yara almadan kurtulmuştu .	23	Verb
+Anneme göre büyük amcam bir kenarda oturup önünden geçip giden hayatını seyretmiş de bir ucundan tutayım dememiş .	12	Conjunction
+doğada hepsinin birer barınağı var .	2	Numeral
+Her zamanki masasında oturuyordur .	1	Noun
+Aktarılana göre Tiberius , gidişinden pişman oldu ve birkaç kez Roma'ya dönmek istedi ancak Augustus taleplerini her seferinde reddetti .	10	Proper Name
+Sermaye artırımı sonrasında Reina'de Platform Kozanoğlu Club'a Technologies'in payı yüzde doksanaltı'dan yüzde atmışbeş'e inerken , Çukurova Holding'in payı yüzde 4'ten yüzde dokuz'a yükseldi .	9	Numeral
+60'lı yılların ortalarında RSC'de Marat / Sade'deki bir sığınmacı - mahkum rolüyle başladı .	2	Noun
+Polisinin bünyesinde , devriye ve gözetleme teknelerini işleten özel bir birim bulunur .	10	Noun
+Eşini kaybeden Aysun Ulusu ise acı haberi alınca astım krizi geçirdi .	10	Verb
+MART'I BEKLİYORLARDI .	0	Noun
+Motosiklet yarışına baktım ve baktıkça , 1970'lerden kalmış gibi görünen fotoğraflardan bir kadının yüzü karşıma çıkmaya devam etti .	15	Noun
+Kadınlar satın alırken daha mı detaylı inceleme yaparlar ?	7	Verb
+Kanım birden beynime fırladı , kafatasımı dağıtarak tavana doğru fışkırmaya başladı .	10	Verb
+Nerden belli , diyor büyük ablam , bir karış çocuk o daha .	11	Adverb
+Ne tuhaf anlattın bana bu makineyi ...	1	Noun
+O sırada , akşam gezintisine çıkmış gençlerin selamlarına karşılık verilir .	0	Determiner
+Bu durum Capitol Hill hakkındaki sosyal medya hareketlerini takip edenler için biraz daha farklı olacak .	11	Adverb
+Oğlum , Ne işe yaradığını , sordu .	2	Pronoun
+Kısmetse kart bastırıvemiş , kendini geleceğin cumhurbaşkanı ilan edivemiş ...	7	Noun
+Ben söz aldım .	1	Noun
+Hafta içi olduğu halde gelmişler .	2	Verb
+Hemen ardından kasabadan gelen kamyonun sesi ise kervanda paniğe neden oluyor .	2	Noun
+Evet , bu kadar Milano yeter .	3	Adposition
+Yıllık ankette ayrıca , yeni mali yük altına girmekle ilgili endişelerin oldukça arttığını da ortaya koydu .	11	Adverb
+Hoca bir eve gitmiş .	0	Noun
+Bu yüzden bunu kurtarmak ve Meksikalılar için yeni bir şekle sokmak ve bir gelenek haline getirebilmek harika .	12	Determiner
+Tepki gösterir demişim veya gereksiz yere kendini savunacak , derdimi anlatamayacağım demişim , vesaire .	6	Pronoun
+CHP Genel Başkanı Deniz Baykal da , Kıbrıs yaklaşımı nedeniyle " derin devletin son temsilcisi " diye tanımlanarak protesto edildi .	18	Noun
+Ağabeyinizi öldürmek ya da kanın fışkırışını görmekten çok , bu düşüncenizin başkalarınca bilineceğinden korktunuz .	9	Determiner
+Kız bütün gün çalışıp , yorgunluktan adım atacak hali kalmayınca , adam para yerine kıza bir bardak pekmez vermiş .	1	Adjective
+B.C. polisi Klein'in suç geçmişi olmadığını ve yakın zamanda nerede olduğuyla ilgili net olmayan ayrıntılar verdiğini belirtmişti .	2	Proper Name
+Beğendi beğenmedi , sevdi sevmedi , anladı anlamadı , olsun , bir kez de ben anlatayım istedim .	13	Conjunction
+Erol , gitmiş beni İlhami'ye şikayet etmiş .	5	Noun
+Kopenhag'da otellerin önünde bekleyen kızlar , Hamburg'un , Berlin'in ... buluşma yerleri ...	2	Adjective
+Eroin ve tüm uyuşturucu kullanımında bir duyguları öldürme eşiği vardır , bu eşik kişiden kişiye değişir .	12	Noun
+Mailis " Doktorlar bu aletlere sahip değil , yalnızca bir reçete defteri ve bir enjeksiyon iğneleri var . " dedi .	5	Adjective
+Geçmişte , bu tür gerginlikler Türkiye'ye pahalıya patladı .	2	Determiner
+üçyüzatmışdört milyon sekizyüzseksen bin lira olan en düşük memur maaşı , böylelikle dörtyüzbir milyon üçyüzatmışsekiz bin liraya yükselecek .	14	Numeral
+Tabii aralarındaki sınıf ve kültür uçurumunu bildiğinden övgülerinde onun kadar ileri gitmiyordu .	1	Adjective
+Kapıyı açtı , dönüp bize baktı .	5	Verb
+Kendisini anlatmaktan hoşlanıyor .	0	Pronoun
+Büyükannesi Rusya'nın uzak doğusundaki Vladivostok'lu olan Seagal , son yıllarda Rusya'ya sık sık seyahat etti ve Eylül ayında Kamchatka ve Sakhalin'i ziyaret etti .	19	Conjunction
+Kim se kim ?	1	Verb
+İzlandalı grup Sigur Rós , Haziran 2012'de LaBeouf'un başrolünde oynadığı ve çıplak göründüğü " Fjögur Píanó " şarkısı için bir video yayınladı .	0	Adjective
+Tarlo , tarih boyunca uluslararası saç piyasasının daima politik bir boyutu olduğunu söyler .	2	Noun
+Yine de iyi çocuklarmış , seni eve kadar getirmiş .	1	Conjunction
+Cumartesi sabahı beni erkenden kaldırdı babam .	3	Adverb
+Doğanın eğittiği bu alçak gönüllü , onurlu , sakin insanlar , kendilerine yediremediklerinden , para istemeye elleri boş gelemiyorlar , mutlaka balık da getiriyorlardı .	1	Verb
+Birkaç yıl sonra da , bir gazetede gece sekreteri olarak çalışmaya başladım .	9	Adposition
+YAŞ toplantılarında yıllardır tekrarlanan uygulamaya göre Taylor'ın üyeleri toplantının ilk bölümü ve Anıtkabir'i ziyaretlerinin ardından bir kuvvet komutanının verdiği öğle yemeğinde bir araya geliyor .	3	Participle
+1538'de İspanyol Engizisyonu üyelerine , Malleus'un söylediği her şeye inanmamaları konusunda uyardı .	11	Verb
+Bir mikrofon , ağzının tam karşısında , bir mikrofon da Recep'in darbukasının önünde dururdu .	3	Noun
+Nice dir elinden düşürmediği kitabını kapattı , kaldığı sayfaya kağıt sıkıştırmayı unutmayarak .	7	Participle
+Her yaştan , her kesimden insanlar konuşarak içki içiyorlardı .	6	Verb
+Bu hafta borsa sekizbinbesyuz dokuzbinuzyuz - aralığı bandında hareket edebilir .	3	Numeral
+otuz ay sürecek Hat çalışmaları boyunca ekiplerin bütün ihtiyaçları çevredeki il ve ilçelerden karşılanacak .	8	Noun
+1856'da İkinci Afyon Savaşı patlak verdi ; Çinliler yine yenildi ve 1858 Tientsin Antlaşması ve 1860 Pekin Sözleşmesi şartlarına tabi tutuldular .	5	Verb
+Biraz gülüşerek olanları anlattık .	2	Verb
+Anayasa paketinin tümü , kırkdört ret oyuna karşı dörtyüzotuzyedi kabul oyuyla aynen geçti .	10	Noun
+Sanırım o zaman da gelmemişti .	2	Noun
+Sansür , tüm istenmeyen görüşleri susturdu ; kamu hayatına katılım neredeyse imkansız hale geldi .	3	Adjective
+ARKA arkaya iki operasyon geçiren Akkaya'nın sağlık durumunun iyi olduğunu söyleyen menajeri Berna Müjde , " Karnında şiddetli ağrılar başlayınca apar topar hastaneye geldik .	18	Noun
+Valentino , karakteri bir Arap'ın basmakalıp tasvirinden uzaklaştırmaya çalıştı .	2	Noun
+Efendi ! .	0	Noun
+Artık duygularının , hastalıklarının ağrılarını kesecek uyuşturucu da olmadığı için neye sığınacağını bilemeyecek hale geliyor .	5	Verb
+Bir erkeğin beyni ve düşünceleri ... dedim .	6	Verb
+Uzak uzak ülkelerden birinde fakir bir anne ve kızı yaşarmış .	3	Numeral
+Joseph Brant'ın liderliğindeki Kızılderililer Kanada'dan gelmiş ; kolonicilerin topraklarına giderek artan bir şekilde el koymasından ötürü İngilizleri desteklemişlerdi .	8	Noun
+Büyük Güçler Arnavutluk'un tanınmasına ilişkin talepleri yerine getirmedi .	5	Noun
+Ancak burada söz konusu olan , bilinçli bir soyutlamadan çok , sürekli yinelenen bir deneme - yanılma sürecidir .	9	Adverb
+Barmenden iki bourbon viski istedim .	2	Proper Name
+Kumsala darbukasını pek getirmezdi ama , nedense bugün canı kıyıda , denize karşı , patlata patlata darbuka çalmak istemişti .	15	Verb
+Bir sonraki gürültüyü daha dikkatli bir şekilde beklemeye ve gerçekleştiğinde daha fazla rahatsız olmaya başlarsınız .	14	Verb
+İkimiz de aynı durumdayız , demişti , dedi .	3	Noun
+Hızlı adımlarla yeniden Taşhan'a döndüm .	1	Noun
+Geçit töreninin yaratıcı yönetmenlerinden Alejandra González Anaya , CNN'e şu an Meksika'nın böyle bir şovun hazırlanma vakti geldiğine nasıl karar verdiğini açıkladı .	17	Noun
+SİBEL Can , babası Engincan Güre adına Esenler'de yaptırdığı okulun açılışında bir de meslek lisesi sözü verdi .	1	Proper Name
+Bir düğün fotoğrafıydı bu .	0	Numeral
+Paketin salı günkü Bakanlar Kurulu toplantısında ele alınacağını ifade eden IMF , " Aynı gün ' sevk etmeye çalışacağız " dedi .	13	Adjective
+Ortalama şansa ve 10.000 Sterlin değerinde tahvillere sahip bir yatırımcı yılda 125 Sterlin ikramiye kazanabilir .	5	Noun
+Polis de , herhangi bir bilgi isterse , bunları söyleyebilirim onlara .	9	Verb
+Önüme uzun boylu biri gelmemesi için duaya başladım .	7	Verb
+Yeni yetenekleri belirlemek için Northampton Üniversitesi'ndeki derece programlarını ziyaret ediyorum . dedi .	6	Noun
+Çünkü , biz de İslam ile demokrasinin bir arada uyum içinde yaşayabileceğini savunuyoruz .	6	Noun
+Buzlukta ki içkileri de saydılar .	1	Adposition
+Nasıl bir viski vereyim sana .	0	Adjective
+Bay Osborne , Temmuz ayında görevden alınmasının ardından ABD'li bir konuşmacı ajansı ile anlaşma imzaladı .	7	Adposition
+Çinlileri Türkiye'ye çekebilmek için kahvaltıda verilen zeytin peynirin yetmeyeceğini belirten Unakıtan , " Çinliler sabah kahvaltıda makarna yer , yağlı et yer .	14	Noun
+Buna göre bakanlık soruşturmayı yenileyebilirdi .	4	Verb
+Hep uzaktan uzağa kuşatmazlar mı birbirlerini , hep araya giren anaların yatıştırmalarıyla sakinleşmez mi ortalık .	11	Verb
+Nasıl bir kadın bu .	3	Pronoun
+Aslında İMKB ve A tipi fon performansları arasındaki ilişki tamamen fon türleriyle ilintili .	5	Noun
+Benim evle ilgili ütopyam , baştan beri evle ilgili söylediklerimden sonra , ütopyanın reddine dayanmaktadır .	10	Adposition
+Sezer'in , " erteleme değil , af " diye nitelendirdiği yasayı veto etmesi , AB uyum yasaları ile öne açılan Erdoğan'ı etkilemeyecek .	10	Noun
+" Sizin SUV aracınız , ülkenin milli güvenliği için ne yapıyor ? " .	1	Pronoun
+Korku Yönetimi baskısını hafifleten III. Pluviose ( Ocak - Şubat 1794) 'da , şüphelileri kurtarmak için çeşitli önlemler almıştır .	16	Adjective
+Recep , pantolonunu giymiş , gömlek cebinden çıkardığı sigarayı ağzına koymuştu .	2	Noun
+Yani teoride , bir çift dört Tesco hesabı açabilir ve 12.000 Sterlin üzerinden yüzde üçlük , yani 360 Sterlinlik kazanç sağlayabilir .	12	Noun
+Kılavuzun problemli olmasının ilk sebebi " olağanüstü hal kapsamında " oluşturulmasıdır .	2	Verb
+Okullar açılıyor ya ...	2	Conjunction
+Ancak Cotton'un karanlık işleri , bir tür öldürme içgüdüsü sonucu değil .	8	Noun
+Bir dala tutunup bir süre sallandı , sonra da pat diye aşağı atladı .	1	Noun
+Bu , Dünyayı etkisi altına alan ve yalnızca dinozorların değil , birçok türün soyunun tükenmesine yol açan çevresel değişikliklerin doğasına yeni sınırlar getirecektir .	15	Noun
+Geçen gece rüyamda gene öğretmenimi gördüm .	0	Adjective
+Irak savaşının Kasım Aralık - ayından önce olmayacağı varsayımıyla borsada bir hareketlilik beklenebilir .	8	Noun
+Aslında bunun adı Aubergine au Graten olmalı .	2	Noun
+Bu heyecana , afyona , ne bileyim ben ; eroine alışır gibi alışır insan .	9	Noun
+Neydi buraya bir şey anlatmak için gelmiştim , dedi Kerem .	5	Adposition
+Diğer yandan , Clinton'un son yirmi yılda kıtayla ilişkisi hiç de tatmin edici değildi .	12	Adjective
+Fransız moda eleştirmenleri , " Hüseyin Çağlayan'ı beğenir ya da beğenmezsiniz , ama son yılların en özgün yaratıcılarından biri o " diyordu .	18	Numeral
+Aaa , diyorlar , kimi elini saygıyla göğsüne bastırıyor kimi de , işte orada duracaksın anlamında ileri doğru uzatıyor ; büyük adamdı .	4	Pronoun
+Tüketici Yasası'nda yapılacak düzenlemeyle , gecikme faizi kredi faizinin yüzde elli fazlasıyla sınırlandırılıyor .	2	Verb
+Matematiğin kötü ellerde hortlayan ve doğa bilimlerini olumsuz yönde etkileyen yanı da burada , kusursuzluğunda yatmaktadır .	8	Noun
+Memurlar taklit edilmesi imkansız bir aptallıkla yazar Günter de Bruyn'i tanıyıp tanımadığımı ve entelektüel akrabalar olup olmadığımızı sordular .	7	Proper Name
+Ünlü markaların bir yıl önceki modellerini uygun fiyatlarla Oparia Continuato'da , Magazine Montenapoleone'de bulabilirsiniz .	3	Noun
+Harley - Davidson sözcüsü , medyada yer alan zaman çizelgelerinin ( 2017 veya 2020 ) doğru olmadığını bildirdi .	5	Noun
+Çocuğu en iyi okullara göndermek , en pahalı oyuncakları almak bu temel değerlerin yerini tutmuyor .	7	Adjective
+Kadın uyuduysa okur , dedi adam .	0	Adjective
+Düşünmezsin tabii , hangi baba oğul iktidar kavgasına girmemiştir , kaç baba oğul her an patlamaya hazır öfkelerini dizginleyip sevip okşayabilmiştir birbirini .	11	Noun
+Ne ki , zamanla yoğun sıkıntıya yolaçtı , bana göre , tekdüze , coşkusuz , amaçsız yaşam ; depreşti , ölçüye sığmaz oldu içki bağımlılığım .	8	Pronoun
+Şahinbaş , Tabip Üsteğmen Vahdettin Bayram .	4	Proper Name
+Tüzmen , işadamlarının " Çinliler pazarlarımızı ele geçiriyor " sözleri üzerine de , " Pazar herkese yeter " dedi .	11	Conjunction
+Arının peteği , arıdan arıya , kırlangıcın yuvası , kırlangıcından kırlangıcına değişmez , onlar yalnızca birer barınaktır .	11	Verb
+Karadağ , kardeşi Serap Işık'a Diyarbakır'da mart ayında bitecek işini tamamladığında , emekliye ayrılacağını ve Soyak Başkanlığı'nın yerleşeceğini söyledi .	3	Proper Name
+Resmi tarihle , alternatif tarih arasında bir seçim yapmak zorundaymışız .	7	Noun
+Esin Abicim Tontoş olsun ismi dedi .	3	Verb
+İlk defa sergilenenler arasında , soğuk savaş çatışmalarını tasvir eden ve askeri üniversite sınavlarında kullanılan İngiliz Savunma Bakanlığı haritaları da yer almaktadır .	1	Noun
+Kız pekmezi kaptığı gibi evine koşmuş .	5	Verb
+Esin'in bu cevabımı çok beğendiği her halinden belli oluyordu .	7	Adjective
+Hangi özür , onların haklılığını değiştirebilir ki ! ..	5	Verb
+Bergeron sınıflandırması hava kütlesi sınıflandırmasının en yaygın kabul gören şeklidir .	7	Noun
+Ama , hafiften titreyen sesi öyle etkiliydi ki , kendimi tutamadım , ağlamaya başladım .	0	Conjunction
+Peyniri yapmayı biliyoruz .	2	Verb
+Bu sıradan sorunun yanıtı da aslında o kadar basit ve sıradandı ki , bu sıradanlık yanıtın inandırıcılığını yok ediyordu .	13	Determiner
+Bana ne ! Yine de dayanamadım , ondan söz açmaya can atıyor belli .	7	Pronoun
+2010 genel seçimlerinde İşçi Partisi yedi oy bölgesinin tamamını ele geçirmeyi başardı .	4	Noun
+Akşit ise Çin seyahatinden en kazançlı turizm sektörünün çıktığını kaydederek , şöyle konuştu : .	5	Noun
+Akgündüz'ün fezlekesi , davanın ağır ceza mahkemelerinin kapsamına girmesi nedeniyle , bünyesinde ağır ceza mahkemesi bulunan Bakırköy Adliyesi'ne gönderilecek .	8	Verb
+Erkek bir makine ...	2	Noun
+Her yaştan insan vardı , neler konuştuklarını çok anlamak isterdim .	7	Adverb
+Onlarca bankanın çöküşü ve bunlara müdahale edilmesi işletmelerin iflas etmesine neden olan sermaye çıkışlarına neden olmuştur .	10	Noun
+Ama hiç değilse bir umut var burada ...	2	Verb
+Film , eroine bağımlılığının ve 1980'lerin ortasında AIDS'ten düşüş ve ölümün bir sonucu olarak Carangi'nin hayatını ve kariyerini yoketmesini anlatıyor .	2	Noun
+Karadağ , kardeşi Serap Işık'a Diyarbakır'da mart ayında bitecek işini tamamladığında , emekliye ayrılacağını ve Soyak Başkanlığı'nın yerleşeceğini söyledi .	5	Proper Name
+Bir de Tibet gelmezse ?	0	Adverb
+Kurtulamamışım demek , diye mırıldandı .	0	Verb
+Aldatma üstüne kurulmuş bir mekanizma .	2	Participle
+Börtü , böcek , tilki , sansar , kuş ...	8	Noun
+Onun için pilotların üzerine atılıp kapatılır .	1	Adposition
+Eskiden mevsimi vardı .	1	Noun
+Diğer taraftan bilimin her teorik atılımı , yeni bir kavramsal yapının oluşturulup eski bazı kavramlardan kopuşu içerdiği için , ideolojide bir dönüşüme yol açar .	16	Participle
+Emekli bir polis memurunun oğlu olduğu ve altı ay önce Siirt'e atandığı bildirilen Cring ölümü , Siirt Emniyet Müdürlüğü'nü üzüntüye boğdu .	5	Verb
+Genç yaşına karşın , bütün bunları biliyorsun Maryline .	0	Adjective
+Bu kuruluşların ciro büyüklüklerine göre yaklaşık elli trilyonluk bir gelir sağlanacak .	5	Adjective
+Türker , " Ek finansman borç alma anlamına gelir ve bunun karşılığında faiz ödenmesi gerekir .	14	Verb
+Yeni Ahit'e göre Pavlus Korint'te , din değiştirmesinden yaklaşık on yedi yıl sonra on sekiz ay geçirmiştir .	8	Adjective
+Alışveriş ise hayatın temelinde yatar .	4	Verb
+Dolayısıyla Mısırlı firavun kendisini , neredeyse 120 yıl önceki önceki III. Tutmose zamanından beri hiçbir Mısırlı askerin görülmediği Tunip'teki Kadeş'in ötesine geçerek Kuzey Amurru'da bulmuştur .	19	Proper Name
+Bence bundan böyle KADEK PKK - diye birlikte kullanmak bir çözüm olabilir .	3	Noun
+Kaldırımda küçük süt ve yoğurt kutularından bir iki tane , üzerinden kavun kabukları dökülmüş bir iki çöp poşeti ve izmaritler vardı .	13	Verb
+Başkent Yakutsk'tan kalkan İlin Tur'a ait çift kanatlı kargo uçağı , iki saatlik soğuk bir yolculuktan sonra bıraktı beni , rehberimle buluşacağım Verkhoyansk Dağları'na .	2	Verb
+Her şey eskisi gibi olsa .	3	Adposition
+Bununla birlikte , kendisi ile Linares arasındaki kopuş ve ilerici hattın kesintiye uğraması , 1879'da kendisini deviren Vindication Devrini tetiklemiştir .	8	Conjunction
+Olmaz , köylü ağzı .	0	Verb
+Şirketin yıllarca süren aldatmacasının haberi VW'nin değerinden on milyarlarca avroyu buharlaştırdı ve yönetim kurulu başkanı Martin Winterkorn'u işinden etti .	10	Verb
+Sevdiği genç trafik kazasında ölünce küsmüş hayata , teyzemden rivayet - olabilir de , insaf , on beş yıl geçmiş aradan .	11	Verb
+Ben de o gece kardeşlerimin yatma saati gelene kadar uzun uzun köpeğimizi anlattım onlara , ne de olsa o artık evimizin köpeğiydi .	4	Noun
+İzzettin Doğan ve Alevi Bektaşi Kültürü Derneği Başkanı Ali Balkız gibi Alevi temsilcileri oturdu .	8	Proper Name
+Erkeklerin ortaöğretime kaydolması , kişi başına gelir ve ekonomik büyüme oranındaki artışlar iç savaş olasılığını azaltmada önemli etkiye sahiptir .	13	Noun
+Bu Anayasa karmaşası aydınlarda tepki uyandırıyordu .	3	Adjective
+Bir sürü kadınla görüşmek zorunda kalacağımı düşündüm .	3	Verb
+Batı ile 16. yüzyılda kurulan bu temas , kârlı ticaret yollarının kurulmasıyla derin ekonomik büyüme dönemini beraberinde getirdi .	8	Adjective
+Belki de bu yüzden gözyaşı bulutları göz bebeklerini bulandırırken , zamanın akışı hasadını ortaya çıkarıp , gizemini durgun sulara salıyordu .	8	Adverb
+AKP milletvekillerinin Erbakan'ın iddiasıyla ilgili görüşleri şöyle : .	2	Proper Name
+Primli Tahvillere ve diğer Ulusal Tasarruf ve Yatırım hesaplarına yatırılan paralar , Devlet harcamalarını finanse etmek için kullanılır .	17	Verb
+Rakı sofrasında ön mezeler arasına girerler .	3	Noun
+Belki de ona karşı çok iyi olduğum için bıraktı beni .	6	Verb
+Irak tehdidi tepemizde durmasına karşın borsacıların hayalindeki hükümet formülü olan DYP CHP - koalisyonunun gerçekleşmesi durumunda borsa seçimden sonra bir ralli yapabilir .	17	Noun
+Raporları incelerken gelişmelerini yakından izlediği olayda kimi yetkililerin yaptığı açıklamalar ile raporlarda kimi ifadelerin ortak yönlerini , farklılıklarını karşılaştırmaya başladı .	3	Adjective
+Olay , Paris'te biliniyordu ve halihazırda ekmek fiyatının oldukça yüksek olması ve erzak bulunmaması nedeniyle zaten kötü olan genel havayı iyice olumsuz etkiledi .	9	Adjective
+Ne derdik .	0	Pronoun
+Kapıya yakın bir masada oturuyordu .	1	Adjective
+Atatürk'ün rakıyla leblebi sevdiği bilinen bir gerçek .	2	Noun
+Öğle yemeğinden sonra kadavra üzerinde yapacağımız çalışmayı asistanıma anlatırken kapı çaldı .	5	Participle
+' haberine göre hükümet iki ikramiyenin ödenmemesi konusunda karar verirse ikibinüç yılında sadece bu kalemden üçyüzon trilyon liralık tasarruf sağlamış olacak .	14	Noun
+Bu şubeden altı kişi mezun olduk .	4	Adjective
+Ana'nın orada olmadığını söyledikten sonra ben , buna ne inanırmış , ne de inanmazmış gibi bir tavır takındım .	14	Adposition
+Tartışmaların patlamadığı yerlerde ve yeni fikirlerin eski fikirlerle kesişimlerinde seçimin etrafındaki etkilerini hissedebiliyordu .	6	Adjective
+İngiliz , patlıcanı boyanmış paskalya yumurtasıyla karıştırıyor olmalı .	2	Noun
+Onu görmek için , tüm zamanınızı o parkta geçirmeye başlarsınız .	1	Verb
+Büyük Güçler Osmanlı İmparatorluğu'nun tüm Makedonya'yı ve Arnavutluk'la olan toprak bağlantısını kaybedeceği anlaşıldıktan sonra kararlarını değiştirmeleri gerektiğini fark ettiler .	13	Adposition
+Baykal'la fotoğraf çektirmek için birbirleriyle yarışan kadınlar , uzun süre sıra beklemek zorunda kaldı .	8	Adjective
+Almanca ve İngilizce'yi çok iyi konuşan Jouni , sık sık yurtdışı seferlerine çıkıyordu .	10	Adjective
+Oğlunuza aldığınız o kitabın arkasını okurken , kendinize , gerçek korkularınızı sordunuz , anımsayın .	10	Noun
+Tıp çalışmaları , özellikle İslam tıbbının Salerno'daki okulu etkilediği güney İtalya'da da yürütülüyordu .	10	Proper Name
+Seyircinin karşısında tek başına dikiliyor ve nihayetinde seyirciyi güldürmek için elinden gelenin en iyisini yapmak zorunda kalıyor .	7	Noun
+Parkta geçmiştekiler de var ...	3	Adjective
+Eylemde , " ABD kuklası iktidar istemiyoruz " yazılı pankart ve kırmızı boyalarla vampir çağrışımı yaratılan ABD Başkanı George Bush'un resimleri dikkat çekti .	14	Noun
+Onu görmek istiyorum " diyerek morga girdi .	2	Verb
+Tartışmaların patlamadığı yerlerde ve yeni fikirlerin eski fikirlerle kesişimlerinde seçimin etrafındaki etkilerini hissedebiliyordu .	1	Adjective
+Çeşitli özel şahıslar , devletin toplam yüzde birine karşılık gelecek şekilde geri kalan araziye sahiptir .	5	Noun
+Forts , New France'ın henüz yerleşim yapılmayan eski kesimlerinde inşa edilmiştir .	10	Verb
+Akgündüz'ün fezlekesi , davanın ağır ceza mahkemelerinin kapsamına girmesi nedeniyle , bünyesinde ağır ceza mahkemesi bulunan Bakırköy Adliyesi'ne gönderilecek .	9	Noun
+Çünkü dizinin en yeni ve en iyi öğesi olan kuram , onu doğuran eskisinin öngörülerinin sınanmasıyla gerçekleşir .	14	Noun
+Aaa , diyorlar , kimi elini saygıyla göğsüne bastırıyor kimi de , işte orada duracaksın anlamında ileri doğru uzatıyor ; büyük adamdı .	6	Noun
+Buna nasıl ulaşacağımı planlama yoluna gittim .	0	Pronoun
+Fakat bazı güvenlik uzmanları kursun gerekliliği ve arkasında yatan niyetle ilgili şüphelerini gündeme getirdi .	1	Determiner
+Belki çamurlu su rengindeki saçlarınla ortalıkta dolaşıp fahişelik yapsaydın o adam seninle tıpkı küçük bir kızla sevişir gibi sevişebilirdi .	12	Adverb
+Dördü ölmüş , demek ki şimdilik bu akşama kadar vurulacağını bilmeyen dört müstakbel maktul şu sıralarda son yemeklerini yiyorlar .	7	Noun
+Polyanna neden aklına gelmiyor ?	0	Proper Name
+İkimizden başka kimse bilmeyecek tamam mı ? dedi .	3	Verb
+Milliyet haberin spotunda ve haberde " en uzun tie break - seti " ve " en uzun tie break - " ifadesini kullanmıştı .	15	Adverb
+Ama hiçbir zaman emin olamazsın .	4	Verb
+bindokuzyuzotuzalti'dan sonra tüm mülklerinin mahkeme kararıyla ellerinden alındığını söyleyen İstanbul Protestan Kilisesi Vakfı Başkanı Ağabaloğlu da , şunları kaydetti : .	6	Noun
+Mezarların yanına konan tuz ve çamurlu suyun yaraları iyileştirdiği iddiaları da yayılınca , " kömürlüğe " Türkiye'nin her yanından insan akmaya başlamıştı .	4	Conjunction
+Yeni ilişkiler yeni hipotezlere ve bu hipotezler temelinde yükselen yeni kuramlara götürür .	11	Verb
+Cumhuriyetçi iktisatçılar , bu verilerin partilerinin ekonomik politikada berbat olduğunun bir kanıtı olarak görülmemesine önem veriyor .	0	Noun
+Durán sözcü ve Ángel Pintado da sayman görevi yapmaktadır .	3	Proper Name
+Ben de o gece kardeşlerimin yatma saati gelene kadar uzun uzun köpeğimizi anlattım onlara , ne de olsa o artık evimizin köpeğiydi .	12	Verb
+Yapraklar renk bakımından sarımsıdan mavimsiye kadar yeşilin çeşitli tonlarını gösterir .	6	Noun
+Birbirlerine de sataşıyorlar .	1	Conjunction
+Sonunda bir başka yol buldular .	2	Adjective
+Ancak bu kuşkular yersizdir .	0	Conjunction
+Biraz üzgünüm o kadar .	3	Adposition
+Gül Abla dikkatle dinliyordu beni .	1	Noun
+Tıpkı son yolculuğunda olduğu gibi .	0	Adverb
+Elektrik İşleri Etüd İdaresi .	3	Noun
+Düz bir alanda durduk .	0	Adjective
+Bir an ona haksızlık yapıyormuşum hissine kapıldım .	2	Pronoun
+Bölgedeki yanlışlara ömür boyu mahkum edilmiş bireyler ve toplumların dışarıdan görüntüsünün zeka sefaletiyle eşdeğer olacağı da doğru ...	0	Adjective
+Bin yıl kadar sonra da Moğol kavimlerinin saldırısı ile bugün yaşadıkları bölgeleri yurt edindiler .	1	Noun
+Karşısına çıkan sese ilk sorduğu soru bu haberleri neye dayanarak yazdıklarıydı .	0	Adjective
+Nasıl sınız ? Vurgu : Ortadan kayboldunuz , iyileştiniz mi ?	6	Verb
+Üniversitelerdeki iç organları temizlenmiş ve soğuğun etkisiyle kaskatı olmuş dört geyik , boynuzları , başları , bacakları ile kamyona taşındı .	14	Noun
+Başını çaresizlikle iki elinin arasına almıştı .	2	Numeral
+Birçok yazar , Kırmızı Türkler'i gündemine aldı .	1	Noun
+Elli bin kağıtlık sigaradan içmem , dedi .	2	Adposition
+Kardeşinin Marmara depreminde de Gölcük'te yedek subay olarak görev yaptığını anlatan Vecdi Altındağ , " Kardeşim o büyük depremden de mucize eseri yara almadan kurtulmuştu .	1	Proper Name
+Aslında o anda bana kendi fikrini söylemişti ama bu genel bir düşünce tarzıydı .	10	Numeral
+Buraya uğra , bir kadeh içtikten sonra , kentin merkezine ineriz .	1	Verb
+Orhan gizemli bir havayla : Onun gibi bir şeyler dedi .	5	Pronoun
+Boyalarının altından kırmızı yamaları görünen büyük bir gemi Karadeniz'e doğru gidiyordu .	9	Adposition
+1610'da yayınlanan Jin Ping Mei , daha önceki materyalleri içeriyor olmasına rağmen , bağımsız kompozisyon eğilimine ve psikoloji ile ilgili endişeye işaret ediyor .	3	Proper Name
+Spotify , Tesla , Uber ve Snapchat gibi şirketlerin yöneticileri Mountain View Zirvesi'nin yanı sıra özel bir etkinliğe katılacaklar .	10	Proper Name
+Haftaya iki ay doluyor Cumartesi beraber gidip alalım bence dedim babama .	10	Noun
+Doğa politikaları başkanı Jeff Knott , " Arkasından bir yasak veya avlanma ruhsatı gelirse çok şaşırırım . " dedi .	14	Adverb
+Peki kriz nereden çıkıyor .	2	Pronoun
+Hiç de öyle değil , gencecik oğlunun dizi dibinden ayrılmasını göze alamıyordu , yanında olmasını istiyordu mutlaka .	7	Noun
+Yaşamının son dönemlerinde kendini dine ve astrolojiye veren Newton'un , İngiltere'deki meşruti monarşiden esinlenerek formüle ettiği hızlaştırma çözümü bu açıdan tipik sayılabilir .	19	Noun
+Aktarılana göre Tiberius , gidişinden pişman oldu ve birkaç kez Roma'ya dönmek istedi ancak Augustus taleplerini her seferinde reddetti .	1	Adposition
+Gitmeliyim , kalkıp gitmeliyim .	3	Verb
+Üst kurullarda özel sektör de temsil edilsin .	6	Verb
+Polyanna neden aklına gelmiyor ?	2	Noun
+Selma , Bana denenebilir görünüyor , dedi .	4	Verb
+Bazı hayvanlar doğrudan bir besin kaynağı olmanın yanı sıra deri , yün , post ve gübre sağlayabilir .	8	Noun
+Bütün terk edişlerde olduğu gibi kızgınlık tükenmeden ilişki bitmiyordu , bütün kadınlar gibi o da erkeğini öldürmeden bırakmak istemiyordu ve ben çok kolay ölmüyordum .	18	Verb
+O kadar iyisin ki özgürlüğüm kısıtlanıyor , istediğim gibi davranamıyorum .	7	Participle
+Gaunt'lı John , 1399'da öldü .	0	Proper Name
+Kertenkelelerin değiştirdiği derileri duvar diplerinden topladığın çocukluk günlerini hatırlamıştın .	8	Verb
+Paketin salı günkü Bakanlar Kurulu toplantısında ele alınacağını ifade eden IMF , " Aynı gün ' sevk etmeye çalışacağız " dedi .	6	Noun
+Geldik ! diye bağırdı Kerem .	2	Adposition
+Bir birbuçuk - saat içinde çok hızlı bir şekilde incelemek zorunda kaldık .	11	Verb
+Son altı yıldır ilk kez işsizlik oranı yüzde 20'nin altına düştü ve bir yıl öncesine göre 600.000 kişi daha istihdam edildi .	3	Adjective
+Bana telefon ederkenki aceleciliği , sanırım , birşeylerden korktuğunu gösteriyor .	3	Noun
+İlk defa sergilenenler arasında , soğuk savaş çatışmalarını tasvir eden ve askeri üniversite sınavlarında kullanılan İngiliz Savunma Bakanlığı haritaları da yer almaktadır .	19	Adverb
+O zaman , lise son sınıfta Fen - Edebiyat diye ayrılırdı .	10	Verb
+Burası Birinci Ada .	0	Pronoun
+Çağdaş bilim kavramının ikinci ayağı , bilgilerin soyutlama yoluyla sistemleştirilmesi diye tanımladığımız teoridir .	1	Noun
+Sözleşmelerde yer alan tüketici aleyhine koşullara ilişkin düzenleme yapılarak , bu tür hükümlerin na olması sağlanıyor .	15	Verb
+Yaklaşık bir ay sonra maestro kürsüsünde kalp krizi geçirip ölecekti , Paris'te .	6	Adjective
+Cadıcılık saati , örneğin 60'lı yıllarda Monster Mash'ı vurması örneğindeki gibi en azından korkunç orgun çalındığı zaman başlar .	1	Noun
+Peki ya Avustralya'nın bu konudaki duruşu ?	2	Proper Name
+Sorumluluk nedir hiç öğrenmemişti ki .	1	Verb
+Sıcak çorbalar , muhallebiler , yoğurtlar getirmişler .	5	Noun
+Ancak , iş yeri sohbet araçlarındaki yenilikler , teknoloji şirketlerinden gelen daha büyük bir eğilimin parçası .	14	Noun
+Aklıevveller ondan da tartışma açarlar .	4	Verb
+Barışı sağlamaya yönelik girişimler nihayet 1415 ilkbaharında sona ermiş ve Enrique planını yürürlüğe koymaya karar vermiştir : tüm Fransa Krallığına yapılan bir istila .	3	Noun
+Sanki ona aşıkmışsın gibi anlattın .	2	Verb
+Kaldırımda küçük süt ve yoğurt kutularından bir iki tane , üzerinden kavun kabukları dökülmüş bir iki çöp poşeti ve izmaritler vardı .	10	Noun
+Bu noktada , oyunlar ile günlük yaşamımız arasında bazı benzerlikler kurulabilir .	5	Adjective
+SUNUCU Osmantan Erkır , ziyareti , " Yarışmanın formatını ve çekim aşamasını izlemek istediklerini belirtip randevu istediler " diyerek açıkladı .	15	Noun
+Ünlüler , hayranlar ve hatta CNN muhabirleri bile bu tatilde " Stranger Things " karakterleri gibi giyiniyorlar .	8	Determiner
+O da herkese gülümser , şakalaşır , saçlarına kurdele takılmış küçük bir kız gibi davranırdı .	0	Pronoun
+Referandum yapmak için 330 oy gerekirken , üç partili bir çoğunluk elde edebilmek için 550 milletvekilinden 367'sinin oyu gerekiyor .	4	Noun
+Cumartesileri tenis kursuna yazılmak istediğimi anneme söyledim .	5	Noun
+Hem hiç merak etme benim annem ona herkesten iyi bakar .	8	Adjective
+Doğal olarak , ofis alanında çok sayıda kıyafet ve çok az yiyecek yer alıyor .	11	Noun
+Bizi kıyaslayan , karşılaştıranlar bilsinler ki ... Biz , yarışta değiliz .	7	Pronoun
+Sosyal güvenlik kuruluşları , belediyeler , il özel idareleri , KİT'ler , bağlı ortaklıkları , kamu kuruluşu niteliğindeki meslek kuruluşları da kapsama alınıyor .	6	Noun
+Okul yetkilileri , " Sulhi Bey'in yaptırdığı afiş haberi Milliyet'te çıktıktan sonra , İlçe Milli Eğitim Müdürlüğü asılmaması talimatı verdi " diye konuştu .	5	Proper Name
+Rus İmparatorluğu , Birinci Dünya Savaşı'ndan öncekiki yıllarda önemli uyuşmazlık belirtileri gösteren farklı etnik gruplardan müteşekkil bir topluluktu .	16	Determiner
+Tayyip Erdoğan'ın yanında , onun yanlışlarına ortak olsaydım kesinlikle bu noktalarda bulunmazdım " sözünün Milliyet tarafından farklı yansıtıldığını öne sürdü .	7	Verb
+Sezar o dönemde görev süresinin tamamlamış olan Curio tarafından Pompey'in eylemlerinden haberdar edilmiştir .	8	Noun
+Bununla birlikte , dostlukları ikisi arasındaki resmi olmayan ve yasal uyuşmazlıklara yol açan işbirlikleri nedeniyle sona ermiştir .	12	Adjective
+Bu çoluk çocuk mu bizi yönetecek ? deniyordu .	0	Determiner
+Sakin olmaya çalışın .	1	Verb
+Shen orijinal bir teknik kullanarak kanalı başarıyla taradı ve gübre olarak toplanan kumun müthiş değerini gösterdi .	15	Verb
+Bence bundan böyle KADEK PKK - diye birlikte kullanmak bir çözüm olabilir .	1	Pronoun
+Marcus Antonius M.Ö. 1 Ocak 49'da , Sezar'dan Vali'nin kendisini barış dostu ilan ettiği bir bildiri yayınlamıştır .	12	Noun
+Aşılan tepelerin zirvelerinden ırmak yollarını seyreden buraya özgü yaban koyunları ( Ovis nivicola eschscholtz ) .	12	Noun
+Parker'a göre , İngiltere'de çok sayıda Rus Gizli Servisi ajanı faaliyet göstermektedir .	0	Proper Name
+Ancak , bu ABD Çevre Koruma Ajansı'nın dünyayı bu konularda uyarmasının ardından ortaya çıktı .	7	Noun
+A tipi de olmalı .	3	Verb
+Geçen süre zarfında İMKB'nin kısa tarihinde de yaşanan " en uzun düşüş dönemi " sonucunda hisse senetlerinin değer kaybı bugün TL bazında yüzde elli'leri buldu .	18	Adjective
+Çocuklar görev gereği gösterilen sevgi ve ilgiyle , içten gelen sevgi ve ilgiyi ayırt edecek kadar duyarlıdır .	13	Noun
+Miami Bass üreticileri , temel kaygılarında , yani hareket eden popo sanatı konusunda oldukça serinkanlıydı .	11	Noun
+Bozduğunu o düzeltemez artık , lafını ilk defa o gün orada ettim .	5	Noun
+San Francisco'luların dinlenmek ve rahatlamak için geldiği yerel bir alan olarak hizmet vermektedir .	9	Noun
+Akdeniz kıyılarında birçok antik uygarlık yer almış ve bunlar denize yakınlıklarından büyük ölçüde etkilenmişlerdir .	5	Noun
+Ne okulu severdi , ne de Naci Beyi .	7	Noun
+Tuhaf bir andır o .	1	Numeral
+Save ile birlikte dün gece geç saatlerde özel bir uçakla Ankara'ya gelen for , Türkiye'ye Hazine'den Sorumlu Devlet Bakanı Ali Babacan'ın daveti üzerine geldiklerini belirtti .	2	Adverb
+Obama , " Daha bir Twitter hesabıyla başa çıkamayan bir insan , nükleer şifrelerle ne yapar bilemiyorum . " şeklinde alay etti .	20	Noun
+Mitingde yapılan konuşmalarda , " Kıbrıs Türk halkının , BM Genel Sekreteri ' Standard planı temelinde bir çözüm ve AB üyeliği istediği " görüşü savunuldu .	13	Proper Name
+Kimsiniz hoşgörüsünden yüz bularak hafifçe şımarmıştı .	0	Noun
+Facebook'ta ki yas tutan yorumlardan birinde Chris'in çok hoşuna gidecek bir satır vardı : " Senden daha Afrikalısını tanımadım . "	5	Pronoun
+Türkiye'ye müzakere tarihi verilmemesi ancak Güney Kıbrıs'ın AB'ye alınması durumunda işler karışabilir .	9	Noun
+Bunlar , kuşkusuz insanlığın kolektif yaratıcılığının eşsiz örneklerini oluşturmakta ve bilimin geleceğine olan güvenimizi ayakta tutmaktadır .	8	Verb
+Yargıtay Başsavcısı Sabih Kanadoğlu , Emniyet'ten gelen bilgilerin , DEHAP'ın seçime girebilmek için belirlenen örgütlenme sınırını aşamadığı iddiasını içerdiğini partiye bildirdi .	3	Proper Name
+Adidas ayakkabı yapmak için denizlerde yüzen atıkları kullanarak dünyadaki dünyadaki okyanuslarının temizlenmesine yardımcı oluyor .	5	Adjective
+Düşünmezsin tabii , hangi baba oğul iktidar kavgasına girmemiştir , kaç baba oğul her an patlamaya hazır öfkelerini dizginleyip sevip okşayabilmiştir birbirini .	16	Adjective
+Giremiyorum içeriye .	1	Noun
+Çocuk , başını bir yandan diğer yana çevirmekle yetindi .	0	Noun
+Sonradan hayatıma giren ...	2	Participle
+Sevişmenin bir önünde , bir de ardında yalan vardır vardır değil mi , biri kadına , ötekisi erkeğe kalan ...	2	Adjective
+Benim arkamda bir iz kalırsa , ben siyasette ilkeli ilkeli , kararlı , cesur işler yaparsam benim için en doğrusu odur .	14	Noun
+Hat boyundaki köylerde halk , terkedilmiş , para etmeyen arazilerini boru hattı için yapılacak kamulaştırmada devlete satacak .	7	Noun
+Orada durup , altıncı kattaki sevgilinin varlığımı fark etmesini , pencereyi açıp beni içeri çağırmasını bekleyecektim herhalde .	5	Adjective
+Öte taraftan dış tarih , İspanyolca konuşanların geçmişi , tarihsel değişiklikleri ve dilin toplumsal kullanımı ile ilgili referanslar içerir .	11	Conjunction
+İlk sigara molası üç saatlik yolculuğun ardından geldi .	6	Noun
+Diyarbakır'da bir inşaat firmasında proje müdürü olarak çalışan inşaat mühendisi Servet Karadağ , evlendikten sonra da eşini yanından hiç ayırmadı .	19	Verb
+Senin yüzünden evde kaldım işte !	3	Verb
+Referandum yapmak için 330 oy gerekirken , üç partili bir çoğunluk elde edebilmek için 550 milletvekilinden 367'sinin oyu gerekiyor .	12	Noun
+Yüzüstü bırakınca bayıldığı avukat , yoldan çıkmış kızcağız ...	6	Verb
+Büyükannesi Rusya'nın uzak doğusundaki Vladivostok'lu olan Seagal , son yıllarda Rusya'ya sık sık seyahat etti ve Eylül ayında Kamchatka ve Sakhalin'i ziyaret etti .	9	Noun
+Böylece kazanları Hablemitoğlu ürünümüze katma değer kazandıracağız .	0	Adverb
+Arınç'ın farklı yazıldığını iddia ettiği sözlerine ilişkin bölüm teyp kaydından aynen şöyle : .	6	Adposition
+3 Kasım Salı günü , Saint - Gaudens Belediye Başkanı 2014'te hükümetle birlikte oluşturulan kentsel gelişim anlaşmasını askıya alma kararı verdi .	12	Adposition
+Türkiye'nin yapacağı hibe ve yardımlarla ilgili olarak da Cumhurbaşkanı ve Başbakan'ın yetkileri saklı kalmak kaydıyla hükümetin belirleyeceği kişi ve kuruluşlar yetkili olacak .	18	Conjunction
+Ne yazık ki son yıllarda , eroin satıcıları gençlerin karşısına her yerde çıkıyor .	4	Noun
+Yeni bütçe Clinton'un kabarık banka hesabından sağlanıyor .	4	Noun
+Zaman , bir kez daha düşünme zamanıydı ...	5	Verb
+1933'te Nasyonal Sosyalistlerin iktidarı ele geçirmesinin ardından , eski sömürgeleri geri kazanmak için bazı münferit girişimler yapıldı .	1	Adjective
+ARKA arkaya iki operasyon geçiren Akkaya'nın sağlık durumunun iyi olduğunu söyleyen menajeri Berna Müjde , " Karnında şiddetli ağrılar başlayınca apar topar hastaneye geldik .	22	Noun
+Kaptan Pilot Alaattin Yunak'ın dokuz ay önce THY hosteslerinden Deniz Yunak'la evlendiği ve hostesliği bırakan eşinin İstanbul'da ailesinin yanında olduğu belirtildi .	3	Proper Name
+Şura'nın yaşlı babası Abanasi , sobanın başında yarı erimiş geyik etini balta ve bıçakla tencereye girebilir parçalara ayırıyor .	14	Noun
+Eşref Otosan'ın , TSK'ya verdikleri hizmetin çağdaş bir devrim niteliği taşıdığını belirterek " Birçok sözleşmemiz nisan ve izleyen aylarda doluyor .	10	Verb
+Herkes ömründe bir kez buraya uğrar .	5	Verb
+Okulun açılış törenine İstanbul Emniyet Müdürü Hasan Özdemir , İstanbul Milli Eğitim Müdürü Ömer Balıbey ve Yaşar Nuri Öztürk de katıldı .	5	Noun
+Diyarbakır'da yaşanan uçak kazasında yaşamlarını yitiren insanların yolcu sorumluluk sigorta tazminatları yaş , eğitim , gelir düzeyi ve sosyal statüko gibi özelliklere göre belirlenecek .	3	Noun
+Virgülden sonra Tayyip Bey'in de ismi gelince ikisi de aynı kefeye konmuş oluyor .	4	Conjunction
+İnsanlar arasında hem erkekler , hem de kadınlar ateşli şarkıcılardır ve müzik yapmak çoğunlukla toplumsal bir etkinliktir .	9	Verb
+Bu ikili , rakı satrancında yerini zeytinyağlıya bırakır .	5	Noun
+Beyzadeler bizi ne sanıyorlar .	2	Pronoun
+Anayasalar en büyük toplumsal uzlaşma ile düzenlenmesi gereken metinlerdir metinlerdir .	2	Adjective
+Joseph Brant'ın liderliğindeki Kızılderililer Kanada'dan gelmiş ; kolonicilerin topraklarına giderek artan bir şekilde el koymasından ötürü İngilizleri desteklemişlerdi .	9	Adverb
+Ama Farsçasının da kökeni Grekçe .	3	Noun
+Kemal : Ama öbür yolu denemedin ki .	0	Proper Name
+Kız bütün gün çalışıp , yorgunluktan adım atacak hali kalmayınca , adam para yerine kıza bir bardak pekmez vermiş .	0	Adjective
+Etrafımızdaki kurum olarak bilim , başlangıçta öncü bir rol oynarken , bugün artçı ve tabi bir konuma sıkıştırılmıştır .	1	Noun
+Facebook'ta ki yas tutan yorumlardan birinde Chris'in çok hoşuna gidecek bir satır vardı : " Senden daha Afrikalısını tanımadım . "	0	Noun
+Araştırmacılar , tümör DNA'sının analiz edilmesinin diğer kanserlerin altında yatan nedenleri anlamaya yardımcı olabileceğini söylüyor .	4	Noun
+1987 yılı , zamanın Brisbane Lord Belediye Başkanı Sallyanne Atkinson tarafından " Nehir Yılı " ilan edildi .	3	Noun
+Recep Ağabey , benim pantolonda ateş var , diye seslendi .	9	Verb
+NHS'nin şu anda " inanılmaz bir baskı altında " olduğuna dair uyarıda bulunarak , halkı kendi sağlıkları için daha fazla sorumluluk almaya çağırdı .	19	Adjective
+Yürüdüğümüz yol bitmiş , daha dar bir sokak açılmıştı önümüzde .	9	Adjective
+Tanrılar günlük yaşamın pratik ihtiyaçlarını belirgin bir şekilde temsil ederken bunlar ritüelleri ve teklifleri titizlikle inceleyip uygun gördü .	14	Noun
+Patlıcan , zeytinyağlı , sağyağlı , salata , turşu derken gerçekten 40'ı buluyor .	10	Adverb
+Her gün tekrarlanan bu rutine belli ki onlar da alışıktı .	4	Adjective
+Ulusu , ailesinin anlattığına göre aslında " Konya " uçağında görevli değildi .	5	Adverb
+Uçağın tam inişi sırasında yolculardan birinin cep telefonu açtığının tespit edildiğini bildiren Yıldırım , " Cep telefonunun açılmaması gerekirdi .	8	Participle
+Arkamı döner dönmez hayatımda gördüğüm en güzel gözleri gördüm .	6	Adjective
+Kapı açık .	0	Noun
+O gecenin - daha doğrusu sabahın - öyküsü şöyle : Sevda'nın güzel yemekleriyle şiş midemizle Özer'lerden çıktık .	11	Adjective
+İşte , dünyanın her yanında insanlar vardı ; burada , yabancısı olduğum bu kanallar kentinde de .	15	Conjunction
+Alman Louis Moravia'yı işgal etmiş ve Mojmír'in yerine , daha sonra Aziz Rastislav olan yeğeni Rastiz'i getirmiştir .	12	Proper Name
+Yüksek rakım iklimi soğutmaya yarar , aksi takdirde çok sıcak olacak .	3	Noun
+Son zamanlarda anne , hastalanıp yataklara düşmüş .	4	Converb
+Patlıcan , zeytinyağlı , sağyağlı , salata , turşu derken gerçekten 40'ı buluyor .	6	Noun
+Bu nedenlerle uçağın yerde buzlanma şartları altında olmadığı kıymetlendirilmiştir deniyordu .	4	Verb
+Ölüler konuşmadığı için mi böyle yapılır dedim .	2	Adposition
+Ali'nin annesi de ona çok iyi bakıyordu doğrusu .	0	Proper Name
+Ne ilgisi varsa bilmem , Kaymakam Arif Beyin kızı davet etmiş ilk kez , ilk kez 1912'de geldikleri İstanbul'da çektirmişler bu fotoğrafı .	14	Adjective
+Yeni yönetim bölgesinin genel müdürlüğüne de , Volvo Otomobil Türkiye'nin Genel Müdürü Carl Göran Larsson getirildi .	5	Conjunction
+Kalkıp ardına kadar açtım pencereyi .	0	Converb
+Başka birine bir şey verirse , acıdan büzülürüm yerimde .	4	Verb
+Şahin , " Fakat devletin devamlılığı esasını da gözardı edemeyiz .	0	Proper Name
+Bunu söylemek için yanlış bir zamandı , ama dayanamamıştım .	3	Adjective
+Arjantin'den Yunanistan'a , darbe depremleriyle sarsılmış pek çok ülke , enkaz kaldırma çalışmaları sırasında mahkemeler kurdu .	5	Verb
+Mersedes buldum mu bırakmam abi .	4	Noun
+Bir kere çok değişik bir rengi var .	5	Noun
+Snowman , iki araziyi birbirinden ayıran yüksek çitleri atlayıp evde olduğunu hissettiği yere geri dönerdi .	10	Noun
+Bu kamp alanında depoların dışında iki ev var .	4	Adjective
+Hiç durmadan bu konuyu gizli gizli tartışıyoruz .	0	Adverb
+Ne kadar zorlarsam zorlayayım , her biri cılız birer siluet olarak gözlerimin önünden geçip kayboluyor .	1	Adposition
+Bu korku yüzünden yaşlı babanızla baş başa bir gece bile geçiremediniz ; hep , birileri yanınızda olsun istediniz .	1	Noun
+İkincisi ise Rachida Dati'nin Nicolas Sarkozy'nin adaylığını desteklediği Cumhuriyetçi Parti ön seçimlerini denetlemektedir .	10	Noun
+Ayrıca burası , Alaska'da kış aylarında gündüzleri görülen yüksek sıcaklığının donma seviyesinin üstünde bulunduğu tek bölge .	7	Adjective
+Parktaki gökleri verdi , özgürlüğü verdi , sonra beni hapsetti .	5	Verb
+uc Kasım için HADEP , EMEP ve SP'nin de çatısı altına girdiği Demokratik Halk Partisi ( DEHAP ) de hala seçime girebilmek için uğraşıyor .	12	Adjective
+Onu bir yakalayınca her şey birden tutuşur , ateş gibi yakar .	1	Adverb
+İtalya'ya tamamen karşı olanlarla kesinlikle devam edemeyeceğimiz vurgulandı .	2	Adposition
+Burası birçok topluluk için çağlar boyunca gıdanın ( balık tutma ve diğer deniz ürünlerinin toplanması ) yanı sıra ticaret , sömürgeleştirme ve savaş yolları sağlamıştır .	3	Adposition
+Her şeyden önce sanatçıydı .	0	Determiner
+Gülce ile bir grup gidip fiyatları öğrenecek .	4	Converb
+Bilimsel gerçek , nesnel gerçekliğe ilişkin , doğruluğu pratikte deney ya da gözlemle sınanmış ve soyutlama yoluyla sistemleştirilmiş bilgilerimizden oluşur .	5	Adposition
+Bence ayıp olan yalan söylemek , bir şey çalmak , birisine iftira atmak ...	6	Numeral
+Olay , Paris'te biliniyordu ve halihazırda ekmek fiyatının oldukça yüksek olması ve erzak bulunmaması nedeniyle zaten kötü olan genel havayı iyice olumsuz etkiledi .	13	Noun
+Volkanların incelendiği alana bazen vulkanoloji olarak da telaffuz edilen volkanoloji denir .	7	Noun
+Mutlu , sevginin kösteklenmediği birlikteliklerine ayak uydurmaya çalışıyordum .	2	Noun
+Doğanın eğittiği bu alçak gönüllü , onurlu , sakin insanlar , kendilerine yediremediklerinden , para istemeye elleri boş gelemiyorlar , mutlaka balık da getiriyorlardı .	2	Determiner
+Uyanır gibi oldum ve o zamanki genç kızın artık dünyamızda olmadığını , erken bir ölümle öldüğünü düşündüm .	1	Adposition
+Obama , " Daha bir Twitter hesabıyla başa çıkamayan bir insan , nükleer şifrelerle ne yapar bilemiyorum . " şeklinde alay etti .	3	Adverb
+Bu korku yüzünden yaşlı babanızla baş başa bir gece bile geçiremediniz ; hep , birileri yanınızda olsun istediniz .	12	Adverb
+Başkanın verdiği davette cam gibi cilalanmış döşemeler üzerinde kayıp da kırdığım sol bacağım yüzünden her gün hastaneye gidip kadavra üzerindeki çalışmayı gözüm yemiyordu .	6	Noun
+Tam umudunu kesip geri döneceği sırada şehrin en ucundan çıkan dumanı görmüş .	5	Noun
+Komutanlar , bu açıklamaların Başbakan ve resmi yetkililer tarafından da yapılmasında fayda olacağını ifade ettiler .	3	Verb
+İçimi çektim , sesim tahminimden daha dertli çıktı .	3	Noun
+Bu durum aykırı da gelse , bir olgudur ve hem iyi , hem de kötü bir durumdur .	7	Verb
+Hızla giden bir trenin penceresinden bakan biri gibi bir şeylerin değiştiğini görüyor , ama hiçbir görüntüyü , tam olarak kavrayıp tadını çıkaramıyordum .	20	Noun
+Birbirinin içine geçmiş garip bir rüya gibi .	5	Noun
+Aklım fikrim evde , gözüm gönlüm evde , ruhum kalbim evde , beş liraya bir de bisiklet aldım , her paydosta gidip gelmeye başladım .	21	Converb
+O teorem , tüm zamanların kusursuz bir yapısıdır artık .	0	Determiner
+Ölüler konuşmadığı için mi böyle yapılır dedim .	3	Verb
+Ufaklık için de bir açıklamaya ihtiyacım olacaktı belli ki Köpek de nöbetçimiz olacak .	0	Noun
+Nice dir elinden düşürmediği kitabını kapattı , kaldığı sayfaya kağıt sıkıştırmayı unutmayarak .	1	Verb
+Gönlüm sizin bu kadar çok acı çekmenize razı değil .	6	Masdar
+Hepimiz dahi bellemişiz onu .	0	Pronoun
+Aldığım şeyin isminin önemi yoktu , geçici de olsa yeter ki deliği kapatsın .	9	Adjective
+Ama onun bir an görünebileceği bir yerden ayrı kalmaya dayanamıyorsun .	0	Conjunction
+Oldum olası merak ettiğim bir konu vardı ; kimsenin doğru dürüst bilmediği , sormaktan çekindiği bir sır .	10	Adjective
+Bunu anlayamıyor musun ? diye sordu Gül Abla .	6	Proper Name
+Matematik , usa vurmadaki kusursuzluğun duyu organlarımızla algıladığımız cisimlere değil , yalnızca ereksel olana uygulanabileceğini söyler .	13	Verb
+Seçimden önce dosyası Yargıtay'a gönderilen Akgündüz'ün yargılaması , Siirt'ten bağımsız milletvekili seçilmesi nedeniyle durdurulmuştu .	2	Noun
+Federico Fellini bir keresinde şöyle demiştir : " Gölgesi insan için ne ise , palyaço da insanlık için odur . "	15	Adverb
+Tek hedefleri vardı : askeri savcılığın elinde bulunan tahkikat dosyasını bulabilmek .	5	Noun
+Asgari ücret ikiyüzyirmiüç.yedi milyon lira .	4	Noun
+İş Güvencesi Yasasındaki uygulama tarihini ileri atmak gibi bir planları olmadığını da vurgulayan Şahin , atıl istihdamda izlenecek yolda kesin karar vermediklerini de belirtti .	7	Adposition
+Sana boşal , at kurtul der , o sessiz sessiz duruşuyla .	10	Noun
+Sendikalar bu konuda mücadele ettiler ve Fátima Báñez'in en çok gurur duyduğu mevzuatın yürürlükten kalkması için çeşitli vesilelerle çağrıda bulundular .	16	Adjective
+Tamam oğlum , haydi çık sudan , diye yineledi Recep , çocuğun pantolonuna doğru giderken .	5	Noun
+Hiç bir şey satamamışsın .	2	Noun
+Bir an kafamda bir şimşek çaktı Bu evde iki tane prense ihtiyacımız var , prensesi ve evimizi koruyabilmek için dedim .	16	Noun
+Son romanı , Lennox Kontesi Margaret Douglas'la ilgilidir .	3	Proper Name
+Avusturya - Prusya ordusu bu geri çekilme karşısında şaşırdı ve Danimarka ordusunun neredeyse tamamı tahliyeyi başarıyla tamamladı .	6	Noun
+Yucatan'da ki Post - Klasik dönem boyunca üçüncü bir sistem kullanılmıştır .	4	Adjective
+Askeri savcılık ilk olarak raporların bir kısmını gönderdi .	1	Noun
+Obermarsberg'de ki tarihi belediye binası 13. yüzyıldan kalmadır ve Otuz Yıl Savaşı'nın ardından yenilenmiştir .	8	Conjunction
+Yüzüstü bırakınca bayıldığı avukat , yoldan çıkmış kızcağız ...	2	Verb
+Hem birileri iş yapacak , hem zarar edeceksiniz , hem de faiz ödeyeceksiniz " dedi .	9	Conjunction
+Sözgelimi Zeynep , hiç de sandığım gibi vurdumduymaz bir anne değilmiş .	7	Adjective
+İkincisi de , teknoloji artık geri dönülmez biçimde bilimsel bilgi temeline oturmuş , bu yüzyılda Bilimsel Devrim'in bulgularının etkin bir teknolojik hasadı gerçekleşmiştir .	5	Adverb
+Gündüz ayrı iş , gece ayrı iş ; can mı dayanır , diye söylendi saatine bakarken .	6	Noun
+Sonra , gözlüksüz olduğunu da iyice anımsıyorum .	5	Adverb
+Oysa birkaç saat önce , bu ısı kontrol teknolojisinin Batı'da satılan son örnekleriyle karın üstünde nasıl da titriyordum .	3	Adposition
+Öyle oyuncu öyle oyuncu ki anlatamam .	0	Adjective
+Buna göre , yurtdışından sağlanacak hibeler ve verilecek borçlar ilgili temaslarla anlaşmaları yapmaya , sağlanan finansmanı kullandırmaya Hazine'nin bağlı olduğu bakan yetkili .	19	Verb
+Sektörde kar marjlarının daraldığına dikkat çeken Demiray , komisyon bankacılığının biraz daha önem kazanacağını söyledi .	6	Proper Name
+Kahve'yi bilmem ama Ali pek hazır değil galiba .	4	Adverb
+Ama anne bir an önce ismine alışması lazım ben tarif etsem olmaz mı ? diye sorunca annemle babam kabul ettiler .	3	Noun
+Wright , Poole , Dorset'de doğdu ama daha çok Wells , Somerset'te büyüdü .	2	Proper Name
+Ortalama şansa ve 10.000 Sterlin değerinde tahvillere sahip bir yatırımcı yılda 125 Sterlin ikramiye kazanabilir .	11	Numeral
+Ama ondan hiçbir zaman emin olamam .	2	Determiner
+Microsoft , Çarşamba günü sanayinin sevgilisi Slack'i tahtından etmeye hazırlanan yeni bir iş yeri sohbet aracını duyurdu .	9	Adjective
+Oysa Senem'e göre bu yeterli değildi .	1	Proper Name
+Hem ismi kolay olursa köpeğin öğrenmesi de kolay olur .	2	Adjective
+Tema , Palma'da yaşayan çok sayıda ahdet etmiş Yahudi'den ötürü geleneksel olarak bilinçli seçilirdi .	5	Noun
+Öncelikle , insanları kendilerini çevrimiçi ortamda nasıl daha iyi koruyabilecekleri konusunda eğitmeliyiz .	4	Adjective
+Tabii ki , dokunsal eğilim , bir şeyleri kendimiz yapma konusundaki artan saplantımız ile yakından ilişkilidir .	9	Noun
+Bu nedenle yatırımcının borsada başlayabilecek bir harekete katılabilmesi için tetikte ve likit beklemesinde fayda var .	8	Adposition
+Hem süt emsin hem de biraz daha büyüsün . demişti .	0	Conjunction
+Hepinizi tek basıma haklarım dedim .	2	Noun
+Lenny , kadınlarla ilgili şanssızlık yaşayan sürekli bir bekar .	0	Proper Name
+Küçük köşk tamamen yandı .	3	Verb
+Beni terk etmekte olan sevgilimle buluşup yemek yiyecektim .	1	Noun
+Dördüncü sınıflar arasında milli ortalamayla aynı seviyedeyken sekizinci sınıflarda ise bu ortalamanın üstündeler .	10	Determiner
+Melek her gün yüz bin lira kazansam , kış gelene kadar bir kondu alabilir miyiz ?	14	Verb
+Şu anki vekilim Nusret Senem .	1	Noun
+Göğüs ve karın bölgesinde geniş bir daire çizerek , Şuramda kocaman bir delik vardı .	4	Adjective
+Kipling orada geçirdiği süre boyunca , ( Trix'in geri döndüğü ) Southsea'de Trix ile gemiye binen Floransa Garrard'ına aşık olmuştu .	16	Proper Name
+Bu konuda Cumhurbaşkanı Ahmet Necdet Sezer'in de " Türban tartışması bitmiştir " diyerek son noktayı koyduğu belirtildi .	4	Proper Name
+İçki var mı ? diye sordu Kerem .	1	Adjective
+Norman benim yakın arkadaşlarımdan biri , bu yüzden onu bu duygusal halde görmek beni çok zorladı .	4	Pronoun
+Ali'yi üzmeden bu köpeği çok sevdiğimi ve ona sahip olabilmek için ne çok engeli aştığımı anlatmalıydım .	4	Adverb
+Wilkes , Avam Kamarası'nın adaylığını geçersiz sayıldığına karar verip arkasından geleni galip ilan etmesine kadar iki kez daha seçilmiş ve kovulmuştu .	2	Noun
+Aklından sil böyle düşünceleri .	3	Noun
+Çünkü , iki hafta önce terfi etmişti ve artık Boeing uçaklarında kabin amiri görevi yapacaktı ..	10	Noun
+home lideri Recep Tayyip Erdoğan'ı taşıyan uçağın Pekin'e zorunlu iniş yapacağının duyulmasının ardından olayı Türkiye'ye bildirmek isteyen gazetecilerle işadamları arasında kısa süreli bir gerginlik yaşandı .	16	Participle
+" Bu arada Şelaleevleri'ne kaçırdığını sandığı yedideki İstanbul - Diyarbakır seferi , iki saat kırkbeş dakika gecikmeyle dokuzkırkbeş'te kalkmıştı .	1	Determiner
+Ama bütün gerçeklik - buna karşın - belli bir yere kadardı ; başka bir yere gidildiğinde , gerçek olan şey , gerçek - olmayana dönüşüyordu .	13	Numeral
+Bu nedenle bu kişilerin diğerleri üzerine baskı kurmaya hakkı vardır !	3	Noun
+Ancak burada söz konusu olan , bilinçli bir soyutlamadan çok , sürekli yinelenen bir deneme - yanılma sürecidir .	0	Conjunction
+Tabii bu uçak kazası gazetelere aksettiği için herkesin haberdar olduğu bir olaydı .	0	Adjective
+Hadi bakalım düşelim yola . dedi babam .	5	Verb
+Görmüyorlar mıydı : Girişten mağlup başlıyor , gelişme bölümünün ortasına bile sağ salim varamıyordum ; sonucu da felaket oluyordu bu durumda tabii .	9	Adjective
+Bu , Dünyayı etkisi altına alan ve yalnızca dinozorların değil , birçok türün soyunun tükenmesine yol açan çevresel değişikliklerin doğasına yeni sınırlar getirecektir .	0	Pronoun
+Yönetmenin kendi sayısına göre bugüne kadar sekiz adet uzun metrajlı film çekmiş .	0	Noun
+Laboratuar deneylerim daha yeni bitmiş , sıra kadavra üzerindeki üzerindeki çalışmalara gelmişti .	0	Noun
+Adalar , Hint - Avustralya Fay Hattı üzerinde yer almaktadır ; Fay Hattı , Hint ve Avustralya levhalarının çarpışması nedeniyle ortaya çıkmıştır .	17	Noun
+' BİNNAZ ' adlı şarkısıyla olay yaratan Ciguli , katıldığı canlı yayında dramını anlatıp herkesi ağlatınca iş sahibi oldu .	15	Converb
+Onun hayatı öğrenmesi , doğruları ve yanlışları ayırt etmesi için elinde olan tek araç , duygularıdır .	0	Pronoun
+Zaten herkes başrol oynamayacak ya .	3	Verb
+İnönü Meydanı'nda toplanan kalabalık , çözümsüzlüğün nedeni olarak Denktaş'ı gösterdi .	3	Noun
+Ben anlamıyorum .	1	Verb
+Annem hep korkmuş , çocuklarımdan biri büyük amcalarına benzer diye ; ama şimdi bakıyormuş da , benim yolum yol değilmiş .	8	Verb
+Dışarda aki çadırda Şura ekmek hazırlıyor .	1	Adposition
+Benim arkamda bir iz kalırsa , ben siyasette ilkeli ilkeli , kararlı , cesur işler yaparsam benim için en doğrusu odur .	3	Noun
+Ne ki , zamanla yoğun sıkıntıya yolaçtı , bana göre , tekdüze , coşkusuz , amaçsız yaşam ; depreşti , ölçüye sığmaz oldu içki bağımlılığım .	3	Noun
+Len ti - , evleri yaparken , sizin makinelerinizi örnek aldım ; makineleriniz hem güzel hem de yararlı şeyler .	18	Noun
+Kentin ekonomisi 1960'lardan bu yana hızla gerilemekte .	4	Noun
+Dünya şirketi olma hedefimiz için ikibiniki senesinde önemli atılımlar yaptık .	2	Verb
+üç Kasım seçimlerinin ardından ağır yenilgiye uğrayıp barajın altında kalan siyasi partilerin binaları sessizliğe gömülürken , partililer de yeni konjonktüre ayak uydurma çabasında .	9	Participle
+Kahve ne zaman geliyor ? diye sordu bana .	1	Pronoun
+Üç işaret yazın gün doğumunu ve kış gün dönümlerini ve iki ekinoksu belirlemektedir .	6	Noun
+Tabanımız çok farklı , bütün eğilimleri topladık .	0	Adjective
+İşe yarar mı ki ...	3	Conjunction
+Bizim yaşımızda bir çocuk nasıl evini terk eder ?	2	Numeral
+Kardeşinin Marmara depreminde de Gölcük'te yedek subay olarak görev yaptığını anlatan Vecdi Altındağ , " Kardeşim o büyük depremden de mucize eseri yara almadan kurtulmuştu .	17	Adjective
+BBC'nin Andrew Marr Show programında şunları söyledi : " Açıkçası bir genel seçim hükumetin istediği en son şey . "	6	Verb
+Geçen süre zarfında İMKB'nin kısa tarihinde de yaşanan " en uzun düşüş dönemi " sonucunda hisse senetlerinin değer kaybı bugün TL bazında yüzde elli'leri buldu .	19	Noun
+Bir gece zamanı , yataktayken söyledi hem de ...	7	Conjunction
+Yutmadım ama , bu seferlik geç yerine otur , demek istiyordu .	3	Determiner
+Bonnor saygın bir evrenbilimcidir .	1	Adjective
+Ama önce , Ben buraya taşınıyorum artık , seninle birlikte yaşamaya karar verdim , diye söze başladım .	10	Verb
+ANAP'ta genel başkanlığa aday olduğunu açıklayan Işın Çelebi'yi , diğer genel başkan adayları Lütfullah Kayalar ve Ali Talip Özdemir yalnız bırakmadı .	0	Proper Name
+Aslında annemin duyamayacağı bir tonda söylemeye çalışmıştı ama annemden bir şey saklamak oldukça zordu .	8	Noun
+Hattın yapımı bölge halkına iş olanağı sağlayacak .	5	Noun
+Stalin , Abakumov'u Beria'nın enerji bakanlıkları üzerindeki baskınlığına karşı MGB içinde kendi ağını kurmaya teşvik etmeye başlamıştı .	15	Noun
+Yeniden canlandırmaları , sanatsal veya başka türlü iyi bir meydan okuma çağrısını vurgular : rahatsızlık , büyüme ve anlamlı bir bağlantı .	4	Conjunction
+Şüphelinin bu okulla , ya da iki kızla , ya da özellikle Abbotsford bölgesi ile ilgili özel bir bağı olduğunu düşünmüyoruz .	0	Noun
+Öğretmenler derlerdi ki .	2	Conjunction
+Gırtlağıma kadar doluyum demiş .	3	Verb
+Şimdiye kadar hiç bir köpekte görmediğim yeşil gözleri , gözünün üstüne düşen alacalı tüyleri var .	2	Adverb
+Bir onyedi - onsekiz. yüzyıl bişopuna görünen gerçeklerle Harun Yahya ve baş yazarlarına görünen gerçeklerin bu denli benzeşmesi oldukça şaşırtıcı .	3	Numeral
+Sezginler ne ile uğraştığını o güne kadar tam olarak bilemese de Senem başlarına gelebilecekleri tahmin edebiliyor ve bu yüzden Sezginler'i uyarma ihtiyacını hissediyordu .	6	Adposition
+Bunlar , Smith'in ölümünden sonra neredeyse tamamen unutulmuştu .	7	Verb
+O yıl ayrıca , Disney'in The Muppets yapımında Miss Piggy'nin resepsiyonisti olarak kısa bir süre göründü .	9	Proper Name
+Zengin banliyölerini 2010'a kadar temsil eden Liberal Demokratlar kendi adayları Sarah Olney ile bunu geri almayı umuyorlar .	12	Adposition
+İhtiyaç olabileceği düşüncesiyle evin etrafında gün boyu bekleyecek on kadar geyik seçildikten sonra diğerleri serbest bırakıldı .	9	Adposition
+Bu çekinmesiz , sıcak davranışlı , içinde biriktirdiği derinliği dışa da yansıtmaktan kaçınmayan sarışın kız , gelebileceğini söylemişti .	7	Participle
+yirmibeş cesedin kimliğinin ise DNA incelemesiyle belirleneceği bildirildi .	7	Verb
+Sevilme peşinde koşan ve sevmeyi bilemeyen iki genç , yasal ve yasal olmayan uyuşturucuların etkisiyle sevme oyunu oynayacaklar ve minik bağımlı çocuklar dünyaya getirecekler .	6	Numeral
+Türkiye'de birçok alanda olduğu gibi bankacılıkta da zaman zaman haksız rekabet yaşandığına dikkat çeken Demiray , verilen hizmetlerden ücret alınmamasının bunlardan biri olduğunu söyledi .	1	Determiner
+Aslında annemin duyamayacağı bir tonda söylemeye çalışmıştı ama annemden bir şey saklamak oldukça zordu .	3	Numeral
+Belki çamurlu su rengindeki saçlarınla ortalıkta dolaşıp fahişelik yapsaydın o adam seninle tıpkı küçük bir kızla sevişir gibi sevişebilirdi .	4	Noun
+Kanunun 63'üncü maddesinde ikiyüzelli milyar liranın altındaki kamu ihalelerine sadece yerli isteklilerin katılması şart koşuluyor .	8	Noun
+Allahım üveylerden beni koru .	2	Pronoun
+Bale Süiti .	1	Noun
+Diyarbakır'a gitmeden önce annesine , " Merak etme , bu küçük uçakla son görevim " dedi .	9	Determiner
+Emsan vergi barışı projesi ile ilgili görüşleri şöyle : .	1	Noun
+Bu uygulamanın amacı , ulaşım süresini hesaplamakla uğraşmak yerine ulaşım süresini tamamlanan çalışma saatlerinden çıkartarak hesaplamaktır .	14	Adverb
+BBC'nin Andrew Marr Show programında şunları söyledi : " Açıkçası bir genel seçim hükumetin istediği en son şey . "	10	Determiner
+Ancak mimari , yaşayanlar ile ölüler arasında bir köprü oluşturabilir ve bir dereceye kadar sınırları bulanıklaştırabilir .	3	Noun
+Ancak onda ya da başkalarına karşı davranışlarında sanatsal başka hiçbir şey yoktu .	4	Noun
+Sözgelimi Hüseyin hiç de sandığım gibi yaşlı , zengin kadınları kullanan bir erkek değilmiş .	12	Adjective
+Tina Anselmi 25 Mart 1927'de Castelfranco Veneto'da doğdu ve militan sosyalist babasının zulmünün hüküm sürdüğü faşizm karşıtı Katolik bir ailede büyüdü .	9	Noun
+Abla Gaye Karasu ve yakınları , İstanbul'dan THY'nin tahsis ettiği uçakla dün Diyarbakır'a gitti .	0	Noun
+Melek her zamanki yerinde , ümitle gelene geçene flasterlerini ve kalemlerini uzatıyordu , ama nafile ; kimsenin ona aldırdığı yoktu .	1	Determiner
+Arçelik olarak genelde tahminimizin üzerinde iyi bir yıl geçirdik .	2	Adverb
+uc Kasım için HADEP , EMEP ve SP'nin de çatısı altına girdiği Demokratik Halk Partisi ( DEHAP ) de hala seçime girebilmek için uğraşıyor .	16	Proper Name
+Gazi daha çok kuru leblebiyi tercih ederdi .	4	Noun
+Bu yılın başlarında başkent Belgrad'da bir dövüş sanatları okulu kurmayı teklif etmesinin ardından Seagal'a Sırbistan vatandaşlığı verildi .	5	Determiner
+Güney Kore ekonomisi 1960'lardan itibaren muazzam bir büyüme gösterdi ve ekonomik yapı kökten değişti .	4	Adposition
+Hatta bana yardımcı olmak üzere birkaç avukat adresi verdi .	6	Noun
+Bırakın müşteri mağazanızın içindeki bir " kokunun " peşine düşsün ve aradığını keşfederek bulsun .	1	Noun
+üç Kasım seçimlerinin ardından ağır yenilgiye uğrayıp barajın altında kalan siyasi partilerin binaları sessizliğe gömülürken , partililer de yeni konjonktüre ayak uydurma çabasında .	10	Adjective
+İyi ki o zamanlar Milliyetçi Cephe icat edilmemiş .	1	Conjunction
+Bisikletleriyle bu sokaktan çok sık geçen , geçerken de bu evin önünde zillerini ya da pilli düdüklerini öttüren delikanlılardan hiçbiri yok ortalıkta .	5	Adjective
+o Eyüp Fatsa ( Grup Başkanvekili ) : Erbakan'ın ismini seçim döneminde kullanmadık .	1	Proper Name
+Koç Topluluğu şirketlerinden , ısıtma ve soğutma sektöründe faaliyet gösteren Hablemitoğlu'nun , grup şirketi Arçelik gibi Avrupa'da satın alacak şirket arıyor .	8	Noun
+Orada durup , altıncı kattaki sevgilinin varlığımı fark etmesini , pencereyi açıp beni içeri çağırmasını bekleyecektim herhalde .	6	Noun
+Bu süreçle siyasal düzlemde ilişkilendirilen olgu da artık devrimler değil , devrimsizlik ve küreselleşme sürecidir .	1	Noun
+San Francisco'luların dinlenmek ve rahatlamak için geldiği yerel bir alan olarak hizmet vermektedir .	2	Noun
+( Gündelik hayatlarının bir felsefesi ve ilkeleri olmadığı için her duruma , her ortama ayak uydurabiliyorlar .	7	Participle
+Doğa politikaları başkanı Jeff Knott , " Arkasından bir yasak veya avlanma ruhsatı gelirse çok şaşırırım . " dedi .	12	Noun
+Çünkü kuantum kuramının öngörülerinden biri olan virtual parçacıklarla gerçek parçacıklar arasındaki ayrım oldukça ilginçtir ve açısından öğreticidir .	12	Adverb
+Nereden biliyorsunuz ? diye sordu .	1	Verb
+Gazetecilere uçak havada yanarak geldi yere çakıldı diyen tanıklar , anket heyetinin hazırladığı raporlara göre , farklı konuşmuşlardı .	5	Noun
+Polisinin bünyesinde , devriye ve gözetleme teknelerini işleten özel bir birim bulunur .	4	Conjunction
+1970 'li yılların başında ölen bir yaşlı adamın mezarının etrafında toplanıldı .	0	Numeral
+Pekiyi ne oldu .	2	Verb
+Akdeniz'deki asilden oluşan bir topluluk , zulmü geri kalan kişiler dönene kadar durdurmak üzere Parma Valisi Margaret'a bir dilekçe sundu .	9	Noun
+Sulla ile Trump , Roma ve ABD arasında benzerlikten çok farklılık var , ancak bu mevcut benzerliklerin görmezden gelinmesi için bir sebep değil .	7	Noun
+Oktay Sarıtop nazik bir dille kaleme aldığı eleştirisinde " Türkiye'nin en iyi gazetesi olan Milliyet'i her zaman takdir ettiğimi bilmenizi isterim " diyor .	12	Noun
+Aşılan tepelerin zirvelerinden ırmak yollarını seyreden buraya özgü yaban koyunları ( Ovis nivicola eschscholtz ) .	7	Adjective
+Türkiye'de birçok alanda olduğu gibi bankacılıkta da zaman zaman haksız rekabet yaşandığına dikkat çeken Demiray , verilen hizmetlerden ücret alınmamasının bunlardan biri olduğunu söyledi .	6	Conjunction
+NA'nın on iki basamağı da bu amaca yönelik .	7	Adposition
+Ülkenin batı kısmından farklılaşır ; çünkü belirgin topografik özellikleri kıyıya paralel değildir .	8	Noun
+Ruhunun içine girdik ! İlkin hep böyledir , insan yerinde dolanır durur , hiçbir ışık , hiçbir gölge yoktur .	10	Verb
+Ne soracağımı anlamıştı , sor , dedi gönülsüzce .	2	Verb
+Kuzey Cezayir ılıman bölgede olup hafif bir Akdeniz iklimine sahiptir .	1	Proper Name
+Siz kimsiniz ? diye sordum ürkerek .	3	Adposition
+Ama esas olarak hukuksal bir yoldu ...	0	Conjunction
+Beyaz peynir en kral meze .	3	Noun
+Ona göre sebep , işleri ve yaşam standartlarına zarar verebileceği Amerikalı işçilere yeterli koruma sağlamamasıdır .	7	Noun
+Üstelik Kemal'in dediğinde herkesin her şeyini ortaya dökmek yok ki .	7	Verb
+Bir çocuğa ailenin vereceği en önemli şey , kendisini değerli hissetmesi , varlığından mutlu olunduğunu bilmesi , önemsendiğini hissetmesi ve kendisine güven duymaya teşvik edilmesidir .	18	Verb
+Bilim , her şeyden önce herhangi bir keyfi iradeden bağımsız nesnel yasaların varlığının kabulünü gerektirir .	5	Adjective
+Irak'ta savaş tehdidi yanısıra , Amerika'nın baskısına rağmen AB için Türkiye'ye müzakere tarihi verilmeyeceği yönündeki sinyaller piyasada moral bozdu .	15	Noun
+Nerdeydin Çilingiroğlu , sonradan Yargıtay Başsavcısı .	4	Proper Name
+Önce Tanrı'nın ve Bey'in kulu olmadığımızı öğrendik ; sonra dünyayı değiştirebileceğimizi .	5	Participle
+1970 'li yılların başında ölen bir yaşlı adamın mezarının etrafında toplanıldı .	6	Adjective
+Dört yıl depoda bekleyen ve soğuk duvarların arasında hapsedilen geçmişim , bana dünyayla arasına duvarlar ören bir masal ülkesini hatırlattı .	13	Adjective
+Canın sağ olsun Ayhancım dedi annem .	3	Noun
+Ben Erbakan'ın yanında onun yanlışlarına ortak olsaydım kırk defa bakan olurdum , elli defa genel başkan olurdum .	0	Pronoun
+Ama diye devam etti , Köpek kahverengiymiş , bazı yerleri beyaza daha yakınmış , Kahve onun için daha uygun bir isim .	14	Noun
+Evenlerin , sadece geçmişini değil , geleceğini de arayan bu barışçı halkın kaderine tanıklık etmek üzere Yakutistan'dayım .	16	Proper Name
+Milli Eğitim Bakanı Erkan Mumcu'yla da görüşen Unakıtan , temel eğitimin oniki yıla çıkarılacağı sözü aldı .	10	Noun
+Böylece hem yalan söylememiş olduk , hem de Harbiyelinin işini kolaylaştırdık .	10	Verb
+Hayatın böyle ya da başka türlü olmasını ne ya da kim sağlıyor , bu iyi mi kötü mü .	17	Verb
+Acı patlıcanı kırağı çalmaz .	0	Adjective
+Ali'yi üzmeden bu köpeği çok sevdiğimi ve ona sahip olabilmek için ne çok engeli aştığımı anlatmalıydım .	9	Verb
+Halamın çocukları da o kadar yaramaz ki anlatamam .	1	Noun
+1519'da Habsburg imparatorluğunun hükümdarı oldu ve 1530'da Kutsal Roma İmparatoru unvanını elde etti .	4	Verb
+Ufaklık için de bir açıklamaya ihtiyacım olacaktı belli ki Köpek de nöbetçimiz olacak .	4	Verb
+Ancak pencerenin içinde duran ve kullanma tarihi geçmek üzere olan Yunanistan'dan ithal şeftali kompostosuna kimsenin değmesine izin olacağını sanmıyorum .	4	Conjunction
+Her gece yatınca dualarıma bir de iyi öğretmen duası eklendi .	8	Noun
+Baktım baktım yürüdüm gittim .	0	Verb
+Diğer taraftan bilimin her teorik atılımı , yeni bir kavramsal yapının oluşturulup eski bazı kavramlardan kopuşu içerdiği için , ideolojide bir dönüşüme yol açar .	3	Determiner
+Aslında kişi eroini kullanmadan önce de bağımlıdır : kişilere , kumara , alkole , esrara , sekse , sigaraya , aktivitelere ya da eğlenceye .	22	Conjunction
+Kumru sabah akşam sarılıyormuş telefona .	2	Noun
+Ailenin yakınlarından alınan bilgiye göre Altuğ Ulusu , aslında Diyarbakır'a gidecek olan uçağın ikinci pilotu değildi .	5	Proper Name
+Birden , geldiğini duydum , parktaki kalabalık karıştı .	6	Noun
+Kadınlar gittikten sonra sizinkine veririm .	0	Adjective
+Meta ekonomisi , ürünlerin , bir kullanım değeri olmanın yanı sıra , bir değişim değerine dönüşmelerini gerektirir .	3	Noun
+Kaç gündür bu böyle .	2	Pronoun
+Hacim siz ve sıkışık seanslar geçiren borsa umudunu seçim sonrasına bağlamış görünüyor .	1	Adposition
+CD çalan aygıtla bakıştılar .	0	Noun
+Dördü ölmüş , demek ki şimdilik bu akşama kadar vurulacağını bilmeyen dört müstakbel maktul şu sıralarda son yemeklerini yiyorlar .	9	Verb
+Ancak , bu amaçla yapılacak düzenlemelerde aksi ispat edilmedikçe mükellef beyanının doğru olarak kabul edileceği şeklinde ve benzeri hükümlere yer verilmemeli .	16	Conjunction
+Şirin'de üzülecek arayacak yavrusunu .	1	Verb
+Öte taraftan dış tarih , İspanyolca konuşanların geçmişi , tarihsel değişiklikleri ve dilin toplumsal kullanımı ile ilgili referanslar içerir .	18	Verb
+Ayrıca eyaletteki acenteleri düzenleyen Ontario Emlak Konseyine ( RECO ) daha fazla icra ve soruşturma yetkisi verilmesini istiyor .	15	Noun
+1976'da parkur artık kullanılmıyordu ; 1990'da ise bir yangın , daha sonraları ahırlarla birlikte yıkılacak olan tahta tribünlerden geri kalanları da yok etmişti .	2	Adverb
+Eski sevgilisi kapının dışında bekliyor .	4	Verb
+Tüzük , kasabadan geçen kişilerin vergilendirilmesi için kasaba sakinleri tarafından yönetilen bir tüccar locası oluşturulmasını sağladı .	4	Noun
+Kan bağı , kardeşlik , öfke , hırs , şiddet , savaş , suç , cinsellik gibi kırmızılıklar sermayelerinin oluşturucusu ve dayanağı .	11	Noun
+Ya da Avrupa'dan gelen Iceberg .	2	Proper Name
+Erkeklerin ortaöğretime kaydolması , kişi başına gelir ve ekonomik büyüme oranındaki artışlar iç savaş olasılığını azaltmada önemli etkiye sahiptir .	16	Adjective
+İyiyim katı , kapısı kapalı odalarla dolu ydu .	0	Adjective
+Saçmalama , neler reddedildi , nelerden vazgeçildi , neler iyiydi kaka oldu , bugün hala bu derecede gösterilen saygının temeli yıllar öncesinde değil .	8	Pronoun
+Kızını çok beğendik .	2	Verb
+O gece rüyamda ben balerin olmuştum .	2	Noun
+Tanrılar günlük yaşamın pratik ihtiyaçlarını belirgin bir şekilde temsil ederken bunlar ritüelleri ve teklifleri titizlikle inceleyip uygun gördü .	10	Pronoun
+Irak tehdidi tepemizde durmasına karşın borsacıların hayalindeki hükümet formülü olan DYP CHP - koalisyonunun gerçekleşmesi durumunda borsa seçimden sonra bir ralli yapabilir .	0	Proper Name
+Eski İngiliz Güney Kamerunları 1 Ekim 1961'de Kamerun Federal Cumhuriyeti'ni kurmak üzere Fransız Kamerun'u ile birleşmiştir .	8	Adjective
+otuz ay sürecek Hat çalışmaları boyunca ekiplerin bütün ihtiyaçları çevredeki il ve ilçelerden karşılanacak .	11	Conjunction
+Evet , doğru , senin bu işe en uygun adam olduğundan bahsedildi ...	10	Participle
+Eve geldiklerinde de çok yorgundurlar veya yapacakları bir şeyler vardır .	1	Participle
+Eğer aşk böyleyse çok zor bir şey ; çünkü ben hep Tibet'le olmak istiyorum .	8	Conjunction
+Hiçlikten geliyor , görünüyor , bu görünüşe gerçeklik adı veriliyor ; sonra da bir parabol gibi kayıp gidiyordu .	17	Verb
+' , geleceğe yönelik yeni eğitim projelerinin yaratılması konusunda Milli Eğitim Bakanlığı ile ortaklaşa çalışmak istediklerini bildirdi .	11	Noun
+Winstone , 4 Ekim 1988'de ve yine 19 Mart 1993'te iflas ilan etti .	12	Verb
+Biliyor musunuz ?	1	Verb
+Bu konuyu annemin sakin bir gününde , onunla arkadaş gibi konuşmam gerektiğini biliyorum .	12	Verb
+Kızı Yasemin henüz birbuçuk yaşındaydı .	1	Proper Name
+Sendikalar bu konuda mücadele ettiler ve Fátima Báñez'in en çok gurur duyduğu mevzuatın yürürlükten kalkması için çeşitli vesilelerle çağrıda bulundular .	9	Adverb
+- Hayır kendim yazıyorum .	2	Pronoun
+Ve fark ettim ki , onlarca kutudan , yüzlerce eşyanın arasından bir tek bilgisayar disketi bile düşmedi yere .	3	Conjunction
+Baykal'la fotoğraf çektirmek için birbirleriyle yarışan kadınlar , uzun süre sıra beklemek zorunda kaldı .	4	Pronoun
+Bununla birlikte , sigaraya doğrudan maruz kalmayan mesane gibi dokularda aynı ilişki bulunamadı .	4	Adverb
+1563 itibarıyla Venedik nüfusu yaklaşık 168.000 kişiye düşmüştü .	2	Proper Name
+Evli ydi .	0	Adjective
+Çünkü aleme bir ağa giriyor : Soğan .	1	Noun
+O mu seni terk etmiş saydın , sen mi onu .	9	Pronoun
+Birinci , Ayhan'dı .	0	Numeral
+Bu Bakanlar Kurulu'nda tartışılacak " dedi .	1	Noun
+İkinci dizi şimdilik nasıl gidiyor ?	3	Adverb
+Doğru , dedim , bunun için içiyoruz ya .	6	Verb
+Erkek bir makine bu .	3	Pronoun
+Hattın yapımı bölge halkına iş olanağı sağlayacak .	0	Noun
+Pencerelerde ışık olsa gidip kapıyı çalacak mıydım , emin değildim .	5	Verb
+Bir sonraki bölüme devam edip etmeyeceğimizi veya nasıl devam edeceğimizi değerlendireceğiz .	4	Adverb
+Bu sözler , Batılı yiyecek ve tedavi kültürünün Evenlere ulaşmadan önceki durumu özetliyordu aslında .	12	Verb
+Dava ilk bakışta gerçekten de düşen uçaktan Amerikalı şirketin sorumlu olup olmadığının araştırılmasına yönelik bir tazminat davası gibi gözüküyordu .	10	Converb
+Volvo Türkiye , böylece onsekiz ülkenin merkezi konumuna geldi .	3	Adverb
+Bilim , Aydınlanma mücadelesinde , insanlığın elindeki en önemli kazanımlardan biridir .	8	Noun
+Muhalefet El Mundo'ya " Protesto ve başka şeyler olacak , hepsi zaten planlanmış . " diye açıklama yaptı .	11	Adverb
+Özer Dış Ekonomi Bakanı , Atila Sav Çalışma , Ayhan da Sanayi Bakanı .	2	Noun
+Önlerinde hazırlanan raporların hepsi vardı artık ve zaman makinesi bir kez daha , bu sefer geriye , kazanın olduğu o ilk anlara doğru çalıştı ..	17	Noun
+Kerem buğulu gözlerle ona baktı .	1	Noun
+Aklıevveller ondan da tartışma açarlar .	3	Verb
+Donald Trump kendini fazla önemseyen , gösterişli , kibirli , bencil bir kişi ve mizacı Amerika Birleşik Devletlerinin menfaatleri için oldukça zararlı .	20	Adverb
+Antonio Gaudí 20. yüzyılda , 1904 - 1914 yılları arasında on yıl süren bir reform süreci getirmiştir .	3	Noun
+Akıllı telefon modelinin üretimi tamamen durduruldu .	2	Noun
+İçkiden başka bir şeyi sevmemiş .	3	Noun
+Bu yanıtın düşündüklerimle hiç ilgisi yoktu , ama onunla korkularımı tartışacak bir cesaretim olsa zaten hayatım başka türlü olurdu .	0	Determiner
+Haftada beş saat Latince okurduk lise dersleri yanında .	2	Noun
+Caplan geriye dönük oy vermeyi , " Nil taşmayınca firavunu öldürmekten daha mantıklı değil . " yorumunu yapan iki bilim insanından alıntı yaparak eleştirdi .	17	Adjective
+Sendikalar bu konuda mücadele ettiler ve Fátima Báñez'in en çok gurur duyduğu mevzuatın yürürlükten kalkması için çeşitli vesilelerle çağrıda bulundular .	15	Adposition
+Bu arada , Bank of Scotland müşterileri , hesaplarına ücretsiz Vantage seçeneğini eklediklerinde 3.000 - 5.000 Sterlinlik bakiyeleri üzerinden yüzde üç faiz getirisi elde ediyorlar .	11	Noun
+Buğday gibi yağ , altın veya gıda ürünleri , yatırımcıların dünya çapında milyarlar yatırdığı doğal kaynaklardır .	10	Noun
+Ne ki , zamanla yoğun sıkıntıya yolaçtı , bana göre , tekdüze , coşkusuz , amaçsız yaşam ; depreşti , ölçüye sığmaz oldu içki bağımlılığım .	23	Noun
+Bunları biliyorsunuz .	1	Verb
+Evet , gönlüm ablasından yanaydı .	2	Noun
+Sigara ve eroin onun tek dostu .	0	Noun
+Diskoteği sandığı kadar ürkütücü bulmadı , belki de gençlere uyum sağlamak için ister istemez içtiği iki kadeh viski yüzünden .	8	Adjective
+Hat boyundaki köylerde halk , terkedilmiş , para etmeyen arazilerini boru hattı için yapılacak kamulaştırmada devlete satacak .	10	Noun
+Güney Koreli şirket ilk başlarda sorunun arızalı bir pilden kaynaklandığını düşündü ve kendi bileşenini üçüncü tarafa ait bir güç hücresi ile değiştirdi .	17	Determiner
+Adam , argoyla karışık da olsa - ki bu , sınıfını gizlemediğini gösterdiğinden bir erdem sayılabilirdi - Necmi Bey'i aratmayan güzel cümleler kurabiliyordu .	19	Participle
+Hele o zamanlar moda olan sizler sözcüğüne ben hala şaşarım .	5	Pronoun
+Tepki gösterir demişim veya gereksiz yere kendini savunacak , derdimi anlatamayacağım demişim , vesaire .	9	Noun
+Ama anne bir an önce ismine alışması lazım ben tarif etsem olmaz mı ? diye sorunca annemle babam kabul ettiler .	11	Verb
+Tasarruf Mevduatı Sigorta Fonu , Pamukbank için yatırımcıların inceleme yapma süresini onüç Aralık ikibiniki , teklif verme süresini ise yirmi Aralık ikibiniki tarihine kadar uzattı .	17	Noun
+Amerika Birleşik Devletleri , Salı günü ülke tarihindeki ilk kadın başkanını seçebilir .	11	Verb
+Bu sefer aklına Milli Savunma Bakanlığı'nın Askeri Usul Ceza Yasası'na göre elinde tuttuğu bir yetki geldi .	0	Determiner
+Seçimden önce dosyası Yargıtay'a gönderilen Akgündüz'ün yargılaması , Siirt'ten bağımsız milletvekili seçilmesi nedeniyle durdurulmuştu .	12	Noun
+Bilim , her şeyden önce herhangi bir keyfi iradeden bağımsız nesnel yasaların varlığının kabulünü gerektirir .	2	Determiner
+Fakat bazı güvenlik uzmanları kursun gerekliliği ve arkasında yatan niyetle ilgili şüphelerini gündeme getirdi .	6	Conjunction
+Aynı zamanda 2 yaşındaki kızını öldürmeye teşebbüsten suçlanıyordu .	2	Numeral
+Bir sonraki seçim döneminde üçüncü bir dönem için mücadele etmemeyi seçti .	3	Noun
+Obermarsberg'de ki tarihi belediye binası 13. yüzyıldan kalmadır ve Otuz Yıl Savaşı'nın ardından yenilenmiştir .	9	Numeral
+Bu felsefede nesnel evrenin gerçekliği yadsınır ; özdek ( madde ) yadsınır .	3	Noun
+Ayağa kalkıp yine gerindi .	3	Verb
+Yahu , yine ben mi onlara bir şey yapıyor oluyorum ! diye haykırdım , fısıltı sınırlarını zorlayarak .	4	Verb
+İncil'de veya diğer kutsal kitaplarda sözü edilen yaradılış söylenceleri bilimsellikten uzaktır ; yaradılış öyküsünün doğruluğu , günümüzde yapılacak olan gözlem ve deneylerle sınanamaz .	20	Conjunction
+Yöreye ve toplumlara göre ( eskiden ) evler neden farklılaşıyordu ?	2	Noun
+Kesha , Ağustos 2015'ten itibaren yaklaşan üçüncü stüdyo albümü hakkında çok az bilgi yayınladı .	3	Noun
+Kimi bir şişe rakıyla öldürüyor , kimi üç gram kokainle , kimi beş gram eroinle .	14	Noun
+Ama denmez .	1	Verb
+Çin yenildi ve 1842'de Nanking Antlaşması hükümlerine razı oldu .	8	Verb
+Alev'in annesi otuz yıldır Bakırköy'de .	1	Noun
+Halam nasıl böyle büyüklerine laf çakıştıran bir çocuk yetiştirir diye şaşakalmıştık .	5	Participle
+İkimiz de bayağı bir seviye tutturmuştuk .	1	Conjunction
+Dün ne olduysa oldu ...	3	Verb
+Zeytini dişlemek varken ezmesini ne yapayım ?	3	Noun
+Hiçbir mitosun ardı sıra sürüklenmiyorum .	0	Determiner
+Beni deliler gibi seven Mahmut .	3	Verb
+2000'li yılların başında 100.000 sakin başına beş doktor düşüyordu .	3	Numeral
+Ancak , amacımız , Irak'ta böyle bir çatışmanın çıkmasını önlemek " dedi .	7	Verb
+Bağcılar savcılığının fezlekesinde Fadıl Akgündüz'ün ikiyüzkırkyedi kez " dolandırıcılıktan " cezalandırılması istendi .	3	Proper Name
+10 haftalık kurs İngiliz casusluk ajansı GCHQ tarafından " onaylandı " .	0	Numeral
+Bu gelenek modern çağda sadece biraz esnemiş durumda ve artık arkadaşlar göbek adının kullanılması tavsiye etmezken soyadı kullanımı hala yaygındır .	18	Adverb
+Sevimli de bir sebzedir .	2	Numeral
+Kredi kartlarında yaşanan rekabetin Avrupa çapında ses getirdiğini belirten Demiray , DİBS'lere çeşitli yayınlarında Türk bankalarının atılımlarını vurguladığını kaydetti .	4	Proper Name
+Diz çök karşısında , okşa saçlarını , özür dile , bağış dile , ne dilersen dile it herif , ağla hatta elinden geliyorsa ...	5	Noun
+Benim anlattıklarımda da dedem hata buluyor .	1	Verb
+Gidersiniz , sonra geri gidersiniz Erkekler Parkı'na .	0	Verb
+Onları ayırmak kolay oldu : Sırayla gezdiririz olur biter . dedim .	1	Masdar
+Bergeron sınıflandırması hava kütlesi sınıflandırmasının en yaygın kabul gören şeklidir .	2	Noun
+Fatih Ongun , on'da iki CASA savaş uçağıyla Denizli Çardak Havaalanı'na gitmek üzere havalandı .	10	Noun
+Kahveden çıkarak alana doğru yürüdük .	4	Verb
+YTP Genel Başkanı İsmail Cem , Ankara Yüksel Caddesi'nde bulunan Leman Kültür Merkezi'nde gençlerle sohbet etti .	13	Adjective
+Ancak , iş yeri sohbet araçlarındaki yenilikler , teknoloji şirketlerinden gelen daha büyük bir eğilimin parçası .	0	Adverb
+Haftaya iki ay doluyor Cumartesi beraber gidip alalım bence dedim babama .	0	Noun
+O , çok şeyi çok şey bilir yani .	4	Adjective
+İlerlemesinin Billboard 200'de 96. sırada kalmasının ardından ' Ya Knew Birleşik Krallık'ta 31. sıraya çıktı , ancak albüm burada sadece iki hafta listede kaldı .	23	Verb
+O nasıl her olumsuzluğa olumlu bir gözle bakıyor öyküde ?	1	Adverb
+Onlarca bankanın çöküşü ve bunlara müdahale edilmesi işletmelerin iflas etmesine neden olan sermaye çıkışlarına neden olmuştur .	0	Adjective
+Genç yaşına karşın , bütün bunları biliyorsun Maryline .	2	Adposition
+Kimseyle konuşmaz ilk kocası .	0	Noun
+Oğlunun ölüm haberini Antalya'da alan baba Kemal Ulusu , dostlarının gönderdiği özel uçakla İstanbul'a döndü .	14	Verb
+Çek sınır muhafızları Mayıs'ta sınır kontrolü için durmadan Çekoslovakya sınırını geçmeye çalışan iki Sudeten Alman çiftçisini vurdu .	9	Noun
+Subaylar , 53 yaşında kişiyi Pazar sabahı eyleme kalkıştığı an kontrol altına alabildi .	9	Noun
+Ben Ceza , dedim , sırtında lanetini taşıyan adam , böyle doğmuşum ; bunda ne anamın suçu var , ne babamın .	8	Noun
+Bir diğer yönetim kurulu üyesi Çelik Arsel .	3	Noun
+Sabrı öğrenmek uygulamayla olur .	3	Verb
+Onun bir çocuk olmadığını , takındığı çocuksu tavırların aslında bir maske olduğunu bir tek ben biliyordum .	5	Participle
+Görmüyorlar mıydı : Girişten mağlup başlıyor , gelişme bölümünün ortasına bile sağ salim varamıyordum ; sonucu da felaket oluyordu bu durumda tabii .	8	Noun
+Bir de suya girdin .	0	Adverb
+Dosyanın içerisine girdikçe bu kanaatim daha da güçlendi .	0	Noun
+Belli ki onların hevesini kırmak istemiyordu .	2	Pronoun
+O zamanlar ... Sadece elektrik mühendisiydiler .	3	Adverb
+Matematikte doğruluğunu kendi içinde barındıran hipotezlerden yola çıkarak bir teoremi kanıtlarsınız ve dosya kapanır .	13	Verb
+Nasıl olup da erkeklerin tam tersine , kısa hedeflerde fantezilerini , uzun hedeflerinde mantıklarını kullanırlar .	9	Noun
+Neden onlar doğuştan anne olurlar da erkekler baba olmayı ancak öğrenerek elde edebilirler .	4	Verb
+Öyle sevimli öyle sevimliydi ki .	0	Adverb
+2007'de en başarılı film , Yannis Smaragdis'in yönettiği El Greco oldu .	6	Proper Name
+Birtakım farklı menhir ve dolmenler de dahil olmak üzere birçok tarih öncesi eser bulunmaktadır .	7	Verb
+Ertesi yıl , yani 1977'de basınının ABD'ye karşı dostça duruşu nedeniyle Amerikan Dostluk Madalyası'na layık görüldü .	0	Adjective
+Teselya'da düşmanlarını mağlup etti ve 352 yılı itibarıyla bu bölgenin kontrolünü sıkı biçimde ele geçirdi .	6	Noun
+J , ziyareti sırasında Türkiye ekonomisinin genel durumu üzerinde de duracaklarını ifade etti .	10	Participle
+Zeynep'te en az Orhan kadar heyecanlanmıştı .	5	Verb
+Kahverenginden biraz daha açık .	0	Adjective
+Zaten başından beri en önemli şey bu dosyayı ele geçirmekti .	2	Adposition
+Bu konudan bahsettim .	1	Noun
+Sözleşmelerde yer alan tüketici aleyhine koşullara ilişkin düzenleme yapılarak , bu tür hükümlerin na olması sağlanıyor .	3	Noun
+Teselya'da düşmanlarını mağlup etti ve 352 yılı itibarıyla bu bölgenin kontrolünü sıkı biçimde ele geçirdi .	11	Adjective
+Bence de adı Süpermen olsun .	2	Noun
+Hüseyin ile Nükhet en iyi dans eden çiftti aralarında , gerçek hayatta bir çift oluşturmasalar bile .	8	Adjective
+Kılavuzlar , siyasetçilere ve siyasi partilere maddi yardım yaptıkları için kişiler ve kurumların hükumete ayrıcalıklı bir erişimi veya ayrıcalıklı erişim izlenimi olmaması gerektiğini yazar .	14	Adjective
+Raporları incelerken gelişmelerini yakından izlediği olayda kimi yetkililerin yaptığı açıklamalar ile raporlarda kimi ifadelerin ortak yönlerini , farklılıklarını karşılaştırmaya başladı .	10	Conjunction
+Memo bir , iki dirsek ve yumruk darbesiyle öbür çocukları uzaklaştırdı .	8	Adjective
+O dönemde , orada çok sayıda iyi tarım arazisine ve sığır otlağına sahip kırk civarında aile vardı .	16	Verb
+Annesinin etrafında bir pervane gibi dolaşmasına katlanamıyor , yaşam ona ağır geliyordu .	3	Noun
+Bu atılım , insanlığı çağdaş bilim kavramının eşiğine ulaştırmış , ama Roma İmparatorluğu ve onu izleyen feodal dönemle kesintiye uğramıştır .	12	Noun
+Ve bir ilkokul öğrencisiyle , yirmilerindeki bir kadının aşkına hiç kimse artık hiçbir şey söyleyemeyecek .	2	Noun
+Bir ihtimal olarak bu hususu belirtiyorlar .	0	Numeral
+Birbirinin içine geçmiş garip bir rüya gibi .	4	Numeral
+Böylesi bir durumda bir fizikçinin olağan tepkisi daha iyi bir model aramak olur .	7	Adverb
+Koha kentinde işçiler için , hiçbir süsü olmayan , içinde ise oturacakların tüm gereksinimlerinin düşünüldüğü evler yaptı .	13	Noun
+Galiba kırmızı lahana da bu evliliğin zürriyeti .	3	Conjunction
+Bize de ancak yararlı olduğumuz ölçüde gerek duyulur .	3	Adjective
+Güney Afrika neredeyse geri dönüşü olmayan bir noktaya geldi ve isteklerine karşılık vermemiz gerekiyor .	5	Adjective
+Arsel , daha önce Koç Holding'de Enerji ve Maden Grubu Başkanlığı yapmış , Dünya Kamhi Birliği Başkan Yardımcılığı görevine seçilmişti .	5	Proper Name
+Çevresi gerçekten geniş olan bu genç kız , erkek arkadaş olarak hep hastalıklı , kendisine bakıcılık yapabileceği kültürlü ve bağımlı erkekleri seçiyor .	10	Adposition
+Devlet yaşı tutanlara 31 Aralık 2017 tarihine kadar harcanmak üzere 500 avro verecek .	12	Verb
+o Köye dönüş projesi başlatılacak .	1	Noun
+1856'da İkinci Afyon Savaşı patlak verdi ; Çinliler yine yenildi ve 1858 Tientsin Antlaşması ve 1860 Pekin Sözleşmesi şartlarına tabi tutuldular .	15	Numeral
+İdeolojik alanda , Ortaçağ ideolojisine onulmaz darbeler indirerek , siyasal devrimlerin yolunu açmıştır .	4	Noun
+Irak'taki oralara doğru yürüdüm .	2	Adposition
+Kuru yemiş de ister misin ?	2	Conjunction
+Saime Sezginler bir süre daha ne yapacağını bilmez halde ortada dolaşmaya başladı .	5	Pronoun
+Bu magma , yüksek silika içeriğinden dolayı çok viskoz olma eğilimindedir , bu nedenle genellikle yüzeye ulaşmaz ancak derinde soğur .	1	Noun
+Pırıltılı ki güneşin ışığı , donuk bir kuzey aydınlığı yaratıyor , bana Ulusal Müzede ki bazı resimleri düşündürtüyordu .	6	Numeral
+Göğsü körük gibi inip kalkıyordu .	2	Adposition
+Canım , bu kadar tepki gösterecek ne var ? dedi .	2	Determiner
+Haberin çıkması ardından Konya Kültür Müdürü Necip Mutlu , yaptıkları araştırmada mezarların kime ait olduğunun saptanamadığını belirtip okurun iddiasını yalanlıyor .	16	Verb
+Elliott , yarış gününde babasının cenaze törenine katılıyordu .	6	Noun
+Esasen çağdaş bilim kavramının kendisinin ortaya çıkışı da , bu kuralın dışında değildir .	2	Noun
+Güney Kore ekonomisi 1960'lardan itibaren muazzam bir büyüme gösterdi ve ekonomik yapı kökten değişti .	11	Noun
+ÖDP'nin sempozyum , konser , panel gibi etkinlikleri duyurmak için bastırdığı bazı afişler de seçim yasakları kapsamında sayıldı ve polis tarafından toplatıldı .	18	Conjunction
+Adının açıklanmasını istemeyen emekli bir büyükelçi de saldırıların şahıslara değil devlete karşı yapıldığına dikkat çekerek " Diplomatik kanallardan yapılan bir anlaşma gibi görünüyor " dedi .	22	Verb
+Çocuk annesinin kendisini tutsaklaştıran bu aşırı ilgisiyle duygusal ve ruhsal olarak gelişemeden , sorumluluk üstlenmeyi öğrenemeden büyüyordu .	9	Adjective
+Doğa yasaları Tanrı için de bağlayıcıdır ve doğa olaylarına istediği gibi müdahale hakkı Tanrı'nın elinden alınmıştır .	8	Noun
+Benim yaşımda çocuklar da görünce sevindim .	4	Verb
+Kendi ülkesi olan Avustralya'da kariyerinin zirvesine ulaşan Geyer , oradaki müzik sahnesinde yer edinmeye odaklanmak üzere 1984'te Los Angeles'a döndü .	17	Proper Name
+Herod Antipas ve Herodias'ın tam evlilik yılı akademisyenler arasında tartışmalıdır .	0	Proper Name
+Bu kez de , çatışmanın başlamasından iki saat sonrasına kadar korsesini giyme zahmetinde bulunmadan muharebe yaptığını savunmuştur .	4	Noun
+Bütün gün süren aramaların verdiği yorgunluk , evdeki salonun sedirinde , akşam üzeri yaklaşırken , kısa sürecek bir uykuya sürüklenmeme neden oldu .	11	Noun
+İhracattaki tarım ve sağlık sektörüne destek amacıyla verdiği önergeler ise " gider Başesgioğlu " olduğu gerekçesiyle kabul edilmedi .	7	Participle
+Onunla konuşanlar belki de ona da öyle diyorlar .	0	Pronoun
+Sanayi Devrimi , İngiltere'de diğer tüm ülkelerden daha önce gerçekleşti .	0	Noun
+Arınç da " Kastımın Erbakan'la Erdoğan'ı aynı kefeye koymak olmadığını da yazarsanız sevinirim " karşılığını verdi .	4	Proper Name
+Schlei ve Danevirke ile Husum arasındaki sulak alanlar sert geçen bir kışta donmuş ve Danevirke'nin hemen güneyindeki topraklar ilerleyen Alman ordusu tarafından fethedilmişti .	19	Proper Name
+Ben bir dolaşıp geleceğim , dedim .	1	Numeral
+Bence de adı Süpermen olsun .	0	Pronoun
+Tayyip Erdoğan'ın yanında , onun yanlışlarına ortak olsaydım kesinlikle bu noktalarda bulunmazdım " sözünün Milliyet tarafından farklı yansıtıldığını öne sürdü .	13	Noun
+Shen Kuo , Wang Anshi'yi bir yönetici ve hükümet temsilcisi olarak yetenek ve yetenekleri ile etkiledi .	14	Adposition
+Tam fırsat - kararlıyım , çırpınma hiç !	1	Noun
+Zenginlik içinde geçen mutsuz bir hayatın son demlerinde eroin bana mutluluk veriyor .	2	Participle
+Buradaki altına almış ve sömürgecilik politikasının bir parçası olan Hristiyanlaştırma yoluyla bu küçük halkların kimliğini yok etmeye çalışmışlardı .	6	Numeral
+Onlar önemli değil .	2	Verb
+Bizleri bırakmanın çok zor olduğunu , bizleri kendi çocuğu kadar sevdiğini , ama onun da bir çocuk sahibi olmayı yıllardır istediğini anlattı .	21	Verb
+Ancak bir seyahat uzmanı uçak içi internetin genellikle güvenilmez olduğu ve yolcuların hava yolu tercihlerini muhtemelen etkilemeyeceği konusunda uyarıda bulundu .	2	Noun
+Eşini kaybeden Aysun Ulusu ise acı haberi alınca astım krizi geçirdi .	1	Verb
+Bu kadar gerilerden , bunca sisli puslu hatıraların arasından çekip çıkartılmak kolay olmuyor .	0	Determiner
+Kan bağı , kardeşlik , öfke , hırs , şiddet , savaş , suç , cinsellik gibi kırmızılıklar sermayelerinin oluşturucusu ve dayanağı .	17	Noun
+Belki biraz zaman gerekli .	0	Adverb
+İlerlemesinin Billboard 200'de 96. sırada kalmasının ardından ' Ya Knew Birleşik Krallık'ta 31. sıraya çıktı , ancak albüm burada sadece iki hafta listede kaldı .	13	Noun
+Apandisti kaptırıp gidebileceği bir şey .	4	Noun
+Okuyucunun , bu antik değeri olan ancak yeniymiş gibi sunulan çürütülmüş felsefi dizgelere karşı savunmasız kalmaması gerekiyor .	0	Noun
+Mimarinin ölen insanlara faydası olmayacaktır , ancak ölülerin anılarını yaşayanlar için hayatta tutmaya yardımcı oluyor . diyor .	14	Verb
+Nitekim , savaş hakkında 1903'te James Henry Breasted tarafından hazırlanan ilk bilimsel rapor , savaş sonrası yeniden yapılanmaya kesin olarak izin veren kaynaklara övgüde bulunmuştur .	5	Proper Name
+Gençlerin delikleri de doldurulmayı bekliyor , doldurulan her delik eroin tacirleri için bugünün parasıyla yılda iki milyar TL demek .	14	Noun
+Tehlike li şeyler bunlar gerçekten .	1	Adposition
+Oğlunun ölüm haberini Antalya'da alan baba Kemal Ulusu , dostlarının gönderdiği özel uçakla İstanbul'a döndü .	0	Noun
+Sonuçta büyük olan bendim ve bana ihtiyaçları vardı tıpkı benim , annemle babama ihtiyacım olduğu gibi .	5	Pronoun
+Yeni yönetim bölgesinin genel müdürlüğüne de , Volvo Otomobil Türkiye'nin Genel Müdürü Carl Göran Larsson getirildi .	8	Noun
+Görüşmede ATO'nun , Vergi Yasası ile görüşleri de beş başlıkta sunuldu .	4	Noun
+Ancak , bu amaçla yapılacak düzenlemelerde aksi ispat edilmedikçe mükellef beyanının doğru olarak kabul edileceği şeklinde ve benzeri hükümlere yer verilmemeli .	15	Noun
+Herhangi birine sırf anlatmakla hafifletebileceğimiz yüklerimiz yok mu ?	7	Verb
+Jokowi görevi kabul etmeden önce Devlet Başkanı Yudhoyono'nun daha çok sübvansiyon kaldırarak yakıt fiyatlarını daha fazla artırma kararının sorumluluğunu almasını istedi .	7	Proper Name
+Yunanistan M.Ö. 8. yüzyılda , Miken uygarlığının yıkılışının ardından Karanlık Çağlardan itibaren Karanlık Çağ'dan çıkmaya başlamıştır .	8	Adposition
+DYP Trabzon İl AKP'li partililere seslenen Ağar , Tansu Çiller'i üstü kapalı şekilde eleştirmeyi sürdürdü .	5	Participle
+Kız bütün gün çalışıp , yorgunluktan adım atacak hali kalmayınca , adam para yerine kıza bir bardak pekmez vermiş .	3	Verb
+Bu ikili , rakı satrancında yerini zeytinyağlıya bırakır .	4	Noun
+Daha sonra babanızın , sizinle yalnızken öleceğinden korktunuz .	0	Adverb
+Hitler'in Almanya için kimi iyi şeyler yaptığına , Karl Marks'ın dört ayak üstünde çocukları sırtında gezdiren , büyümeyen bir çocuk olarak kaldığına hayretle muttali oluyorsunuz .	20	Adposition
+Para , çocuğun güdük kalmış , gelişememiş ve kırgın benliğini tamir etmeye yetmiyor ; görev gereği yapılan sevgi ve ilgi gösterileri de ...	8	Adjective
+Neyse ki Sony Avustralya'da birisi " Hey , bu arada , bunu fark ettiniz mi ? " gibi bir şey söyledi diyor Pall .	11	Pronoun
+Böylece bu filozof , felsefe tarihine de bir parabol gibi giriyor , yeniden onu terk etmek üzere .	9	Adposition
+Sarısı olur , beyazı olur .	1	Verb
+Mitingde ' Genel Başkanı Cem Uzan ile Cumhurbaşkanı Rauf Denktaş'ın Danışmanı Prof. Dr. Mümtaz Soysal , Kıbrıs konusundaki açıklamaları nedeniyle suçlamalardan nasibini aldı .	21	Noun
+Blunt 2011 yılında , yeni Yves Saint Laurent parfümü Opium'un elçisi seçildi .	1	Numeral
+Belki de o yüzden böyle çekici .	5	Adjective
+Hindistan'da insanlar yaşlılıktan öldüğünde bunun bir kutlama olması gerekiyor .	4	Pronoun
+Birçoğu cephe çatışması konusunda pek fazla tecrübeye sahip olmayan modern izleyiciler için Doss'un yetenekleri hayal edilemez bir evrene ait .	1	Noun
+Ayhan Çilingiroğlu , Atila Sav'ın ortakokul birinci sınıftan arkadaşı .	1	Proper Name
+Resmi parti fotoğraflarının yayınlanmasıyla , sosyal medyada yorumlar yağmaya başladı - ve bunlar pek de iyi şeyler söylemiyordu .	16	Pronoun
+Ne işin var kardeşim kız kurularıyla .	4	Adjective
+Diyarbakır'daki yüzatmışyedi milyon altıyüzdoksan bin lira olan Başbakanlık Müsteşarı'nın maaşı iki milyar ikiyüzyetmişaltı milyon yetmişdört bin beşyüz liraya çıkacak .	7	Noun
+Neyse ki üçüncü kez sorduğunda iyi bir cevap hazırlamıştım : Esinciğim evde tek kız olmasının daha iyi olduğuna karar verdik .	4	Participle
+Len ti - , evleri yaparken , sizin makinelerinizi örnek aldım ; makineleriniz hem güzel hem de yararlı şeyler .	5	Verb
+Irak'ta savaş tehdidi yanısıra , Amerika'nın baskısına rağmen AB için Türkiye'ye müzakere tarihi verilmeyeceği yönündeki sinyaller piyasada moral bozdu .	7	Adposition
+Nereden biliyorsunuz .	0	Pronoun
+Bu hükümet neden dağıldı .	2	Adverb
+Buzluktaki , gözyaşları da gözleri gibi iri ydi .	7	Verb
+Babamla ortanca amcam dedemin ekmek fırınında eşşek gibi çalışırken o hayta hayta sokaklarda , kırlarda dolaşmış , itle kopukla düşüp kalkmış , içki içmiş .	3	Noun
+Bütün delilleri , dosyayı inceleme hakkına sahipiz hukuki olarak , fakat bu haktan mahrum edildik .	1	Noun
+Hesap uzmanları hazırladı .	0	Noun
+Beni çok seven eski bir hocamın yardımıyla laboratuarıma bir kadavranın gönderilmesi için gerekli izinleri almak çok zor olmadı .	6	Noun
+Bırakın ...	0	Verb
+İlerlemesinin Billboard 200'de 96. sırada kalmasının ardından ' Ya Knew Birleşik Krallık'ta 31. sıraya çıktı , ancak albüm burada sadece iki hafta listede kaldı .	11	Noun
+Bu , Dünyayı etkisi altına alan ve yalnızca dinozorların değil , birçok türün soyunun tükenmesine yol açan çevresel değişikliklerin doğasına yeni sınırlar getirecektir .	17	Adjective
+Bununla birlikte , Hükumetin halen önemli bir bütçe açığı bulunduğundan , harcama kabiliyeti sınırlı olacaktır .	9	Noun
+Evenleri , modern dünya insanına göre daha bağımsız kılıyordu bu durum .	4	Noun
+Emekli bir polis memurunun oğlu olduğu ve altı ay önce Siirt'e atandığı bildirilen Cring ölümü , Siirt Emniyet Müdürlüğü'nü üzüntüye boğdu .	13	Proper Name
+Gazetecilere uçak havada yanarak geldi yere çakıldı diyen tanıklar , anket heyetinin hazırladığı raporlara göre , farklı konuşmuşlardı .	8	Noun
+Ulusal , arsıulusal , ama her zaman parasal danışmalar .	2	Adjective
+Günlük azığı kara ekmekle peyniri bu mağaraya koymuş .	4	Noun
+Salonun kapısındaki görevliye davetiyelerimizi gösterdik ve içeri girdik .	5	Conjunction
+1839'da Çin , Hunan Valisi General Hubei ve Lin Zexu'nun afyon dış ticaretini yasakladıktan sonra Büyük Britanya'yla İlk Afyon Savaşı'yla mücadele etmeyi başardı .	18	Noun
+Ve açık bir ruh ve zihinle karşılanmaları gerekir , çünkü yeni nesil güzelliği ve umudu oluşturuyorlar .	12	Noun
+Merdiveni geri çıkarken başımı Hülya'nın sırtına yasladım .	0	Noun
+( Gündelik hayatlarının bir felsefesi ve ilkeleri olmadığı için her duruma , her ortama ayak uydurabiliyorlar .	5	Conjunction
+Merkezdeki civarında bir Bronz Çağı astronomi gözlemevi inşa edilmiş ve orada M.Ö. 700 yılına kadar yaşayan topluluğa hizmet etmiştir .	3	Noun
+Ve fark ettim ki , onlarca kutudan , yüzlerce eşyanın arasından bir tek bilgisayar disketi bile düşmedi yere .	5	Numeral

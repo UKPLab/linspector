@@ -1,4 +1,5 @@
 from collections import defaultdict
+
 from data_util.global_var import *
 
 
@@ -21,10 +22,11 @@ class UnimorphSchema:
 
     # interpret single code
     def get_feature(self, code):
-        code = code.upper().split("+")  # sometimes several values are given
+        code = code.upper().replace("{", "").replace("}", "").replace("/", "+").split(
+            "+")  # sometimes several values are given
         out = []
         for c in code:
-            assert c in self.code_ix, f"Unknown code {c}, {code}" # just to be sure
+            assert c in self.code_ix, f"Unknown code {c}, {code}"  # just to be sure
             out += [self.code_ix[c]]
 
         return out[0][0], "+".join(sorted([x[1] for x in out]))
@@ -45,8 +47,3 @@ class UnimorphSchema:
             # assert feature not in out, f"Duplicate value for {feature}, {msd}"
             out[feature] = value
         return out, residue
-
-
-
-
-

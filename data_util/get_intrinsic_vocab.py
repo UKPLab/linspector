@@ -1,17 +1,9 @@
-# -*- coding: utf-8 -*-
-# @Author: claravania
-# @Date:   2019-02-06 17:56:15
-# @Last Modified by:   claravania
-# @Last Modified time: 2019-02-07 11:04:26
-
-
 import os
-import sys
-import codecs
 
 from collections import defaultdict
 
-lowercase=True
+lowercase = True
+
 
 def write_vocab(vocab, target_dir):
     for langId in vocab:
@@ -32,7 +24,7 @@ def read_probing(prob_file, vocab, langId):
             tokens = line.split('\t')
             word = tokens[0]
             if lowercase:
-                word=word.lower()
+                word = word.lower()
             vocab[langId][word] += 1
     return vocab
 
@@ -46,23 +38,23 @@ def read_pair_probing(pair_prob_file, vocab, langId):
             tokens = line.split('\t')
             word = tokens[0]
             if lowercase:
-                word=word.lower()
+                word = word.lower()
             vocab[langId][word] += 1
             word = tokens[1]
             if lowercase:
-                word=word.lower()
+                word = word.lower()
             vocab[langId][word] += 1
     return vocab
-
 
 
 def main():
     languages = ['turkish', 'german', 'russian', 'spanish', 'finnish']
     target_dir = 'words/intrinsic_lower'
-    path = '../probing_datasets'
+    path = '../intrinsic/data_contextual'
 
     vocab = defaultdict(lambda: defaultdict(int))
-    tests = ['Polarity', 'Tense', 'Case', 'Mood', 'POS', 'CharacterBin', 'Pseudo', 'Possession', 'Voice', 'Person', 'TagCount', 'Gender', 'Number']
+    tests = ['Polarity', 'Tense', 'Case', 'Mood', 'POS', 'CharacterBin', 'Pseudo', 'Possession', 'Voice', 'Person',
+             'TagCount', 'Gender', 'Number']
     pairtests = ['OddFeat', 'SameFeat']
 
     for test in tests:

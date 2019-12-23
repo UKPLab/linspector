@@ -1,0 +1,1000 @@
+nie zapytał em . .	1	Finite
+Wszechświat rozszeża się coraz szybciej .	1	Finite
+Nie przechowuje fotografii ze spektakli ani taśm ze swoimi filmami .	1	Finite
+- Pozwolił by ś ? !	2	Finite
+- Czego się drzecie ?	3	Finite
+Proboszcz wzniósł oczy w sufit i westchnął o świętą cierpliwość .	1	Finite
+Przyglądam się ich nieszczęściu od lat .	0	Finite
+Na miejscu specjalna ekipa zbadała pozostałości po eksplozji .	4	Finite
+Te ręce zaczęły pisać .	2	Finite
+Podczas poprzedniej wojny dowodził własnym batalionem i , jak zapewniał , miał jeńców na tuziny .	3	Finite
+Na Ziemi Lubuskiej prace przedsiewne , zwłaszcza na glebach lekkich przybierają na sile .	10	Finite
+Tu ujawniała się jego sumienność , skrupulatność i krytycyzm .	1	Finite
+Cała armia wyszła wtedy na ulice .	2	Finite
+W Parku nie ma większych wsi .	3	Finite
+I koniecznie zabierz ze sobą jakąś książkę .	2	Finite
+Żałował , że to powiedział .	0	Finite
+Sto gazet ukazuje się obecnie w przedsiębiorstwach przemysłowych i usługowych .	2	Finite
+- Jestem .	1	Finite
+Policjanci zastali dwóch nieprzytomnych mężczyzn .	1	Finite
+Negocjuje z wojskowymi .	0	Finite
+- Jaka jest skuteczność interwencji Centrum ?	2	Finite
+Minęło tyle lat . . .	0	Finite
+Zmęczeni wysiadali śmy z ciasnej szoferki .	2	Finite
+Gwałtowne protesty w związku z karykaturami Mahometa trwają .	7	Finite
+– widziała ś ją ?	1	Finite
+Jego kompan uważnie obserwuje teren .	3	Finite
+Polska się naprawdę dusi w pętli zadłużenia .	3	Finite
+Nic nie wiem o tym , by po moim aresztowaniu pan mecenas doradzał Barbarze .	2	Finite
+Przypominam o jej zasadach .	0	Finite
+- Jak sobie wyobrażasz kino bez aktorów ?	3	Finite
+- Nie myślę o tym .	2	Finite
+Witam , Poszukuję jakiegoś opracowania na temat początków rozwoju przemysłu w Białymstoku .	2	Finite
+– To wariatka .	1	Finite
+Drzewo wydusza z siebie soki , pracuje .	6	Finite
+A pan poseł powiedział , że nie chce Polski zaściankowej .	7	Finite
+Wychodził do pracy świtem , wracał w ciemności .	5	Finite
+Bawi mnie to w jakiś ponury sposób .	0	Finite
+- A wy skąd pieśni nasze , katolickie , znać możecie ?	9	Nonfinite
+W tym roku Zagłębie też nie płaci .	6	Finite
+Popędzali swoje konie , bo koniecznie chcieli dopaść upatrzonej zwierzyny .	0	Finite
+- To nas różni od tych ze Zjednoczenia .	3	Finite
+Palcem rysuje na wykładzinie małe syrenki .	1	Finite
+Ma , bo poszczególne akty mogą być lepsze lub gorsze .	5	Finite
+Gwiazdom tradycyjne imiona nie podobają się , bo są pospolite .	4	Finite
+Już wrosł em w to środowisko i uważam , że potrafię pogodzić swoje sprawy .	1	Finite
+Jeśli dręczą cię złe myśli , spróbuj się odprężyć .	6	Finite
+Małżonka krewnego przezornie schowała się do skrzyni i to ją uratowało .	10	Finite
+Uparci i bezkompromisowi , jednych przerażali , innych zachwycali .	5	Finite
+W aptekach prawdziwe oblężenie zapanowało jeszcze w ostatnich dniach starego roku .	4	Finite
+Radosny uśmiech nie gościł jednak na twarzy pana Adama .	3	Finite
+Nie ma prawa do emerytury , może jedynie liczyć na kilkaset zł zasiłku .	1	Finite
+- Jestem bezrobotny .	1	Finite
+Piszczajko postanowił znaleźć twardy grunt pod nogami .	2	Nonfinite
+- Jeśli czegoś nie lubię , nie zrobię tego za żadne pieniądze .	7	Finite
+Chciał by m w to wierzyć .	5	Nonfinite
+Powiedzmy .	0	Finite
+Trochę się odzwyczaił em , a tu ktoś mnie rozumie .	9	Finite
+Uczeni nie stwierdzili dotychczas żadnych ubocznych objawów szkodliwych .	2	Finite
+I dlatego muszę wspomnieć o Krzysiu z Częstochowy .	3	Nonfinite
+Pokażemy mu .	0	Finite
+Kupił em drugą wódkę .	0	Finite
+Wstrząs taki może jej i dziecku zaszkodzić .	6	Nonfinite
+Nie wychodziła z niego przez kilkanaście lat .	1	Finite
+Najpierw pod skalpel trafi szósty , najmniejszy palec u prawej rączki chłopca .	3	Finite
+- Wie i wiedział już wcześniej .	3	Finite
+Rozmawiała m z nim przez telefon .	0	Finite
+Miał 28 lat , żonaty , córka .	0	Finite
+Na czas hakafot policja zamyka ulice , żeby było gdzie tańczyć .	4	Finite
+- Nie znali ście mego syna . . .	2	Finite
+Wyjątek stanowi finał .	1	Finite
+Dzianinę się dzieje .	2	Finite
+To były jakieś bardzo ożywione dni .	1	Finite
+Czuł em jego mięśnie napięte pod skórą , twarde jak drewno .	1	Finite
+Wielokrotnie groził Cyganom zemstą za oskarżenia .	1	Finite
+Jaki istnieje .	1	Finite
+Następnie pojawia się Lech Wałęsa .	1	Finite
+Mała poskarżyła się , że koza się jej nie słucha .	9	Finite
+Wspomnienie było tak zabawne , że Harold uśmiechnął się .	7	Finite
+Było by dziwne , gdyby ta większość przekazywała opozycji przewodnictwo najważniejszych komisji .	1	Finite
+O tych wątpliwościach pisała regionalna prasa .	3	Finite
+Arnim von Colbatz przyjechał do was .	3	Finite
+Tam czekały już na nich armatki wodne , podstawione przez władze .	1	Finite
+Najlepszy księgowy województwa śląskiego to rybniczanin .	4	Finite
+Słońce Grecji zgasło i nad tragedią Sofoklesa zapadły egipskie ciemności .	7	Finite
+- Tam napijemy się kawy .	2	Finite
+To był fatalny rok .	0	Finite
+Paweł Piskorski uważa natomiast , że miasto powinno nauczyć się żyć z długiem .	8	Nonfinite
+Ślubu nie będzie ?	2	Finite
+Za trzydzieści , czterdzieści lat może obudzić się nowy człowiek .	6	Nonfinite
+Tutaj mamy jakąś pomieszaną wersję .	1	Finite
+– Musiał by m być szalony , żeby ci powiedzieć .	9	Nonfinite
+Ormianie w ogóle nie chcą słyszeć o pozostawaniu częścią Azerbejdżanu .	4	Finite
+Ani my ciebie nie pobudzamy , ani ty się nie dzielisz .	4	Finite
+To były też takie lata , że nie wypadało nie mieć pieniądza .	8	Finite
+Stary wiadukt przy ulicy Oświęcimskiej stanowił ogromną uciążliwość dla kierowców .	5	Finite
+Gdzieś daleko leniwie poszczekiwał pies .	3	Finite
+Mister O'Goreck schował się do jakiejś sieni .	2	Finite
+Urzędnicy zapewniają , że wszystko jest w porządku .	5	Finite
+Uśmiechnął się do moich myśli .	0	Finite
+Możność lektury jednak powinna się łączyć z możnością rozmowy , a nawet kontrowersji .	5	Nonfinite
+Małgorzata chodziła w letniej sukience na ciepłym wietrze .	1	Finite
+Postanowili śmy iść za tym pomysłem .	1	Finite
+Usmaż jeszcze kiedyś faworki , błagam .	0	Finite
+Obok leżał rower , którym jechała kobieta .	1	Finite
+to też kosztuje swoje . .	2	Finite
+Redakcja przeprasza za zaistniałą sytuację .	1	Finite
+Z kim chciał by Pan znaleźć się w jednej partii ?	5	Nonfinite
+– Dzwonił jakiś Kluba , pytał się , czy wiesz , że Zając nie żyje .	14	Finite
+- Można wygrać z każdą władzą , jeśli się ma rację i pieniądze .	1	Finite
+Możesz przecież im pomóc .	0	Finite
+Stwierdził , że chciał w ten sposób skrócić jego cierpienia .	3	Finite
+Pani wójt ten plebiscyt wygrała .	4	Finite
+Dwie dziewczynki odniosły drobne obrażenia .	2	Finite
+- Musimy zastanowić się , jak pozyskać te pieniądze .	1	Finite
+Natura nie poskąpiła im gliny .	2	Finite
+Zawrocie oddaliło nas od siebie .	1	Finite
+Sześciokrotny mistrz świata zaczął od wysokości 5,70 , ale nie zdołał jej pokonać .	12	Nonfinite
+Taki podobno napis widniał na sztandarach chłopskich w dawnej Polsce .	3	Finite
+Elizabeth cofnęła się , może lepiej , żeby jej tu nikt nie widział .	1	Finite
+- Szybko się zadomowiła ś w tym buduarze , Teresko .	4	Finite
+Wyszczerzył zęby w uśmiechu .	0	Finite
+Bilet kosztuje siedem złotych dwadzieścia groszy .	1	Finite
+To jest w programie PiS-u .	1	Finite
+Dużym zainteresowaniem cieszą się barwne szklane witraże jako prace ozdobne .	2	Finite
+Dziś zdecydowana większość spółek notowanych na giełdzie chce podwyższać swój kapitał .	7	Finite
+- Podać coś jeszcze ?	1	Nonfinite
+– Twój czas minął .	3	Finite
+Widział em okiem duszy .	0	Finite
+Komisje wnoszą o przyjęcie tej poprawki .	1	Finite
+Od samotności niepoczytalnej i obłędu uchroń nas , Panie .	5	Finite
+Przybysz ze Szwecji wyznał , iż od dawna interesuje się malarstwem .	3	Finite
+Nie znajdzie .	1	Finite
+- Jeśli lud przestanie słuchać naszych nauk , zostanie pożarty przez pogan !	4	Nonfinite
+Spłoszyły się nasze oczy .	0	Finite
+W ostatniej sekundzie uniknął zderzenia z mercedesem .	3	Finite
+- W drugim domu mieszkał polski dezerter , Silvester Kohnke .	4	Finite
+W Londynie nie wolno prostytutkom zaczepiać mężczyzn na ulicy .	5	Nonfinite
+Andrew wolał by , aby Elizabeth pożegnali tylko najbliżsi .	1	Finite
+Czterech ludzi nie żyło prawie na pewno .	3	Finite
+Nie zabraknie też słońca .	1	Finite
+Dziś umiemy już nawet tworzyć antybiotyki syntetyczne , nie występujące w przyrodzie .	4	Nonfinite
+Zastanowił em się .	0	Finite
+Bo wam sfajczę forsę !	2	Finite
+Nie warto .	1	Finite
+Witam !	0	Finite
+A jeden mówi , że najlepiej było za Stalina .	2	Finite
+Zapas ciągle rośnie .	2	Finite
+Zgłosiły się trzy panie .	0	Finite
+Jak powstaje komunikat meteorologiczny i co znaczą te dziwne nazwy ?	1	Finite
+Nie zamierzał em zaspokajać ciekawości Mojki .	2	Finite
+Nagle ktoś psyknął za moimi plecami .	2	Finite
+Dotarli śmy wreszcie pod szczyt Mnicha .	0	Finite
+Wrócił em na placyk .	1	Finite
+Cóż , nikt nie jest doskonały .	4	Finite
+W niedzielę po parkiecie snuje się już tylko kilkanaście osób .	4	Finite
+- Nie zrobisz tego .	2	Finite
+Przypomina mi się rysunek Andrzeja Mleczki jeszcze z lat 80 .	0	Finite
+- Czytał em w gazecie .	1	Finite
+Niech przyjdzie kierownik .	1	Finite
+Zaraz wszedł podniecony Zdzisio .	1	Finite
+Po jej odejściu około 2 godzin pracuję przy urządzaniu , myciu i czyszczeniu balkonów .	6	Finite
+Nie przeżył tego dnia .	1	Finite
+Dawno minęli śmy wzgórze , na którym pożegnał em Cavalerra .	1	Finite
+Twarz ojca wydawała się dziwnie zasępiona .	2	Finite
+Trzeba jeszcze całe życie być prawdziwym patriotą .	4	Nonfinite
+Ale widzisz , mnie chodzi o coś innego .	4	Finite
+Jako studentka resocjalizacji , nie bała się osób , które popadły w konflikt z prawem .	10	Finite
+Felek jakiś niepewny siedzi na linach i przeciera oczy .	7	Finite
+Co to znaczy ?	2	Finite
+Wiatr huczał , nie było czym oddychać .	6	Nonfinite
+A tego nie zrobił .	3	Finite
+Napastnicy grozili nastolatkom , że ich pobiją .	1	Finite
+Dwie osoby lekko ucierpiały .	3	Finite
+Związane ciała poruszyły się słabo .	2	Finite
+Dzięki temu mogł em dotrwać kilka lat do emerytury bez zmieniania pracy .	4	Nonfinite
+Dziadem był eś , dziadem będziesz !	5	Finite
+Masz za sobą astrologiczny półmetek .	0	Finite
+Podwyżki zostaną wypłacone dzięki ustawie , którą uchwalił Sejm poprzedniej kadencji .	1	Finite
+Inwestor chce wystartować za kilka miesięcy .	1	Finite
+Czy ktoś otworzy wreszcie drzwi ?	2	Finite
+Daj słowo , że nikomu nie powiesz . . .	0	Finite
+Nawet laik wie , że do 1939 r. nie błyszczeli śmy specjalnie w kinie .	9	Finite
+Teraz już ręka nie szukała ręki .	4	Finite
+otworzę kanały elektryczne i niech wlezie tam . .	5	Finite
+Podejrzanym grozi do 10 lat pozbawienia wolności .	1	Finite
+Bez ograniczeń mogli oddawać się im jedynie uprzywilejowani obywatele .	3	Nonfinite
+Jeszcze inni bezradnie rozkładają ręce oznajmiając , że nie są w stanie czegokolwiek zapłacić .	9	Finite
+Na szczęście temperatura będzie wysoka .	3	Finite
+– Możesz mówić ?	1	Finite
+Minęła nas ze świeczką .	0	Finite
+Wychodził akurat do pracy .	0	Finite
+Można prosić o uzupełnienie danych ?	0	Finite
+Poznańska Starówka otrzymała stałą iluminację .	2	Finite
+Chodzi przede wszystkim o obniżenie funduszy strukturalnych i 25-procentowy wyjściowy poziom dopłat dla rolników .	0	Finite
+Chcą zaoszczędzić połowę z tej kwoty .	1	Nonfinite
+Samo pojęcie wywodzi się ze średniowiecznej filozofii .	2	Finite
+nie można nagrać zdjęć ?	2	Nonfinite
+Jedenastkę przestrzelił także Kolumbijczyk Hamilton Ricard .	1	Finite
+- Proszę o zajęcie miejsc .	1	Finite
+Dlaczego życie musi być aż tak banalne ?	3	Nonfinite
+Stratę tę rekompensuje możliwość taniego zakupu nowych akcji .	2	Finite
+- A czy słyszał pan o Witoldzie Michałowskim ?	3	Finite
+Pirat musi bowiem być przygotowany na wszystko .	1	Finite
+pewnie pan je zna .	3	Finite
+Do tragedii doszło w poniedziałkowy wieczór w Redzie , nieopodal Gdyni .	2	Finite
+Wzburzony ojciec zawiadomił policję , ale z chciwą pedagog i tak się umówił .	12	Finite
+Myślę , że mogą .	3	Finite
+– Teraz pan tu rozkazuje ?	4	Finite
+- Popłynę . . .	1	Finite
+Niektórzy spośród demonstrantów odnieśli obrażenia .	3	Finite
+Bolko nie posiadał się z radości .	2	Finite
+- Skąd ty o tym wiesz , Józiu ?	5	Finite
+To pierwsze pytanie .	0	Finite
+- Węszy też po całym banku .	1	Finite
+Idziemy jeszcze do bistra na grog z sacharyną .	0	Finite
+Idę coś zjeść .	2	Nonfinite
+Żyć należy .	1	Finite
+On niewiele mówi .	2	Finite
+Samochody wpadają do niej najczęściej znienacka .	1	Finite
+Z autorem artykułu rozmawiała m dwukrotnie .	3	Finite
+Wyprowadziwszy go tylnym wyjściem wrócili śmy na taras i usiedli śmy przy stole .	10	Finite
+- Nie ucz dziada , jak charchać !	6	Nonfinite
+Jestem drobny .	0	Finite
+- Ale ginu pan się napije ?	5	Finite
+Stan termiczny lodowca jest rezultatem współdziałania kilku procesów .	3	Finite
+Władza ustawodawcza nie nie posiadała legitymacji demokratycznej .	4	Finite
+Pomysł z dwiema lewicowymi partiami uważam za dobry .	5	Finite
+Nie widzę .	1	Finite
+– W HSW SA trwa obecnie wielkie liczenie .	4	Finite
+I Stefkę , dwuletnią sierotę , widział em także .	6	Finite
+Spogląda na mnie surowo , potem wzrok mu łagodnieje .	0	Finite
+Apfelbaum szedł przed siebie , nie zwracając na niego uwagi .	1	Finite
+Emilka milczała chwilę .	1	Finite
+Styl ten też uwzględnił by edukacyjny rozwój jednostki .	4	Finite
+Chciał by być teraz w namiocie , oddzielony od wszystkiego .	2	Nonfinite
+Natomiast atutem kandydata na prezydenta jest znajomość języków obcych .	5	Finite
+Ale trzeba je stąd wynieść .	4	Nonfinite
+Nie należy bać się Boga , ponieważ wtedy nie będziemy w stanie Go miłować .	9	Finite
+Nikt tego nie lubi i to jest zrozumiałe .	6	Finite
+To wystarczyło , żeby przestraszyć pozostałych kierowców trójkołowych pojazdów , którzy też pracowali nielegalnie .	4	Nonfinite
+Wspinał ktoś się kiedyś ?	0	Finite
+Dorożki i kabriolety turkotały po wyboistym bruku .	3	Finite
+W głowach łóżka na słupku od kwiatów paliła się zdjęta ze ściany gromnica .	7	Finite
+Białe policyjne motocykle są doskonale oznakowane .	3	Finite
+Michelle pożegnała już Kubę .	1	Finite
+- Bo się pierdolą .	3	Finite
+A kto mu każe tam żreć ? !	3	Finite
+W obecnym arbitrażu Polska , jeśli nawet wygra , nie zyskuje niczego .	10	Finite
+W niektórych takich antykach robili schowki " .	4	Finite
+– proszę ?	1	Finite
+- Nasze działania są coraz skuteczniejsze .	3	Finite
+- Nie powinni tego robić .	4	Nonfinite
+- Popełnili by śmy ciężki grzech twierdząc , że te obrazy nas nie interesują .	1	Finite
+Większość wpływów banku z kredytów wynika z ich oprocentowania .	5	Finite
+– Boi się zaufać komukolwiek .	1	Finite
+Rzeczywiście , nie jest to film jak inne filmy i to z kilku powodów .	10	Finite
+Właściwie powinni wyrzucić .	1	Finite
+Traper idzie na rufę , bo tam mniej kołysze .	1	Finite
+Nie pamiętam " .	1	Finite
+Dopiero za trzy tygodnie ludowcy zdecydują , kogo wystawią do prezydenckiego wyścigu .	8	Finite
+Minibus zatrzymuje się przed szarym drewnianym domem .	1	Finite
+Człowiek uczy się jednak przez całe życie .	1	Finite
+no przecież on jest bardzo aktywny .	3	Finite
+Jesionek zakrywa dłonią klucz , który leży na biurku .	6	Finite
+Wyobraźmy sobie sytuację odwrotną .	0	Finite
+To dobry gość .	0	Finite
+- To mi przypomina historię o sukni Dejaniry .	3	Finite
+Jest to zaszczytne wyróżnienie dla tego utalentowanego zawodnika .	1	Finite
+- Jego twarz jest zazwyczaj dość blada , czasami ma nieco zielonkawy odcień .	3	Finite
+Czym była by Czarna Wieś Kościelna bez tej gliny ?	1	Finite
+Weiss studiował chemię , programowanie maszyn i polonistykę .	1	Finite
+Holendrzy nie mają odwagi iść za nimi .	4	Nonfinite
+Odprowadzę ciebie .	0	Finite
+- Jak często otrzymujecie takie meldunki ?	3	Finite
+Tak wychodzi z obliczeń .	1	Finite
+- Pogaaaniaaaj !	1	Finite
+Królową Mody wybrano na rok 1935 znaną pieśniarkę Werę Bobrowską .	2	Finite
+Naradzali się długo , a potem poszli do Spartakusa .	0	Finite
+Stary park jest zdziczały i przetrzebiony .	2	Finite
+W akcji ratunkowej uczestniczyło ok. 20 ratowników .	3	Finite
+Cały teren splantowano , a niedługo zostanie wykonane nowe ogrodzenie .	2	Finite
+Przepraszam , zgubił em się .	0	Finite
+Co to znaczy ?	2	Finite
+– Lekarze mówią , że powinien poleżeć parę dni .	6	Nonfinite
+Dotyczy to wszystkich kategorii zawodowych .	0	Finite
+– może być . .	1	Finite
+- Pogodzimy się .	1	Finite
+Tymczasem widzę , że pan również przyłączył się do tej niesmacznej orgii .	1	Finite
+Hindusi i ja wybrali śmy się na zielone gołębie .	3	Finite
+Dodać majonez , przyprawić do smaku i dokładnie wymieszać .	8	Nonfinite
+Teraz będziesz miał spokój .	2	Finite
+Nie widział em , bo stali za moimi plecami , ale tylko oni mieli broń .	5	Finite
+Nie chcę !	1	Finite
+Nakielska straż miejska odbiera sporo podobnych zgłoszeń .	3	Finite
+- Mleko już się rozlało .	4	Finite
+Przyjaciele mówią , że towarzysko jest miły , ale bywa bardzo złośliwy .	9	Finite
+Przyjechał em w sobotę pod wieczór do niego do domu .	1	Finite
+Potem do roszczeń wracał co najmniej raz minister Rosati i prezydent Kwaśniewski .	3	Finite
+Poprosił ekspedientkę o dostęp do telefonu , tłumacząc , że musi zadzwonić do swojego wspólnika .	10	Finite
+Ale ja to dokończę , bo to jest ważne .	3	Finite
+Skazani rozwożeni są natychmiast do więzień na terenie całego kraju .	2	Finite
+Pani Bentley okazała się bardzo miłą i gościnną kobietą .	2	Finite
+W obecnej sytuacji odpowiadała mu każda forma rozgłosu .	3	Finite
+- Potem ustawisz .	2	Finite
+Szanuję ale nie podzielam .	3	Finite
+y powstała .	1	Finite
+Kupione w południe , nie wyjrzały jeszcze ze swej bibułki .	5	Finite
+Mówiła powoli i wyraźnie .	0	Finite
+Potem była wpadka .	1	Finite
+Kaśka , co cię ugryzło ?	4	Finite
+“ Jest już za późno , nie jest za późno ” .	1	Finite
+Alkohol przestaje działać i ten czy ów zaczyna ziewać .	7	Finite
+Świat go wtedy nie obchodził .	4	Finite
+Usmażone mięso odstawić w ciepłe miejsce .	2	Nonfinite
+Wybuch poważnie uszkodził luksusowe auto , ucierpiały też cztery inne samochody stojące na placu .	6	Finite
+Nie widzę zgłoszeń .	1	Finite
+nie lubię . .	1	Finite
+Skąd to pani przyszło do głowy ?	3	Finite
+- Ja pana znam .	3	Finite
+Wiesz , co to znaczy ?	0	Finite
+Ale oni nie mają Balcerowiczów .	3	Finite
+Starcia zaczęły się koło południa .	1	Finite
+U nas takie imprezy są zupełną nowością , ale na Zachodzie to bardzo popularna dyscyplina .	11	Finite
+Roszczenia , jak się zakłada , były by załatwiane w trybie administracyjnym .	6	Finite
+Zgodnie z ustaleniami nie udzielił żadnych wywiadów ani nie wydał żadnego oświadczenia politycznego .	4	Finite
+Pozwala znaleźć dokładnie miejsce , w którym są komórki nowotworowe .	7	Finite
+Pobył em tu i wstydzę się odezwać .	0	Finite
+Wszedł em do gabinetu już w potach i temperaturze .	0	Finite
+Musimy dotrwać .	1	Nonfinite
+Uciekł em .	0	Finite
+Ale dała się zabrać .	1	Finite
+Z opinią tą zgadza się Przemysław Miśkiewicz .	3	Finite
+Miał 43 lata , żonaty , dwóch synów .	0	Finite
+– ja by m dopowiedział do tego .	4	Finite
+Ostatecznie ma on stanąć w Popielowie .	3	Nonfinite
+Obstawił się własnymi ochroniarzami i policjantami .	0	Finite
+W Fundacji można też uzyskać wyczerpujące informacje na temat fachowej opieki nad kotami domowymi .	2	Finite
+To jest złe myślenie .	1	Finite
+Dziś od 19 . 27 ta pani działa nielegalnie !	7	Finite
+Była przy żonie Andrzeja , dopóki nie urodziło się dziecko .	7	Finite
+Jak poszło ?	1	Finite
+Czy teraz pan ekspert chciał by ?	4	Finite
+Dokonać charakterystyki Tatr na podstawie mapy wielkoskalowej .	0	Nonfinite
+– Nie wiedział em , że pani Senyszyn zna się na krowach .	2	Finite
+Dyrekcja aresztu śledczego na Białołęce wystąpiła o warunkowe przedterminowe zwolnienie Zalewskiego .	5	Finite
+- Kiedy otwiera pan sklep ?	2	Finite
+Zadźgał nożem młodszego o dziewięć lat brata .	0	Finite
+Ja nawet nie wiedział em , że on ma zamiar to zrobić .	3	Finite
+Skąd brała się ta dziarska muzyka ?	1	Finite
+Dzisiejsza konfrontacja z łódzkimi zespołami , które mają pierwszoligowe aspiracje , zapowiada się niezwykle ciekawie .	7	Finite
+Niewielka szansa , prawdopodobnie obaj żołnierze strzelą i któryś z nich musi trafić .	12	Nonfinite
+Miał równie pokraczną głowę , krótki tułów .	0	Finite
+- Mam przynieść baloniki ?	2	Nonfinite
+– nienawidzę . .	1	Finite
+- Skąd mogę mieć zaufanie ?	3	Nonfinite
+Gdyby m chciał cię okraść , zrobił by m to już dawno .	2	Finite
+– Mama gładzi dłoń Dziadka .	2	Finite
+Niestety , byli śmy w mniejszości .	2	Finite
+Oczekuję , że któraś z obecnych zabierze głos , ale one milczą .	6	Finite
+Ja też zaraz skończę tu przyjmować .	5	Nonfinite
+Natomiast zdumiewa mnie to , że nigdy nie mogę tu liczyć na wzajemność .	10	Nonfinite
+Nie kieruję się przy tym ideologią wegetariańską , choć z nią sympatyzuję .	11	Finite
+Jestem .	0	Finite
+Termin ten nie może przekraczać dwóch tygodni .	4	Nonfinite
+Lot odwiódł stryja na bok .	1	Finite
+– Chce pani powiedzieć , że Pająkowski by sprawdził ?	3	Nonfinite
+On jest zakochany , na trąbie siedzi mrówka i wysyła serduszka .	9	Finite
+Spóźnili śmy się . . .	0	Finite
+Jak zaczynali śmy ?	1	Finite
+Po parku z miniaturowym ogrodem zoologicznym snują się gromadnie dzieci .	6	Finite
+W blaskach świateł stoi drewniana rzeźba , postać ślicznej dziewczyny .	3	Finite
+Zaczynał em rozumieć , że radość z własnego rozumu też może być ograniczona .	2	Nonfinite
+- Wobec tego gaszę światło i zamykam drzwi .	6	Finite
+Oj , jak to się nazywa ?	5	Finite
+– Pixy się roześmiał .	3	Finite
+Kto wiatr sieje , ten burzę zbiera .	2	Finite
+- Nie mów tak !	2	Finite
+Jeśli WebScan znajdzie wirusa , ostrzega użytkownika , by nie ściągał danego pliku z sieci .	2	Finite
+Spojrzał em na nią i ze zrozumieniem skinął em głową .	8	Finite
+Na Siemiradzkiego wybrzydzali krytycy , ale publiczność uwielbiała jego obrazy .	2	Finite
+Ze starego rodu pochodzi .	3	Finite
+– z Waldkiem chodził do klasy .	3	Finite
+W dobrych warunkach mnożą się bardzo szybko .	3	Finite
+nie widzieli ście się ?	1	Finite
+Psy darły jamy , ziemia sypała się za ogonami .	5	Finite
+Wczoraj oficjalnie placówkę powołał .	3	Finite
+Nie popisywała się przecież .	1	Finite
+Groszek spojrzał na nią nieprzytomnie .	1	Finite
+Rozumisz , Dziunia ?	0	Finite
+Nieuchwytny pozostał też poeta rywal Willa .	1	Finite
+Niech zakazują !	1	Finite
+Na morskiej jednostce mogą być zatrudnione tylko te osoby , które posiadają aktualne świadectwo zdrowia .	11	Finite
+- A ja myślał em , że niosę jej pocieszenie . . .	3	Finite
+Podczas przesłuchania w komisji minister Zbigniew Siemiątkowski zdystansował się wobec pomysłu Cimoszewicza .	7	Finite
+Teraz zrobi się podpory i będzie .	1	Finite
+Ten stracił równowagę .	1	Finite
+Chwilę manipulował przełącznikami i nagle w głośniku odezwał się wysoki , dźwięczny ton .	7	Finite
+Właścicielami szpitali i przychodni są miasta , powiaty i województwa .	4	Finite
+- Jeśli prezydent chciał by nam pomóc w zjednoczeniu , może to zrobić .	10	Finite
+- Tym bardziej nie zechcą wypuścić .	4	Finite
+Ha , już go widzę !	4	Finite
+Z wnioskiem takim wystąpił naczelnik OSP Arkadiusz Pindral .	3	Finite
+Grają muzykę będącą unikalnym mariażem form i stylów , zachwycają jurorów na wszelkich konkursach .	9	Finite
+Czy ich gospodynie nie prasują im na starość bielizny ?	4	Finite
+Oświadczył , że nie ma warunków dla uroczystego otwarcia Cmentarza Orląt Lwowskich w najbliższy wtorek .	4	Finite
+Twierdził , że jest nieśmiertelny i że zamierza zbawić świat .	7	Finite
+Rozsypali się w tyralierę .	0	Finite
+Andrew wszedł do budynku konsulatu .	1	Finite
+Wszyscy żegnali mnie serdecznie , zapraszali na przyszłość .	1	Finite
+Mój widok bardzo zaskoczył LPR-owskiego działacza .	3	Finite
+Najszybciej może do tego dojść pod koniec sierpnia .	1	Finite
+W niedzielę po południu turysta schodzący z Zawratu usłyszał głosy we mgle .	8	Finite
+Z chwilą urodzenia dziecko może żądać naprawienia szkód doznanych przed urodzeniem .	4	Finite
+I szukaj korka w polu !	1	Finite
+Bardzo proszę .	1	Finite
+Liczyli zdobyte łupy , oglądali własne i nieprzyjacielskie straty .	4	Finite
+Nie chcesz łykać lewej gorzały ?	2	Nonfinite
+Milicjant zakręcił korbą i połączył się z komendantem w miasteczku .	1	Finite
+Kupcy ochoczo przyłączyli się do toastu .	2	Finite
+Tylko w czterech państwach w Europie pojawiły się sieci DCS .	6	Finite
+To było by bardzo kontrowersyjne .	1	Finite
+Raport podkreśla , że w wielu krajach najpoważniejszym problemem jest wysokie bezrobocie .	9	Finite
+Teraz nie umiał em .	3	Finite
+Widzę na stole także jego dzieło .	0	Finite
+– jego rozpoznała rodzina .	2	Finite
+Oddzielnie myjemy rzodkiewki i jej liście , od których oddzielamy części zepsute .	1	Finite
+Beacie towarzyszył mój starszy kuzyn , inżynier Wacław Straszyński .	1	Finite
+Edek odmówił , nie chciał zostawić Mali .	4	Finite
+Jeden z nich ciężko ranny podczas strzelaniny walczy o życie w szpitalu .	7	Finite
+On niewiele mówi .	2	Finite
+- Weź sobie , Madziu , kochankę , zobaczysz wtedy , jakie to cudowne uczucie .	8	Finite
+Również państwo bardzo się starało , żeby księża wzięli swoje .	4	Finite
+Nie martw się , już przechodzę .	5	Finite
+Kiedy będzie można zajrzeć do teczek ?	1	Finite
+Zobaczymy .	0	Finite
+Spotkanie w urzędzie wywarło na wszystkich jego uczestnikach niesamowite wrażenie .	3	Finite
+Popatrz , Mike !	0	Finite
+Potem opłukała naczynia i ustawiła na drucianej kratce , by obeschły .	4	Finite
+– Czy ja wiem ?	3	Finite
+Jestem tu pierwszy raz .	0	Finite
+Szef aż podskoczył !	2	Finite
+Wieprzek zatrzymał się nie przestając kwiczeć .	1	Finite
+– Przestańcie !	1	Finite
+Uśmiechnęła się do Hehego .	0	Finite
+- Znam pana .	1	Finite
+Już nie znajduje pretekstów , aby oglądać się do tylu na dziewczynę i jej psa .	2	Finite
+Wydają mi się nagle smutni i nudni .	0	Finite
+Przypomnijmy , że na budowę centrum hurtowego nie zgadzają się mieszkańcy Osowej .	0	Finite
+Śnieg wali , ale sanie z ludźmi pójdą przodem przetrzeć drogę .	7	Finite
+- A jakie przylatują , żeby spędzić z nami zimę ?	6	Nonfinite
+- Jeszcze m nie mieniał .	4	Finite
+Już nie dajesz dupy , dupa należy się tobie .	2	Finite
+- Nie ma pytań .	2	Finite
+Teraz mogł em ją spotkać nawet przy samych drzwiach .	4	Nonfinite
+Czym jest akceptacja i co ona oznacza ?	6	Finite
+- Chciał by m zgłosić wniosek formalny .	3	Finite
+Mógł się zmieścić w złożonych dłoniach .	2	Nonfinite
+Wyjęła ją Michałowi z ręki i poszła na taras .	0	Finite
+Alina chwyciła Jerzego za rękę .	1	Finite
+Pielęgniarki zawsze wspierały matki przy karmieniu .	2	Finite
+Od tego to się zaczęło .	4	Finite
+Na pewno ściągnięte przez niego duszyczki nie płaciły składek .	7	Finite
+Siostrzyczki emanowały szlachetnością i pobożnością .	1	Finite
+Chciała by m dopuścić do głosu pana senatora Romaszewskiego .	0	Finite
+Gowin myśli niezależnie .	1	Finite
+Przede wszystkim , bądź dla niej dobry , wyrozumiały , łagodny .	3	Finite
+- Wymienialność ułatwi eksporterom rozliczenia ?	2	Finite
+Nie bije , nie głodzi .	1	Finite
+- Przyjeżdżają i od progu mówią , że cały obszar kupują .	5	Finite
+Faceci wyglądają na prawdziwych twardzieli .	1	Finite
+Aktorstwo bardzo pochłania i to przenosi się na życie prywatne .	5	Finite
+- Jestem sługą Jezusa .	1	Finite
+Został obezwładniony przez policjantów .	0	Finite
+Ale byli śmy o parę klas lepsi i wygrali śmy zdecydowanie .	8	Finite
+Co wolisz ?	1	Finite
+Wieczory chętnie spędzał w naszym towarzystwie .	2	Finite
+Na świecie żyje 18 cichociemnych .	2	Finite
+Wszystko zależy od chwili , dnia , może nastroju .	1	Finite
+Twierdzi , że po operacjach jej pęcherz przypomina piłkę futbolową .	7	Finite
+– Nie palił em i umył em zęby . . .	2	Finite
+Wyborcy zdecydowali , że powinni zasiąść w Sejmie .	5	Nonfinite
+- Nie jesteśmy zainteresowane .	2	Finite
+Fale uspokajały się .	1	Finite
+Kiwa tylko ze smutkiem głową .	0	Finite
+- Wejdź do domu , każę samowar zapalić .	1	Finite
+Wyschły źródła .	0	Finite
+Może oni wrócili ?	2	Finite
+Trudniej było się zdecydować , na co pójdę .	1	Finite
+Minibus odjeżdża .	1	Finite
+Wszystkim zrobiło się smutno .	1	Finite
+Wiatr przynosił ostry alkoholowy zapach traw .	1	Finite
+Gasi karbidówkę wilgotną dłonią , jakby gasiła świecę .	6	Finite
+- Zaśniesz sam .	1	Finite
+Czy zdążymy przed deszczem pochować pana Sierożę ?	1	Finite
+Wtedy ja stanowię publiczność .	2	Finite
+Lońka był w coraz lepszym humorze .	1	Finite
+Chciał em odespać tę noc w czasie postoju .	2	Nonfinite
+- Godzinę temu Witold odebrał telefon z zakładów PZInż .	4	Finite
+Żołnierze okopali się tam i celnymi strzałami odpierali atakujących .	1	Finite
+Potem zostaną ulokowani w hotelach i ośrodkach wypoczynkowych .	1	Finite
+Szli śmy do Harstad .	0	Finite
+Człowiek czuje się jak niewidzialny . . .	1	Finite
+Wrócił em na placyk .	0	Finite
+Świadek zeznawał by w procesach pozostałych członków gangu .	1	Finite
+Ciężko poranili kilkunastu policjantów .	1	Finite
+Będzie z czego wybierać .	0	Finite
+Po badaniach w szpitalu został wypuszczony do domu .	4	Finite
+Często jednak dociekliwość pracowników straży powoduje , że za kratki trafiają groźni przestępcy .	10	Finite
+Ostatecznie o ewentualnej winie Nowaka wypowie się sąd .	5	Finite
+Na reklamowanie Heyah nie ma szans .	4	Finite
+Tylko w minioną sobotę w atakach terrorystycznych w Bagdadzie zginęło ponad 40 osób .	9	Finite
+Na Irku cały ten wywód nie zrobił żadnego wrażenia .	6	Finite
+- Ty ś widział w kinie ?	3	Finite
+Musi na niego skoczyć .	0	Finite
+Według niej , Havel czuł się źle już w niedzielę .	4	Finite
+Nie oznacza to , że trzeba usuwać dziecko .	6	Nonfinite
+A potem dwupłatowiec wniknął w nasz bombowiec niczym duch .	3	Finite
+Jest dziko , ale bezpiecznie .	0	Finite
+Rohan widział błyskanie świateł korytarza w jego szkłach .	1	Finite
+jaką funkcję pełnią w organizmie ?	2	Finite
+Inne zdjęcia nie są dostępne .	3	Finite
+Przepisuję im leki uspokajające , herbatki nasenne i zapewniam , że Amerykanie strzegą naszego bezpieczeństwa .	0	Finite
+Sejm tworzy prawa , a prokuratura ma ich pilnować .	6	Finite
+Musieli się też czasem zabawić .	4	Nonfinite
+Wstaję , ubieram się , ktoś niby pukał do drzwi .	2	Finite
+On nie ma odwagi z tobą mówić .	2	Finite
+Rozbiła ś mi samochód !	1	Finite
+Co oni w rządzie robią ?	4	Finite
+Nie odzywając się przez cały czas do siebie , dojechali śmy do Wisły .	9	Finite
+Obcowanie z karłami deformuje kręgosłup .	3	Finite
+Zaraz woda wypełni rozpadlinę , a wtedy nie wydostaniemy się stąd !	8	Finite
+W domu też nie mogł em znaleźć sobie miejsca .	5	Finite
+Deszcz podzwaniał o szyby , a wiatr zdzierał z drzew pożółkłe , zwiędłe liście .	7	Finite
+Zamiast niego do celi pomaszerował jego brat .	4	Finite
+Ale demon w intuicji podpowiada mi , żeby m był ostrożny .	4	Finite
+Potem przemawiali inni mówcy i debata ciągnęła się przez następną godzinę .	1	Finite
+Nie wyklucza się , że powodem wypadku było zaśnięcie kierowcy .	1	Finite
+Bo zemsta , którą mu zapowiedziała , właśnie stawała się ciałem .	5	Finite
+- Tak jest , panie generale .	2	Finite
+Nie odcinam się od przeszłości .	1	Finite
+Liczył em na to , że przyjdziecie z tym do mnie .	6	Finite
+W zależności od kształtu bioder modelujemy resztę .	5	Finite
+- Może pani ma rację . . .	3	Finite
+Szukał em raczej w komediach .	0	Finite
+Irena odeszła z innym , tak to wyglądało bardzo powierzchownie .	1	Finite
+Przecież miasto nie jest atrakcyjne turystycznie ?	3	Finite
+Czekam .	0	Finite
+Poza tym , spotykam się z nimi na gruncie zawodowym .	3	Finite
+Dlaczego współcześnie muzułmanie muszą być męczennikami za pokój ?	3	Finite
+Później za kratki trafili jego kompani .	3	Finite
+Zaczęła zaraz pośpiesznie mówić , choć wiedziała najwyraźniej , że jej nie słucha .	3	Nonfinite
+Joniec i Miksa spojrzeli po sobie , obcierając oczy .	3	Finite
+Nie ukrywam , że mój kalendarz jest raczej zapełniony .	6	Finite
+Ktoś otworzył drzwi obite skórą .	1	Finite
+Niemieccy policjanci twierdzą , że w rachubę nie wchodzi kolizja z innym pojazdem .	8	Finite
+Ojciec nie chciał nawet o tym słyszeć .	6	Nonfinite
+Z każdym rokiem ruch osobowy i towarowy na przejściu granicznym w Chyżnem rośnie .	12	Finite
+– powinno wystarczyć . .	2	Nonfinite
+Sędziowie wyłonili jednak zwycięzców .	1	Finite
+Legenda Ismaela Khana narodziła się wśród płomieni i śmierci .	3	Finite
+Jeżeli rząd chce wprowadzać swoje reformatorskie projekty , musi porozumiewać się z prezydentem .	8	Finite
+Bawi mnie to w jakiś ponury sposób .	0	Finite
+Kot wyjeżdżający do Finlandii musi być dodatkowo odrobaczony na 30 dni przed wyjazdem .	5	Nonfinite
+ale chciała m powiedzieć .	3	Nonfinite
+Pytam , czy przekonała już kiedyś jakiegoś nauczyciela , że powinien zmienić pracę .	0	Finite
+Zaciągam się papierosem i próbuję przypomnieć sobie dawnego Dziedziuszkę .	5	Nonfinite
+Proszę o zabranie głosu pana senatora Ryszarda Żołyniaka .	0	Finite
+Większość została spełniona .	1	Finite
+Najpierw myślał em , że śnię .	1	Finite
+I nie można uciec .	2	Finite
+Sielawa i sieja składają ikrę w listopadzie i grudniu .	3	Finite
+Nie wspominajcie o ojczyźnie , jej mitach i tradycjach .	1	Finite
+Muszę się zmienić .	0	Finite
+Jeżeli unosisz ją , wtedy unoszą się także ramiona .	1	Finite
+Młodzież z Mełgwi otrzymała pełnowymiarową halę sportową .	3	Finite
+Ja wszelako nie piszę w imieniu przegranych polityków .	3	Finite
+DZIŚ idę płakać nad moim losem , rozumiesz ?	2	Nonfinite
+Wczoraj Grzegorz Jedamski wytoczył kolejne działo .	3	Finite
+Można wpisać kilka losów w jedno życie albo rozbić jedno życie w parę fabuł .	1	Nonfinite
+Podbiegł em i wziął em siatkę .	3	Finite
+- Był pan , Panie Profesorze , człowiekiem potrafiącym twórczo rozwinąć właściwość tej instytucji .	10	Nonfinite
+I podszedł do Jeana podając mu rękę , jakby chciał pomóc mu wstać .	10	Nonfinite
+Tę dwuletnią szkołę pomaturalną ukończyło 15 absolwentów .	4	Finite
+– w areszcie siedzi . .	3	Finite
+W większości jest on przeznaczany na budowę plastrów .	2	Finite
+Natychmiast wyruszymy .	1	Finite
+Syneczek , skulony na tylnym siedzeniu , wył , jakby go zarzynali .	11	Finite
+Przyjmuje komunię .	0	Finite
+Pozmywaj i ogarnij kuchnię .	0	Finite
+Można tu mówić o pewnych prawidłowościach .	2	Nonfinite
+200 z nich chronionych jest jako zabytki architektury ogrodniczej .	4	Finite
+Przytul się mocno I podnieś głowę Patrząc w ich oczy Moim spokojem .	4	Finite
+Ona występowała w dyskotekach .	1	Finite
+Nie cierpiał zbytnio .	1	Finite
+- Niech pan zajmie miejsce .	3	Finite
+Jak wam się podoba ?	3	Finite
+Nie mamy z nią żadnych problemów .	1	Finite
+Wezwali Marcina .	0	Finite
+Ściany skalne zbliżają się w tym miejscu i dalsza droga prowadzi w ciasnym wąwozie .	2	Finite
+Dobrze jest odparować nadmiar wody z ogórków , aby potrawa nie była zbyt wodnista .	2	Nonfinite
+Drużyna Brazylii musiała zmobilizować wszystkie siły , aby pokonać zespół Szwecji .	2	Finite
+A odróżnić nie potrafię .	1	Nonfinite
+Program muzyczny prowadzi Kamil Durczok .	2	Finite
+- Czy zdążył Pan zwiedzić Ateny ?	4	Nonfinite
+Kazał Paoli przynieść sobie drinka .	2	Nonfinite
+Wyrok , który zapadł , nie zadowolił chyba nikogo .	3	Finite
+Początkowo chcieli wywieźć je nad Wisłę .	2	Nonfinite
+Cóż zrobić ?	1	Nonfinite
+Prawdopodobnie zapuścił się dalej .	1	Finite
+Dla mnie dobro jest formą inteligencji .	3	Finite
+– kiedy ta książka się ukazała ?	5	Finite
+Pan zanotuje sobie prywatny numer posła . . .	1	Finite
+Zmierzch stał się coraz ciemniejszy , na niebie ukazały się pierwsze gwiazdy .	1	Finite
+- Mam wyjść , Marta ?	2	Nonfinite
+– Ale o to teraz Pan walczy ?	6	Finite
+Wczoraj dopiął swego , chociaż musiał sporo dołożyć do umówionych wcześniej 300 tysięcy .	7	Nonfinite
+( Hitler warczy . )	2	Finite
+Takie informacje uzyskali śmy na gorąco .	3	Finite
+Będziemy to miejsce polecać naszym dzieciom .	3	Nonfinite
+Stracił kontrolę .	0	Finite
+Czy mógł by Pan powiedzieć kilka słów o tej kampanii ?	4	Nonfinite
+To samo dotyczy leczenia , służba zdrowia praktycznie przestała istnieć .	8	Finite
+Mają przecież dbać o nasze bezpieczeństwo .	2	Nonfinite
+- Może pan zdradzić , dlaczego pan tak interesuje się tą górą ?	8	Finite
+Widzisz , że nikogo nie ma .	0	Finite
+Olbrzymy zazwyczaj są barwy czerwonej .	2	Finite
+Rozumie pan ?	0	Finite
+Znajomi i przyjaciele zgodnie potwierdzają , że kiedyś była inna .	4	Finite
+Krzywousty chyba nie miał takiej okazji .	3	Finite
+Sala na razie jest opustoszała .	3	Finite
+Osiedla się w Kafarnaum nad jeziorem i zaczyna swoją publiczną działalność .	7	Finite
+Nie były .	1	Finite
+Instynktownie odwracam głowę .	1	Finite
+Była zdrowa , silna i wierzyła w siebie .	5	Finite
+Trzeba będzie poczekać , bo licho nie śpi .	2	Nonfinite
+Jak udało się nam ustalić , żwirownia ma nowego właściciela .	7	Finite
+Można wracać , zadanie jest już wykonane .	4	Finite
+Dar Edwarda Gierka , zwany darem narodu polskiego , w Berlinie przywitano z uniesieniem .	11	Finite
+- Czy z inną kobietą można przeżyć coś naprawdę nowego ?	6	Nonfinite
+Podstawowym zadaniem straży granicznej jest kontrola ruchu granicznego .	4	Finite
+Polska miała za sobą poparcie Francji .	1	Finite
+Miała swoiście wyrobiony smak .	0	Finite
+Gdyby m chciał cię okraść , zrobił by m to już dawno .	4	Nonfinite
+Pozostali pacjenci przebywają na oddziale ginekologicznym , wewnętrznym i kardiologicznym .	2	Finite
+- Ucieknie im .	1	Finite
+- Przez niemiecką żeglugę śródlądową jakaś dzikuska nie będzie miała frajdy .	9	Finite
+Siedzisz sobie wygodnie w fotelu , bez wysiłku , i sobie patrzysz .	0	Finite
+Siadam w kącie i usypiam , budząc się na Gare du Nord .	4	Finite
+Grozi , że odbierze nam część pieniędzy .	3	Finite
+Pomyślał em , że nie chciał by m być w skórze jej męża .	0	Finite
+Nie udało im się .	1	Finite
+Ale może wrócę .	2	Finite
+On też będzie płacić długi upadłej jednostki .	3	Nonfinite
+Jak się okazało , na apel odpowiadają także mieszkańcy Warszawy i Krakowa .	2	Finite
+Jedzie !	0	Finite
+Nie pamięta , kiedy ostatnio badał ją lekarz .	1	Finite
+Mężczyzna doznał licznych obrażeń .	1	Finite
+A zresztą nie mam czasu na czytanie .	3	Finite
+Kapłani odsunęli się na bok .	1	Finite
+Następnie zabierze głos pan poseł Jerzy Jaskiernia .	1	Finite
+Przechodzimy do głosowania .	0	Finite
+Pani Kowalska ubrała się w kufajkę .	2	Finite
+Nie cenzuruje nas wrogi urzędnik , ale towarzysz partyjny " .	1	Finite
+– Niech się pani nie martwi , ta pani Marysia to niezwykle urocze dziecko .	5	Finite
+Przejazdy będą bezpłatne .	1	Finite
+- Wiem , że Pan nas osłoni .	1	Finite
+I wtedy ma problem .	2	Finite
+Twoi Duchowni twierdzą , że siedzibą Szatana są nasze podbrzusza .	7	Finite
+Jest to pierwszy taki akt normatywny w medycynie .	0	Finite
+Duszy nie ma , ale Kotliński nienawidzi Kościoła z całej duszy .	6	Finite
+Chodź , Hari , podrzucę cię do domu .	4	Finite
+Ma on być gościem prezydenta Saragata .	0	Finite
+– którą też przeczytała m całą .	3	Finite
+Podpisuję się pod tym .	0	Finite
+Kot usiadł obok i znowu miauknął .	5	Finite
+Nie jest typem działacza , ideologa , politykiera .	1	Finite
+Na dodatek zapomniał em , po co tutaj jestem .	8	Finite
+Możesz mieć skłonność do przesady .	0	Finite
+I zjechawszy na kolana gorzko zapłakał zapominając , że patrzą na niego ludzie .	5	Finite
+Co Wam to przypomina ?	3	Finite
+Poszedł na swoje podwórko .	0	Finite
+Może ich zgubić choćby zapach palącego papierosy .	2	Nonfinite
+Wciąż dzwonią do niego jakieś baby .	1	Finite
+- Nie patrz tak .	2	Finite
+Nie umiemy myśleć jako ludzie ducha .	2	Nonfinite
+Wśród tradycjonalistów muzułmańskich z państw Półwyspu Arabskiego wywołało ono szok .	7	Finite
+Posolić , zalać oliwą .	2	Nonfinite
+Skojarzenia nie biorą się z powietrza .	2	Finite
+Otworzył em drzwi .	1	Finite
+Kontrolując wyniki rywali , nie podejmując zbytniego ryzyka , wygrali śmy jeszcze cztery mecze .	9	Finite
+Wiercę się .	0	Finite
+Słucham i uszom nie dowierzam .	4	Finite
+Tu biło serce Orkiestry .	1	Finite
+Spostrzegli , dokąd ich wiedzie .	4	Finite
+Sędzia Rymarz przyznał , że telewizja miała prawo zatrzymać kasety Bubla .	2	Finite
+I wtedy wszystko się tak naprawdę zaczęło .	6	Finite
+Zdaniem senator Grześkowiak , naruszała ona zasadę zaufania obywateli do państwa .	4	Finite
+Tadzio śpi .	1	Finite
+– Najpierw chciał by m sprawdzić jakość tego francuskiego łóżka .	3	Finite
+Gdy Wielki Brat oznajmił , że Grzegorz ma opuścić program , Karolina płakała .	7	Finite
+Wydawało mu się , że od niego coś pękło mu w sercu .	8	Finite
+I był .	1	Finite
+- Proszę , słucham .	3	Finite
+Kierują go na kursy dywersji .	0	Finite
+Resort uważa , że wtedy trzeba będzie wprowadzić zakaz eksportu miedzi i srebra .	1	Finite
+Kto wie , czy najwięcej nie przyczyniła się do mojego wybawienia długotrwała burza .	1	Finite
+Witraże te należą do typu medalionowego .	2	Finite
+Na krześle siedzi smutny , zrezygnowany człowiek .	2	Finite
+- Zdaję sobie sprawę , że masz gorączkę . . .	1	Finite
+Starsza kobieta , niestety , uwierzyła w tę bajeczkę .	5	Finite
+– ja podziękuję .	2	Finite
+Nie znosił em tych białych zup .	2	Finite
+Następnie Aleksander Zawadzki dokonał otwarcia muzeum w dziesiątym Pawilonie .	3	Finite
+Nakładkę rozkłada się na desce sedesowej .	1	Finite
+Trzeba przede wszystkim dużo inwestować w nowoczesny park maszyn .	4	Nonfinite
+Stamtąd przywieziono do Poznania obie rogówki zmarłego .	1	Finite
+Michał zaczął zmagać się z niewyraźnym pismem Marka .	2	Nonfinite
+– ono jest paskudne . .	2	Finite
+Matka - niematka uważa , że sędzię zaszczuły media .	7	Finite
+Stanął na górnej płycie .	0	Finite
+Nie spuszczała przy tym wzroku z Paruka .	1	Finite
+Nie chcę , by jakoś specjalnie się mną opiekowano czy głaskano .	8	Finite
+Różnicę pokazał em w poście , na który odpowiadasz .	1	Finite
+Lać na wszystko .	0	Nonfinite
+Potem zostaną ulokowani w hotelach i ośrodkach wypoczynkowych .	1	Finite
+Bo chciały uratować zaskrońca , ale teraz są w kropce .	2	Nonfinite
+Bóg raczy wiedzieć .	1	Finite
+Nosił czarny wąsik , jakby się ubrudził .	0	Finite
+Jean Paul nie odzywał się .	3	Finite
+Zwłoki ich balsamowano przez czterdzieści dni , a mumie włożono do trumny drewnianej .	9	Finite
+– ja robiła m tą amsterdamską .	2	Finite
+- Idę się położyć , jutro muszę raniutko wstać .	3	Nonfinite
+Liczba cudzoziemców na Mazowszu rośnie z roku na rok .	4	Finite
+To była dość banalna historia .	1	Finite
+Szczególnie serdecznie zapraszamy do współpracy nowo powstałe firmy .	2	Finite
+Poszli śmy do ostatniej salki i zajęli śmy stolik w kącie .	7	Finite
+Trudno było otworzyć drzwi .	2	Nonfinite
+Zaproponowali , że przeproszą , i obiecali poprawę .	6	Finite
+Podajemy w miseczkach lub na talerzach .	0	Finite
+Chcesz mi pomóc ?	2	Nonfinite
+Nie mają oni atrakcyjnej oferty dla ludzi XXI wieku , więc boją się konkurencji katolicyzmu .	11	Finite
+Owa niezapomniana chwila zawierała nieprawdopodobny ładunek patosu .	3	Finite
+- Kto wie ?	2	Finite
+Ze zdziwieniem spostrzegł , że jego lewa noga stopą dotyka mu twarzy .	2	Finite
+Pewnie nastanie już spokój wokoło .	1	Finite
+Płeć piękna zwycięża !	2	Finite
+Pełna stawka wynosi obecnie 840 zł miesięcznie .	2	Finite
+- Ale kto decyduje , czy działanie jest wymierzone przeciwko ustrojowi ?	7	Finite
+Gdy urzędnicy powiatowi chcieli przenieść się do nich , zastali zamknięte drzwi .	4	Nonfinite
+Jakimiszyn pochodzi z Baku , tu do dziś mieszka jego matka .	1	Finite
+Skowron przytrzymał go za marynarkę .	1	Finite
+Jesteś wyższy od wicepremiera Romana Giertycha ?	0	Finite
+Odsunął mnie od siebie .	0	Finite
+- Do Krakowa jechać nie mogę , bo tajemnica wydała by się przedwcześnie .	3	Nonfinite
+Z lewicy została mu tylko nazwa .	2	Finite
+Urzędy skarbowe nie chcą nas zrozumieć .	3	Finite
+Dlatego też ostro zabrali się do promowania tego pomysłu .	3	Finite
+Ja nie mam takich uprawnień i nie uczestniczę w przesłuchaniach .	2	Finite
+Po mszy świętej wyruszyła z bazyliki katedralnej i okrążyła Stary Rynek .	3	Finite
+Liczy się tylko skuteczność .	0	Finite
+To nauczyciele muszą się do nich dostosować .	6	Nonfinite
+Myślę , że tak właśnie powinni zachowywać się odpowiedzialni kandydaci .	6	Nonfinite
+Był to słuszny protest ?	0	Finite
+Nie daj się schwytać , nie daj się otropić .	8	Nonfinite
+W każdej chwili mogę zostać szoferem w Prezydium Rady Ministrów .	3	Finite
+– kto tym ludziom pomaga ?	4	Finite
+Musisz mi pomóc !	2	Nonfinite
+Matki marzeniem jest , by córka osiadła , zaczepiła się gdzieś .	2	Finite
+Owinął em się w koce i zasnął em .	0	Finite
+Chcesz spróbować ?	0	Finite
+cofam .	0	Finite
+Kochają go za tę doskonałą bezinteresowność .	0	Finite
+Jakie znaczenie ma przemoc w ideologii skinów ?	2	Finite
+Sprawą zainteresował się referat I-szy i przez kontrolę korespondencji może uzyskamy dalsze miejsca zachowanych rzeczy .	1	Finite
+Napastnicy grozili nastolatkom , że ich pobiją .	6	Finite
+Z bata strzelać mogę .	2	Nonfinite
+– a jeszcze chciał em zapytać o szefostwo , to jest tylko ta jedna osoba ?	10	Finite
+Zresztą , trzeba kogoś kochać , żeby z nim romansować .	4	Nonfinite
+– Były to nasze pierwsze mistrzostwa .	2	Finite
+Widziała m ze cztery osoby .	0	Finite
+Sprawdźmy , czy istotnie potrafili by śmy to zrobić .	8	Nonfinite
+Ta metoda pozwala ustalić z dokładnością niemal do roku wiek wykopaliska .	3	Nonfinite
+- Ależ ja czekam od czterech lat !	3	Finite
+Ethel wstała od stołu i poszła do domu odbyć poobiednią sjestę .	8	Nonfinite
+Pomyśl też o innej możliwości .	0	Finite
+Gdzie jest chorąży ?	1	Finite
+Musieli śmy się pożegnać .	0	Finite
+- Monadę widział .	2	Finite
+- Wiem , Jakub mi mówił .	1	Finite
+I dzwoni w przód !	1	Finite
+Właściwie tylko Białostockie Przedsiębiorstwo Budownictwa Przemysłowego posiada laboratorium z prawdziwego zdarzenia .	6	Finite
+Zwrócił em uwagę na twarz dziewczyny z okładki jakiegoś tygodnika .	0	Finite
+Decyzja zapadła , mimo że szefowie tajnych służb ostrzegli , iż Palestyńczycy wyjdą na ulice .	12	Finite
+Zaczyna rozgrzewać lak .	0	Finite
+Zabijecie je .	0	Finite
+Pamiętam tylko te , które mi się bardziej podobają .	0	Finite
+Mnich uniósł oczy .	1	Finite
+Gospodarze odpowiedzieli dwoma golami Ralfa Hauptmanna i Austriaka Tony Polstera .	1	Finite
+Przyszła Kryśka i zdziwiła się , że jestem taka blada .	0	Finite
+Blok ten jest na ukończeniu .	2	Finite
+- Dziękuję , że pan teraz umożliwił .	1	Finite
+Zaraz skonam z głodu .	1	Finite
+– na tym fotelu jest góra łachów .	4	Finite
+Dostaję klucz i biegnę do swojego pokoju .	3	Finite
+– Zazwyczaj jest to związane z finansami .	2	Finite
+Jest to Konsumencki Znak Jakości Q , który dostała polędwica wołowa wiejska .	0	Finite
+Denat nie miał przy sobie dokumentów .	2	Finite
+Większe firmy starają się dbać o swój wizerunek i postępować zgodnie z obowiązującym prawem .	9	Nonfinite
+Sprawców oczywiście nie wykryto .	3	Finite
+Swą ważność utraciły one w czerwcu .	2	Finite
+Proszę uzgodnić z recepcją terminy , przełączam .	0	Finite
+Jeszcze nie pokonał em Mayfielda .	2	Finite
+W tym roku o tytuł najlepszej walczyło 160 pism .	6	Finite
+- Narkomani to zazwyczaj młodzi ludzie . . .	2	Finite
+Jest to ostatnie pytanie .	1	Finite
+Policja potwierdza , że zgłaszają się kolejne niedoszłe ofiary zwyrodnialca !	4	Finite
+- Wrócił em .	1	Finite
+Ono w 65 proc . jest uwarunkowane genetycznie .	5	Finite
+Po prostu uważam , że ciało eteryczne nie załatwia sprawy .	2	Finite
+Makowska wyszła .	1	Finite
+Dla uczczenia tego zdarzenia przynoszę filiżanki .	4	Finite
+Nie chciała jeść pizzy rodzinnej od tej kobiety .	2	Nonfinite
+- Bo to była suknia Dejaniry !	3	Finite
+Wspaniale przy tym odpoczywam .	3	Finite
+Chcę wyremontować organy i kupić nowe ławki .	4	Nonfinite
+Wstaję , wyglądam przez okno .	2	Finite
+I brał .	1	Finite
+- Wcale nie chodziło ci o oszczędność , chciał eś wiać .	8	Finite
+Mirek zatelefonował z automatu do Międzylesia do Sów .	1	Finite
+Dante raczył zajmować się przede wszystkim potępionymi .	1	Finite
+Poniżyć .	0	Nonfinite
+Rano Saszka zapukał do drzwi .	2	Finite
+Zaczął również przejmować ministerstwa .	2	Nonfinite
+W niedzielę młodzieńcy rozpalili ognisko na strychu .	3	Finite
+- Jest bardzo wrażliwa .	1	Finite
+Niech pan pomyśli , jaką rodzice mieli by niespodziankę , gdyby pan ukończył siedem klas .	12	Finite
+- Powtarzam , że jajecznicy pan tam nie dostanie .	8	Finite
+Polek zawahał się , lecz próżność jednak zwyciężyła .	7	Finite
+Tam czekał już pluton egzekucyjny , dowodzony przez podoficera .	1	Finite
+Zaatakowano go bezpośrednim ogniem .	0	Finite
+Nie odkładając pocisku , sięgnął em do kabury .	4	Finite
+- Bywa , że czuję się w teatrze obco .	1	Finite
+Zamyka oczy , jakoś tak dziwnie sapie .	6	Finite
+Mogą przy okazji oberwać .	3	Nonfinite
+Niektórzy twierdzą , że patrząc na nich można to zauważyć . . .	9	Nonfinite
+- Słyszy pan ?	1	Finite
+Pamiętam tylko te , które mi się bardziej podobają .	8	Finite
+- A wiesz , czym zajmuje się tutaj ?	5	Finite
+Musisz mi pomóc !	0	Finite
+- Nie ma mowy !	2	Finite
+Toruńska policja poszukuje przebierańca , który podaje się za policjanta .	2	Finite
+gdzieś tam ktoś coś powiedział . .	4	Finite
+- Czekam na pana przy wyjściu .	1	Finite
+W roli tytułowego ostatniego władcy Rzymu obsadził Jerzego Stuhra .	6	Finite
+Albo ubić faceta z wiecznie zadartym ornamencikiem w rozporku .	1	Nonfinite
+Na chwilę twarz zakryła dłońmi , zabłysła złota obrączka .	3	Finite
+Większe firmy starają się dbać o swój wizerunek i postępować zgodnie z obowiązującym prawem .	2	Finite
+Tu ojczyzną jest moje mieszkanie .	2	Finite
+- Pawle , nie jedź do Jerozolimy !	4	Finite
+- Czy grozi nam czarny scenariusz rozwoju sytuacji gospodarczej ?	2	Finite
+Nikomu nie postawiono zarzutów .	2	Finite
+Ale mijały lata , a dokoła gdańskiego Ratusza wciąż rozbrzmiewała obca mowa i obce pieśni .	9	Finite
+Na siłę nikogo zatrzymywać nie będziemy .	3	Nonfinite
+- Czy ja zawsze muszę dostać najtrudniejszą robotę ?	5	Nonfinite
+Rozładował ją na brzegu , a ona cisnęła naboje do wody .	0	Finite
+A odkąd Kaziński wydał wojnę właścicielom psów , jest jeszcze trudniej .	8	Finite
+Postanowił go szybko zlokalizować .	3	Nonfinite
+Także Żydzi stanowią zamkniętą kastę .	2	Finite
+Otworzył drzwi i wszedł do sekretarek .	3	Finite
+Oskarżony nie przyznaje się .	2	Finite
+- Wymknęło ci się , że przesadą było by zginąć za komunizm .	1	Finite
+Widawska pochodzi z Kalisza .	1	Finite
+Sędziowie obawiają się jednak najgorszego .	1	Finite
+Niestety nie możemy brać w niej udziału .	3	Nonfinite
+Wszystkie przyrządy i układy pracują normalnie .	4	Finite
+Do obserwatorium waszyngtońskiego ściągały tłumy ciekawych .	3	Finite
+polecamy książki .	0	Finite
+Zdziwiła się i nic nie odrzekła .	0	Finite
+To jest jakaś organizacja .	0	Finite
+- Dziękuję , że pan teraz umożliwił .	6	Finite
+Resa pośpieszyła do Ab-Rama , czekającego niecierpliwie w swoim namiocie .	1	Finite
+Ale babka nie chciała wcale zauważyć tej poufności .	5	Nonfinite
+Chciał by m podzielić się kilkoma przemyśleniami z Mikołajem Szymańskim .	0	Finite
+Kompromitowali nie tylko siebie , ale i Polskę .	0	Finite
+- Są lepsze pomysły ?	1	Finite
+Coś ściska za gardło .	1	Finite
+To nie ma nic do rzeczy .	2	Finite
+Musi odpowiedzieć , zapamiętać .	3	Nonfinite
+Późno już było , kiedy znalazł em się w obejściu u nas .	6	Finite
+Po ukończeniu zakopiańskiej Szkoły Przemysłu Drzewnego i warszawskiej ASP osiadł w Zakopanem .	9	Finite
+Pozostaje niepokojący problem piekła .	0	Finite
+Bardzo proszę .	1	Finite
+- Czy chce otrzymać azyl w Danii ?	3	Nonfinite
+Zastanawiamy się , gdzie mógł rękę stracić .	4	Finite
+- Oczywiście , przecież nie robię filmów dla siebie .	5	Finite
+- Odpocznij trochę , dziecko .	1	Finite
+Jej powrót będzie motywacją i dla ciebie ?	2	Finite
+To bardzo denerwujące , bo nie wiesz , o czym mówisz .	10	Finite
+Siedzieć tu i pisać raporty ?	0	Nonfinite
+Patrzymy ze Starym w noc , rozpoczynającą się od świateł awanportowego mola .	0	Finite
+Na wszelki wypadek władze twardo dzierżą mężczyźni .	5	Finite
+PISZCIE !	0	Finite
+O zdarzeniu powiadomiono też ambasadę USA .	2	Finite
+Tu nie ma żadnego Legolandu .	2	Finite
+Opowiadał niezwykle ciekawie , a tematów mu nie brakło .	8	Finite
+Nietęgie miny mają strzelcy szwedzcy .	2	Finite
+Tak zaczęła się ogromna kariera tej piosenki .	1	Finite
+Obowiązuje dyskrecja . . .	0	Finite
+Rodzice wciąż pracują .	2	Finite
+Pan Bielski pełni teraz publiczne funkcje . . .	2	Finite
+Czy pieniędzy zabraknie dla wszystkich potrzebujących ?	2	Finite
+Trzeba wracać .	1	Nonfinite
+Czy to też jest fakt ?	1	Finite
+Chodź , Hari , podrzucę cię do domu .	0	Finite
+Dzięki temu amatorzy kąpieli słonecznych będą mogli się poopalać .	5	Finite
+Tam stoi !	1	Finite
+Stoi sobie tak na publicznej drodze i straszy .	7	Finite
+Miał mały plecaczek , a przed sobą dźwigał wypchany szary worek .	7	Finite
+Policjanci pojechali do domu ucznia i odkryli , że granat pochodzi z kolekcji tatusia .	1	Finite
+Obecnie mieścić się one będą w Zweibruecken i w Wormacji .	4	Finite
+- Też się bał i też krzyczał .	6	Finite
+Na szczęście nikt na nią nie patrzy .	6	Finite
+Zdał em też inne przedmioty .	0	Finite
+Skończyli śmy na przyjmowaniu gości .	0	Finite
+Można mówić o politycznym fenomenie .	0	Finite
+Takie parlamentarne metody nie odpowiadają mi , rozumiecie ?	7	Finite
+Tak się zaczęło .	2	Finite
+Dzieciak długo spał .	2	Finite
+Huntington nie przyjmuje zatem argumentu o globalnej sekularyzacji .	2	Finite
+- Muszę przynieść więcej gałęzi .	1	Finite
+Podzieli ona Twoje nadzieje i zaproponuje wspólne plany .	5	Finite
+Frau Wuttke straciła swój okazały marmurowy pomnik .	2	Finite
+– żeby zmienić trochę trybiki w tej ma w tej ma machinie .	2	Nonfinite
+- Zobaczymy , czy RS AWS będzie już mógł samodzielnie działać .	8	Finite
+Cieszę się .	0	Finite
+Pan poseł pomagał panu ministrowi , nie mogę za to go skarcić .	11	Nonfinite
+Zapowiedzieli , że lekarzom nie należą się zaległe pieniądze , bo prawo nie działa wstecz .	13	Finite
+Albo nie chce egzekwować tego zarządzenia .	2	Finite
+A górolki to som scyre kobiety .	3	Finite
+Obawiam się , że kiedyś mogą się z tym wszystkim silnie zderzyć .	5	Finite
+Chciał em należeć do harcerstwa , a w mojej szkole drużynę prowadzili akurat ci ludzie .	2	Nonfinite
+Dla mnie kobiety są arcydziełami natury , porównuję je do kwiatów . . .	7	Finite
+„ Sztafeta cztery razy po sto ostro ruszyła z miejsca ” .	7	Finite
+Zakładamy , że pomiędzy archiwizacją pełną będziemy przeprowadzać cztery backupy przyrostowe .	0	Finite
+Nikt mnie raczej nie bierze za jajcarza , z którym można sobie pożartować , prawda ?	12	Nonfinite
+Tu są zasady , których trzeba przestrzegać .	5	Finite
+Nad każdym , nawet najkrótszym tekstem medytuję .	6	Finite
+Uważam , że pomógł .	0	Finite
+Hajdegera się naczytał eś ?	2	Finite
+A za trzecim razem wpadnie .	4	Finite
+Ogromnie dziękuję !	1	Finite
+Do radioodbiornika dostęp ma każdy .	3	Finite
+Poczuj świeżość chwili obecnej , jej piękno i lekkość .	0	Finite
+No , faks zaczyna buczeć , papier powolutku wychodzi .	3	Finite
+Łapcie się za portfele !	0	Finite
+– Policzysz , jak zechcesz .	4	Finite
+tera będziesz pił ?	1	Finite
+Spirytus jest rozlewany do kartoników litrowych , półlitrowych i ćwiartek .	1	Finite
+– Chciał tylko wiedzieć , czy pan tu mieszka .	3	Nonfinite
+W tej pozycji oddychasz spokojnie i równo przez 3 minuty .	3	Finite
+Sądził em , że szarość nie powinna być niema .	0	Finite
+Nie chciał by m się w to wgłębiać .	7	Nonfinite
+Generalnie jestem optymistą .	1	Finite
+To będzie dobry rok dla logopedów i specjalistów od image'u .	1	Finite
+Położona jest u wylotu rzeczki , która wpada do morza .	1	Finite
+Dzisiaj telefon mnie wyprzedził , zaczął terkotać głośno .	5	Finite
+Popatrzyła z niedowierzaniem na mój kciuk .	0	Finite
+- Wam dziękuję .	2	Finite
+Kiedy został em w ciszy , skupił em się raz jeszcze .	1	Finite
+Dino spojrzał na mnie z głęboką wdzięcznością .	1	Finite
+Może wolał przemilczeć tragedię .	2	Nonfinite
+W czasie uroczystego otwarcia szkoły nadano jej imię Aleksandra Labudy , działacza kaszubskiego .	5	Finite
+Zimne piwo , wie pan . . .	3	Finite
+– ja sobie zapiszę dobrze .	3	Finite
+Przekręciła klucz i wyjrzała .	3	Finite
+Także w tym przypadku fototerapia może złagodzić lub znieść całkowicie niekorzystne objawy .	5	Finite
+Czy do wszystkich potraw używa się sztućców ?	4	Finite
+Do mistrzostw świata może jej nie starczyć .	3	Finite
+Od kilku chwil klekotał stamtąd cekaem , który nagle zmienił stanowisko .	3	Finite
+Nagle zaczęła jęczeć i płakać .	1	Finite
+Wydało mi to się szalenie zabawne .	0	Finite
+Nie można mieszkać wszędzie .	1	Finite
+Adam Bylina chciwie popatrzył na plan .	3	Finite
+– Od której ty urzędujesz tam teraz ?	4	Finite
+- Każdy twórca marzy chyba , żeby odnieść wielki sukces .	3	Finite
+Dlaczego jeszcze nie śpisz ?	3	Finite
+Łamią się piersi , trzeszczy kość , próchnieją dłonie , twarze bledną . . .	11	Finite
+Czy mańkut z natury już jest lewicowcem ?	5	Finite
+Nie chciał em , żeby ta scena wypadła jednoznacznie .	2	Finite
+Parlamentarzyści Socjaldemokracji będą zabiegać o pełną swobodę podejmowania pracy przez Polaków we wszystkich krajach unijnych .	3	Nonfinite
+Milczącemu urodziła się córka .	1	Finite
+Nie jest to tylko mój prywatny kłopot .	2	Finite
+Dyrektor zapoznał Grodzickiego z katechetą , potem pożegnał się i wyszedł .	7	Finite
+Chodziło o to , aby wyciągnąć z katastrofy mądre i dobre wnioski .	5	Nonfinite
+Całowała go drobnymi , szybkimi pocałunkami .	0	Finite
+Ręką wskazał mi fotel .	1	Finite
+Tworzymy silny zespół i to jest nasz największy atut .	0	Finite
+Zostało zapakowane w paczkę , wysłane w przeszłość .	0	Finite
+Z pokoju wyszła Paulina .	2	Finite
+- Seneszal Guthlaf wypełni każde twoje odnośne polecenie .	3	Finite

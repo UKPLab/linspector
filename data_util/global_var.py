@@ -17,7 +17,8 @@ SOURCE["sigmorphon16"] = os.path.join(os.path.dirname(__file__), "../unzipped/si
 # Task 1: Inflection (lemma.POS + target tag -> inflected form)
 # Task 2: Paradigm cell filling (lemma.POS + incomplete paradigm -> fill remaining cells)
 # MSD: Unimorph
-SOURCE["sigmorphon17"] = os.path.join(os.path.dirname(__file__), "../unzipped/conll2017-master/all/task1")  # TODO: test - only answers
+SOURCE["sigmorphon17"] = os.path.join(os.path.dirname(__file__),
+                                      "../unzipped/conll2017-master/all/task1")  # TODO: test - only answers
 
 # CoNLL-2018 SIGMORPHON
 # Task 1: Inflection
@@ -30,6 +31,9 @@ SOURCE["sigmorphon18"] = os.path.join(os.path.dirname(__file__), "../unzipped/co
 # Task 2: Morphological analysis and lemmatization in context
 # MSD: Unimorph
 SOURCE["sigmorphon19"] = os.path.join(os.path.dirname(__file__), "../unzipped/sigmorphon19_task1/task1/")
+
+# Task 2
+SOURCE["sigmorphon19-2"] = os.path.join(os.path.dirname(__file__), "../unzipped/sigmorphon19/task2/")
 
 # Unimorph
 # Full paradigms with lemmata and forms
